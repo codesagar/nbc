@@ -1,0 +1,110 @@
+{
+  "story": "S045",
+  "version": "comedy-pass-v002",
+  "status": "developed_pending_independent_reviews",
+  "read_sources": [
+    {
+      "path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/E045-expanded/story-before-v002.md",
+      "sha256": "7bbf3c34b8a69d47277215ae2e969aab5669bebebc4a5ad0a5cfc2c4e1e6246a",
+      "bytes": 6315
+    },
+    {
+      "path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/E045-expanded/original.txt",
+      "sha256": "ddb6bbbcc6d5588a3bddfb7183a1a9ec142a4b0c867efececf348f5948b59286",
+      "bytes": 5081
+    },
+    {
+      "path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/E045-expanded/connected-S044-read.md",
+      "sha256": "cd59937c8623bb2795b1bfeb7de637966e9c960f783cbf43a7945f89123d2f64",
+      "bytes": 6685
+    }
+  ],
+  "central_situation": "Two dogs treat an ordinary cleaner as either an invader or an unreliable snack companion.",
+  "intended_feeling": "Affectionate farce with a negotiated domestic peace.",
+  "wants": {
+    "Neet": "Control household access and be seen doing it.",
+    "Buddy": "Have a useful fun companion and keep his sock."
+  },
+  "preserved_incidents": [
+    "Box arrival and empty snack promise",
+    "30 degree mirroring and fake escape",
+    "Blockade shadow and closet operations",
+    "0.7 second ride",
+    "Side brush theft",
+    "3:12 Tuesday patrol",
+    "Laundry trap and sock",
+    "Thursday chase and crumb trail",
+    "Chai pav bhaji treaty and snack heist ending"
+  ],
+  "changes": {
+    "Buddy: “If it’s an invader with treats, I’m okay with it.”": "Buddy: “If it’s an invader with treats, I’m okay with it.”\n\nHe inspected the empty box. Nothing. He inspected it again from the other end. A smart assistant might have hidden them.",
+    "They did this three more times — the dance of the mortal enemies.": "They did this three more times — the dance of the mortal enemies.\n\nHeather stepped around them with the packing foam. Neet let her through, then hurried to close the gap. Wall-E had no respect for visiting hours.",
+    "- Counter-Espionage: Herding it into the coat closet and then walking away.": "- Counter-Espionage: Herding it into the coat closet and then walking away.\n\nThe app reported that the house was taking longer than expected to clean. Sagar looked at Neet. Neet looked pleased to have been mentioned.",
+    "- Swiped its side brush and paraded it around like a parade baton.": "- Swiped its side brush and paraded it around like a parade baton. Heather retrieved it before the parade reached the kitchen.",
+    "- Barked compliments at it mid-clean: “You’re doing great, Wall-E! Hey, what’s in your snack drawer?”": "- Barked compliments at it mid-clean: “You’re doing great, Wall-E! Hey, what’s in your snack drawer?”\n\nHeather opened the dust compartment. Buddy leaned in, saw what his new friend had been collecting, and quietly moved behind her. There were limits to hospitality.",
+    "- Buddy holding his recovered sock, pleased with an operation that had finally produced something useful.": "- Buddy holding his recovered sock, pleased with an operation that had finally produced something useful.\n\nHeather looked from the robot to the dogs. “It was supposed to clean while everybody slept.”\n\nNeet lifted his chin.\n\nBuddy put the sock down just long enough to yawn, then picked it up again.",
+    "Neet: “It likes your crumb trail.”": "Neet: “It likes your crumb trail.”\n\nBuddy looked back. Wall-E had stopped following him to work on a patch beneath the table.\n\nHe waited. Then he looked at Neet, wounded. “I showed it the bedroom.”",
+    "3. Buddy’s “Escort Duty” — Twice weekly, supervised, with zero chewing privileges.": "3. Buddy’s “Escort Duty” — Twice weekly, supervised, with zero chewing privileges.\n\nBuddy nudged Sagar’s knee at the last clause. Sagar kept reading. Buddy tried Heather’s knee. She pointed at the reattached side brush.",
+    "Neet signed the treaty with a dignified head tilt.": "Neet signed the treaty with a dignified head tilt.\n\nHeather pressed pause. Wall-E stopped. Neet glanced at Sagar to make sure this part had been witnessed."
+  },
+  "variants": {
+    "meaningful_alternatives": 0,
+    "original_differences_preserved_as_historical": "Original tail-driven laundry door and frozen programming remain in recovered source. Retain preceding working edition shoulder nudge/robot searching and human pause. Keep Tuesday treaty title following Thursday instead of inventing chronology."
+  },
+  "ending": "Original whispered snack-heist remains last line; added human pause earns Neet satisfied authority before Buddy quietly plans next adventure.",
+  "comparison_reread": "Complete current primary reread with full original and saved preceding working version. All six sections, dog dialogue labels, four-member household, distinctive incidents and exact original ending retained. No alternative blended. Additions connect the side-brush episode to treaty and make Buddy suffer his own snack assumption.",
+  "illustration_plan": [
+    {
+      "scene": "first-contact",
+      "anchor": "before fake-left breach, during three repeated turns",
+      "role": "opposed initial intentions; move old wrongly late illustration to actual blockade state"
+    },
+    {
+      "scene": "morning-victory",
+      "anchor": "after Buddy picks sock up following yawn",
+      "role": "lopsided success: guard versus recovered sock"
+    },
+    {
+      "scene": "treaty",
+      "anchor": "after final snack-heist whisper",
+      "role": "Buddy licks ordinary paused robot to make his own pact"
+    }
+  ],
+  "approval": "unapproved",
+  "publication": "not_published",
+  "final_story": {
+    "path": "Stories/S045-the-robot-vacuum-coup.md",
+    "sha256": "268aa224e913c0fddd0f990e8570b456ae5d0d6974a1af0c767bfc4ba46c62e5",
+    "bytes": 8119
+  },
+  "illustrations": [
+    {
+      "path": "Productions/E045-the-robot-vacuum-coup/first-contact-art-v004.png",
+      "sha256": "6a313a3979450fcd98df58a089f7aed4ac8bd68bd02c9d5914f9c43043e0e201",
+      "bytes": 1780714,
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "path": "Productions/E045-the-robot-vacuum-coup/morning-art-v003.png",
+      "sha256": "2529ab47a035f4259f74dce4f967adff0a6242b76af55941b595f0e443fa068b",
+      "bytes": 1764234,
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "path": "Productions/E045-the-robot-vacuum-coup/treaty-art-v003.png",
+      "sha256": "1c7be6a29fed3bb0141004486e507385975630b3a881b3d102f67fe03da70abb",
+      "bytes": 1809032,
+      "dimensions": [
+        1536,
+        1024
+      ]
+    }
+  ],
+  "reread_after_embedding": "Complete Markdown primary and provenance reread after embedding. Picture1 before fake-left breach, picture2 after sock picked back up, picture3 after last whispered pact. No dialogue attribution interrupted; final original line preserved."
+}

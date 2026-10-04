@@ -1,0 +1,71 @@
+{
+  "story": "S043",
+  "pass": "comedy-pass-v002",
+  "status": "writer_reread_complete_independent_reading_pending",
+  "sources": [
+    {
+      "path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S043-expanded/original.txt",
+      "sha256": "0cb75c63faaf2a16e87127cf408ebaa2f1756509460d0016861035bc23513c0f"
+    },
+    {
+      "path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S043-expanded/S045-the-robot-vacuum-coup.md",
+      "sha256": "7bbf3c34b8a69d47277215ae2e969aab5669bebebc4a5ad0a5cfc2c4e1e6246a"
+    },
+    {
+      "path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S043-expanded/working-before.md",
+      "sha256": "649d8dc7d3a5ae9a0e39e41e071fc9170ce2d6a7ab9a23adf32971fc4f9af595"
+    },
+    {
+      "path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S043-expanded/S044-the-vacuum-wars.md",
+      "sha256": "e425f89591bdac30a57fa05b6dadcc3125c4b999b42a40b7c1887a00d38846b4"
+    }
+  ],
+  "comic_situation": "Humans attempt to organize warm laundry; dogs organize ownership.",
+  "intended_feeling": "Affectionate household siege with escalating physical comedy and a quiet shared victory.",
+  "wants": {
+    "Neet": "Possess warm piles and command every stage.",
+    "Buddy": "Preserve familiar softness, accepting opportunistic warmth and theft."
+  },
+  "preserved": [
+    "Seven-act progression",
+    "Paired blue sock betrays stealth",
+    "Neet rolling in clean shirts",
+    "Dryer inspector and Buddy spa occupation",
+    "Sagar lifts Neet, Buddy immediately occupies towels",
+    "Pillowcase heist footstool dodge slide and interception",
+    "Buddy doorway roadblock from prior working version",
+    "Tea mugs and mostly complete laundry",
+    "Night guest blanket and chin on Neet back; rescued sock"
+  ],
+  "changes": [
+    "Restored original golden Saturday Austin setting omitted by prior pass",
+    "Buddy blanket resistance reversed by threat of inclusion in wash",
+    "Freeze before sock escape gets specific human identification",
+    "Repeated red shirt becomes stalled inspection gag",
+    "Buddy shifts only eyes in response to six-inch move request",
+    "Succession on towels gets held-Neet reaction and human cooperation",
+    "Buddy makes difficult independent choice to keep existing towel claim",
+    "Getaway driver blocks opposite half of doorway",
+    "Ending keeps quiet contact and guest-blanket displacement joke"
+  ],
+  "alternatives": {
+    "count": 0,
+    "decision": "Single source, no meaningful alternative. Original acquisition invitation for proposed vacuum sequel is wrapper, not narrative."
+  },
+  "ending": "Neet makes room, Buddy chin rests on his back with sock; guest room waits.",
+  "complete_reread_comparison": {
+    "original": "Complete original source read including wrapper. All seven acts, distinct incidents and warm destination retained; direct royal opening stays restrained and source Austin context restored. Prior Buddy roadblock preserved instead of reverting passive barking. No chronology resolution.",
+    "working_before": "Full working text compared. Existing sock, spa, folding replacement, heist and quiet ending survive. New short pauses and physical choices sharpen timing without turning every line into banter.",
+    "connected": "S044 full working story starts next morning with dog hollows and rescued sock: maintained. S045 full working robot chapter continues domestic machinery theme, no borrowed incidents. Exact read versions saved externally.",
+    "illustrated_reading": "Pending fresh reviewer after current art embedded.",
+    "post_embedding": "Complete text reread after image anchors added; seven acts and all source incidents preserved; no alternatives. Native images opened, full rendered reading intentionally pending."
+  },
+  "approval": "unapproved",
+  "publication": "not_published",
+  "final_story_sha256": "464c0a88c0091fb370613de072e8c083ff3783d7934c9dd916bf65113010b02a",
+  "placement_review": [
+    "Sock picture after Buddy freeze, before flight; Neet explicitly rolls onto belly before picture.",
+    "Dryer after inspection and eye-shift joke; Buddy beside appliance.",
+    "Folding after held Neet watches Buddy occupy towels, before next stack moves."
+  ]
+}

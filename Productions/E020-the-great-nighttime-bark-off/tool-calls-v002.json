@@ -1,0 +1,85 @@
+[
+  {
+    "id": "staging",
+    "args": {
+      "prompt": "Use case illustration-story. Draw an actual pencil construction storyboard in TWO horizontally stacked wide panels for a comic dog story in Gujarat at night. References 1-2 Neet original anatomy; 3-4 Buddy anatomy and regional furnished ears/muzzle/paws. No text. Top panel: beneath huge banyan trunk, Neet stands proudly at left, full narrow tan torso fine long legs large triangle ears tiny nub. Buddy at right seated with full torso and connected forelegs, rueful expression wanting quiet. Behind at raised rock is Chirag a medium sandy Indian street dog judge; two distant spectator dogs subordinate. Bottom panel: narrow plaster masonry alley at night, Neet small standing full body left facing into alley after tiny yip, mouth CLOSED satisfied. Buddy foreground right standing full body leaning forward slightly with mouth OPEN enthusiastically calling SIX; anatomically continuous neck elongated full trunk substantial legs visible clearance, four feet grounded. Audience only two small distant separate silhouettes at rear edge. Show support planes, owned limbs, clean silhouettes, no costumes, no speech bubbles. These are staging studies not finished art. No paw counting or fingers.",
+      "referenced_image_paths": [
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-29.jpeg",
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg"
+      ],
+      "transparent_background": false
+    },
+    "output_hint": "Generated images are saved to /Users/sagar/.codex/generated_images/01a105b2-b8df-7963-a7cf-7bfc237f09e1 as /Users/sagar/.codex/generated_images/01a105b2-b8df-7963-a7cf-7bfc237f09e1/exec-629cfd51-5f36-4292-8ab6-d1c734dc6e6d.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+  },
+  {
+    "id": "setup",
+    "args": {
+      "prompt": "Use case illustration-story. Create ONE finished wide storybook illustration based on TOP PANEL of last input storyboard only: quiet wish at banyan nighttime gathering in Gujarat. Neet stands left proud, Buddy seated right ruefully glancing toward judge Chirag standing on low rock behind, two modest background spectator dogs including Chikki near Buddy but clearly separated. Keep foreground dogs anatomically grounded. Reference inputs 1-3 ORIGINAL PHOTOGRAPHS control dog likeness and regional grooming. Input 4 is BODY FINISH ONLY secondary style: smooth simple color planes and washes, not anatomy/characters/scene. Input 5 storyboard composition only, not fur texture. Neet tan full narrow torso fine long legs broad triangular ears near-flush nub; Buddy continuous moderately elongated full charcoal torso, substantial legs real clearance, pale furnished projecting muzzle curved brows pendant ears and light distal legs, modest head. Smooth clean close body coat, absolutely NO etched curls or strokes or shag on either torso. Original Buddy facial/ear/paw regional strands remain. Moonlit blue and warm village light, banyan roots and hanging roots, plain distant masonry, avoid ornate landmark temples. Charming expressive comic stillness, detailed environment, NO text, no frames, no symbols, no costume, no visible humans. Final illustration full scene not storyboard sheet.",
+      "referenced_image_paths": [
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+        "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+        "/Users/sagar/Documents/ChatGPT/NBC/Productions/E020-the-great-nighttime-bark-off/staging-v002.png"
+      ],
+      "transparent_background": false
+    },
+    "output_hint": "Generated images are saved to /Users/sagar/.codex/generated_images/01a105b2-b8df-7963-a7cf-7bfc237f09e1 as /Users/sagar/.codex/generated_images/01a105b2-b8df-7963-a7cf-7bfc237f09e1/exec-ee6cb546-ec95-445f-a52f-6450b8d0f294.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+  },
+  {
+    "id": "setupFix",
+    "args": {
+      "prompt": "Edit first image to polished illustrated color-plane finish, keep ALL geometry scene poses identity proportions background and faces. Remove the individually rendered fur across Neet entire neck body legs and Buddy dark torso/chest/thigh/leg shafts: flat smooth softly shaded contiguous tan or charcoal color shapes with CLEAN contours. No strands, etching, curls, short hatch marks anywhere on those coat regions. Preserve real Buddy furnished ears pale eyebrows moustache and paw tips from original third reference photograph. Make Buddy tail slender smooth tapered with only modest terminal fringe, not bushy plume. Second image BODY FINISH TECHNIQUE ONLY: emulate its smooth graphic dog body color planes, absolutely not anatomy or scene. No new characters or text. This is a precise coat-finish correction, maintain every posture/foot contact and the banyan composition.",
+      "referenced_image_paths": [
+        "/Users/sagar/Documents/ChatGPT/NBC/Productions/E020-the-great-nighttime-bark-off/gathering-art-v001.png",
+        "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg"
+      ],
+      "transparent_background": false
+    },
+    "output_hint": "Generated images are saved to /Users/sagar/.codex/generated_images/01a105b2-b8df-7963-a7cf-7bfc237f09e1 as /Users/sagar/.codex/generated_images/01a105b2-b8df-7963-a7cf-7bfc237f09e1/exec-d43f6dc7-6eb3-40d0-8788-9c840933910c.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+  },
+  {
+    "id": "echo",
+    "args": {
+      "prompt": "Use case illustration-story. ONE wide final illustration from BOTTOM panel staging (input 5): moonlit Gujarat plain plaster masonry alley. Neet small full body at left facing into alley satisfied CLOSED mouth after his yip. Buddy foreground right full body leaning a little forward excited OPEN mouth calling Six, four individually owned grounded feet, no human hands; both anatomically continuous real neck and full trunks, Buddy moderately elongated with real clearance. Two background separate spectator dogs distant, no others. First three inputs original photos Neet / Buddy front / Buddy side are likeness authority. Input4 BODY FINISH ONLY use smooth graphic color planes for dogs, not anatomy or scene; original photos retain Buddy regional pale muzzle/brows, hanging ear furnishings and paw tips. Input5 composition only NOT its fur texture or bushy tail. Buddy tail must be slender tapering low gentle curve, modest fringe only; Neet tiny near-flush nub. Bright readable moonlight warm window accents. Crucial finish: smooth softly shaded solid dog torsos with clean contours, NO strands/etched curls/hatching/raised shag on Neet body neck legs or Buddy dark torso and leg shafts. No captions, symbols, lettering, borders or sound waves. Humour in the quiet companion becoming overexcited, not snarling.",
+      "referenced_image_paths": [
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+        "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+        "/Users/sagar/Documents/ChatGPT/NBC/Productions/E020-the-great-nighttime-bark-off/staging-v002.png"
+      ],
+      "transparent_background": false
+    },
+    "output_hint": "Generated images are saved to /Users/sagar/.codex/generated_images/01a105b2-b8df-7963-a7cf-7bfc237f09e1 as /Users/sagar/.codex/generated_images/01a105b2-b8df-7963-a7cf-7bfc237f09e1/exec-6ca998b3-ecd8-4777-a322-2e957847b41e.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+  },
+  {
+    "id": "echoFix",
+    "args": {
+      "prompt": "Precise finish edit. First image edit target, second BODY FINISH style only, third original Buddy regional grooming authority. Preserve composition, ALL anatomy proportions paws support scene facial expressions and open Buddy mouth, closed Neet mouth. Change only dog body rendering to smooth graphic color planes like second reference: NO visible individual hairs, no hatching or curls, clean painted contours on Neet entire body/neck/legs and Buddy charcoal trunk and upper legs. Retain Buddy real furnished eyebrows, pale projecting moustache and pendant ear fringes, small paw-tip furnishings. Keep slender dark tail modest fringe. Remove small distant temple spire replace with plain flat masonry roof only. No text. Clean elegant drawn storybook finish, not photographic fur.",
+      "referenced_image_paths": [
+        "/Users/sagar/Documents/ChatGPT/NBC/Productions/E020-the-great-nighttime-bark-off/echo-art-v001.png",
+        "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg"
+      ],
+      "transparent_background": false
+    },
+    "output_hint": "Generated images are saved to /Users/sagar/.codex/generated_images/01a105b2-b8df-7963-a7cf-7bfc237f09e1 as /Users/sagar/.codex/generated_images/01a105b2-b8df-7963-a7cf-7bfc237f09e1/exec-73e6e1e2-015a-4957-82e5-7f713bd13c7c.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+  },
+  {
+    "id": "howl",
+    "args": {
+      "prompt": "Precise illustration finish edit of first input. Preserve entire nighttime Gujarat masonry lane, human cropped legs, Neet howling upward, Buddy sidelong looking away, all four dog feet and every silhouette/body proportion. Replace ONLY etched body texture with smooth softly shaded graphic color planes like second input (BODY FINISH ONLY, no anatomy/scene transfer). Neet entire neck body legs smooth short fawn coat no fur strokes or curls. Buddy dark charcoal torso clean smooth close coat, maintain documented pale muzzle beard and eyebrow furnishings and hanging ear fringes from third original photograph. No enlarged shag anywhere, no curls or engraved squiggles. Small regional paw-tip furnishings okay. Preserve moon warm window precise acting and composition. No text.",
+      "referenced_image_paths": [
+        "/Users/sagar/Documents/ChatGPT/NBC/Productions/E020-the-great-nighttime-bark-off/illustration-v003.png",
+        "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg"
+      ],
+      "transparent_background": false
+    },
+    "output_hint": "Generated images are saved to /Users/sagar/.codex/generated_images/01a105b2-b8df-7963-a7cf-7bfc237f09e1 as /Users/sagar/.codex/generated_images/01a105b2-b8df-7963-a7cf-7bfc237f09e1/exec-6d00e55d-c133-4ccc-82d7-15ebc2f9a940.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+  }
+]

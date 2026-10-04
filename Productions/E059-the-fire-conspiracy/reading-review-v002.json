@@ -1,0 +1,101 @@
+{
+  "episode": "E059-the-fire-conspiracy",
+  "story_id": "S059",
+  "review": "fresh_complete_illustrated_reading",
+  "reviewer": "reader059 (fresh; did not write prose or generate artwork)",
+  "reviewed_at": "2026-10-04T15:27:29.318506+00:00",
+  "status": "accepted",
+  "story": {
+    "path": "Stories/S059-the-fire-conspiracy.md",
+    "sha256": "97f57f5e9efd0d2d4500f435a4a5c6a300b9240dba23873ae5fc37321ec34e9d"
+  },
+  "images": [
+    {
+      "path": "Productions/E059-the-fire-conspiracy/p01-purchase-art-v003.png",
+      "sha256": "c3afb775adef938a1ff7749e97a3651ac578d682b3cdb022aad24c5520ba0d73"
+    },
+    {
+      "path": "Productions/E059-the-fire-conspiracy/p02-setup-art-v003.png",
+      "sha256": "474dbc3340c2f71738354ad521a4b8b98f1aef387f45f8b5f17e73720bc28ef2"
+    },
+    {
+      "path": "Productions/E059-the-fire-conspiracy/p03-boundary-art-v004.png",
+      "sha256": "5493c520dfa3642f7b56455bf6d548b92da9d42de7bb671a913cdeb9c996707c"
+    },
+    {
+      "path": "Productions/E059-the-fire-conspiracy/p04-neighbor-art-v003.png",
+      "sha256": "56c89375012268e5fcfc39ca6a50b885de5e8bdbedfab051b11c4047c2d70dbb"
+    },
+    {
+      "path": "Productions/E059-the-fire-conspiracy/p05-extinguishing-art-v003.png",
+      "sha256": "233f6e353f9314293c481f7a69f44c1b9f1bac8a524551c32797d345ad9b5fb0"
+    }
+  ],
+  "scope": {
+    "primary": "Entire eight-section primary, title through final sleepy Approved, provenance and full refinement footer",
+    "meaningful_alternatives": [],
+    "alternative_assessment": "No meaningful alternative in complete current story or comedy-pass-v002 variant assessment."
+  },
+  "rendered_inspection": {
+    "url": "http://127.0.0.1:56824/Stories/S059-the-fire-conspiracy.md",
+    "tool": "native cua browser",
+    "viewport": {
+      "width": 1280,
+      "height": 720
+    },
+    "text_size_px": 20,
+    "image_reading_dimensions": [
+      960,
+      720
+    ],
+    "method": "Opened actual rendered direct markdown reading page; read complete accessibility text and sequential overlapping viewport screenshots from title through footer, inspecting all five current images and adjacent prose. DOM-backed image check confirms all five loaded at 960x720; this is complete reading-size review, independent full-resolution artwork review is visual-review-v002.json.",
+    "completed": true
+  },
+  "findings": {
+    "comedy_and_voices": "Neet treats a household comfort project as an authorization process; Buddy pursues snacks and belonging through empty-bowl inspection, glove adoption and immediate barter, duplicate sit, and sticky complaint. His concern for the glove returns after the spreadsheet exchange. Sagar measures around an existing structure and calls the glove a recovered asset; Heather participates in that joke and negotiates with treats and hospitality. Voices and choices remain distinct. Approved is deliberately recurrent and earns the sleepy last word.",
+    "causality_and_timing": "Purchase leads to pad construction, cold-bowl meeting, ignition, neighbor concern, hospitality and memories, then extinction and sleep. Store image pauses on Empty before the second empty bowl and expensive bowls joke; glove picture precedes the trade; repeated sit visibly follows the explicit stand/sit action. Grubbs softens at the Marie biscuit/Pune association without accepting a smore. No contradictory notice outcome imported.",
+    "quiet_memories_and_payoff": "Heather childhood campfire and Sagar Vadodara power-cut memory have unillustrated breathing room; Buddy stops watching the tray and rests against her ankle. Glove callback follows this quiet rather than replacing it. Final picture precedes warm-TV shutoff joke, allowing the shared quiet, indoor rest, punctuation exchange and sleepy Approved to finish in prose.",
+    "complementary_coverage": "Five images contribute different states and compositions: dog-level empty display bowl, foreground glove/rake construction, seated cold-bowl briefing, twilight food diplomacy, and night dousing. They span progression rather than repeat a portrait or spoil the biscuits recognition.",
+    "readability": "20px serif paragraphs are readable; images widen to 960px and span 720px height. All image edges were inspected via overlapping scrolls. No image splits a dialogue attribution. Section breaks and final narrative cadence remain legible; footer is separate from story."
+  },
+  "image_placement_findings": [
+    {
+      "path": "Productions/E059-the-fire-conspiracy/p01-purchase-art-v003.png",
+      "status": "accepted",
+      "finding": "Rim paw and Buddy peering into cold empty bowl appear directly after that state, before propane-table check."
+    },
+    {
+      "path": "Productions/E059-the-fire-conspiracy/p02-setup-art-v003.png",
+      "status": "accepted",
+      "finding": "Glove remains in mouth above cold rake, pad unfinished, Neet on step; placed before Heather trades the treat."
+    },
+    {
+      "path": "Productions/E059-the-fire-conspiracy/p03-boundary-art-v004.png",
+      "status": "accepted",
+      "finding": "Both dogs seated on grass at meeting close; bowl cold and screened. Current v004 visibly has contiguous solid paving beneath bowl and gravel outside, closing earlier base contradiction."
+    },
+    {
+      "path": "Productions/E059-the-fire-conspiracy/p04-neighbor-art-v003.png",
+      "status": "accepted",
+      "finding": "Heather seated holding offered smore, both dogs seated beside chair, Grubbs still at fence and fire screened; before his Marie recognition and departure."
+    },
+    {
+      "path": "Productions/E059-the-fire-conspiracy/p05-extinguishing-art-v003.png",
+      "status": "accepted",
+      "finding": "Neet has explicitly stepped back beside Buddy; both watch from grass as Sagar douses dark bowl and Heather collects mugs. Removed screen lies aside, compatible with access for dousing. Image precedes steam disappearance/TV-off dialogue."
+    }
+  ],
+  "closed_findings": [
+    {
+      "id": "S059-V002-01",
+      "status": "closed",
+      "verification": "Read prior visual finding and replacement acceptance, verified all five pins against current files, and independently saw solid support pad in rendered p03 v004. This agrees with solid pad in p05 and written completed pad."
+    }
+  ],
+  "material_findings": [],
+  "nonblocking_notes": [
+    "Refinement footer still describes artwork as awaiting independent reviews; this is conservative stage-time wording to reconcile during collection delivery bookkeeping, not a narrative or visual defect."
+  ],
+  "approval": "unapproved",
+  "publication": "not_published"
+}

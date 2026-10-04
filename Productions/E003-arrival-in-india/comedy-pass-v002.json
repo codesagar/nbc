@@ -1,0 +1,81 @@
+{
+  "story_id": "S003",
+  "status": "prose_revised_pending_independent_reading",
+  "author_agent": "story003",
+  "date_local": "2026-10-03",
+  "prior_working_sha256": "b29b06607de737ea8051b761bc1154d6ce249a0809b73b5ccee413f2eb8532b7",
+  "original_sha256": "b6ebac306869881891a519d1f0695396f6dd5059dded016a7105632282bacd86",
+  "revised_sha256": "770aef1340adb76719c828c3f040a9a395c1d81ce0ac67110c528f6a022a03be",
+  "recovery_archive": "/Users/sagar/Documents/ChatGPT/NBC_Archives/NBC-before-expanded-refinement-2026-10-04_035505Z.tar.gz",
+  "complete_sources_read": [
+    "Stories/S003-arrival-in-india.md",
+    "02_Story_Library/Legacy_Chapters/03-arrival-in-india.md",
+    "Stories/S002-the-flight-to-india.md",
+    "Stories/S004-uttarayan-day-one.md"
+  ],
+  "alternatives": {
+    "count": 0,
+    "assessment": "No meaningful alternative in shelf story or its recorded source; no competing incidents blended."
+  },
+  "central_comic_situation": "Neet interprets every arrival as an opportunity to take command; the traffic, neighbors and monkey have their own arrangements.",
+  "intended_feeling": "Overwhelmed delight with affectionate relief at home.",
+  "wants": {
+    "Neet": "Claim and investigate every exciting sight.",
+    "Buddy": "Find manageable routes and a quiet place; he tries a friendly greeting and actively secures their exit."
+  },
+  "preserved": [
+    "Yellow taxi, tuk-tuks, bikes and cows",
+    "Street dogs friendly greeting and Heather lifting Neet",
+    "Rickshaw, missing doors and unsolicited directions",
+    "Spices, hanging fabrics, mango cart",
+    "Overgrown squirrel, thrown mango, dodge, second threatened throw",
+    "International incident and return to blanket/window",
+    "Historical Heather-centered household; source breed/weight wording retained as draft voice, not anatomy authority"
+  ],
+  "creative_changes": [
+    "Horn swallows Neet\u2019s grand speech; Buddy\u2019s sincere What punctures it without a lecture.",
+    "Street dogs sit to watch the territorial warning; Buddy successfully says hello through canine gesture.",
+    "Rickshaw turns contrary to Neet\u2019s instructions; his corrected Right is an after-the-fact claim to command.",
+    "Buddy briefly overreacts to harmless fabric; fruit reply lets him be ridiculous and observant.",
+    "Cart full of ammunition creates silent reversal after Is that all you have.",
+    "Buddy plants paws and turns Heather toward exit; withdrawal becomes his success.",
+    "Ending lets Buddy actively claim the quiet he wanted while Heather softens Neet without cancelling his delight."
+  ],
+  "complete_reread_comparison": {
+    "completed": true,
+    "findings": [
+      "Read full revised prose after edits against previous working and original. Every distinctive incident remains in original order.",
+      "Expansion serves six connected jokes and Buddy agency; no new excursion or geography/chronology claims.",
+      "No imported Sagar appearance, invented dates, or canonical breed/rank decision.",
+      "Original generic promised-future close remains replaced by specific curtain/blanket action; new quiet payoff develops that existing working ending.",
+      "Retained monkey image stays immediately after throw and challenge, before retreat; adjacent ammunition glance does not move the physical state."
+    ]
+  },
+  "illustration_plan": [
+    {
+      "id": "courtyard",
+      "new": true,
+      "placement_after": "\"I hadn\u2019t finished the warning.\"",
+      "purpose": "Setup: upright outraged Neet faces comfortably seated welcome committee, Buddy makes first friendly overture.",
+      "variant": "primary",
+      "path": "Productions/E003-arrival-in-india/courtyard-art-v001.png"
+    },
+    {
+      "id": "monkey",
+      "new": false,
+      "path": "Productions/E003-arrival-in-india/illustration-v002.png",
+      "purpose": "Retain active mango dodge as escalating midpoint.",
+      "variant": "primary"
+    },
+    {
+      "id": "window",
+      "new": true,
+      "placement_after": "Heather drew the curtain partway across the window. Neet moved his nose into the remaining gap. Buddy put his head beneath the blanket.",
+      "purpose": "Quiet opposite intentions: Neet still watching, Buddy consciously shuts out stimulation; leave spoken and emotional payoff after image.",
+      "variant": "primary",
+      "path": "Productions/E003-arrival-in-india/window-art-v002.png"
+    }
+  ],
+  "approval": "unapproved",
+  "publication": "not_published"
+}

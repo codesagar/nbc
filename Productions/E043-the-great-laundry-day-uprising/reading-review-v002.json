@@ -1,0 +1,111 @@
+{
+  "story": {
+    "path": "Stories/S043-the-great-laundry-day-uprising.md",
+    "sha256": "464c0a88c0091fb370613de072e8c083ff3783d7934c9dd916bf65113010b02a"
+  },
+  "story_id": "S043",
+  "date": "2026-10-04",
+  "reviewer": "Fresh S043 complete-reading reviewer",
+  "independence": "Did not author or revise the story, generate its illustrations, or author independent visual acceptance. Owns only this reading review.",
+  "status": "accepted",
+  "images": [
+    {
+      "path": "Productions/E043-the-great-laundry-day-uprising/sock-art-v004.png",
+      "sha256": "69bc6aa71f0a34ffb8694309ffc41fa62fa3ee6b9bdb3e22cad77a7c877a31f1"
+    },
+    {
+      "path": "Productions/E043-the-great-laundry-day-uprising/dryer-art-v002.png",
+      "sha256": "c8cb31fa2bc9af8cb56ce348f9b0c0fe7eccfbc5b53960b39262db8103b4a2d6"
+    },
+    {
+      "path": "Productions/E043-the-great-laundry-day-uprising/folding-art-v002.png",
+      "sha256": "c11cf9716b4f969c0a81d4065563d3e5b01d711a28e66e7261346f37e4f93e39"
+    }
+  ],
+  "rendered_inspection": {
+    "url": "http://127.0.0.1:56824/Stories/S043-the-great-laundry-day-uprising.md",
+    "method": "Actual Codex in-app browser sequential overlapping scroll and screenshot inspection, plus accessibility reading and read-only DOM image-load verification. Read the complete primary from title through all seven acts, final line, provenance and refinement footer.",
+    "viewport": {
+      "width": 1280,
+      "height": 720
+    },
+    "image_display": {
+      "width": 960,
+      "height": 640
+    },
+    "image_native": {
+      "width": 1536,
+      "height": 1024
+    },
+    "all_three_images_loaded": true,
+    "coverage": [
+      "Title and Act I proclamation, blanket defense and sorting reversal",
+      "Act II laundry roll, belly-down transition, sock theft and freeze, entire sock-art-v004, then accusation and bolt",
+      "Act III red-shirt repetition and six-inch request, eye-shift, entire dryer-art-v002",
+      "Act IV lifting Neet, Buddy taking towels, entire folding-art-v002, then basket transfer and Buddy staying",
+      "Act V pillowcase theft, doorway obstruction and interception",
+      "Act VI mostly-completed laundry, sock trophy and mugs",
+      "Act VII guest blanket, blue sock callback, Neet making room and last line",
+      "Complete provenance and refinement record; no alternative follows"
+    ]
+  },
+  "meaningful_alternatives": {
+    "present": false,
+    "assessment": "Complete source and rendered story contain one primary only; no meaningful alternative requires separate inspection."
+  },
+  "observations": [
+    {
+      "area": "Humor and timing",
+      "finding": "Blanket-load reversal gives Buddy an early failed tactic. The isolated Perhaps she meant another Buddy line holds his sock freeze; the picture prolongs that caught-in-the-act pause before Blue sock. Mouth. You. The eye-shift in response to six inches is a clean short payoff without explanatory padding."
+    },
+    {
+      "area": "Distinct voices and agency",
+      "finding": "Neet treats laundry as a territory and inspection problem, including a sincerely puzzled red-shirt complaint. Buddy independently protects comfort, steals socks, replaces Neet on towels, chooses to retain that stack and obstructs the chase. Heather gives concrete dry commands and adapts by moving laundry directly into the basket; Sagar provides amused restraint and physical interception."
+    },
+    {
+      "area": "Cause, pacing and payoff",
+      "finding": "The day advances clearly from collection to clean load, dryer, folding, final pillowcase delivery, evening and night. Buddy taking the position vacated when Sagar lifts Neet makes the folding reversal causal. The final blue sock and guest blanket reunite both wants; Neet making room supplies affection before the guest-room last-line joke. Unillustrated chase and ending read continuously and are not crowded by another image."
+    },
+    {
+      "area": "Sock image state",
+      "finding": "Buddy is paused with the connected blue socks and Heather points, while Neet is belly-down on couch laundry. The source explicitly rolls Neet back onto his belly before this. Placement is after Buddy froze and before the bolt, with no premature running or relinquished object."
+    },
+    {
+      "area": "Dryer image state",
+      "finding": "Neet sits at closed glass containing red fabric; Buddy lies settled on tile beside him. This matches the continued inspection and refusal to move after Heather steps over him. The image does not pretend Heather is opening the spinning appliance."
+    },
+    {
+      "area": "Folding image state",
+      "finding": "Sagar holds Neet with visible support while Buddy sits on the white towels; Heather is at left holding another stack. Placement precedes her transfer into the basket, preserving that stack state. Buddy occupation and Neet glancing toward it make the succession joke clear at reading size."
+    },
+    {
+      "area": "Complementary illustration value",
+      "finding": "Sock art supplies the public exposure of a failed stealth operation, dryer art a quieter dog-level contrast of vigilant work and comfort, and folding art the humans caught between two opportunists. Changing location, height, posture and scale prevents repeated reaction portraits."
+    },
+    {
+      "area": "Layout and provenance",
+      "finding": "All prose, headings and pictures render legibly with no missing image, overlap or clipped text. The narrative ends before provenance. The footer retains its pre-review statement that pictures await reviews; this is a stage-history/integration wording issue, not a story or illustration defect."
+    }
+  ],
+  "closed_findings_verification": {
+    "visual_review": {
+      "path": "Productions/E043-the-great-laundry-day-uprising/visual-review-v002.json",
+      "sha256": "39e38b5a13514a81c63d0f491f1e4cb94483b77f492ea277ea9b27cba7ad1cb6"
+    },
+    "status": "accepted",
+    "matching_story_and_image_hashes": true,
+    "material_findings_in_current_visual_review": [],
+    "open_findings_in_current_visual_review": [],
+    "actual_rendered_check": "All three current accepted image versions were inspected in context. Smooth body treatment, connected visible poses and depicted object states remain readable at intended size; no material discrepancy between the independently accepted images and the rendered reading was found."
+  },
+  "material_findings": [],
+  "open_findings": [],
+  "unresolved_findings": [],
+  "limitations": [
+    "This complete rendered reading complements the separate native-resolution photo-grounded visual review; it does not create owner approval or establish human likeness.",
+    "Human appearance, style, chronology and other documented source choices remain provisional or unresolved as documented."
+  ],
+  "approval": "unapproved",
+  "publication": "not_published",
+  "next_action": "Parent may integrate accepted complete-reading stage; preserve owner approval and publication states."
+}

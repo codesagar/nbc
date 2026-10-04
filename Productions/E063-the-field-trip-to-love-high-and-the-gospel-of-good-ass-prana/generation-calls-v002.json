@@ -1,0 +1,104 @@
+{
+  "rough": {
+    "arguments": {
+      "prompt": "Use case: illustration-story. Draw a pencil construction storyboard with TWO horizontal panels stacked vertically, no lettering. Image1 Neet original anatomy; image2 Buddy side original; image3 Buddy front original. PANEL TOP: apartment morning, Buddy stands sideways blocking a canvas travel bag beside hallway wall, Heather cropped lower legs and reaching hand wanting to zip bag; Neet stands a little behind looking alert toward bag, all four feet clear. Bag upright closed almost fully, no dog inside. PANEL BOTTOM: evening apartment, Heather seated cropped at shoulder, plate with two tiny spoons of golden sheera held above knees, Buddy just sat attentively below plate, Neet stands beside Buddy bowing head slightly, four leg ownership anatomically clear. Balcony glass and dusk beyond background. Both dogs continuous ribcage-spine-pelvis and visible neck, weight supported on floor. Neet fine long legs narrow full fawn body broad triangular ears tiny nub; Buddy moderately long full body substantial legs and real clearance, pale muzzle/brows and floppy ears. No furry body silhouette. No text. No anatomy inferred from uncalibrated photos. N35 excluded; B08 styling only unused; B25 unavailable; B30 unused; one exposure counts once. Human appearance provisional.",
+      "referenced_image_paths": [
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg"
+      ],
+      "transparent_background": false
+    },
+    "output_hint": "Generated images are saved to /Users/sagar/.codex/generated_images/01a1079d-1729-7b43-9f17-cb317c6465c3 as /Users/sagar/.codex/generated_images/01a1079d-1729-7b43-9f17-cb317c6465c3/exec-7182c70b-b4dc-430e-8a69-a7bcadd21272.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+  },
+  "morning": {
+    "arguments": {
+      "prompt": "Use case: sketch-to-render. Render ONLY TOP PANEL of image1 as one complete landscape watercolor story illustration, full frame no border no lettering. Preserve two dogs ground supports, bag, reaching hand and hallway geometry. Exact narrative moment: Buddy has grudgingly moved six inches so Heather can zip travel bag. Heather cropped human figure provisional. Neet attentive behind him. Original images2-4 anatomy authority, image1 staging only. CRITICAL make BOTH DOGS entire body coats absolutely SMOOTH flat soft washes with subtle non-directional paper grain, ZERO hair lines, ZERO engraved/curly/crosshatched marks on torso, nape, throat, legs, tails. Buddy facial beard, brows and regional ears alone have furnished strands. Smooth continuous nape/throat/shoulder contour, short dark neck. Neet full narrow trunk long fine legs broad triangular ears tiny nub smooth fawn and cream. Buddy moderately long connected torso substantial legs real clearance dark throat tan chest pale distal feet. Clean close silhouettes. Warm morning apartment. One exposure once, N35 excluded anatomy, B08 styling-only unused B25 absent B30 unused. No invented measurements.",
+      "referenced_image_paths": [
+        "/Users/sagar/Documents/ChatGPT/NBC/Productions/E063-the-field-trip-to-love-high-and-the-gospel-of-good-ass-prana/staging-v002.png",
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg"
+      ],
+      "transparent_background": false
+    },
+    "output_hint": "Generated images are saved to /Users/sagar/.codex/generated_images/01a1079d-1729-7b43-9f17-cb317c6465c3 as /Users/sagar/.codex/generated_images/01a1079d-1729-7b43-9f17-cb317c6465c3/exec-07ac6d9a-41a3-4656-8895-2a39a96cdd0b.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+  },
+  "morningfix": {
+    "arguments": {
+      "prompt": "Edit image1. Make dog body rendering simplified SMOOTH GOUACHE color shapes, keep all precise anatomy pose proportions and scene. Buddy currently has shaggy spiky nape throat underside and pale leg contours: REMOVE EVERY such spike, hairline, fringe and tufty edge. Smooth close-cropped contour from ear base down dark neck throat shoulders belly and all four legs. Neet likewise remove directional coat brush hairs across body legs and throat. Fill both body coats with nearly flat broad matte soft shading, zero fine coat detail except facial moustache/brows/ears. Do not make dogs bald skin: same coat color markings but no individually drawn body hairs. All geometry props bag human ground unchanged. Regional ear beard face furnishings preserved.",
+      "referenced_image_paths": [
+        "/Users/sagar/Documents/ChatGPT/NBC/Productions/E063-the-field-trip-to-love-high-and-the-gospel-of-good-ass-prana/morning-art-v002.png"
+      ],
+      "transparent_background": false
+    },
+    "output_hint": "Generated images are saved to /Users/sagar/.codex/generated_images/01a1079d-1729-7b43-9f17-cb317c6465c3 as /Users/sagar/.codex/generated_images/01a1079d-1729-7b43-9f17-cb317c6465c3/exec-720f3c4a-1885-4033-8634-c94206f281d6.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+  },
+  "morningfinal": {
+    "arguments": {
+      "prompt": "Flatten the entire coat fill of both dogs in image1 into broad simple matte gouache shapes with ONLY large smooth gradients. Current dark Buddy torso is full of etched squiggly curls: REMOVE these entirely, as if repainting dogs with three broad color washes. Neet fawn torso likewise. No high-frequency body detail. Keep fine regional hair detail on Buddy eyebrows muzzle beard and floppy ears ONLY. Absolutely preserve all scene composition, dog body proportions and pose/limbs, travel bag and human hand, all background. This is simplified short smooth fur finish, not anatomical alteration. Smooth neck throat shoulder contours; no fringe.",
+      "referenced_image_paths": [
+        "/Users/sagar/Documents/ChatGPT/NBC/Productions/E063-the-field-trip-to-love-high-and-the-gospel-of-good-ass-prana/morning-art-v003.png"
+      ],
+      "transparent_background": false
+    },
+    "output_hint": "Generated images are saved to /Users/sagar/.codex/generated_images/01a1079d-1729-7b43-9f17-cb317c6465c3 as /Users/sagar/.codex/generated_images/01a1079d-1729-7b43-9f17-cb317c6465c3/exec-4b18a48a-dde9-44d8-837a-d5a45ab8adfa.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+  },
+  "sheera": {
+    "arguments": {
+      "prompt": "Use case: sketch-to-render. Render ONLY BOTTOM PANEL image1 as one landscape watercolor illustration. Same staging floor support and distinct four limbs, Buddy seated front looking up at Heather's plate, Neet stands to right with modest head lowered. Human cropped above shoulders provisional seated on sofa holding small plate of sheera, dusk balcony beyond. Image1 staging only; originals2-5 anatomy within visible restrictions. CRITICAL dog BODY coats absolutely smooth flat restrained washes, no hatching/engraved curls/long fur strokes on nape throat shoulders torso legs or tail. Buddy continuous smooth dark nape and throat, moderately long full body substantial legs light feet, head modest, face beard brow and ear furnishings retained regionally. Neet full narrow torso long fine legs broad triangular ears cream bib tiny nub. Smooth silhouettes. Warm intimate comedy in Buddy's eager stillness, no text. No raisins visible. N35 anatomy excluded B08 styling only unused B25 absent B30 unused, one exposure once, no measurements.",
+      "referenced_image_paths": [
+        "/Users/sagar/Documents/ChatGPT/NBC/Productions/E063-the-field-trip-to-love-high-and-the-gospel-of-good-ass-prana/staging-v002.png",
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-15.jpg"
+      ],
+      "transparent_background": false
+    },
+    "output_hint": "Generated images are saved to /Users/sagar/.codex/generated_images/01a1079d-1729-7b43-9f17-cb317c6465c3 as /Users/sagar/.codex/generated_images/01a1079d-1729-7b43-9f17-cb317c6465c3/exec-7f19cbba-8be0-48b4-88a5-ad25a98c1f4b.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+  },
+  "sheerafix": {
+    "arguments": {
+      "prompt": "Edit image1. Make dog body rendering simplified SMOOTH GOUACHE color shapes, keep all precise anatomy pose proportions and scene. Buddy currently has shaggy spiky nape throat underside and pale leg contours: REMOVE EVERY such spike, hairline, fringe and tufty edge. Smooth close-cropped contour from ear base down dark neck throat shoulders belly and all four legs. Neet likewise remove directional coat brush hairs across body legs and throat. Fill both body coats with nearly flat broad matte soft shading, zero fine coat detail except facial moustache/brows/ears. Do not make dogs bald skin: same coat color markings but no individually drawn body hairs. All geometry props plate sofa human ground unchanged. Regional ear beard face furnishings preserved.",
+      "referenced_image_paths": [
+        "/Users/sagar/Documents/ChatGPT/NBC/Productions/E063-the-field-trip-to-love-high-and-the-gospel-of-good-ass-prana/sheera-art-v002.png"
+      ],
+      "transparent_background": false
+    },
+    "output_hint": "Generated images are saved to /Users/sagar/.codex/generated_images/01a1079d-1729-7b43-9f17-cb317c6465c3 as /Users/sagar/.codex/generated_images/01a1079d-1729-7b43-9f17-cb317c6465c3/exec-548dc8cb-9abe-404e-95bb-331a31d6a267.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+  },
+  "sheerafinal": {
+    "arguments": {
+      "prompt": "Flatten the entire coat fill of both dogs in image1 into broad simple matte gouache shapes with ONLY large smooth gradients. Current dark Buddy torso is full of etched squiggly curls: REMOVE these entirely, as if repainting dogs with three broad color washes. Neet fawn torso likewise. No high-frequency body detail. Keep fine regional hair detail on Buddy eyebrows muzzle beard and floppy ears ONLY. Absolutely preserve all scene composition, dog body proportions and pose/limbs, sheera plate sofa and human hand, all background. This is simplified short smooth fur finish, not anatomical alteration. Smooth neck throat shoulder contours; no fringe.",
+      "referenced_image_paths": [
+        "/Users/sagar/Documents/ChatGPT/NBC/Productions/E063-the-field-trip-to-love-high-and-the-gospel-of-good-ass-prana/sheera-art-v003.png"
+      ],
+      "transparent_background": false
+    },
+    "output_hint": "Generated output /Users/sagar/.codex/generated_images/01a1079d-1729-7b43-9f17-cb317c6465c3/exec-c0313cd8-6363-4116-9f20-a36a9d83ce96.png"
+  },
+  "fetch": {
+    "arguments": {
+      "prompt": "Use case: precise-object-edit. Coat finish correction ONLY on image1, preserve exact composition, four owned legs and ball contact, modest heads, field school trees and cropped hand/leg. Both dogs' body coat surfaces must become SIMPLE SMOOTH WATERCOLOR WASHES, with subtle non-directional paper grain ONLY. Erase all curly engraved squiggles and long hatch strokes on Neet and Buddy nape throat chest torso limbs tail. Buddy neck dark smooth with clean contour absolutely no nape tufts or throat sawtooth fringe. Neet cream bib smooth. Buddy pale beard/brows/ears remain furnished. Do not change geometry or props. Image2-4 originals visible anatomy authority, no ratios or timing inferred. N35 no anatomy; B08 styling only unused; B25 absent; B30 unused. One exposure once. Human appearance provisional. No text.",
+      "referenced_image_paths": [
+        "/Users/sagar/Documents/ChatGPT/NBC/Productions/E063-the-field-trip-to-love-high-and-the-gospel-of-good-ass-prana/illustration-v002.png",
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg"
+      ],
+      "transparent_background": false
+    },
+    "output_hint": "Generated images are saved to /Users/sagar/.codex/generated_images/01a1079d-1729-7b43-9f17-cb317c6465c3 as /Users/sagar/.codex/generated_images/01a1079d-1729-7b43-9f17-cb317c6465c3/exec-6009bf33-b66c-4ca3-9129-3854b416060b.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+  },
+  "fetchfix": {
+    "arguments": {
+      "prompt": "Flatten the entire coat fill of both dogs in image1 into broad simple matte gouache shapes with ONLY large smooth gradients. Current dark Buddy torso is full of etched squiggly curls: REMOVE these entirely, as if repainting dogs with three broad color washes. Neet fawn torso likewise. No high-frequency body detail. Keep fine regional hair detail on Buddy eyebrows muzzle beard and floppy ears ONLY. Absolutely preserve all scene composition, dog body proportions and pose/limbs, ball/mouth contact and human hand, all background. This is simplified short smooth fur finish, not anatomical alteration. Smooth neck throat shoulder contours; no fringe.",
+      "referenced_image_paths": [
+        "/Users/sagar/Documents/ChatGPT/NBC/Productions/E063-the-field-trip-to-love-high-and-the-gospel-of-good-ass-prana/fetch-art-v003.png"
+      ],
+      "transparent_background": false
+    },
+    "output_hint": "Generated images are saved to /Users/sagar/.codex/generated_images/01a1079d-1729-7b43-9f17-cb317c6465c3 as /Users/sagar/.codex/generated_images/01a1079d-1729-7b43-9f17-cb317c6465c3/exec-9759a3a8-cf81-4a7a-9629-c80209eba8c3.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+  }
+}

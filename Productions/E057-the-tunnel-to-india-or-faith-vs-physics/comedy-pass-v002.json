@@ -1,0 +1,98 @@
+{
+  "story": "S057",
+  "version": "v002",
+  "status": "writer_complete_pending_independent_reviews",
+  "source_reads": [
+    {
+      "path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/expanded-S057/S057-the-tunnel-to-india-or-faith-vs-physics.md",
+      "sha256": "af6775298a38329ccc52fe44468591b87db80a8abe6818577b132e18b86e47fb",
+      "role": "complete previous working edition"
+    },
+    {
+      "path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S057-original-expanded.txt",
+      "sha256": "fd83d3b99e526dcc8a5996eeaee050738846753109d785e4bd9387ef669ce985",
+      "role": "complete original recovered and verified by library recovery"
+    },
+    {
+      "path": "Stories/S068-the-piedmont-park-wedding.md",
+      "sha256": "9ae12df175742b78c7e2b61f30d4912c82d4d11a36d317f842489e2822c21b22",
+      "role": "complete connected but incompatible wedding source"
+    }
+  ],
+  "recovery_snapshot": "/Users/sagar/Documents/ChatGPT/NBC_Archives/NBC-before-expanded-refinement-2026-10-04_035505Z.tar.gz",
+  "central_situation": "Neet tries to tunnel backwards in time to attend an India wedding already completed; practical obstacles expose his wish to belong.",
+  "intended_feeling": "Affectionate ridiculous determination becomes a genuine family ceremony.",
+  "wants": {
+    "Neet": "Attend as Best Man and have his speech heard.",
+    "Buddy": "Keep his tennis balls and get breakfast without digging through the earth. His attempts to protect both balls create his own ridiculous logistics."
+  },
+  "preserved": [
+    "Time travel with spoon",
+    "Ganesha air-conditioning / five logic exhibits",
+    "Subhash Chandra Wriggle",
+    "PVC tusk reversal and reroute",
+    "Bark Sisters",
+    "Full reconstructed speech and emotional admission",
+    "Curry leaf and marigold planting / calls / meal / faith and practicality closing"
+  ],
+  "changes": [
+    {
+      "before": "Around his neck: a coil of orange extension cord (“industrial lifeline”).",
+      "after": "Beside him: a coil of orange extension cord (“industrial lifeline”)."
+    },
+    {
+      "before": "They dug.",
+      "after": "They dug.\n\nNeet’s first scoop stayed inside the glove. He shook it. The dirt landed in his other glove.\n\nBuddy waited.\n\n“Topsoil transfer,” Neet said. “Successful.”"
+    },
+    {
+      "before": "Buddy sighed. “Fine. But I reserve the right to say ‘told you so’ when the lawn bites back.”",
+      "after": "Buddy looked at the two tennis balls. He had brought one outside yesterday. Apparently it was geology now.\n\n“Fine. But I reserve the right to say ‘told you so’ when the lawn bites back.” He nudged both samples behind his feet. Whatever happened to India, they were coming home."
+    },
+    {
+      "before": "“At ease, Consultant Wriggle,” Neet said, relocating the worm with military courtesy.",
+      "after": "“At ease, Consultant Wriggle,” Neet said, relocating the worm with military courtesy.\n\nBuddy watched the worm disappear under a leaf. “First member of the expedition to arrive somewhere.”"
+    },
+    {
+      "before": "They did not.",
+      "after": "They did not.\n\nNeet waited for a gap in the barking, opened his mouth, and lost the gap. Buddy quietly moved the tennis balls another foot from the excavation."
+    },
+    {
+      "before": "Heather followed with her “I will listen first and laugh second” smile. She surveyed the scene: colander helmet, dirt baby pool, worm witness, and a dog vibrating with divine purpose.",
+      "after": "Heather followed with her “I will listen first and laugh second” smile. She surveyed the scene: colander helmet, dirt baby pool, worm witness, and a dog vibrating with divine purpose.\n\n“Found the colander,” she said.\n\nSagar looked into the hole. “And the spoon.”\n\nNeither sounded as relieved as Neet felt they should."
+    },
+    {
+      "before": "In five minutes, the backyard transformed:",
+      "after": "Buddy fetched the blanket, walking backward so he could keep an eye on the balls. He backed gently into the planter box.\n\nNeet steadied it with a gloved paw.\n\n“Venue inspection,” Buddy said.\n\n“Successful,” said Neet.\n\nIn five minutes, the backyard transformed:"
+    },
+    {
+      "before": "Buddy kept both tennis-ball core samples out of the fill.",
+      "after": "Buddy kept both tennis-ball core samples out of the fill. Each time a shovel approached, he picked one up, remembered the other, and put the first down to check it. Heather finally placed them together on the deck.\n\n“Your delegation is safe,” she told him.\n\nHe counted them anyway."
+    }
+  ],
+  "ending": "Unchanged quiet faith/practicality approval exchange; new ball-delegation payoff occurs before meal so does not crowd the ending.",
+  "alternatives": {
+    "count": 0,
+    "decision": "No in-file variant. S068 remains separate; no imported wedding participants, clothing, venue or chronology."
+  },
+  "complete_reread_comparison": {
+    "status": "complete_writer_reread",
+    "source_meaning": "Historical Austin household and India wedding retained. Cord moved to ground explicitly to reconcile working prose with established artwork; exact original preserved externally. Physical glove gag develops existing props; protected ball thread gives Buddy choice, effort and comic consequence.",
+    "observations": [
+      "Read revised primary in full after additions; original full text previously recovered/read and previous working edition compared. No alternatives exist.",
+      "All five logic exhibits, worm, Bark Sisters, PVC stop/reroute, speech, plant/calls, food and final exchange retained. Comedy additions grow from original gloves/tennis balls and blanket fetch; two comic callbacks give Buddy a chosen role.",
+      "Sequencing repaired so stone ring and sapling are in place before Heather puts balls on deck and Buddy counts them. New planted image will not anticipate planting.",
+      "Speech image after Buddy hungry confirmation keeps completed dialogue attribution and illustrates the existing pause, before Neet resumes. Retained image remains immediately at seated PVC pause.",
+      "Final ending unchanged; no blend with S068 wedding. Expanded length remains close to prior with short physical incidents rather than replacement monologues."
+    ]
+  },
+  "approval": "unapproved",
+  "publication": "not_published",
+  "snapshot_story_verified": {
+    "member": "NBC/Stories/S057-the-tunnel-to-india-or-faith-vs-physics.md",
+    "sha256": "af6775298a38329ccc52fe44468591b87db80a8abe6818577b132e18b86e47fb",
+    "matches_previous_working": true
+  },
+  "story_sha256": "c2056b688f4b53c76ef590a15eee482bc2ea10cf0dce038e433d1b75e3d7969b",
+  "placement_seam_revision": "Moved final ball placement/count after sapling planting; preserved frantic earlier protection while filling.",
+  "artwork_correction": "Excavation embedded image updated v002 to v004 at same seated PVC anchor; prose unchanged."
+}

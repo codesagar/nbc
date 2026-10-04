@@ -1,0 +1,99 @@
+{
+  "rough": {
+    "prompt": "Use case: illustration-story. Draw a two-panel pencil CONSTRUCTION storyboard, landscape panels stacked vertically, no lettering. Photos 1-4 control dog identity; image 5 shrine/room props only. Panel A night: Buddy charcoal moderately elongated dog on all four substantial legs, leans nose toward plate of modaks on low shrine, does not touch. Neet tan fine-legged smooth dog upright seated beside him gives dry sideways look. Ganesha red-gold murti and marigolds, diya higher and away. Buddy muzzle projecting irregular pale moustache and modest beard, brows and hanging ears; torso short smooth coat. Panel B next afternoon: Neet stands at front looking toward closed closet on left; Buddy stands behind him using his companion as cover but bodies separate and clearly traceable. Warm sunbeam, shrine in far background, no humans visible. Draw continuous spine ribcage pelvis and rooted limbs, grounded paws/occluded limbs clear. No anthropomorphic gestures. Neet large broad triangular ears tiny nub; Buddy slender tapered tail modest fringe. Keep these gentle affectionate comic situations; realistic dog proportions.",
+    "referenced_image_paths": [
+      "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+      "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-24.jpeg",
+      "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+      "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-19.jpg",
+      "/Users/sagar/Documents/ChatGPT/NBC/Productions/E053-the-midnight-counsel-of-ganesha/illustration-v002.png"
+    ],
+    "transparent_background": false
+  },
+  "counsel": {
+    "prompt": "Use case: identity-preserve. Edit image 1 minimally, preserving the entire shrine night scene, composition, dog poses, paws, faces, gaze, props and lighting. Remove the dense curly/engraved fur texture ONLY from Neet neck chest torso haunch and Buddy neck torso chest haunch; use smooth broad painted color planes like image 2 BODY FINISH ONLY. Preserve Buddy projecting irregular pale moustache, modest beard, light eyebrows and hanging ear and paw furnishings; do not turn muzzle into smooth rounded white patch. Preserve continuous anatomy, substantial paws, slim tapered dark tail and Neet fine legs and tiny nub. Other photos control visible identity. No new objects, no text. Both bodies have very short smooth coats, no curl strokes or etched hatch. Face and regional strands remain.",
+    "referenced_image_paths": [
+      "/Users/sagar/Documents/ChatGPT/NBC/Productions/E053-the-midnight-counsel-of-ganesha/illustration-v002.png",
+      "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+      "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+      "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-19.jpg"
+    ],
+    "transparent_background": false
+  },
+  "counsel4": {
+    "prompt": "Use case: identity-preserve. First image is edit target. Material correction: remove EVERY curly wormlike engraved line on BOTH DOGS necks and bodies. Completely repaint those surfaces with flat cel-painted color shapes and soft broad shading like second image, no tiny strokes, no paper grain on dogs. Keep exact geometry of existing image 1 including seated Neet and prone Buddy, same feet and bodies. Keep Buddy's face irregular projecting moustache beard brows and hanging ear strands unchanged. No smoothing Buddy muzzle into plain patch. Simplify only bodies, retain shrine detailed setting. Neet also no hair lines on neck chest legs flanks. Image 2 is BODY FINISH only; do not import dogs or scene. No other change.",
+    "referenced_image_paths": [
+      "/Users/sagar/Documents/ChatGPT/NBC/Productions/E053-the-midnight-counsel-of-ganesha/counsel-art-v003.png",
+      "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png"
+    ],
+    "transparent_background": false
+  },
+  "modaks": {
+    "prompt": " Use case: illustration-story. Create ONE full landscape story illustration, no panel divisions or text. Photo references control anatomy. Neet full narrow tan torso fine long legs large broad triangular ears tiny nub short smooth coat. Buddy continuous moderately elongated charcoal torso, substantial legs real clearance, projecting irregular moustache modest beard light brows and regional hanging ear/paw furnishing. Body surfaces smooth broad watercolor/paint planes, NO CURLS, etched/hatch fur strokes, shag, or raised fur silhouettes on either torso/neck. Image 2 is BODY FINISH ONLY, not anatomy. Preserve facial strands. Slender dark tapered Buddy tail modest fringe. Warm affectionate domestic fantasy. Finish only TOP storyboard scene. Nighttime private conversation by Ganesha shrine. Buddy stands four clearly owned feet planted and leans nose toward untouched modaks on low table, neither touching nor eating; Neet seated watching dryly. Red gold smiling murti, marigolds, distant diya. Include small red bone with yellow pawprints at shrine base for continuity. Dark blue night/window and warm shrine glow. No humans.",
+    "referenced_image_paths": [
+      "/Users/sagar/Documents/ChatGPT/NBC/Productions/E053-the-midnight-counsel-of-ganesha/storyboard-v002.png",
+      "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+      "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+      "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+      "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-19.jpg"
+    ],
+    "transparent_background": false
+  },
+  "study": {
+    "prompt": " Use case: illustration-story. Create ONE full landscape story illustration, no panel divisions or text. Photo references control anatomy. Neet full narrow tan torso fine long legs large broad triangular ears tiny nub short smooth coat. Buddy continuous moderately elongated charcoal torso, substantial legs real clearance, projecting irregular moustache modest beard light brows and regional hanging ear/paw furnishing. Body surfaces smooth broad watercolor/paint planes, NO CURLS, etched/hatch fur strokes, shag, or raised fur silhouettes on either torso/neck. Image 2 is BODY FINISH ONLY, not anatomy. Preserve facial strands. Slender dark tapered Buddy tail modest fringe. Warm affectionate domestic fantasy. Finish only BOTTOM storyboard scene. Afternoon daylight, Neet in front standing intently toward CLOSED closet left; Buddy nervously standing behind him as cover, their bodies separate. Each dog four correctly owned planted feet with clear supports and continuous torso. Preserve larger Buddy's moderate body length; no shortened torso. Shrine distant background. Sunny floor and shadows. No humans or vacuum visible. Buddy's face fully furnished not smooth painted white mask.",
+    "referenced_image_paths": [
+      "/Users/sagar/Documents/ChatGPT/NBC/Productions/E053-the-midnight-counsel-of-ganesha/storyboard-v002.png",
+      "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+      "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+      "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+      "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-19.jpg"
+    ],
+    "transparent_background": false
+  },
+  "modaks2": {
+    "prompt": "Use case: identity-preserve. First image edit target: preserve the complete composition, poses, expressions, eyes, ears, scene objects and dog anatomy. Material correction: REMOVE ALL engraved curly/scratch fur strokes and projecting fur tufts from BOTH DOG BODIES AND NECKS. Entire torsos chest haunches necks legs need smooth cel-painted planes and broad shadows like image 2 BODY FINISH ONLY. Very short coat, smooth outlines. Buddy face MUST preserve irregular projecting moustache and modest chin beard and curved brows plus hanging ear and paw strands; do not smooth his face into a white patch. Slender tapered tail with only modest fringe. No changes to shrine, lighting, room, support or subject positions. No text.",
+    "referenced_image_paths": [
+      "/Users/sagar/Documents/ChatGPT/NBC/Productions/E053-the-midnight-counsel-of-ganesha/modaks-art-v001.png",
+      "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png"
+    ],
+    "transparent_background": false
+  },
+  "study2": {
+    "prompt": "Use case: identity-preserve. First image edit target: preserve the complete composition, poses, expressions, eyes, ears, scene objects and dog anatomy. Material correction: REMOVE ALL engraved curly/scratch fur strokes and projecting fur tufts from BOTH DOG BODIES AND NECKS. Entire torsos chest haunches necks legs need smooth cel-painted planes and broad shadows like image 2 BODY FINISH ONLY. Very short coat, smooth outlines. Buddy face MUST preserve irregular projecting moustache and modest chin beard and curved brows plus hanging ear and paw strands; do not smooth his face into a white patch. Slender tapered tail with only modest fringe. No changes to shrine, lighting, room, support or subject positions. No text.",
+    "referenced_image_paths": [
+      "/Users/sagar/Documents/ChatGPT/NBC/Productions/E053-the-midnight-counsel-of-ganesha/study-art-v001.png",
+      "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png"
+    ],
+    "transparent_background": false
+  },
+  "modaks3": {
+    "prompt": "Precise identity-preserve correction to image 1. Keep all else identical. Buddy dark dog only: remove pointed tufts at throat BELOW beard, chest and belly edge and upper legs; make silhouette clipped and smoothly continuous, no long shag. Tail should be slender taper with very modest fringe, reduce bushy tip width. Preserve his excellent projecting irregular moustache, modest beard immediately under chin, eyebrows, hanging ear furnishings and paw furnishings exactly. Don't erase face strands. No pose change, no geometry changes to full torso or legs, no changes to Neet, room or shrine.",
+    "referenced_image_paths": [
+      "/Users/sagar/Documents/ChatGPT/NBC/Productions/E053-the-midnight-counsel-of-ganesha/modaks-art-v002.png"
+    ],
+    "transparent_background": false
+  },
+  "study3": {
+    "prompt": "Precise identity-preserve correction to image 1. Keep all else identical. Buddy dark dog only: remove pointed tufts at throat BELOW beard, chest and belly edge and upper legs; make silhouette clipped and smoothly continuous, no long shag. Tail should be slender taper with very modest fringe, reduce bushy tip width. Preserve his excellent projecting irregular moustache, modest beard immediately under chin, eyebrows, hanging ear furnishings and paw furnishings exactly. Don't erase face strands. No pose change, no geometry changes to full torso or legs, no changes to Neet, room or shrine.",
+    "referenced_image_paths": [
+      "/Users/sagar/Documents/ChatGPT/NBC/Productions/E053-the-midnight-counsel-of-ganesha/study-art-v002.png"
+    ],
+    "transparent_background": false
+  },
+  "modaks4": {
+    "prompt": "Use case: identity-preserve. Image 1 is edit target. This is a STRICT INTERNAL COAT FINISH correction for charcoal dog Buddy. His whole dark torso, neck below beard, shoulder and haunch still contain thin overlapping CURVED ENGRAVED HAIR LINES. ERADICATE every one. Repaint the whole dark trunk as genuinely FLAT CLEAN CEL COLOR FIELDS and broad soft shadow shapes, exactly the featureless body paint treatment demonstrated in image 2. NO fine texture of any kind, no grain, no scratches, no line hatching on these body areas. Preserve smooth SHORT-COAT outlines, modest slender tail, body length and all legs and paws. Keep Buddy's entire HEAD untouched: projecting irregular moustache, short beard, curved brows, hanging ear furnishings, eyes, nose and expression. Keep regional paw furnishing. Preserve Neet entirely, all poses, shrine, room, objects, lighting and composition. Image 2 is BODY PAINT FINISH only; import no poses or scene. Do not merely reduce the contrast of existing hair lines: REPAINT them away. The result must have zero directional hair lines on dark torso even when viewed at full resolution.",
+    "referenced_image_paths": [
+      "/Users/sagar/Documents/ChatGPT/NBC/Productions/E053-the-midnight-counsel-of-ganesha/modaks-art-v003.png",
+      "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png"
+    ],
+    "transparent_background": false
+  },
+  "study4": {
+    "prompt": "Use case: identity-preserve. Image 1 is edit target. This is a STRICT INTERNAL COAT FINISH correction for charcoal dog Buddy. His whole dark torso, neck below beard, shoulder and haunch still contain thin overlapping CURVED ENGRAVED HAIR LINES. ERADICATE every one. Repaint the whole dark trunk as genuinely FLAT CLEAN CEL COLOR FIELDS and broad soft shadow shapes, exactly the featureless body paint treatment demonstrated in image 2. NO fine texture of any kind, no grain, no scratches, no line hatching on these body areas. Preserve smooth SHORT-COAT outlines, modest slender tail, body length and all legs and paws. Keep Buddy's entire HEAD untouched: projecting irregular moustache, short beard, curved brows, hanging ear furnishings, eyes, nose and expression. Keep regional paw furnishing. Preserve Neet entirely, all poses, shrine, room, objects, lighting and composition. Image 2 is BODY PAINT FINISH only; import no poses or scene. Do not merely reduce the contrast of existing hair lines: REPAINT them away. The result must have zero directional hair lines on dark torso even when viewed at full resolution.",
+    "referenced_image_paths": [
+      "/Users/sagar/Documents/ChatGPT/NBC/Productions/E053-the-midnight-counsel-of-ganesha/study-art-v003.png",
+      "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png"
+    ],
+    "transparent_background": false
+  }
+}

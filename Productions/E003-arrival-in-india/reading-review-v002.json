@@ -1,0 +1,98 @@
+{
+  "story_id": "S003",
+  "episode": "E003-arrival-in-india",
+  "reviewer": "reading003 fresh complete illustrated reading reviewer",
+  "independence": "This fresh story-specific reviewer did not write the prose, generate artwork, or perform its independent visual review. Owns only this reading-review-v002.json.",
+  "date_local": "2026-10-03",
+  "status": "accepted",
+  "story": {
+    "path": "Stories/S003-arrival-in-india.md",
+    "sha256": "770aef1340adb76719c828c3f040a9a395c1d81ce0ac67110c528f6a022a03be"
+  },
+  "method": {
+    "url": "http://127.0.0.1:56824/Stories/S003-arrival-in-india.md",
+    "tool": "mcp__cua_repl browser tab 1",
+    "viewport_css_px": [
+      1280,
+      720
+    ],
+    "text_size_css_px": 20,
+    "inspection": "Read complete primary in rendered browser from title to final provenance using overlapping viewport screenshots and AX text. Inspected each embedded illustration at its actual 960px reading width, then continued through its following prose. DOM observation confirmed all three images loaded. Screenshots are in this reviewer tool transcript; no separate screenshot files saved.",
+    "coverage": [
+      "Opening airport/taxi and interrupted grand speech",
+      "Courtyard greeting, first image and water transition",
+      "Rickshaw corrections and market cloth exchange",
+      "Monkey throw, ammunition glance and second image",
+      "Buddy-led exit and homecoming",
+      "Window/blanket third image, closing dialogue and affectionate payoff",
+      "Complete refinement and provenance notes"
+    ],
+    "not_claimed": "This reading inspection is not a new native-resolution anatomical review; that separate work is pinned in visual-review-v002.json."
+  },
+  "alternatives": {
+    "count": 0,
+    "assessment": "Read the complete current file through provenance and comedy-pass-v002 alternatives assessment; no meaningful alternative is supplied or asserted. The pre-refinement archive source likewise has one primary."
+  },
+  "sources_read": [
+    {
+      "path": "Productions/E003-arrival-in-india/comedy-pass-v002.json",
+      "sha256": "38fce1835f26dcac54c59092f2f13b247e2513603795cf1d3479f036e9ba7c0d"
+    },
+    {
+      "path": "Productions/E003-arrival-in-india/visual-review-v002.json",
+      "sha256": "72feca55edd82a5399c51d092b7c039d6a2f013cdf0a8b3eb5c91a822ef3511b"
+    }
+  ],
+  "source_comparison": {
+    "archive": "/Users/sagar/Documents/ChatGPT/NBC_Archives/NBC-before-refinement-2026-10-03_200659.tar.gz",
+    "member": "NBC/Stories/S003-arrival-in-india.md",
+    "complete_read": true,
+    "result": "Compared the complete pre-refinement source directly. Yellow taxi, tuk-tuks/cows/bikes, family courtyard and friendly street dogs, water/tile rest, next-day rickshaw with absent doors and shouted directions, spices/fabric/mango cart, overgrown-squirrel challenge, thrown mango/dodge and threatened second throw, Heather intervention/international incident, blanket/window homecoming and monkey reluctance remain. Added greeting success and escape initiative develop Buddy without changing destination or historical Heather-centered household. The generic future-adventure closing is replaced by specific affectionate rest."
+  },
+  "creative_observations": {
+    "humor_and_timing": "The airport horn triggers a second horn interruption just when Neet is about to repeat his speech; Buddy’s What is literal and does not overexplain. The seated welcome committee extends the territorial warning into a patient standoff. Neet’s immediate Right after the driver disobeys his Left gives a short physical reversal. The cloth/fruit exchange briefly makes both brothers ridiculous. The cart full of ammunition silently answers Is that all you’ve got without an extra explanatory quip.",
+    "voices": "Neet’s expansive commands and claimed retreat remain distinct from Buddy’s literal, dry practical replies. Buddy is more than a commentator: he initiates a successful greeting, chooses shelter in the rickshaw, overreacts to cloth, and pulls Heather toward the exit. Heather’s water instruction, amused international-incident remark and final Tomorrow form a practical, affectionate voice.",
+    "causality_and_pacing": "Arrival leads naturally to neighbors; next-day transport leads to market overstimulation and monkey provocation; Buddy identifies an exit and draws Heather into intervention; exhaustion leads to the opposing window/blanket choices. Paragraph breaks preserve short spoken responses and the pictures fall between completed beats, never between dialogue and attribution.",
+    "emotional_payoff": "Buddy achieves the quiet he has sought throughout, while Neet still enjoys discovery and leans into Heather’s touch. The opening horn returns at the close but is gently postponed to tomorrow. The final image precedes the That’s the plan exchange and stroke, so it supports rather than displaces the earned ending.",
+    "complementary_images": "Three different functions and compositions: social confrontation at the gate, diagonal active fruit threat in the market, and still opposing attention/rest indoors. Images are not redundant portraits; three is justified for this compact progression.",
+    "continuity_and_source_limits": "No Sagar import or new chronology claim. Historical breed/weight wording remains story voice; illustrations are not evidence of those measurements. Style and partial human appearances remain provisional."
+  },
+  "images": [
+    {
+      "path": "Productions/E003-arrival-in-india/courtyard-art-v001.png",
+      "sha256": "244271cdf4219b66c34ba60b136773dae74ca6de5091699afd34c582a5e461e5",
+      "rendered_width_css_px": 960,
+      "placement": "After I hadn’t finished the warning, before Heather lifts Neet.",
+      "reading_observation": "Three patient seated visitors face standing Neet; Buddy has stepped forward in friendly greeting. The wide shared ground plane makes the disparity in seriousness readable. The crates establish arrival and no later lifting is prematurely shown.",
+      "decision": "accept"
+    },
+    {
+      "path": "Productions/E003-arrival-in-india/illustration-v002.png",
+      "sha256": "705d0befed59324a5b4128d49673e6924e6346c67440ab02b404da4df799935f",
+      "rendered_width_css_px": 960,
+      "placement": "After first mango dodge/challenge and Buddy’s ammunition glance, before the threatened second toss and withdrawal.",
+      "reading_observation": "The airborne mango, braced Neet and cart of further mangoes visualize the immediate danger behind his boast. Buddy is turning toward clear ground; neither the subsequent planted-paw tug nor Heather carrying Neet is prematurely shown. This is the immediately preceding first-throw action, not a depiction of the later retreat.",
+      "decision": "accept"
+    },
+    {
+      "path": "Productions/E003-arrival-in-india/window-art-v002.png",
+      "sha256": "daf2351a825c0b9e52e2bd6e98ad919f807fc34d0b4ac1ab6e88e4772063aec2",
+      "rendered_width_css_px": 960,
+      "placement": "After partial curtain closure and Buddy putting his head beneath his blanket, before You’ll miss everything / That’s the plan and Heather’s stroke.",
+      "reading_observation": "Neet sits at the low sill and remaining curtain gap while Buddy’s head lies beneath the blanket corner. Heather’s cropped foot places her nearby without illustrating the later hand stroke. The warm interior cools the market tempo and lets the final dialogue and affectionate touch land after the picture.",
+      "decision": "accept"
+    }
+  ],
+  "closed_findings": {
+    "visual_review_status": "accepted_pending_complete_reading",
+    "visual_review_sha256": "72feca55edd82a5399c51d092b7c039d6a2f013cdf0a8b3eb5c91a822ef3511b",
+    "all_selected_image_hashes_match_visual_review": true,
+    "unresolved_visual_findings": [],
+    "reading_check": "The actual displayed selected pictures show the reviewed corrected narrow tails and connected rest shape at reading size; no new material continuity, placement or legibility issue emerged. All three selected images carry independent accept decisions."
+  },
+  "material_findings": [],
+  "unresolved_findings": [],
+  "documentary_note": "Dated refinement text says illustrations/review are in progress. This is historical process narration, not a present creative clearance claim; final delivery integration should keep current status in authoritative episode/master records.",
+  "approval": "unapproved",
+  "publication": "not_published"
+}

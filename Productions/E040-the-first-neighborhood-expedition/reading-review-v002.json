@@ -1,0 +1,117 @@
+{
+  "story": {
+    "path": "Stories/S040-the-first-neighborhood-expedition.md",
+    "sha256": "39cef96d67f5bfcadbee44eabbe8b594fc8d3262a81d4a4187dc19a5ca8c0e96"
+  },
+  "version": "v002",
+  "reviewer": "reader040",
+  "review_type": "fresh_complete_rendered_reading",
+  "reviewed_at": "2026-10-04T11:28:43.737427+00:00",
+  "status": "accepted",
+  "independent_of_generation": true,
+  "images": [
+    {
+      "path": "Productions/E040-the-first-neighborhood-expedition/pumpkin-art-v004.png",
+      "sha256": "71caf83c08e586d88078a39b8740509019b79dfa529fe9bfdf4b7973386b18c9"
+    },
+    {
+      "path": "Productions/E040-the-first-neighborhood-expedition/bouquet-art-v003.png",
+      "sha256": "f56988f85b6af8b7a69da93ac87908c1867019f627ed62b20249398ebc560421"
+    },
+    {
+      "path": "Productions/E040-the-first-neighborhood-expedition/shepherd-art-v003.png",
+      "sha256": "381e7056b18a40aae9d01bc50d1ce1843c89031ab96181cd65f65bf4cf572856"
+    },
+    {
+      "path": "Productions/E040-the-first-neighborhood-expedition/mailbox-art-v003.png",
+      "sha256": "9236276b4a23fe9108626a7d33caf9ae32d2c69f42a26dbf44b9eb700e2548ab"
+    },
+    {
+      "path": "Productions/E040-the-first-neighborhood-expedition/home-art-v003.png",
+      "sha256": "1223c5427965d362754357809fbcf16cda19436c14b27385b936c1bdb87ecb88"
+    }
+  ],
+  "complete_primary_read": true,
+  "meaningful_alternatives": {
+    "count": 0,
+    "observed": "No alternative section occurs in complete rendered page; comedy source comparison identifies capture forms of the same Chapter 13, not competing narratives."
+  },
+  "rendered_inspection": {
+    "url": "http://127.0.0.1:56824/Stories/S040-the-first-neighborhood-expedition.md",
+    "method": "Cua in-app browser, default 1280x720 viewport. Read initial accessibility text for navigation, then sequentially scrolled with overlapping viewport screenshots from title to footer; every paragraph, all seven acts, all five complete images, ending and provenance inspected visually at intended reading size. No zoom reduction or DOM-only substitute.",
+    "coverage": [
+      "Act I complete departure",
+      "Act II complete pumpkin/gnome and image",
+      "Act III five flower types and raised bouquet image",
+      "Act IV complete street names",
+      "Act V complete confrontation, retreat image and withdrawal payoff",
+      "Act VI twilight, mailbox image and departure",
+      "Act VII lawn roll, explicit rise, home image and ending",
+      "Complete provenance and refinement footer"
+    ],
+    "layout": "Readable centered serif text, separate dialogue paragraphs, generous image whitespace. Images extend wider than text and scroll naturally; no lost paragraphs, broken images or visible clipping."
+  },
+  "rendered_observations": {
+    "humor_and_timing": [
+      "Buddy repeatedly turns away from leash attachment, then immediately forgives everyone when clipped; fourth-direction choice supplies a compact reversal.",
+      "Unauthorized pumpkin smile and gnome check establish separate absurd concerns for both dogs.",
+      "Flower looking with an open mouth receives an image pause before That end is closed; physical gag remains immediately legible.",
+      "Neet refuses comment then solicits validation; Buddy literal distance answer pays off the helpful homeward step.",
+      "Chicken-mailbox defense makes Buddy act on his own appetite; last breath carries the information home."
+    ],
+    "voices": "Neet official rank and procedural face-saving, Buddy appetite and pragmatic withdrawal, Sagar brief practical interventions, and Heather playful redirecting coexist with retained romantic source language. Humans remain affectionate; no humiliation displaces warmth.",
+    "cause_effect_and_payoff": "Walk moves from departure through harmless decorations, flowers, signs, real dog challenge, mailbox and home. Sagar intervention ends the confrontation; Buddy resumes appetite after relief. Explicit rising after lawn roll makes final standing art consistent. Pizza and pumpkin callback close the independent appetite/security threads after the home sentiment.",
+    "image_placement": [
+      {
+        "image": "pumpkin-art-v004.png",
+        "observation": "After both dogs encounter their harmless intruders, before Sagar pulls Buddy away; opposing investigative poses match current state."
+      },
+      {
+        "image": "bouquet-art-v003.png",
+        "observation": "After raised bouquet and open mouth, before chin is guided down. Five named flower types visible; prose requires types rather than exactly five blossoms."
+      },
+      {
+        "image": "shepherd-art-v003.png",
+        "observation": "After Buddy turns homeward and takes helpful step, before renewed barking challenge. Buddy faces left away from large shepherd; Neet faces right. Neck collar attachments read correctly at story size."
+      },
+      {
+        "image": "mailbox-art-v003.png",
+        "observation": "After planted feet and good intel, before Heather moves Buddy on. Opposite-side sniffing shows actual investigation without inventing literal chicken/cat."
+      },
+      {
+        "image": "home-art-v003.png",
+        "observation": "After Buddy explicitly rises and bouquet moves away; vase water and standing dog match return state. Neet streetward watch anticipates final pumpkin thought without spoiling it."
+      }
+    ],
+    "complementarity": "Decoration suspicion, edible-flower misunderstanding, size/retreat confrontation, shared scent investigation and home callback serve different narrative purposes. Repeated bouquet becomes deliberate payoff in new porch setting, not duplicate filler.",
+    "provenance": "Editorial chronology and owner approval qualifications remain visible, Chapter 13 and exact recovery source hash appear in footer. No additional story alternative follows."
+  },
+  "closure_verification": {
+    "visual_review": {
+      "path": "Productions/E040-the-first-neighborhood-expedition/visual-review-v002.json",
+      "sha256": "0904f108c2b0a5de6d3afecb7d9a5141a7a7d5626e6a80a24b0b9b96a4220a52",
+      "status": "accepted"
+    },
+    "generation_record": {
+      "path": "Productions/E040-the-first-neighborhood-expedition/artwork-generation-v002.json",
+      "sha256": "3e83c9d7c7209ecd0d23ea8a9e735d370f8aa8af9d9f2fe5ac423fd8439ea8e7"
+    },
+    "observations": [
+      "Selected image hashes match accepted visual record and embedded story filenames.",
+      "Smooth torso finishes, corrected shepherd collar connections and leftward Buddy retreat visible in rendered sequence.",
+      "Five flower types remain consistent from bouquet to vase; no exact five-blossom constraint introduced.",
+      "Independent visual record has no open material findings; reading found none newly. Mailbox lead occlusion remains its documented nonblocking legibility note."
+    ]
+  },
+  "material_findings": [],
+  "open_findings": [],
+  "approval": {
+    "state": "unapproved"
+  },
+  "publication": {
+    "state": "not_published"
+  },
+  "limitations": [
+    "This is complete illustrated reading acceptance, not owner style/canon approval or publication authorization. Original photographic likeness comparison belongs to pinned independent visual review."
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "staging": {
+    "arguments": {
+      "prompt": "Use case: illustration-story. Draw a TWO PANEL pencil staging storyboard, not final art. References 1-3 are original dog likeness authority; image4 BODY FINISH reference only, no anatomy authority. Panel1: public aquarium jellyfish window, Buddy charcoal dog on all four substantial legs with continuous moderately elongated torso and real floor clearance, lifts chin to follow rising jellyfish; tan Neet stands a little behind watching Buddy suspiciously; Heather adult woman only cropped legs at edge, calmly observing. Panel2: otter enclosure, dry visitor side of vertical glass: Neet standing nose near glass looking down at fish sliding on OTHER side of glass; Buddy stands beside him amused; small otter on rock on far side. Draw clear space separating dogs, all limb roots and weight supports. Neet full narrow smooth torso, fine long legs, broad triangular ears, tiny nub. Buddy modest head, hanging ears, pale brows beard muzzle and distal legs, smooth close dark body. No text. Two distinct wide panels. No human face required.",
+      "referenced_image_paths": [
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+        "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png"
+      ],
+      "transparent_background": false
+    },
+    "output_hint": "Generated images are saved to /Users/sagar/.codex/generated_images/01a10600-ef73-7631-b63d-c8ec42c9852b as /Users/sagar/.codex/generated_images/01a10600-ef73-7631-b63d-c8ec42c9852b/exec-e2009e69-a4b3-44eb-9b97-de01b3cdc3f6.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "inputs": [
+      {
+        "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+        "sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+        "role": "Original likeness authority"
+      },
+      {
+        "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+        "sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+        "role": "Original likeness authority"
+      },
+      {
+        "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+        "sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+        "role": "Original likeness authority"
+      },
+      {
+        "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+        "sha256": "19be9a85760177405bbedd26644a7e0eb9c7945709e43825d201ff2fa91742b9",
+        "role": "BODY FINISH ONLY"
+      }
+    ],
+    "model": "unknown",
+    "seed": "unknown",
+    "tool": "built-in image_gen.imagegen",
+    "output": {
+      "generation_path": "/Users/sagar/.codex/generated_images/01a10600-ef73-7631-b63d-c8ec42c9852b/exec-e2009e69-a4b3-44eb-9b97-de01b3cdc3f6.png",
+      "sha256": "c2c94fd2b68c296f76e8ee98b70e0f77d2660a78949becc73dc89ddad2d59e77",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG"
+    }
+  },
+  "jelly_v001": {
+    "arguments": {
+      "prompt": "Use case: illustration-story. Finished watercolor narrative illustration of ONLY TOP PANEL of last reference staging: Buddy watching jellyfish, Neet suspiciously watches Buddy and Heather stands beside them cropped at waist. Photos1-3 sole likeness/anatomy authority; image4 BODY FINISH ONLY reference: broad smooth flat color washes on dogs' torsos; image5 composition staging only. Preserve Buddy continuous moderately elongated torso, substantial long-enough legs and real clearance, modest head, pale beard moustache/brows and regional ear/paw furnishing. Correct staging fluffy tail to slim dark tapering tail with modest fringe. Neet fine legs full narrow torso broad triangular ears tiny nub. No dense hair engraving, curls, ripples or long shag anywhere on torso/chest/upper legs. Buddy lifts chin following a glowing rising jellyfish behind aquarium glass; Neet behind him looks sideways at Buddy skeptically. Both dogs four planted paws on dry floor, separated. Cool violet and blue jellyfish tank lighting with warm dog colors, polished children's story art, restrained edges, full single landscape composition, no panel borders, no words, no decorative added objects.",
+      "referenced_image_paths": [
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+        "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+        "/Users/sagar/Documents/ChatGPT/NBC/Productions/E027-heathers-birthday-and-the-aquarium-chaos/expanded-staging-v002.png"
+      ],
+      "transparent_background": false
+    },
+    "output_hint": "Generated images are saved to /Users/sagar/.codex/generated_images/01a10600-ef73-7631-b63d-c8ec42c9852b as /Users/sagar/.codex/generated_images/01a10600-ef73-7631-b63d-c8ec42c9852b/exec-9bd21b76-aebc-4bcf-ae0d-cb1a162cc918.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "inputs": [
+      {
+        "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+        "sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+        "role": "Original likeness authority"
+      },
+      {
+        "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+        "sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+        "role": "Original likeness authority"
+      },
+      {
+        "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+        "sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+        "role": "Original likeness authority"
+      },
+      {
+        "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+        "sha256": "19be9a85760177405bbedd26644a7e0eb9c7945709e43825d201ff2fa91742b9",
+        "role": "BODY FINISH ONLY"
+      },
+      {
+        "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E027-heathers-birthday-and-the-aquarium-chaos/expanded-staging-v002.png",
+        "sha256": "c2c94fd2b68c296f76e8ee98b70e0f77d2660a78949becc73dc89ddad2d59e77",
+        "role": "staging/composition or edit target; no anatomy authority"
+      }
+    ],
+    "model": "unknown",
+    "seed": "unknown",
+    "tool": "built-in image_gen.imagegen",
+    "output": {
+      "generation_path": "/Users/sagar/.codex/generated_images/01a10600-ef73-7631-b63d-c8ec42c9852b/exec-9bd21b76-aebc-4bcf-ae0d-cb1a162cc918.png",
+      "sha256": "577bb35d2cbcc1b75e5f43c20b7ced9b24f4a44af353c600cd5dcdf82c286e29",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG"
+    }
+  },
+  "jelly_v002": {
+    "arguments": {
+      "prompt": "Use case: precise-object-edit. FIRST image edit target jellyfish scene. SECOND image finish reference ONLY: match its simple flat smooth painted dog bodies. Remove ALL fur hatch marks, engraved curls, raised strands, ragged shag contours from BOTH dogs torso, chest, neck below jaw, thighs and upper legs. Fill those regions with broad uninterrupted simple flat cel-painted tan/charcoal color shapes and soft shading exactly like second image, no visible hairs. Neet ENTIRE coat including cream bib must smooth. Buddy keep furnished muzzle beard brows ears and small toe fringes ONLY; make tail slender dark tapered with no pale brush. Preserve exact poses, feet, faces, camera, tank, jellyfish and Heather. This is a coat finish correction, no other scene changes.",
+      "referenced_image_paths": [
+        "/Users/sagar/.codex/generated_images/01a10600-ef73-7631-b63d-c8ec42c9852b/exec-9bd21b76-aebc-4bcf-ae0d-cb1a162cc918.png",
+        "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png"
+      ],
+      "transparent_background": false
+    },
+    "output_hint": "Generated images are saved to /Users/sagar/.codex/generated_images/01a10600-ef73-7631-b63d-c8ec42c9852b as /Users/sagar/.codex/generated_images/01a10600-ef73-7631-b63d-c8ec42c9852b/exec-86e6947f-ee03-4aa9-8ec7-0c20a6635cf0.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "inputs": [
+      {
+        "path": "/Users/sagar/.codex/generated_images/01a10600-ef73-7631-b63d-c8ec42c9852b/exec-9bd21b76-aebc-4bcf-ae0d-cb1a162cc918.png",
+        "sha256": "577bb35d2cbcc1b75e5f43c20b7ced9b24f4a44af353c600cd5dcdf82c286e29",
+        "role": "staging/composition or edit target; no anatomy authority"
+      },
+      {
+        "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+        "sha256": "19be9a85760177405bbedd26644a7e0eb9c7945709e43825d201ff2fa91742b9",
+        "role": "BODY FINISH ONLY"
+      }
+    ],
+    "model": "unknown",
+    "seed": "unknown",
+    "tool": "built-in image_gen.imagegen",
+    "output": {
+      "generation_path": "/Users/sagar/.codex/generated_images/01a10600-ef73-7631-b63d-c8ec42c9852b/exec-86e6947f-ee03-4aa9-8ec7-0c20a6635cf0.png",
+      "sha256": "caa440793975c024c5838aad74ee1d4603c396b3b94eb83c19ec22ddaf8e4aa8",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG"
+    }
+  },
+  "shark_v003": {
+    "arguments": {
+      "prompt": "Use case: precise-object-edit. FIRST image edit target shark tunnel scene. SECOND image finish reference ONLY: match its simple flat smooth painted dog bodies. Remove ALL fur hatch marks, engraved curls, raised strands, ragged shag contours from BOTH dogs torso, chest, neck below jaw, thighs and upper legs. Fill those regions with broad uninterrupted simple flat cel-painted tan/charcoal color shapes and soft shading exactly like second image, no visible hairs. Neet ENTIRE coat including cream bib must smooth. Buddy keep furnished muzzle beard brows ears and small toe fringes ONLY; tail slender dark tapered no large fringe. Preserve exact crouched Neet and standing Buddy poses, continuous connected anatomy, floor supported feet, faces, camera, shark, arch and all environment. No other scene changes. No words.",
+      "referenced_image_paths": [
+        "/Users/sagar/Documents/ChatGPT/NBC/Productions/E027-heathers-birthday-and-the-aquarium-chaos/illustration-v002.png",
+        "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png"
+      ],
+      "transparent_background": false
+    },
+    "output_hint": "Generated images are saved to /Users/sagar/.codex/generated_images/01a10600-ef73-7631-b63d-c8ec42c9852b as /Users/sagar/.codex/generated_images/01a10600-ef73-7631-b63d-c8ec42c9852b/exec-3cba89a1-3895-430e-8ce3-b1801bfd7b82.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "inputs": [
+      {
+        "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E027-heathers-birthday-and-the-aquarium-chaos/illustration-v002.png",
+        "sha256": "c43940c90cb6368e3d0f488dfcdce290593ff37c9f45a2415b7984b8b93969d8",
+        "role": "staging/composition or edit target; no anatomy authority"
+      },
+      {
+        "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+        "sha256": "19be9a85760177405bbedd26644a7e0eb9c7945709e43825d201ff2fa91742b9",
+        "role": "BODY FINISH ONLY"
+      }
+    ],
+    "model": "unknown",
+    "seed": "unknown",
+    "tool": "built-in image_gen.imagegen",
+    "output": {
+      "generation_path": "/Users/sagar/.codex/generated_images/01a10600-ef73-7631-b63d-c8ec42c9852b/exec-3cba89a1-3895-430e-8ce3-b1801bfd7b82.png",
+      "sha256": "b1705e27e296446b0f6d937d74f27c009fa0a3b36dadc32bd242b6079590f929",
+      "dimensions": [
+        1448,
+        1086
+      ],
+      "format": "PNG"
+    }
+  },
+  "otter_v001": {
+    "arguments": {
+      "prompt": "Use case: illustration-story. Final single landscape aquarium otter picture. References1-3 photos are dog likeness/anatomy; reference4 BODY FINISH ONLY smooth flat cel-painted torsos with no fur strokes; reference5 bottom panel staging ONLY. Use the bottom panel composition but CORRECT fish: it is a small dead feeder fish thrown by otter, visibly flattened nose-down against glass just ABOVE waterline, sliding downward with a wet smear. It is NOT swimming. Neet dog stands nose near glass staring down at this insult; Buddy stands amused beside him, head slightly turned toward Neet. Small otter perched behind glass on rock. Visitors floor dry. Dogs must be separated with clear foot ownership, Buddy full continuous moderately elongated charcoal torso, neck, substantial legs and real clearance, pale regional beard moustache eyebrows hanging ear fringe and paws; slender tapering dark tail. Neet full narrow golden torso fine legs projecting muzzle broad triangular ears tiny nub. Simple smooth uninterrupted painted color fields on dog bodies and legs; NO engraved fur, curls, shag, hatch marks, raised strands or bushy tails. Furnishing ONLY Buddy muzzle brows ears paws. Rich blue-green aquarium water and warm natural rocks. No lettering. Fish must be against glass above water; can lower waterline to make this unambiguous.",
+      "referenced_image_paths": [
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+        "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+        "/Users/sagar/Documents/ChatGPT/NBC/Productions/E027-heathers-birthday-and-the-aquarium-chaos/expanded-staging-v002.png"
+      ],
+      "transparent_background": false
+    },
+    "output_hint": "Generated images are saved to /Users/sagar/.codex/generated_images/01a10600-ef73-7631-b63d-c8ec42c9852b as /Users/sagar/.codex/generated_images/01a10600-ef73-7631-b63d-c8ec42c9852b/exec-21ffe76d-1f1a-4be3-9f3c-aa00930f407f.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "inputs": [
+      {
+        "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+        "sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+        "role": "Original likeness authority"
+      },
+      {
+        "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+        "sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+        "role": "Original likeness authority"
+      },
+      {
+        "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+        "sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+        "role": "Original likeness authority"
+      },
+      {
+        "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+        "sha256": "19be9a85760177405bbedd26644a7e0eb9c7945709e43825d201ff2fa91742b9",
+        "role": "BODY FINISH ONLY"
+      },
+      {
+        "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E027-heathers-birthday-and-the-aquarium-chaos/expanded-staging-v002.png",
+        "sha256": "c2c94fd2b68c296f76e8ee98b70e0f77d2660a78949becc73dc89ddad2d59e77",
+        "role": "staging/composition or edit target; no anatomy authority"
+      }
+    ],
+    "model": "unknown",
+    "seed": "unknown",
+    "tool": "built-in image_gen.imagegen",
+    "output": {
+      "generation_path": "/Users/sagar/.codex/generated_images/01a10600-ef73-7631-b63d-c8ec42c9852b/exec-21ffe76d-1f1a-4be3-9f3c-aa00930f407f.png",
+      "sha256": "8040789def81ff7f2786f54d96333409e99e4cc051acbd5dc068e6410785f19d",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG"
+    }
+  },
+  "otter_v002": {
+    "arguments": {
+      "prompt": "Use case: precise-object-edit. First image target otter scene. Second image only smooth flat body-finish example. Remove remaining visible hair hatching/engraved strands from Neet's entire torso and neck and from Buddy's neck chest shoulder upper legs. Use smooth flat cel-painted shapes with clean continuous silhouettes as second image; keep Buddy regional furnished muzzle/beard, eyebrows and hanging ears and slight toe hairs. Keep all anatomy, paws, scale, faces and composition exactly. Keep fish above water pressed to inside of glass with wet downward smear, otter, Heather legs, floor. No words.",
+      "referenced_image_paths": [
+        "/Users/sagar/.codex/generated_images/01a10600-ef73-7631-b63d-c8ec42c9852b/exec-21ffe76d-1f1a-4be3-9f3c-aa00930f407f.png",
+        "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png"
+      ],
+      "transparent_background": false
+    },
+    "output_hint": "Generated images are saved to /Users/sagar/.codex/generated_images/01a10600-ef73-7631-b63d-c8ec42c9852b as /Users/sagar/.codex/generated_images/01a10600-ef73-7631-b63d-c8ec42c9852b/exec-b41e1086-8b24-4c81-bcf1-c37f44463a29.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "inputs": [
+      {
+        "path": "/Users/sagar/.codex/generated_images/01a10600-ef73-7631-b63d-c8ec42c9852b/exec-21ffe76d-1f1a-4be3-9f3c-aa00930f407f.png",
+        "sha256": "8040789def81ff7f2786f54d96333409e99e4cc051acbd5dc068e6410785f19d",
+        "role": "staging/composition or edit target; no anatomy authority"
+      },
+      {
+        "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+        "sha256": "19be9a85760177405bbedd26644a7e0eb9c7945709e43825d201ff2fa91742b9",
+        "role": "BODY FINISH ONLY"
+      }
+    ],
+    "model": "unknown",
+    "seed": "unknown",
+    "tool": "built-in image_gen.imagegen",
+    "output": {
+      "generation_path": "/Users/sagar/.codex/generated_images/01a10600-ef73-7631-b63d-c8ec42c9852b/exec-b41e1086-8b24-4c81-bcf1-c37f44463a29.png",
+      "sha256": "dd256e456e2028a2cd2f3efe4de680a369b9b9d43ccbf22bbc1b89d5c395a848",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG"
+    }
+  }
+}

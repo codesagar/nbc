@@ -1,0 +1,94 @@
+{
+  "story_id": "S005",
+  "version": 2,
+  "writer_scope": "One fresh story-specific agent; no independent acceptance",
+  "status": "writer_complete_pending_independent_reviews",
+  "story_sha256": "0052f55f294e37ecc82498bef0de2717a62c45b61ce5e95055a869f9c8a6bbe6",
+  "sources": [
+    {
+      "archive": "/Users/sagar/Documents/ChatGPT/NBC_Archives/NBC-before-expanded-refinement-2026-10-04_035505Z.tar.gz",
+      "member": "NBC/Stories/S005-uttarayan-night-magic.md",
+      "sha256": "1e43bf636998441fec264d26f6020b228f80eec90ad4b306c88a09c0cdb2862c",
+      "role": "Complete previous working edition",
+      "read_complete": true
+    },
+    {
+      "archive": "/Users/sagar/Documents/ChatGPT/NBC_Archives/NBC-before-refinement-2026-10-03_200659.tar.gz",
+      "member": "NBC/Stories/S005-uttarayan-night-magic.md",
+      "sha256": "ec73f35b1522f9aad0d43004b3b02e76bfae1793ec6f02dbd1fa02a63d047ef0",
+      "role": "Complete pre-refinement reading copy",
+      "read_complete": true
+    },
+    {
+      "archive": "/Users/sagar/Documents/ChatGPT/NBC_Archives/NBC-before-reorganization-2026-10-03_182825.tar.gz",
+      "member": "NBC/02_Story_Library/Legacy_Chapters/05-uttarayan-night-magic.md",
+      "sha256": "cc4a44c1c2e9aa9d26fa3565d870cedf84a00ddd8c84e72b123679f72e8ee7d4",
+      "role": "Complete mapped primary original",
+      "read_complete": true
+    },
+    {
+      "path": "Stories/S004-uttarayan-day-one.md",
+      "sha256": "04e5eece983892a85ce081518d6ef8e963259da835e648113a300e8218bec622",
+      "role": "Connected episode read completely; no edits",
+      "read_complete": true
+    },
+    {
+      "path": "Stories/S006-the-bazaar-adventure.md",
+      "sha256": "a6a9e7f2a3b0cf8ed54fe5a501b6166b369fef85014948195f4ebac4b7d667be",
+      "role": "Connected episode read completely; no edits",
+      "read_complete": true
+    }
+  ],
+  "central_comic_situation": "Neet considers watching the sky an active job; Buddy wants a comfortable seat and an uninterrupted snack. Both end by relinquishing their private projects to share rest.",
+  "intended_feeling": "Affectionate comic evening that genuinely settles into awe and safety.",
+  "wants": {
+    "Neet": "Follow every light, enjoy treats, imagine flying higher than everyone.",
+    "Buddy": "Arrange quiet comfortable viewing and eat his own pakora without Neet helping.",
+    "humans": "Meera shares beloved festival quiet and food; Heather enjoys the sky and the dogs, notices Buddy’s scheme."
+  },
+  "preserved_jokes_and_incidents": [
+    "Organized fireflies line from first refinement",
+    "Stars/tukkal explanation",
+    "Neet circles at fireworks and claims sky cheers for them",
+    "Buddy seeks closeness while continuing to watch",
+    "Meera pakoras/chutney and chai",
+    "Tired-kite question, dreaming and high-flyer exchange",
+    "Last fireworks then lanterns disappear",
+    "Best-day whisper and shared blanket; final sky looks after itself line"
+  ],
+  "changes": [
+    "Buddy pins his blanket with his own front paws and quietly corrects his mistake.",
+    "Neet physically shadows a moving kite; Buddy suggests sitting, Neet treats following as a duty.",
+    "A firework interrupts Meera’s tribute to quiet; Heather almost spills chai at her amendment.",
+    "Buddy uses Neet’s sky attention to finish his own pakora, leaves crumb evidence; Heather notices without explaining dog speech.",
+    "Kite aspiration tempered by snack access after Heather’s original high-flyer response, preserving dialogue causality.",
+    "Terrace edge phrasing made concrete as inside low wall, matching retained safe composition."
+  ],
+  "buddy_agency": "He chooses comfort, makes a physical mistake, fixes it, successfully protects his snack with distraction, then freely shares his carefully arranged blanket.",
+  "ending": "Retains prior concise quiet final line. Closing picture sits after eyes close and before that final sentence; no gag added after emotional release.",
+  "variants": {
+    "meaningful_alternatives": 0,
+    "decision": "Full current, pre-refinement and mapped original contain one primary; no competing endings or pronouns merged."
+  },
+  "contradictions_preserved": [
+    "Historical Heather/Meera/dogs household remains; Sagar not inserted.",
+    "Second evening language and shelf ordering are source sequence, not chronology verification.",
+    "Dorito ears and wagging-tail prose retained as voice, artwork uses original-photo nub.",
+    "Style and human likeness provisional; no canon or owner approval."
+  ],
+  "complete_reread_comparison": {
+    "method": "Read complete revised story with all Markdown image positions after generation; compared entire incident sequence against full previous working version and mapped original, then corrected high-flyer reply placement to keep its antecedent. Fresh rendered complete reading remains independently required.",
+    "lost_incidents": "None of the primary events omitted. Original generalized belonging-to-stars ending had already been replaced in previous working edition; prior strong concrete ending retained.",
+    "humor": "Added physical mistake, attention reversal and human interruption instead of continuous banter; original quiet question and final release left space.",
+    "voice": "Neet theatrical and literal; Buddy independently competent but fallible; humans understated and affectionate.",
+    "expansion": "Approximately 250 extra words, concentrated in five short causally related comic beats; three illustrations chosen rather than four or five to protect short story pacing.",
+    "image_states": [
+      "Sky watch precedes food arrival.",
+      "Crumb remains in beard after swallowing and before Heather brushes it away.",
+      "Both asleep/eyes closed after lanterns vanish; star-only closing sky."
+    ],
+    "open": "Independent visual review and fresh complete rendered reading pending."
+  },
+  "approval": "unapproved",
+  "publication": "not_published"
+}

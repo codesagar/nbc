@@ -1,0 +1,99 @@
+{
+  "story_id": "S023",
+  "review_type": "fresh_complete_rendered_reading",
+  "version": 2,
+  "reviewed_at": "2026-10-04T07:50:13.631106+00:00",
+  "reviewer": "Fresh reader023; did not write prose or generate reviewed artwork",
+  "status": "accepted",
+  "story": {
+    "path": "Stories/S023-the-business-class-upgrade-disaster.md",
+    "sha256": "99b2ebc7d0d54f1c2aabc13c654ee28cc1436d4eb4e730a52eed798c27e3a407"
+  },
+  "images": [
+    {
+      "path": "Productions/E023-the-business-class-upgrade-disaster/comfort-art-v003.png",
+      "sha256": "aacc36f026c7596b1c5075cfc8edfcbc5c91637603060e0333ea070eac5e1a87"
+    },
+    {
+      "path": "Productions/E023-the-business-class-upgrade-disaster/napkins-art-v003.png",
+      "sha256": "ff7175dbbf9deb91a9e79af91f098f4f758aff328825eb176cd17013e72856bb"
+    },
+    {
+      "path": "Productions/E023-the-business-class-upgrade-disaster/floor-art-v002.png",
+      "sha256": "d9330b63405292d8c55bc7b715c7b952d454a76f76f7c5d5589ee2ce82b3c455"
+    }
+  ],
+  "rendered_inspection": {
+    "url": "http://127.0.0.1:56824/Stories/S023-the-business-class-upgrade-disaster.md",
+    "method": "Cua in-app browser: complete accessibility text plus 16 sequential overlapping viewport screenshots, reading the title through the final provenance source pins. Inspected each of the three embedded pictures at actual reading size.",
+    "viewport": {
+      "width": 1280,
+      "height": 720
+    },
+    "body_font_size": "20px",
+    "displayed_images": [
+      {
+        "path": "Productions/E023-the-business-class-upgrade-disaster/comfort-art-v003.png",
+        "width": 960,
+        "height": 640,
+        "loaded": true
+      },
+      {
+        "path": "Productions/E023-the-business-class-upgrade-disaster/napkins-art-v003.png",
+        "width": 960,
+        "height": 640,
+        "loaded": true
+      },
+      {
+        "path": "Productions/E023-the-business-class-upgrade-disaster/floor-art-v002.png",
+        "width": 960,
+        "height": 720,
+        "loaded": true
+      }
+    ],
+    "coverage": [
+      "Complete primary including upgrade, seat buttons, meal, nap, cockpit announcement and taxiing payoff",
+      "All three embedded images with preceding anchors and following paragraphs",
+      "Refinement record and complete provenance notes"
+    ],
+    "alternatives": "No meaningful alternative is embedded. The comedy pass documents both recovered versions as the same incidents and ending; no separate variant branch requires a reading image."
+  },
+  "concrete_findings": [
+    {
+      "area": "Humor and timing",
+      "finding": "Neet turns increasing comfort into increasingly ambitious interference: seat controls, champagne, sleeping positions, then cockpit buttons. Buddy testing the stretch twice and discovering Enough add quiet timing between larger incidents. Heather escalating one napkin into the stack is a visual reaction gag; the image pause comes before cheers and her mid-flight downgrade line, without separating dialogue from its attribution."
+    },
+    {
+      "area": "Distinct voices and agency",
+      "finding": "Neet is grandiose and delighted by his own trouble; Buddy wants reliable rest and acts toward it by testing controls, stopping, securing his blanket, calling Heather and reclaiming the blanket. Heather enjoys the meal, repairs the social mess and lifts Neet back, making her an affectionate participant. Historical Heather-and-dogs household remains intact."
+    },
+    {
+      "area": "Cause and payoff",
+      "finding": "Each physical incident follows Neet actively exploiting another luxury. Buddy\u2019s final paw over the controls pays off Enough and the earlier falls; They had reached the ground is consistent with landing/taxiing. The extravagant cockpit incident is retained fictional escalation, not a factual aviation claim. Ending leaves the family together with affection beneath exasperation."
+    },
+    {
+      "area": "Exact picture states",
+      "finding": "Comfort shows Buddy\u2019s extended forepaws ending inside a roomy cushion before takeoff, with a terminal outside. Napkins shows the slow face wipe and full stack offer before Heather buries her face. Floor shows Neet already seated in the aisle, Buddy looking down and blanket displaced before Heather lifts him. No state is placed after it has ceased to apply."
+    },
+    {
+      "area": "Complementary contribution",
+      "finding": "The three compositions progress from Buddy\u2019s private comfort test, to a social human reaction and sheepish Neet, to the interrupted nap with a clear vertical seat/floor relationship. They add distinct comedy rather than repeating portraits; the final button callback remains readable prose and is not crowded by a fourth image."
+    },
+    {
+      "area": "Material closure",
+      "finding": "The independent visual review accepts these exact image hashes with empty defect/correction lists. At rendered reading size the smooth body coats, continuous silhouettes and object ownership remain readable; no contrary material defect appeared. All three images loaded. Provenance and unapproved status remain visible."
+    }
+  ],
+  "material_findings": [],
+  "open_findings": [],
+  "visual_review": {
+    "path": "Productions/E023-the-business-class-upgrade-disaster/visual-review-v002.json",
+    "sha256": "2a17c21e6c9682573ea23ae1717a3c8a284c9833108fc72852529bb11f88631e"
+  },
+  "style_status": "provisional",
+  "human_likeness_status": "provisional",
+  "chronology_status": "unknown",
+  "approval_status": "unapproved",
+  "publication_status": "not_published",
+  "next_action": "Coordinator may integrate accepted reading for these pinned versions; no owner approval or publication is implied."
+}

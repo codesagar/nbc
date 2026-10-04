@@ -1,0 +1,180 @@
+{
+  "episode": "E053-the-midnight-counsel-of-ganesha",
+  "reviewer": "editor_early independent visual reviewer",
+  "independence": "Reviewer did not generate or edit these images.",
+  "date": "2026-10-03",
+  "status": "ready_for_integration",
+  "story": {
+    "path": "Stories/S053-the-midnight-counsel-of-ganesha.md",
+    "sha256": "cea4064f1ec18040ee05434e7fad0edfe09751de9d3e253608b0195e16f753f9",
+    "complete_revised_text_read": true
+  },
+  "images": [
+    {
+      "path": "Productions/E053-the-midnight-counsel-of-ganesha/rough-v001.png",
+      "sha256": "fed37f47c9ee672479e8853274ccb1641069110688ad54bcd90fa929fe41cdf0",
+      "dimensions": [
+        1448,
+        1086
+      ],
+      "kind": "rough",
+      "inspection": "Complete actual output opened native1448×1086; selected original/native reference details refreshed. Earlier generator-rejected finalv001 not independently inspected.",
+      "decision": "staging_reviewed",
+      "findings": [
+        "Complete drawn shrine, dogs and props inspected; connected limbs, coherent support and staging agree with chosen scene. Rough coat rendering provisional."
+      ]
+    },
+    {
+      "path": "Productions/E053-the-midnight-counsel-of-ganesha/illustration-v002.png",
+      "sha256": "e0a68f8947b741e92d009ec3161071a8da63dcd501c409c41afcdd0dab358634",
+      "dimensions": [
+        1448,
+        1086
+      ],
+      "kind": "finished",
+      "inspection": "Complete actual output opened native1448×1086; selected original/native reference details refreshed. Earlier generator-rejected finalv001 not independently inspected.",
+      "decision": "ready_for_integration",
+      "findings": [
+        "Buddy prone forelegs trace through shoulders to forward compact paw clusters, full torso/haunch supported on pillow with rearfoot partially tucked. Neet supported sit and upright ears distinct.",
+        "Soft magical shrine glow against blue night room conveys secret counsel; red squeaky toy at murti feet preserves preceding offering continuity. No floating limbs or altered dog anatomy.",
+        "Corrected body and raised Neet throat contours close; Buddy beard/ear hair intentionally longer B19 rest reference, not body-wide shag."
+      ]
+    }
+  ],
+  "reference_evidence": [
+    {
+      "id": "N19",
+      "path": "Characters/Neet/Photos/neet-19.jpeg",
+      "sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+      "same_exposure_group": null,
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "styling",
+          "standing_pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Primary standing body proportions, paws, hocks and stub silhouette; head is not a pure profile.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Head rotated; far limbs overlap; uncalibrated camera offers no measurements; room light subdued"
+        ],
+        "inspection_sha256": "b2c6db0a5af6a885d993cbd986cc2759b9461e693fbcabd8aa96bce1eb5ea901",
+        "source_sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N19.json"
+      },
+      "role": "Neet side body, fine legs, full trunk, near-flush nub; head turned/far legs overlap."
+    },
+    {
+      "id": "N24",
+      "path": "Characters/Neet/Photos/neet-24.jpeg",
+      "sha256": "a80dbd57f4daf8f53232a4c5e604f7e92411ed2ca15fccb8d50a5f053b0eacd6",
+      "same_exposure_group": null,
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Primary upright sitting, narrow chest, head-tilt and color-map reference.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Tail hidden; scattered stuffing does not prove this dog caused destruction; seated proportions only"
+        ],
+        "inspection_sha256": "2dc370cfcb6bf22dde3ee7f0f7b169e11501f6b97e69b65ee733fe43737a4a8b",
+        "source_sha256": "a80dbd57f4daf8f53232a4c5e604f7e92411ed2ca15fccb8d50a5f053b0eacd6",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N24.json"
+      },
+      "role": "Neet seated visible geometry only, tail hidden; no standing ratios."
+    },
+    {
+      "id": "B29",
+      "path": "Characters/Buddy/Photos/buddy-29.jpeg",
+      "sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+      "same_exposure_group": null,
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Best available lateral body-length, tail-length/carriage and walking-pose reference; weak fine landmarks because blurred and not neutral standing.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Motion blur and lifted legs; cannot establish neutral back slope, exact leg ratios or gait timing from still"
+        ],
+        "inspection_sha256": "c671664ca5e4e2e07bfd3049ea641c3a1645742fb8290494e67a17f7ed213ea9",
+        "source_sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B29.json"
+      },
+      "role": "Buddy lateral torso and tail, blurred stride; no neutral ratios/timing."
+    },
+    {
+      "id": "B19",
+      "path": "Characters/Buddy/Photos/buddy-19.jpg",
+      "sha256": "201ec36498d5aaa85ef6e44a9176c333587d95797279a689237ccb49090ee521",
+      "same_exposure_group": null,
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "resting_pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Excellent low face, ear-root tufts, muzzle sweep and head-between-paws reference; poor global proportions.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Nearest face enlarged by perspective; rear blurred; limbs folded; no neutral head/body proportions"
+        ],
+        "inspection_sha256": "6686639617369f80387a581720cb9d28a2f0f5cf940da025eadf8b420095dfd2",
+        "source_sha256": "201ec36498d5aaa85ef6e44a9176c333587d95797279a689237ccb49090ee521",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B19.json"
+      },
+      "role": "Buddy chin-down face/ears/paws, longer furnishings; perspective enlarges head, rear blurred, no body ratios."
+    }
+  ],
+  "reference_inspection": "Actual N19/B29 originals plus native N19/N29/B04/B29 details refreshed in current review run; N24 original/detail inspected earlier and native N24 head/chest detail reopened for seated poses. Complete policies copied here; no measured ratios inferred.",
+  "restrictions": [
+    "N35 excluded from anatomy; B08 styling only; B25 unavailable; B30 supplemental rest only. None is used in this image.",
+    "One exposure counts once; generated models support style/acting only.",
+    "No exact size, breed, motion timing, palette or human likeness is canonized."
+  ],
+  "placement": "Ganesha beamed. “Especially your squeaky toy.”",
+  "limitations": [],
+  "complete_illustrated_reading": {
+    "status": "reviewed",
+    "reviewer": "root integration reading",
+    "story_sha256": "3497bac6e94c32feb07e4c8416d7f4f83a794e0338a43fc5a3d83e4159e063e7",
+    "evidence": [
+      "Stories/S053-the-midnight-counsel-of-ganesha.md",
+      "http://127.0.0.1:53761/Stories/S053-the-midnight-counsel-of-ganesha.md"
+    ],
+    "inspection": "Read complete rendered primary and inspected embedded illustration and adjacent prose at approximately 960px width.",
+    "observations": [
+      "Complete sequence read from first night through daylight vacuum lesson, later midnight offerings counsel, departure discussion and pillow moved closer. The source’s spiritual dialogue and gentler register remain intact.",
+      "Image follows Ganesha affirming the squeaky offering. Toy-bone continuity with the arrival story and alert Neet versus comfortably listening Buddy support the quiet companionship. Night lighting, shrine and absent humans match the confidential scene.",
+      "Image pauses between Buddy’s question and Neet’s howling question without breaking attribution; next conversation and farewell preparation remain clear. No unresolved image-text or reading finding."
+    ]
+  },
+  "approval": "unapproved",
+  "publication": "not_published",
+  "unresolved_findings": []
+}

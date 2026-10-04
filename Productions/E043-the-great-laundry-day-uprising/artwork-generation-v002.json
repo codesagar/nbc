@@ -1,0 +1,701 @@
+{
+  "story": "S043",
+  "tool": "built-in image_gen.imagegen",
+  "model": "unknown",
+  "seed": "unknown",
+  "references": [
+    {
+      "id": "N19",
+      "character": "Neet",
+      "path": "Characters/Neet/Photos/neet-19.jpeg",
+      "filename": "neet-19.jpeg",
+      "sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+      "archived_source_path": "03_Asset_Library/Characters/Neet/neet-19.jpeg",
+      "same_exposure_group": null,
+      "use": "Primary body-level side standing and tail nub",
+      "approval_status": "unknown",
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "styling",
+          "standing_pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Primary standing body proportions, paws, hocks and stub silhouette; head is not a pure profile.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Head rotated; far limbs overlap; uncalibrated camera offers no measurements; room light subdued"
+        ],
+        "inspection_sha256": "b2c6db0a5af6a885d993cbd986cc2759b9461e693fbcabd8aa96bce1eb5ea901",
+        "source_sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N19.json"
+      },
+      "source_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose",
+          "resting_pose",
+          "styling"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Primary standing body proportions, paws, hocks and stub silhouette; head is not a pure profile.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state."
+        ],
+        "evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md"
+      },
+      "source_observation": {
+        "date": "2026-10-03",
+        "pose_view_camera": "Standing left-facing side with head toward camera; near body-level",
+        "visible_features": "Tiny short tan rump nub; near-square qualitative standing impression; long slender legs; full ribcage/thigh; moderate ventral rise; smooth short coat",
+        "limitations": "Head rotated; far limbs overlap; uncalibrated camera offers no measurements; room light subdued",
+        "recommended_uses": [
+          "standing_pose",
+          "visible_anatomy",
+          "styling"
+        ],
+        "full_restrictions": [
+          "Primary standing body proportions, paws, hocks and stub silhouette; head is not a pure profile.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Head rotated; far limbs overlap; uncalibrated camera offers no measurements; room light subdued"
+        ]
+      },
+      "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N19.json",
+      "inspection_sha256": "b2c6db0a5af6a885d993cbd986cc2759b9461e693fbcabd8aa96bce1eb5ea901"
+    },
+    {
+      "id": "N25",
+      "character": "Neet",
+      "path": "Characters/Neet/Photos/neet-25.jpeg",
+      "filename": "neet-25.jpeg",
+      "sha256": "67530c2ebc1baa412f76a825a7bd2369cebf72a101e7f45836fefa0fcae90ca4",
+      "archived_source_path": "03_Asset_Library/Characters/Neet/neet-25.jpeg",
+      "same_exposure_group": null,
+      "use": "Sternal rest with extended fine forelegs",
+      "approval_status": "unknown",
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose",
+          "resting_pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Excellent prone posture and forward paws; useful lateral ear spread.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Hindfeet and tail concealed; plush partly covers toes; cannot supply standing leg/trunk ratios"
+        ],
+        "inspection_sha256": "0e493b84294cbe31f8e7e484b1ce100d8bd7370e2de36f46b35f73b2eab5f99e",
+        "source_sha256": "67530c2ebc1baa412f76a825a7bd2369cebf72a101e7f45836fefa0fcae90ca4",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N25.json"
+      },
+      "source_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose",
+          "resting_pose",
+          "styling"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Excellent prone posture and forward paws; useful lateral ear spread.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state."
+        ],
+        "evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md"
+      },
+      "source_observation": {
+        "date": "2026-10-03",
+        "pose_view_camera": "Sternal recline on mat; front three-quarter at raised camera",
+        "visible_features": "Extended narrow forelegs; small paws; full torso; pale chest; ears diagonally outward",
+        "limitations": "Hindfeet and tail concealed; plush partly covers toes; cannot supply standing leg/trunk ratios",
+        "recommended_uses": [
+          "resting_pose",
+          "visible_anatomy",
+          "pose"
+        ],
+        "full_restrictions": [
+          "Excellent prone posture and forward paws; useful lateral ear spread.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Hindfeet and tail concealed; plush partly covers toes; cannot supply standing leg/trunk ratios"
+        ]
+      },
+      "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N25.json",
+      "inspection_sha256": "0e493b84294cbe31f8e7e484b1ce100d8bd7370e2de36f46b35f73b2eab5f99e"
+    },
+    {
+      "id": "B04",
+      "character": "Buddy",
+      "path": "Characters/Buddy/Photos/buddy-4.jpg",
+      "filename": "buddy-4.jpg",
+      "sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+      "archived_source_path": "03_Asset_Library/Characters/Buddy/buddy-4.jpg",
+      "same_exposure_group": "B04-B24",
+      "use": "Primary frontal standing and groomed facial pattern",
+      "approval_status": "unknown",
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "styling",
+          "standing_pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Excellent front-leg clearance, chest pattern and groomed face; useful standing stance. Same photographic exposure as B24 for evidence counting.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Tail partly cropped at left; grass hides toes; perspective foreshortens torso; B24 same exposure in separate encoding"
+        ],
+        "inspection_sha256": "dd7da906a0e61eb4cdbd84eac3c97fea3318813d5a874c4e6cd4d8d3ba890797",
+        "source_sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B04.json"
+      },
+      "source_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose",
+          "resting_pose",
+          "styling"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Excellent front-leg clearance, chest pattern and groomed face; useful standing stance. Same photographic exposure as B24 for evidence counting.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state."
+        ],
+        "evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+        "same_exposure_group": "B04-B24"
+      },
+      "source_observation": {
+        "date": "2026-10-03",
+        "pose_view_camera": "Standing front three-quarter outdoors; approximately chest-level",
+        "visible_features": "Deep chest; substantial leg shafts; pale lower legs and splaying foot hair; dark torso; pale chest sides/dark throat; long pendant ear fringe; pale muzzle/brows",
+        "limitations": "Tail partly cropped at left; grass hides toes; perspective foreshortens torso; B24 same exposure in separate encoding",
+        "recommended_uses": [
+          "standing_pose",
+          "visible_anatomy",
+          "styling"
+        ],
+        "full_restrictions": [
+          "Excellent front-leg clearance, chest pattern and groomed face; useful standing stance. Same photographic exposure as B24 for evidence counting.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Tail partly cropped at left; grass hides toes; perspective foreshortens torso; B24 same exposure in separate encoding"
+        ]
+      },
+      "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B04.json",
+      "inspection_sha256": "dd7da906a0e61eb4cdbd84eac3c97fea3318813d5a874c4e6cd4d8d3ba890797"
+    },
+    {
+      "id": "B29",
+      "character": "Buddy",
+      "path": "Characters/Buddy/Photos/buddy-29.jpeg",
+      "filename": "buddy-29.jpeg",
+      "sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+      "archived_source_path": "03_Asset_Library/Characters/Buddy/buddy-29.jpeg",
+      "same_exposure_group": null,
+      "use": "Side stride, torso length, leg clearance and tail curve",
+      "approval_status": "unknown",
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Best available lateral body-length, tail-length/carriage and walking-pose reference; weak fine landmarks because blurred and not neutral standing.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Motion blur and lifted legs; cannot establish neutral back slope, exact leg ratios or gait timing from still"
+        ],
+        "inspection_sha256": "c671664ca5e4e2e07bfd3049ea641c3a1645742fb8290494e67a17f7ed213ea9",
+        "source_sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B29.json"
+      },
+      "source_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose",
+          "resting_pose",
+          "styling"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Best available lateral body-length, tail-length/carriage and walking-pose reference; weak fine landmarks because blurred and not neutral standing.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state."
+        ],
+        "evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md"
+      },
+      "source_observation": {
+        "date": "2026-10-03",
+        "pose_view_camera": "Left-facing walking side view indoors; near body-level",
+        "visible_features": "Elongated dark trunk; projecting muzzle/pendant ears; pale lower legs; dark tapering tail held low with gentle curve; underside hair fringe",
+        "limitations": "Motion blur and lifted legs; cannot establish neutral back slope, exact leg ratios or gait timing from still",
+        "recommended_uses": [
+          "pose",
+          "visible_anatomy"
+        ],
+        "full_restrictions": [
+          "Best available lateral body-length, tail-length/carriage and walking-pose reference; weak fine landmarks because blurred and not neutral standing.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Motion blur and lifted legs; cannot establish neutral back slope, exact leg ratios or gait timing from still"
+        ]
+      },
+      "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B29.json",
+      "inspection_sha256": "c671664ca5e4e2e07bfd3049ea641c3a1645742fb8290494e67a17f7ed213ea9"
+    }
+  ],
+  "restrictions": [
+    "N35 excludes anatomy",
+    "B08 styling only unused",
+    "B25 unavailable",
+    "B30 supplemental resting only unused",
+    "Each exposure counted once"
+  ],
+  "generation_calls": [
+    {
+      "id": "staging-v003",
+      "arguments": {
+        "prompt": "Use case: illustration-story. Draw an actual TWO PANEL pencil storyboard, horizontal panels stacked. Photos inputs1-4 are anatomy authority only; input5 generated model provisional geometry only (do NOT copy its hairy torso texture). PANEL TOP: Austin laundry room, small tan Neet sits upright in side three-quarter facing closed glass tumble dryer watching a red shirt inside; larger charcoal Buddy lies LENGTHWISE BESIDE dryer, two forepaws on floor, relaxed chin raised. Dryer remains shut; no dog in appliance. Show Buddy continuous moderately long ribcage/spine/pelvis, natural tucked hindlegs and supported belly; Neet fine forelegs and full narrow torso. PANEL BOTTOM: living room folding station, Sagar cropped at shoulders holds Neet securely with one arm under chest and one beneath pelvis, all dog limbs coherently attached; Heather cropped at shoulders stands left with folded towels. Buddy now SITS on small white towel pile on sofa, forepaws firmly supported, smug quiet face. No duplicated characters in either panel. No speech or text. Draw clean spatial construction/limb roots/contact shadows. Neet smooth short coat broad triangular ears tiny nub; Buddy close torso, substantial legs, modest head projecting irregular moustache and chin beard curved brows pendant furnished ears. No shag bodies. Warm affectionate comedy, not distress. Photo policies: N35 excluded anatomy, B08 styling only unused, B25 unavailable, B30 rest only unused; one exposure once, uncalibrated photographs no measurements.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-25.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/Library-Refinement/model-standing-v002.png"
+        ],
+        "transparent_background": false
+      },
+      "inputs": [
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+          "role": "original photograph anatomy authority within copied policy"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-25.jpeg",
+          "sha256": "67530c2ebc1baa412f76a825a7bd2369cebf72a101e7f45836fefa0fcae90ca4",
+          "role": "original photograph anatomy authority within copied policy"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+          "sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+          "role": "original photograph anatomy authority within copied policy"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+          "sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+          "role": "original photograph anatomy authority within copied policy"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/Library-Refinement/model-standing-v002.png",
+          "sha256": "c4c6b607727759b347f93ccef664b0ac4b9a8ade512908343748fb9e2a96e9b6",
+          "role": "provisional geometry model, not anatomy authority; texture rejected"
+        }
+      ],
+      "output": {
+        "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E043-the-great-laundry-day-uprising/staging-v003.png",
+        "sha256": "b92c96e818c1cce04059338e4fb6c01402b97b236a9f5fe77ddd8551c10ac33b",
+        "dimensions": [
+          1536,
+          1024
+        ]
+      },
+      "source_output_path": "/Users/sagar/.codex/generated_images/01a106c6-ab97-7702-90aa-804740d3e5e0/exec-cd935402-97ca-4f5c-aab3-8716975e1674.png",
+      "inspection": {
+        "native_resolution_opened": true,
+        "observations": [
+          "Top: Neet seated forelegs support, Buddy continuous prone body with bent hindlegs and two forepaws, floor contacts visible; appliance closed.",
+          "Bottom: both supporting human arms separate, chest and pelvic support visible, Neet four attached limbs, Buddy forepaws supported on towels, shoulder-to-haunch connection coherent.",
+          "Pencil hatch texture is staging only; finished coats must be smooth."
+        ]
+      }
+    },
+    {
+      "id": "dryer-art-v001",
+      "arguments": {
+        "prompt": "Use case: sketch-to-render. Finished narrative book illustration, warm delicate watercolor background with clean smooth color planes on dogs. Input1 drawn staging; inputs2-4 ORIGINAL PHOTOS control anatomy and facial grooming, final input BODY FINISH ONLY (do not copy Great Dane or flowers or Buddy face). Neet short smooth fawn coat clean silhouette NO engraved hairs, curls, hatching or shag anywhere; fine legs full narrow torso broad triangular ears tiny nub. Buddy smooth close charcoal torso continuous moderately long trunk substantial limbs, NO body curls or hatching or shag outline. CRITICAL retain photoreferenced IRREGULAR projecting pale moustache, modest under-chin beard, curved eyebrows, regionally furnished ears and paws; don't make pale smooth mask or rounded teddy snout. Clean coherent limbs, natural modest heads and eyes, weight supported. Human likeness provisional. No text. Photo restrictions N35 no anatomy, B08 styling only unused, B25 unavailable, B30 rest supplemental unused, no measured ratios, one exposure counts once. Render ONLY TOP PANEL as one complete landscape illustration. Neet sits inspecting closed glass dryer with red shirt tumbling inside. Buddy lies resting comfortably beside the appliance with continuous shoulder/ribcage/haunch, forepaws supported and rearlegs naturally folded. Keep their body construction and floor geometry from drawing, use view broad enough to show both bodies. No lower panel or humans. Scene is affectionate comedy about useless inspection and useful warmth.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E043-the-great-laundry-day-uprising/staging-v003.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png"
+        ],
+        "transparent_background": false
+      },
+      "inputs": [
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E043-the-great-laundry-day-uprising/staging-v003.png",
+          "sha256": "b92c96e818c1cce04059338e4fb6c01402b97b236a9f5fe77ddd8551c10ac33b",
+          "role": "staging/parent composition; generated interpretation"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+          "role": "photograph anatomy authority; full policy in references"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+          "sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+          "role": "photograph anatomy authority; full policy in references"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+          "sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+          "role": "photograph anatomy authority; full policy in references"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "sha256": "19be9a85760177405bbedd26644a7e0eb9c7945709e43825d201ff2fa91742b9",
+          "role": "BODY FINISH ONLY; no face or anatomical authority"
+        }
+      ],
+      "output": {
+        "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E043-the-great-laundry-day-uprising/dryer-art-v001.png",
+        "sha256": "c680bf589e55c073475ecf2e7722977869efe4230a767ebf15044d32cf168f3d",
+        "dimensions": [
+          1536,
+          1024
+        ]
+      },
+      "source_output_path": "/Users/sagar/.codex/generated_images/01a106c6-ab97-7702-90aa-804740d3e5e0/exec-d72cdbe0-4395-4f05-b2df-c261053b7001.png",
+      "model": "unknown",
+      "seed": "unknown",
+      "native_resolution_opened": true,
+      "status": "superseded_coat_texture"
+    },
+    {
+      "id": "folding-art-v001",
+      "arguments": {
+        "prompt": "Use case: sketch-to-render. Finished narrative book illustration, warm delicate watercolor background with clean smooth color planes on dogs. Input1 drawn staging; inputs2-4 ORIGINAL PHOTOS control anatomy and facial grooming, final input BODY FINISH ONLY (do not copy Great Dane or flowers or Buddy face). Neet short smooth fawn coat clean silhouette NO engraved hairs, curls, hatching or shag anywhere; fine legs full narrow torso broad triangular ears tiny nub. Buddy smooth close charcoal torso continuous moderately long trunk substantial limbs, NO body curls or hatching or shag outline. CRITICAL retain photoreferenced IRREGULAR projecting pale moustache, modest under-chin beard, curved eyebrows, regionally furnished ears and paws; don't make pale smooth mask or rounded teddy snout. Clean coherent limbs, natural modest heads and eyes, weight supported. Human likeness provisional. No text. Photo restrictions N35 no anatomy, B08 styling only unused, B25 unavailable, B30 rest supplemental unused, no measured ratios, one exposure counts once. Render ONLY BOTTOM PANEL as one complete landscape illustration. Sagar cropped above shoulders securely supports Neet under chest and pelvis, four limbs attached naturally. Heather cropped above shoulders holds towels left; Buddy sits upright on white towel stack on couch right, forepaws on top, looking quietly pleased at gaining position. Neet looks toward Buddy. Keep drawing's coherent supporting hands and anatomical construction, but correct all shag torso texture. No upper panel or dryer. Slightly wider to show couch context. No socks.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E043-the-great-laundry-day-uprising/staging-v003.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png"
+        ],
+        "transparent_background": false
+      },
+      "inputs": [
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E043-the-great-laundry-day-uprising/staging-v003.png",
+          "sha256": "b92c96e818c1cce04059338e4fb6c01402b97b236a9f5fe77ddd8551c10ac33b",
+          "role": "staging/parent composition; generated interpretation"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+          "role": "photograph anatomy authority; full policy in references"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+          "sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+          "role": "photograph anatomy authority; full policy in references"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+          "sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+          "role": "photograph anatomy authority; full policy in references"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "sha256": "19be9a85760177405bbedd26644a7e0eb9c7945709e43825d201ff2fa91742b9",
+          "role": "BODY FINISH ONLY; no face or anatomical authority"
+        }
+      ],
+      "output": {
+        "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E043-the-great-laundry-day-uprising/folding-art-v001.png",
+        "sha256": "33b8c8635a3c8998e5af1dac3f4f06165e3444038936ec295dffaed35fd23013",
+        "dimensions": [
+          1536,
+          1024
+        ]
+      },
+      "source_output_path": "/Users/sagar/.codex/generated_images/01a106c6-ab97-7702-90aa-804740d3e5e0/exec-fd5eff1b-070e-4db9-a4de-28423cd7ff1e.png",
+      "model": "unknown",
+      "seed": "unknown",
+      "native_resolution_opened": true,
+      "status": "superseded_coat_texture"
+    },
+    {
+      "id": "sock-art-v003",
+      "arguments": {
+        "prompt": "Use case: precise-object-edit. Input1 existing sock scene edit target; preserve exact composition, connected TWO blue socks held in Buddy mouth and dragging on floor, lifted forepaw, other three support feet, Neet on couch laundry, pointing hand and room. Inputs2-4 originals anatomy authority. Last input BODY FINISH ONLY, not anatomy or Buddy face. Remove engraved curled hair texture from BOTH dogs entirely: Neet full body clean smooth warm fawn planes no fine curly lines. Buddy charcoal body smooth close-clipped color planes clean contours, no curls/etching/shag. Do NOT oversmooth Buddy face: retain projecting irregular offwhite moustache, modest chin beard, curved brows and regional ear and paw furnishings from photo B04. Maintain moderately elongated full trunk neck substantial legs real clearance, slender tapered dark tail. No other changes, no new objects/text. N35 no anatomy, B08 styling only unused, B25 unavailable, B30 rest only unused, one exposure once, no calibrated measurement.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E043-the-great-laundry-day-uprising/illustration-v002.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png"
+        ],
+        "transparent_background": false
+      },
+      "inputs": [
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E043-the-great-laundry-day-uprising/illustration-v002.png",
+          "sha256": "ab2acfa42dc529b9b34c85797142ea296c1e0a94801b0c3baa5f9f5fc3ddc18a",
+          "role": "staging/parent composition; generated interpretation"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+          "role": "photograph anatomy authority; full policy in references"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+          "sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+          "role": "photograph anatomy authority; full policy in references"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+          "sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+          "role": "photograph anatomy authority; full policy in references"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "sha256": "19be9a85760177405bbedd26644a7e0eb9c7945709e43825d201ff2fa91742b9",
+          "role": "BODY FINISH ONLY; no face or anatomical authority"
+        }
+      ],
+      "output": {
+        "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E043-the-great-laundry-day-uprising/sock-art-v003.png",
+        "sha256": "0a10116db71a0232b3446b1475d4abb37e5ff6e27d3ee769858d7fe81a075da2",
+        "dimensions": [
+          1536,
+          1024
+        ]
+      },
+      "source_output_path": "/Users/sagar/.codex/generated_images/01a106c6-ab97-7702-90aa-804740d3e5e0/exec-498173b8-5d23-4a05-a2be-1416bf6f2af6.png",
+      "model": "unknown",
+      "seed": "unknown",
+      "native_resolution_opened": true,
+      "status": "superseded_coat_texture"
+    },
+    {
+      "id": "dryer-art-v002",
+      "arguments": {
+        "prompt": "Use case: precise-object-edit. Image1 TARGET. Change ONLY dogs' coat rendering and position Buddy a little nearer appliance side as resting by it. The current image FAILED: both torsos have curly engraved fur and shag. REPAINT both bodies as broad SMOOTH FLAT COLOR PLANES like image2. This is mandatory, erase ALL hair-strand marks on Neet head neck trunk legs rump AND Buddy neck shoulders ribcage flank haunch upper limbs. Entire tan and charcoal body surfaces must be simple cel-watercolor shapes, not realistic fur. Keep silhouettes smooth. No curl/no scratches/no hatch. Retain Buddy facial moustache whisker strands, modest chin beard, curved eyebrows, regional ear fringe and small paw furnishings ONLY. Preserve staging, all limb positions and proportions, closed dryer/red shirt, background. Image2 controls BODY FINISH ONLY, not anatomy or face. Photos3-5 are anatomy and Buddy face authority. Do not copy Great Dane or flowers. Neet tiny nub, fine legs full torso. Buddy continuous long torso substantial limbs. No words. N35 excluded anatomy, B08 styling only unused, B25 unavailable, B30 rest only unused.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E043-the-great-laundry-day-uprising/dryer-art-v001.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg"
+        ],
+        "transparent_background": false
+      },
+      "inputs": [
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E043-the-great-laundry-day-uprising/dryer-art-v001.png",
+          "sha256": "c680bf589e55c073475ecf2e7722977869efe4230a767ebf15044d32cf168f3d",
+          "role": "staging/parent composition; generated interpretation"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "sha256": "19be9a85760177405bbedd26644a7e0eb9c7945709e43825d201ff2fa91742b9",
+          "role": "BODY FINISH ONLY; no face or anatomical authority"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+          "role": "photograph anatomy authority; full policy in references"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+          "sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+          "role": "photograph anatomy authority; full policy in references"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+          "sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+          "role": "photograph anatomy authority; full policy in references"
+        }
+      ],
+      "output": {
+        "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E043-the-great-laundry-day-uprising/dryer-art-v002.png",
+        "sha256": "c8cb31fa2bc9af8cb56ce348f9b0c0fe7eccfbc5b53960b39262db8103b4a2d6",
+        "dimensions": [
+          1536,
+          1024
+        ]
+      },
+      "source_output_path": "/Users/sagar/.codex/generated_images/01a106c6-ab97-7702-90aa-804740d3e5e0/exec-583641b8-706a-4036-a0ae-92ef0db776b6.png",
+      "model": "unknown",
+      "seed": "unknown",
+      "native_resolution_opened": true,
+      "status": "proposed_pending_independent_review"
+    },
+    {
+      "id": "folding-art-v002",
+      "arguments": {
+        "prompt": "Use case: precise-object-edit. Image1 TARGET. Change ONLY dogs' coat rendering  The current image FAILED: both torsos have curly engraved fur and shag. REPAINT both bodies as broad SMOOTH FLAT COLOR PLANES like image2. This is mandatory, erase ALL hair-strand marks on Neet head neck trunk legs rump AND Buddy neck shoulders ribcage flank haunch upper limbs. Entire tan and charcoal body surfaces must be simple cel-watercolor shapes, not realistic fur. Keep silhouettes smooth. No curl/no scratches/no hatch. Retain Buddy facial moustache whisker strands, modest chin beard, curved eyebrows, regional ear fringe and small paw furnishings ONLY. Preserve staging, all limb positions and proportions, human support/towels/living room, background. Image2 controls BODY FINISH ONLY, not anatomy or face. Photos3-5 are anatomy and Buddy face authority. Do not copy Great Dane or flowers. Neet tiny nub, fine legs full torso. Buddy continuous long torso substantial limbs. No words. N35 excluded anatomy, B08 styling only unused, B25 unavailable, B30 rest only unused.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E043-the-great-laundry-day-uprising/folding-art-v001.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg"
+        ],
+        "transparent_background": false
+      },
+      "inputs": [
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E043-the-great-laundry-day-uprising/folding-art-v001.png",
+          "sha256": "33b8c8635a3c8998e5af1dac3f4f06165e3444038936ec295dffaed35fd23013",
+          "role": "staging/parent composition; generated interpretation"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "sha256": "19be9a85760177405bbedd26644a7e0eb9c7945709e43825d201ff2fa91742b9",
+          "role": "BODY FINISH ONLY; no face or anatomical authority"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+          "role": "photograph anatomy authority; full policy in references"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+          "sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+          "role": "photograph anatomy authority; full policy in references"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+          "sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+          "role": "photograph anatomy authority; full policy in references"
+        }
+      ],
+      "output": {
+        "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E043-the-great-laundry-day-uprising/folding-art-v002.png",
+        "sha256": "c11cf9716b4f969c0a81d4065563d3e5b01d711a28e66e7261346f37e4f93e39",
+        "dimensions": [
+          1536,
+          1024
+        ]
+      },
+      "source_output_path": "/Users/sagar/.codex/generated_images/01a106c6-ab97-7702-90aa-804740d3e5e0/exec-a8b60719-1024-4ee1-9356-6a31ccd02943.png",
+      "model": "unknown",
+      "seed": "unknown",
+      "native_resolution_opened": true,
+      "status": "proposed_pending_independent_review"
+    },
+    {
+      "id": "sock-art-v004",
+      "arguments": {
+        "prompt": "Use case: precise-object-edit. Image1 TARGET. Change ONLY dogs' coat rendering  The current image FAILED: both torsos have curly engraved fur and shag. REPAINT both bodies as broad SMOOTH FLAT COLOR PLANES like image2. This is mandatory, erase ALL hair-strand marks on Neet head neck trunk legs rump AND Buddy neck shoulders ribcage flank haunch upper limbs. Entire tan and charcoal body surfaces must be simple cel-watercolor shapes, not realistic fur. Keep silhouettes smooth. No curl/no scratches/no hatch. Retain Buddy facial moustache whisker strands, modest chin beard, curved eyebrows, regional ear fringe and small paw furnishings ONLY. Preserve staging, all limb positions and proportions, two blue socks joined at cuff held in Buddy mouth and dragging, Neet prone on clothes, pointing hand, background. Image2 controls BODY FINISH ONLY, not anatomy or face. Photos3-5 are anatomy and Buddy face authority. Do not copy Great Dane or flowers. Neet tiny nub, fine legs full torso. Buddy continuous long torso substantial limbs. No words. N35 excluded anatomy, B08 styling only unused, B25 unavailable, B30 rest only unused.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E043-the-great-laundry-day-uprising/sock-art-v003.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg"
+        ],
+        "transparent_background": false
+      },
+      "inputs": [
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E043-the-great-laundry-day-uprising/sock-art-v003.png",
+          "sha256": "0a10116db71a0232b3446b1475d4abb37e5ff6e27d3ee769858d7fe81a075da2",
+          "role": "staging/parent composition; generated interpretation"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "sha256": "19be9a85760177405bbedd26644a7e0eb9c7945709e43825d201ff2fa91742b9",
+          "role": "BODY FINISH ONLY; no face or anatomical authority"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+          "role": "photograph anatomy authority; full policy in references"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+          "sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+          "role": "photograph anatomy authority; full policy in references"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+          "sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+          "role": "photograph anatomy authority; full policy in references"
+        }
+      ],
+      "output": {
+        "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E043-the-great-laundry-day-uprising/sock-art-v004.png",
+        "sha256": "69bc6aa71f0a34ffb8694309ffc41fa62fa3ee6b9bdb3e22cad77a7c877a31f1",
+        "dimensions": [
+          1536,
+          1024
+        ]
+      },
+      "source_output_path": "/Users/sagar/.codex/generated_images/01a106c6-ab97-7702-90aa-804740d3e5e0/exec-6d6c0dcc-e6dc-4a84-bcbc-d637208402a1.png",
+      "model": "unknown",
+      "seed": "unknown",
+      "native_resolution_opened": true,
+      "status": "proposed_pending_independent_review"
+    }
+  ],
+  "model_inspection": {
+    "path": "Productions/Library-Refinement/model-standing-v002.png",
+    "sha256": "c4c6b607727759b347f93ccef664b0ac4b9a8ade512908343748fb9e2a96e9b6",
+    "findings": "Opened model and eligible originals. Model carries excessive torso hatch texture; use geometry provisionally only. Photos control anatomy. E001 max-art-v005 opened as secondary smooth body finish example only; preserve Buddy original facial furnishings."
+  },
+  "approval": "unapproved",
+  "publication": "not_published",
+  "generator_inspection": {
+    "sock-art-v004": "Smooth torso planes now replace curls. Buddy irregular projecting moustache and underchin furnish remain; cuff connection and lifted forepaw preserved. Neet supported prone on shirts.",
+    "dryer-art-v002": "Sitting Neet and supported prone Buddy remain connected, smooth body planes, regional facial furnish retained. Buddy beside dryer rather than leaning physically against its side; prose staging clarified without changing warmth incident.",
+    "folding-art-v002": "Four Neet limbs and chest/pelvis human support remain legible. Buddy sits on towels with supported forepaws, smooth torso and furnished face. Independent reviewer should check small nub edge and Buddy neck contour."
+  },
+  "self_acceptance": false,
+  "independent_visual_review": "pending",
+  "complete_rendered_reading": "pending",
+  "rejected_mapping": [
+    {
+      "former_path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E043-the-great-laundry-day-uprising/dryer-art-v001.png",
+      "recoverable_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S043-expanded/dryer-art-v001.png",
+      "sha256": "c680bf589e55c073475ecf2e7722977869efe4230a767ebf15044d32cf168f3d",
+      "reason": "Body coat curls/engraved hair; corrected version selected for review."
+    },
+    {
+      "former_path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E043-the-great-laundry-day-uprising/folding-art-v001.png",
+      "recoverable_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S043-expanded/folding-art-v001.png",
+      "sha256": "33b8c8635a3c8998e5af1dac3f4f06165e3444038936ec295dffaed35fd23013",
+      "reason": "Body coat curls/engraved hair; corrected version selected for review."
+    },
+    {
+      "former_path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E043-the-great-laundry-day-uprising/sock-art-v003.png",
+      "recoverable_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S043-expanded/sock-art-v003.png",
+      "sha256": "0a10116db71a0232b3446b1475d4abb37e5ff6e27d3ee769858d7fe81a075da2",
+      "reason": "Body coat curls/engraved hair; corrected version selected for review."
+    }
+  ]
+}

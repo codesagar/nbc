@@ -1,0 +1,281 @@
+{
+  "story_id": "S069",
+  "episode_id": "E069",
+  "review_version": "v002",
+  "date": "2026-10-04",
+  "reviewer": "independent visual069",
+  "independent_of_generation": true,
+  "status": "accepted",
+  "story": {
+    "path": "Stories/S069-the-festival-of-lights.md",
+    "sha256": "f76e0ff2eefcb691cdc70a65762286b21bb29775500d19f23dd326bee9161f38"
+  },
+  "complete_primary_read": true,
+  "meaningful_alternatives": "No separate meaningful alternative narrative in current working story.",
+  "inspection_method": "Opened four selected original photos using original-detail viewer (viewer downsampled their large originals); opened all four shared model sheets, drawn staging and all finished images. Final full-frame viewer reduced 2066/2065 width to 2048, so additionally opened overlapping left/right 1:1 native pixel crops covering every pixel of every final. No image generation or artwork mutation performed.",
+  "selected_originals": [
+    {
+      "path": "Characters/Neet/Photos/neet-19.jpeg",
+      "sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+      "dimensions": [
+        5712,
+        4284
+      ],
+      "id": "N19",
+      "same_exposure_group": null,
+      "full_effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "styling",
+          "standing_pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Primary standing body proportions, paws, hocks and stub silhouette; head is not a pure profile.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Head rotated; far limbs overlap; uncalibrated camera offers no measurements; room light subdued"
+        ],
+        "inspection_sha256": "b2c6db0a5af6a885d993cbd986cc2759b9461e693fbcabd8aa96bce1eb5ea901",
+        "source_sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N19.json"
+      }
+    },
+    {
+      "path": "Characters/Neet/Photos/neet-25.jpeg",
+      "sha256": "67530c2ebc1baa412f76a825a7bd2369cebf72a101e7f45836fefa0fcae90ca4",
+      "dimensions": [
+        5712,
+        4284
+      ],
+      "id": "N25",
+      "same_exposure_group": null,
+      "full_effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose",
+          "resting_pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Excellent prone posture and forward paws; useful lateral ear spread.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Hindfeet and tail concealed; plush partly covers toes; cannot supply standing leg/trunk ratios"
+        ],
+        "inspection_sha256": "0e493b84294cbe31f8e7e484b1ce100d8bd7370e2de36f46b35f73b2eab5f99e",
+        "source_sha256": "67530c2ebc1baa412f76a825a7bd2369cebf72a101e7f45836fefa0fcae90ca4",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N25.json"
+      }
+    },
+    {
+      "path": "Characters/Buddy/Photos/buddy-19.jpg",
+      "sha256": "201ec36498d5aaa85ef6e44a9176c333587d95797279a689237ccb49090ee521",
+      "dimensions": [
+        3024,
+        4032
+      ],
+      "id": "B19",
+      "same_exposure_group": null,
+      "full_effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "resting_pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Excellent low face, ear-root tufts, muzzle sweep and head-between-paws reference; poor global proportions.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Nearest face enlarged by perspective; rear blurred; limbs folded; no neutral head/body proportions"
+        ],
+        "inspection_sha256": "6686639617369f80387a581720cb9d28a2f0f5cf940da025eadf8b420095dfd2",
+        "source_sha256": "201ec36498d5aaa85ef6e44a9176c333587d95797279a689237ccb49090ee521",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B19.json"
+      }
+    },
+    {
+      "path": "Characters/Buddy/Photos/buddy-23.jpeg",
+      "sha256": "60dd71b7a29ffaf0d16e2f55c49ad693405231b9a757e2f293adb321608574b1",
+      "dimensions": [
+        5712,
+        4284
+      ],
+      "id": "B23",
+      "same_exposure_group": null,
+      "full_effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "standing_pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Excellent complementary turned-head standing view to B04; useful muzzle projection, ear fringe and leg clearance.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Grass obscures toes; tail hidden; perspective shortens torso; sunshine changes coat tones"
+        ],
+        "inspection_sha256": "5dd6d57155e1952c2f2d29c2bc19d603b54d291b20fa931bf8b20960400124e8",
+        "source_sha256": "60dd71b7a29ffaf0d16e2f55c49ad693405231b9a757e2f293adb321608574b1",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B23.json"
+      }
+    }
+  ],
+  "reference_policy_verification": "Copied effective policies match current Characters/reference-policy.json. N35 excludes anatomy, B08 styling only, B25 unavailable, B30 supplemental rest; none selected. Distinct chosen originals count as four exposures; no measurement or motion inference.",
+  "models_opened": [
+    {
+      "path": "Productions/Library-Refinement/model-standing-v002.png",
+      "sha256": "c4c6b607727759b347f93ccef664b0ac4b9a8ade512908343748fb9e2a96e9b6",
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "path": "Productions/Library-Refinement/model-rest-action-v002.png",
+      "sha256": "c990ae5c598523ff864446e32995d110e6f38298cf87eae3d12bfd9792b4eb3e",
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "path": "Productions/Library-Refinement/model-paired-standing-v001.png",
+      "sha256": "fd6dee30a27d1214f03469e1a56eadfeac89bb18261eb1a655c3f8bf7fdbd48e",
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "path": "Productions/Library-Refinement/model-finish-calibration-v004.png",
+      "sha256": "193dc8f81770a87933c6c599fce5a04f3c51cfbe21898459be2b511e989910a3",
+      "dimensions": [
+        1448,
+        1086
+      ]
+    }
+  ],
+  "staging_opened": {
+    "path": "Productions/E069-the-festival-of-lights/staging-v002.png",
+    "sha256": "f97cdcfffa9fe242896172bf6a0020c25da931ad4cbc146cbfe018b3ae7fb3ee",
+    "dimensions": [
+      1536,
+      1024
+    ]
+  },
+  "images": [
+    {
+      "path": "Productions/E069-the-festival-of-lights/scene01-shop-v005.png",
+      "sha256": "a00d64bd07597f99a588bb61c686160ea4ca5a17be9cc6dbb9da9bada77f4904",
+      "dimensions": [
+        2066,
+        761
+      ],
+      "status": "accepted",
+      "native_resolution_inspected": true,
+      "findings": [
+        "Neet has four separately attributable planted feet, a full narrow smooth tan torso, fine legs, projecting muzzle, broad triangular ears and a short rump nub. Buddy has four substantial grounded legs, continuous neck/chest/ribcage/pelvis, real clearance, dark tapered tail, pale muzzle/brows and pendant regional ear furnishings.",
+        "Native overlapping crop inspection confirms broad smooth torso fills and smooth contour; thin marks are limited to face/ear furnishings and anatomical boundaries. The textured shop flooring is background pigment/pattern, not coat hair.",
+        "Boxed fireworks, garlands, low shelf and shared tiled floor establish Indian-store shopping. Neet stands alert at the fireworks while Buddy directs attention offscreen toward the purchased flower pot, now in cart outside frame. No premature explosion or duplicate plant; confident setup is legible."
+      ],
+      "material_findings": []
+    },
+    {
+      "path": "Productions/E069-the-festival-of-lights/scene02-door-v005.png",
+      "sha256": "2046cc131df60c9dd6cd9ae48717aad458fb7cd923fca7786a178d65e1e170a5",
+      "dimensions": [
+        2066,
+        761
+      ],
+      "status": "accepted",
+      "native_resolution_inspected": true,
+      "findings": [
+        "Buddy has three planted feet and one raised forepaw contacting the closed door, with attributable limb roots, continuous torso and neck, plausible weight support and a wholly dark tapered lowered tail. Neet has two bent forelegs, a near hind paw and a separate partly occluded far hind foot beneath the abdomen.",
+        "S069-V002-01 resolved in actual v005: the long ground-level tan taper behind Neet near hind hock is removed and matching mat is visible. Upper rump nub remains; two forepaws, near folded hindleg/paw and partly occluded far hind foot remain attributable. Entire replacement inspected in overlapping native pixel crops: no new appendage, support, contour, face, proportion or coat defects. Smooth body fills remain free of engraved curly hairs.",
+        "Body color fills are smooth and free of engraved curl/strand texture. Alarmed low Neet and urgent Buddy paw at closed back door communicate reversal. Night garden, marigold doorway, mat and lamplight fit backyard retreat; active firework remains offscreen."
+      ],
+      "material_findings": []
+    },
+    {
+      "path": "Productions/E069-the-festival-of-lights/scene03-home-v002.png",
+      "sha256": "315cb1f26e61e30cb375f93ed83c679ad054b98c7baebead8354fbf7e60ef07c",
+      "dimensions": [
+        2065,
+        761
+      ],
+      "status": "accepted",
+      "native_resolution_inspected": true,
+      "findings": [
+        "Neet rests on the rug with two connected extended fine forelegs, full narrow torso and folded haunch/hock ending in a visible paw; the other hind paw is partly visible beneath him. The curved tan contour at right rear is a folded hindleg terminating in toes, not an added tail. Buddy has a continuous neck/chest/body and folded haunch on the cushion, with two forelegs draped over its soft rim. Rear feet and tail are credibly occluded by body/bed.",
+        "Native crops show clean broad tan/charcoal body planes with regional Buddy muzzle, brow and ear strands only. No curly torso strokes, shag expansion, detached feet or material silhouette defects.",
+        "Distinct quiet wide composition preserves separate rug/cushion places, purple-sweater Heather holding kulfi and Sagar holding chai, cozy Diwali lamps and relaxed dogs. Human faces are cropped/provisional; hands connect to sleeves and held objects. It fits the pre-ear-scratching anchor and supplies an earned calm contrast."
+      ],
+      "material_findings": []
+    }
+  ],
+  "open_material_findings": [],
+  "approval": "unapproved",
+  "publication": "not_published",
+  "review_history": [
+    {
+      "status": "needs_rework",
+      "image": {
+        "path": "Productions/E069-the-festival-of-lights/scene02-door-v004.png",
+        "sha256": "a3269a8d414e2075a8844412bc8b4b2a54bac40d275991dd73306782ecf7d562",
+        "dimensions": [
+          2066,
+          761
+        ],
+        "status": "needs_rework",
+        "native_resolution_inspected": true,
+        "findings": [
+          "Buddy has three planted feet and one raised forepaw contacting the closed door, with attributable limb roots, continuous torso and neck, plausible weight support and a wholly dark tapered lowered tail. Neet has two bent forelegs, a near hind paw and a separate partly occluded far hind foot beneath the abdomen.",
+          "Material defect: Neet also has a tan taper lying leftward behind his near hind hock, approximately x1200-1280/y565-590 in the 2066x761 original. It has no paw or joint termination and reads as a second long tail despite the separate visible nub at upper rump. It is additional to the four owned limbs. Remove this residual tail-like appendage while preserving the nub and four limbs.",
+          "Body color fills are smooth and free of engraved curl/strand texture. Alarmed low Neet and urgent Buddy paw at closed back door communicate reversal. Night garden, marigold doorway, mat and lamplight fit backyard retreat; active firework remains offscreen."
+        ],
+        "material_findings": [
+          {
+            "id": "S069-V002-01",
+            "category": "anatomy_tail_ownership",
+            "severity": "material",
+            "finding": "Material defect: Neet also has a tan taper lying leftward behind his near hind hock, approximately x1200-1280/y565-590 in the 2066x761 original. It has no paw or joint termination and reads as a second long tail despite the separate visible nub at upper rump. It is additional to the four owned limbs. Remove this residual tail-like appendage while preserving the nub and four limbs.",
+            "required_correction": "Remove the ground-level tan taper behind Neet near hind hock; keep upper rump nub and all four attributable limbs. Reinspect entire actual replacement at native resolution."
+          }
+        ]
+      },
+      "finding": "S069-V002-01",
+      "superseded_by": "scene02-door-v005.png"
+    }
+  ],
+  "closed_material_findings": [
+    {
+      "id": "S069-V002-01",
+      "status": "resolved",
+      "resolved_in": "Productions/E069-the-festival-of-lights/scene02-door-v005.png",
+      "sha256": "2046cc131df60c9dd6cd9ae48717aad458fb7cd923fca7786a178d65e1e170a5",
+      "evidence": "S069-V002-01 resolved in actual v005: the long ground-level tan taper behind Neet near hind hock is removed and matching mat is visible. Upper rump nub remains; two forepaws, near folded hindleg/paw and partly occluded far hind foot remain attributable. Entire replacement inspected in overlapping native pixel crops: no new appendage, support, contour, face, proportion or coat defects. Smooth body fills remain free of engraved curly hairs."
+    }
+  ],
+  "reinspection": {
+    "method": "Reopened all four selected original photographs; opened full v005 followed by overlapping 1:1 left/right crops covering entire 2066x761 replacement including prior defect region. Shop v005 and home v002 were unchanged by SHA-256 and retain prior native inspection.",
+    "correction_record": "Productions/E069-the-festival-of-lights/correction-generation-v003.json",
+    "result": "All three current selected images accepted; no open material visual findings."
+  }
+}

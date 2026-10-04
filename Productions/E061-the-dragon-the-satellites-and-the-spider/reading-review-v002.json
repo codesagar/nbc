@@ -1,0 +1,88 @@
+{
+  "story_id": "S061",
+  "episode_id": "E061-the-dragon-the-satellites-and-the-spider",
+  "reviewer": "fresh_reader061",
+  "date": "2026-10-04T15:51:17.772640+00:00",
+  "status": "accepted",
+  "independent_of_writing_and_generation": true,
+  "story": {
+    "path": "Stories/S061-the-dragon-the-satellites-and-the-spider.md",
+    "sha256": "e3c168192042e9e05d0b4183cef5b1b78fcbaf1be0de22d387f30202e8f69f69"
+  },
+  "images": [
+    {
+      "path": "Productions/E061-the-dragon-the-satellites-and-the-spider/setup-v004.png",
+      "sha256": "35e0d01a2166d2f32886999319546a7d35bb17fed4e9daed9e6a69e771c74c84"
+    },
+    {
+      "path": "Productions/E061-the-dragon-the-satellites-and-the-spider/fire-v005.png",
+      "sha256": "7f7ab421360025a80011223e545a53ed1036313ccd6b34933720e64b36929b3d"
+    },
+    {
+      "path": "Productions/E061-the-dragon-the-satellites-and-the-spider/spider-v006.png",
+      "sha256": "b15b724d4205d6c4a57e8fedfe6941b7ea136f7ffdae44ce9cbbd78093bdcaa3"
+    }
+  ],
+  "complete_primary_read": true,
+  "meaningful_alternatives": {
+    "present": false,
+    "finding": "No alternative is contained in the complete current story; all four sections and provenance/refinement footer read."
+  },
+  "inspection_method": {
+    "type": "native_cua_browser_rendered_reading",
+    "url": "http://127.0.0.1:56824/Stories/S061-the-dragon-the-satellites-and-the-spider.md",
+    "browser": "Codex In-app Browser",
+    "viewport": [
+      1280,
+      720
+    ],
+    "procedure": "Opened direct reader URL using cua.createBrowserTab, inspected accessibility text and sequential overlapping native screenshots from title through complete footer using tab.scroll, tab.getAXState and tab.getScreenshot. Viewed each of all three embedded images in full at intended reading width (approximately 960 px); prose approximately 760 px column. No full-page thumbnail substituted for reading."
+  },
+  "findings": {
+    "humor_and_voices": [
+      "Neet turns ordinary shopping into military telemetry; Buddy physically removes Houston and declares Signal lost, giving the opening both a visual gag and a distinct comfort-seeking countervoice. The failed bone adjustment supplies a quiet pause.",
+      "Buddy has his own costly curiosity after correctly warning about chutney, then his own self-interested success taking the treat while refusing to block Neet. FLAMING JUSTICE is a motivated temporary loss of his normal restraint.",
+      "Heather acts promptly with water and attempts the treat lure; Sagar supplies the second cup and accepts the extra jug. Their practical and amused reactions remain distinct."
+    ],
+    "causality_and_timing": [
+      "Shopping establishes the later toy; the green chutney causes expressly literal cartoon fire, Buddy edges closer before his singed-tail sprint, and Heather extinguishes it. Singed fur tips are explicitly the whole injury, preserving affectionate cartoon stakes.",
+      "The spider stays in the mouth during its carry image and is pinned only after exhaustion. The short paw/squeak/withdrawal pauses make the threshold crossing funny without an illustration spoiling it."
+    ],
+    "emotional_payoff": [
+      "The uttapam peace treaty earns its calm: Buddy checks both portions, Neet waits for his nod and moves the toy away. Heather placing the water jug within reach recalls lunch while allowing the household to settle.",
+      "Literal cartoon fire, tail singe, six-legged budget spider and uttapam are all preserved; the ending remains warm and comically cautious."
+    ],
+    "image_placement_and_complementarity": [
+      {
+        "path": "Productions/E061-the-dragon-the-satellites-and-the-spider/setup-v004.png",
+        "finding": "Immediately follows the failed bone adjustment, before Buddy rolls over. Neet sits by remote/bone and Buddy lies with the removed ball; correct state and a readable spatial counterpart to Signal lost."
+      },
+      {
+        "path": "Productions/E061-the-dragon-the-satellites-and-the-spider/fire-v005.png",
+        "finding": "Follows You are a dragon, before Buddy edges closer and the singe. Small emitted flame and astonished Buddy with intact tail match this exact first-flame state; steel vessels, dosa and green chutney ground the lunch. Tight composition leaves other diners off frame."
+      },
+      {
+        "path": "Productions/E061-the-dragon-the-satellites-and-the-spider/spider-v006.png",
+        "finding": "Follows Buddy taking the treat and clearing the route, before collapse and threshold gag. Six distinct plush legs, mouth contact and the open lane beside seated Buddy read clearly. Forward stride is a selected instant of the carry, not a claim that the later resting state has already occurred."
+      }
+    ],
+    "layout": [
+      "All three images loaded, with no broken assets or clipped text. Images occupy separate complete beats and do not interrupt dialogue attribution. Setup, fantastical escalation and home chase provide complementary actions; quiet supper remains uncrowded.",
+      "Complete provenance and refinement footer is legible. Pending-review wording is historical integration state, not an owner-approval claim; root may update delivery accounting after this review."
+    ]
+  },
+  "visual_findings_closure": {
+    "record": {
+      "path": "Productions/E061-the-dragon-the-satellites-and-the-spider/visual-review-v002.json",
+      "sha256": "a588952589c3a0a61ef74ae16c7a7d1092fdeacf5c371431ef82e5012489ebf6"
+    },
+    "status": "accepted",
+    "all_selected_hashes_match": true,
+    "unresolved_findings": [],
+    "finding": "Independent visual record accepts these exact three replacements with no unresolved material findings. At intended reading size I saw no new material identity, connectivity, finish or scene-consistency fault; this complete-reading pass does not replace native-resolution photo-based visual review."
+  },
+  "material_findings": [],
+  "unresolved_findings": [],
+  "approval": "unapproved",
+  "publication": "not_published"
+}

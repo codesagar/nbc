@@ -1,0 +1,245 @@
+{
+  "story": {
+    "path": "Stories/S040-the-first-neighborhood-expedition.md",
+    "sha256": "39cef96d67f5bfcadbee44eabbe8b594fc8d3262a81d4a4187dc19a5ca8c0e96"
+  },
+  "version": "v002",
+  "reviewer": "visual040",
+  "review_type": "independent_native_visual",
+  "reviewed_at": "2026-10-04T11:25:25.174727+00:00",
+  "status": "accepted",
+  "independent_of_generation": true,
+  "complete_primary_read": true,
+  "meaningful_alternatives": 0,
+  "method": "Opened selected original photos, provisional model, and each of five proposed PNG files with original-detail view_image. Final images inspected whole at native 1536x1024; no thumbnails substituted. Read full revised story, comedy record, episode/generation reference and selected-image records, applicable project guidance.",
+  "references": [
+    {
+      "path": "Characters/Neet/Photos/neet-19.jpeg",
+      "sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+      "id": "N19",
+      "opened": true,
+      "same_exposure_group": null,
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "styling",
+          "standing_pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Primary standing body proportions, paws, hocks and stub silhouette; head is not a pure profile.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Head rotated; far limbs overlap; uncalibrated camera offers no measurements; room light subdued"
+        ],
+        "inspection_sha256": "b2c6db0a5af6a885d993cbd986cc2759b9461e693fbcabd8aa96bce1eb5ea901",
+        "source_sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N19.json"
+      }
+    },
+    {
+      "path": "Characters/Neet/Photos/neet-29.jpeg",
+      "sha256": "dedcc7d8bcbc5da7e2441352200025606fc971644d0cbacd24e8465db8dcdc16",
+      "id": "N29",
+      "opened": true,
+      "same_exposure_group": null,
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "styling",
+          "standing_pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Primary frontal standing proportions, leg slenderness, head/body scale and chest markings.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Body depth foreshortened; tail hidden; light/shadow affect colors; exact ratios unknown"
+        ],
+        "inspection_sha256": "af30873f7f392d2503a668667ed619b8d183d685403e25977ce3fe23d9359802",
+        "source_sha256": "dedcc7d8bcbc5da7e2441352200025606fc971644d0cbacd24e8465db8dcdc16",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N29.json"
+      }
+    },
+    {
+      "path": "Characters/Buddy/Photos/buddy-4.jpg",
+      "sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+      "id": "B04",
+      "opened": true,
+      "same_exposure_group": "B04-B24",
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "styling",
+          "standing_pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Excellent front-leg clearance, chest pattern and groomed face; useful standing stance. Same photographic exposure as B24 for evidence counting.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Tail partly cropped at left; grass hides toes; perspective foreshortens torso; B24 same exposure in separate encoding"
+        ],
+        "inspection_sha256": "dd7da906a0e61eb4cdbd84eac3c97fea3318813d5a874c4e6cd4d8d3ba890797",
+        "source_sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B04.json"
+      }
+    },
+    {
+      "path": "Characters/Buddy/Photos/buddy-29.jpeg",
+      "sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+      "id": "B29",
+      "opened": true,
+      "same_exposure_group": null,
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Best available lateral body-length, tail-length/carriage and walking-pose reference; weak fine landmarks because blurred and not neutral standing.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Motion blur and lifted legs; cannot establish neutral back slope, exact leg ratios or gait timing from still"
+        ],
+        "inspection_sha256": "c671664ca5e4e2e07bfd3049ea641c3a1645742fb8290494e67a17f7ed213ea9",
+        "source_sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B29.json"
+      }
+    }
+  ],
+  "independent_exposures": 4,
+  "model": {
+    "path": "Productions/Library-Refinement/model-standing-v002.png",
+    "sha256": "c4c6b607727759b347f93ccef664b0ac4b9a8ade512908343748fb9e2a96e9b6",
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "opened": true,
+    "authority": "Provisional interpretation only; originals govern identity, model fur hatching is not a finish requirement."
+  },
+  "restrictions": {
+    "N35": "excludes anatomy; unused",
+    "B08": "styling only; unused",
+    "B25": "unavailable",
+    "B30": "supplemental rest only; unused",
+    "human_likeness": "provisional"
+  },
+  "images": [
+    {
+      "path": "Productions/E040-the-first-neighborhood-expedition/pumpkin-art-v004.png",
+      "sha256": "71caf83c08e586d88078a39b8740509019b79dfa529fe9bfdf4b7973386b18c9",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "native_resolution_opened": true,
+      "status": "accepted",
+      "observations": [
+        "Neet has a full narrow tan trunk, fine splayed legs, visible ground clearance, projecting muzzle and broad triangular ears. The rear is turned away; no long tail has been invented.",
+        "Buddy has a connected elongated torso and four distinct supported legs; his lowered head follows his neck, with beard, brows and pendant ear furnishings limited to their regions. Torso color planes are smooth, without engraved curls or raised shag.",
+        "The pumpkin and gnome are separate objects with readable ground contact; both dogs inspect their own harmless threat, giving complementary comic reactions. Leash clips meet the neck regions; Buddy collar is largely occluded behind his lowered head rather than visibly fastened to his rump.",
+        "Warm evening suburban masonry and lawn match the Halloween inspection. Human hands are cropped provisional interpretations. No material perspective or finish defect found."
+      ],
+      "material_findings": []
+    },
+    {
+      "path": "Productions/E040-the-first-neighborhood-expedition/bouquet-art-v003.png",
+      "sha256": "f56988f85b6af8b7a69da93ac87908c1867019f627ed62b20249398ebc560421",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "native_resolution_opened": true,
+      "status": "accepted",
+      "observations": [
+        "Buddy stands on four substantial legs with clear underside space and a continuous moderately long charcoal torso. Raised muzzle and open mouth point toward the bouquet before the chin correction. Neck stretch remains connected; no duplicate limbs.",
+        "Neet retains fine legs, full smooth trunk, large ears, cream bib and tiny nub. Both leads visibly clip to neck collars with slack curves. Body coats use restrained broad planes; longer marks are regional muzzle, ears, paws and modest tail fringe.",
+        "The bouquet visibly includes pink magnolia, red hibiscus, yellow roses, orange marigolds and purple clustered flowers. There are multiple individual blooms (including two yellow rose heads); the source specifies five types, not an exact total of five blossoms. Small red/orange filler heads are stylized, not a lost named type.",
+        "The lifted flowers remain outside Buddy mouth and the human hand supports the stems; supported dogs and converging sidewalk maintain perspective. Upward appetite against Neet serious attention conveys the intended comic beat."
+      ],
+      "material_findings": []
+    },
+    {
+      "path": "Productions/E040-the-first-neighborhood-expedition/shepherd-art-v003.png",
+      "sha256": "381e7056b18a40aae9d01bc50d1ce1843c89031ab96181cd65f65bf4cf572856",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "native_resolution_opened": true,
+      "status": "accepted",
+      "observations": [
+        "Buddy is turned and stepping left away from the shepherd at right, with one forepaw raised and three remaining paws supporting him. His torso remains continuous and elongated, with real neck and limb clearance.",
+        "Neet stands facing right and barks upward; four legs belong to his body, the tiny nub is visible, and the open jaw connects cleanly. Shepherd is a separate larger dog, with far/rear body cropped by the frame rather than merged with either smaller dog.",
+        "Actual replacement inspected: Buddy lead clips to ring at rear of his visible neck collar; Neet long diagonal lead reaches a metal ring directly above his neck collar. Neither attachment terminates on back or tail. Shepherd owner lead also reaches neck collar hardware.",
+        "Smooth tan and charcoal body planes remain intact throughout replacement; furnishings are regional. Twilight yard frontage and scale difference support the overconfident challenge versus Buddy helpful retreat. No material defect found."
+      ],
+      "material_findings": []
+    },
+    {
+      "path": "Productions/E040-the-first-neighborhood-expedition/mailbox-art-v003.png",
+      "sha256": "9236276b4a23fe9108626a7d33caf9ae32d2c69f42a26dbf44b9eb700e2548ab",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "native_resolution_opened": true,
+      "status": "accepted",
+      "observations": [
+        "Both dogs lower their heads toward the post, with separate bodies on opposite sides. Neet muzzle is intentionally partly hidden by the post; his eyes, muzzle origin and neck still connect coherently. Each dog has four identifiable supported feet and plausible limb roots.",
+        "Buddy long torso, substantial legs, pale muzzle/brows, dark close torso and regional ear furnishings remain recognizable. Neet fine limbs, broad ears, full short coat torso and nub remain. Sparse pointed edge accents at shoulders do not form a shag coat; no interior engraved curls.",
+        "Buddy leash visibly clips to the neck collar. Neet collar ring is visible, while the middle lead segment is hidden behind his body before it reappears toward the right handler; this is an occlusion, not a visible attachment to his rump. Clearer routing could improve legibility but no impossible fastening is shown.",
+        "Closed mailbox has plausible post/bracing and grounded scale. No literal chicken or cat is invented from the dogs scent speculation. Their serious investigation supplies the location-defense joke. No material finish or scene-state defect found."
+      ],
+      "material_findings": []
+    },
+    {
+      "path": "Productions/E040-the-first-neighborhood-expedition/home-art-v003.png",
+      "sha256": "1223c5427965d362754357809fbcf16cda19436c14b27385b936c1bdb87ecb88",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "native_resolution_opened": true,
+      "status": "accepted",
+      "observations": [
+        "Buddy is standing after the explicit prose rise from the lawn. Four substantial legs support his long connected torso; nose reaches upward but remains short of flowers. Neet stands separately watching the street, retaining fine legs, smooth full body and a very short nub.",
+        "Charcoal and tan torso planes are smooth; Buddy muzzle, ears, brows, paw fringe and modest tail fringe are regional. His head is modest beside his body, with continuous visible neck.",
+        "Glass vase rests on the porch ledge and contains visible water/stems. Heather hand overlaps and holds the narrow vase/stem area coherently as it is shifted away. All five named flower types remain visible, with multiple individual heads as in the bouquet scene.",
+        "Neck collar leads remain continuous and readable. Porch masonry, grounded feet and dusk street establish return home. Buddy renewed flower inquiry and Neet street watch give distinct closing actions. No material perspective, limb or finish defect found."
+      ],
+      "material_findings": []
+    }
+  ],
+  "material_findings": [],
+  "nonblocking_notes": [
+    "Mailbox Neet lead is partly hidden behind torso; routing is less legible than the fully exposed shepherd collar connections, but no incorrect body attachment is depicted.",
+    "Flower continuity is assessed by the five named types; source does not demand precisely five individual flower heads."
+  ],
+  "complete_reading": "Pending fresh rendered complete-reading review; this record establishes only independent visual gate.",
+  "approval": {
+    "state": "unapproved"
+  },
+  "publication": {
+    "state": "not_published"
+  }
+}

@@ -1,0 +1,1996 @@
+{
+  "records": [
+    {
+      "id": "staging",
+      "tool": "image_gen.imagegen",
+      "arguments": {
+        "prompt": "Use case: illustration-story. DRAW an actual graphite staging storyboard with TWO wide panels stacked vertically. Not final art. References 1 Neet original body, 2 Buddy original body (blurred stride no ratios), 3 Buddy sitting face furnishings, 4 provisional model interpreted structure only. Panel 1 morning living room: shrine with Ganesh murti and orange marigolds at rear; Buddy stands beside his rumpled blanket one front paw on its edge, looks pleading toward Neet. Neet stands beside blanket turned toward Buddy, alert ears and mildly embarrassed gravitas. Two dogs only; no text. Panel 2 lakeshore: same two dogs seated on dry shore, three-quarter rear/side view so faces visible in profile; watching a few orange marigold petals blowing over water. Small Ganesh murti far in water, festive people very distant only. Quiet affectionate farewell, not funeral. Clearly draw connected ribcage pelvis neck, leg roots four limbs each, grounded paws and seated haunches, proper occlusion. Neet full narrow tan torso fine long legs huge triangular ears tiny nub smooth coat. Buddy moderate elongated full torso substantial legs and clearance, projected irregular moustache beard brows and ear/paw regional furnishings, slender modest-fringe tail. No curly body texture or fluff. No uniforms or humanized hands.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-6.jpg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/Library-Refinement/model-standing-v002.png"
+        ],
+        "transparent_background": false
+      },
+      "model": "unknown",
+      "seed": "unknown",
+      "output": {
+        "path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/E054-expanded/staging-generated.png",
+        "sha256": "8c1e45a0d859c0d21626ae161f1eb25dcb5c5ba3607a3acf00b7c4f71d23505f",
+        "dimensions": [
+          1536,
+          1024
+        ]
+      },
+      "inputs": [
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+          "role": "Original visible anatomy authority within policy",
+          "full_reference": {
+            "id": "N19",
+            "character": "Neet",
+            "path": "Characters/Neet/Photos/neet-19.jpeg",
+            "filename": "neet-19.jpeg",
+            "sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+            "archived_source_path": "03_Asset_Library/Characters/Neet/neet-19.jpeg",
+            "same_exposure_group": null,
+            "use": "Primary body-level side standing and tail nub",
+            "approval_status": "unknown",
+            "effective_use_policy": {
+              "allowed_uses": [
+                "visible_anatomy",
+                "styling",
+                "standing_pose"
+              ],
+              "provenance": "cataloged_photo",
+              "limitations": [
+                "Primary standing body proportions, paws, hocks and stub silhouette; head is not a pure profile.",
+                "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+                "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+                "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+                "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+                "Head rotated; far limbs overlap; uncalibrated camera offers no measurements; room light subdued"
+              ],
+              "inspection_sha256": "b2c6db0a5af6a885d993cbd986cc2759b9461e693fbcabd8aa96bce1eb5ea901",
+              "source_sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+              "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+              "archived_evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md",
+              "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N19.json"
+            },
+            "source_use_policy": {
+              "allowed_uses": [
+                "visible_anatomy",
+                "pose",
+                "resting_pose",
+                "styling"
+              ],
+              "provenance": "cataloged_photo",
+              "limitations": [
+                "Primary standing body proportions, paws, hocks and stub silhouette; head is not a pure profile.",
+                "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state."
+              ],
+              "evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md"
+            },
+            "source_observation": {
+              "date": "2026-10-03",
+              "pose_view_camera": "Standing left-facing side with head toward camera; near body-level",
+              "visible_features": "Tiny short tan rump nub; near-square qualitative standing impression; long slender legs; full ribcage/thigh; moderate ventral rise; smooth short coat",
+              "limitations": "Head rotated; far limbs overlap; uncalibrated camera offers no measurements; room light subdued",
+              "recommended_uses": [
+                "standing_pose",
+                "visible_anatomy",
+                "styling"
+              ],
+              "full_restrictions": [
+                "Primary standing body proportions, paws, hocks and stub silhouette; head is not a pure profile.",
+                "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+                "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+                "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+                "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+                "Head rotated; far limbs overlap; uncalibrated camera offers no measurements; room light subdued"
+              ]
+            },
+            "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N19.json",
+            "inspection_sha256": "b2c6db0a5af6a885d993cbd986cc2759b9461e693fbcabd8aa96bce1eb5ea901"
+          }
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+          "sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+          "role": "Original visible anatomy authority within policy",
+          "full_reference": {
+            "id": "B29",
+            "character": "Buddy",
+            "path": "Characters/Buddy/Photos/buddy-29.jpeg",
+            "filename": "buddy-29.jpeg",
+            "sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+            "archived_source_path": "03_Asset_Library/Characters/Buddy/buddy-29.jpeg",
+            "same_exposure_group": null,
+            "use": "Side stride, torso length, leg clearance and tail curve",
+            "approval_status": "unknown",
+            "effective_use_policy": {
+              "allowed_uses": [
+                "visible_anatomy",
+                "pose"
+              ],
+              "provenance": "cataloged_photo",
+              "limitations": [
+                "Best available lateral body-length, tail-length/carriage and walking-pose reference; weak fine landmarks because blurred and not neutral standing.",
+                "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+                "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+                "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+                "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+                "Motion blur and lifted legs; cannot establish neutral back slope, exact leg ratios or gait timing from still"
+              ],
+              "inspection_sha256": "c671664ca5e4e2e07bfd3049ea641c3a1645742fb8290494e67a17f7ed213ea9",
+              "source_sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+              "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+              "archived_evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+              "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B29.json"
+            },
+            "source_use_policy": {
+              "allowed_uses": [
+                "visible_anatomy",
+                "pose",
+                "resting_pose",
+                "styling"
+              ],
+              "provenance": "cataloged_photo",
+              "limitations": [
+                "Best available lateral body-length, tail-length/carriage and walking-pose reference; weak fine landmarks because blurred and not neutral standing.",
+                "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state."
+              ],
+              "evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md"
+            },
+            "source_observation": {
+              "date": "2026-10-03",
+              "pose_view_camera": "Left-facing walking side view indoors; near body-level",
+              "visible_features": "Elongated dark trunk; projecting muzzle/pendant ears; pale lower legs; dark tapering tail held low with gentle curve; underside hair fringe",
+              "limitations": "Motion blur and lifted legs; cannot establish neutral back slope, exact leg ratios or gait timing from still",
+              "recommended_uses": [
+                "pose",
+                "visible_anatomy"
+              ],
+              "full_restrictions": [
+                "Best available lateral body-length, tail-length/carriage and walking-pose reference; weak fine landmarks because blurred and not neutral standing.",
+                "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+                "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+                "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+                "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+                "Motion blur and lifted legs; cannot establish neutral back slope, exact leg ratios or gait timing from still"
+              ]
+            },
+            "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B29.json",
+            "inspection_sha256": "c671664ca5e4e2e07bfd3049ea641c3a1645742fb8290494e67a17f7ed213ea9"
+          }
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-6.jpg",
+          "sha256": "529eb0e7157b9837e577f94e5037d7bd7afe9ecad3de133b3cfa8efe829b03b1",
+          "role": "Original visible anatomy authority within policy",
+          "full_reference": {
+            "id": "B06",
+            "character": "Buddy",
+            "path": "Characters/Buddy/Photos/buddy-6.jpg",
+            "filename": "buddy-6.jpg",
+            "sha256": "529eb0e7157b9837e577f94e5037d7bd7afe9ecad3de133b3cfa8efe829b03b1",
+            "archived_source_path": "03_Asset_Library/Characters/Buddy/buddy-6.jpg",
+            "same_exposure_group": null,
+            "use": "Upright sitting with retained beard and costume styling",
+            "approval_status": "unknown",
+            "effective_use_policy": {
+              "allowed_uses": [
+                "visible_anatomy",
+                "styling"
+              ],
+              "provenance": "cataloged_photo",
+              "limitations": [
+                "Excellent composed sit and groomed frontal face; useful chest width; unreliable full foreleg length.",
+                "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+                "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+                "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+                "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+                "Bed rim hides paws; tie obscures center throat/chest; torso depth unavailable"
+              ],
+              "inspection_sha256": "6bb9f1686b67577e5e547c554f15aaa4923e77728dcf39c599d95befa342684c",
+              "source_sha256": "529eb0e7157b9837e577f94e5037d7bd7afe9ecad3de133b3cfa8efe829b03b1",
+              "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+              "archived_evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+              "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B06.json"
+            },
+            "source_use_policy": {
+              "allowed_uses": [
+                "visible_anatomy",
+                "pose",
+                "resting_pose",
+                "styling"
+              ],
+              "provenance": "cataloged_photo",
+              "limitations": [
+                "Excellent composed sit and groomed frontal face; useful chest width; unreliable full foreleg length.",
+                "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state."
+              ],
+              "evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md"
+            },
+            "source_observation": {
+              "date": "2026-10-03",
+              "pose_view_camera": "Frontal upright seated in bed wearing green tie; near face-level",
+              "visible_features": "Pale muzzle/brows; charcoal throat with pale chest sides; long hanging ear fringe; close torso; narrow visible foreleg shafts",
+              "limitations": "Bed rim hides paws; tie obscures center throat/chest; torso depth unavailable",
+              "recommended_uses": [
+                "sitting_pose",
+                "visible_anatomy",
+                "styling"
+              ],
+              "full_restrictions": [
+                "Excellent composed sit and groomed frontal face; useful chest width; unreliable full foreleg length.",
+                "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+                "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+                "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+                "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+                "Bed rim hides paws; tie obscures center throat/chest; torso depth unavailable"
+              ]
+            },
+            "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B06.json",
+            "inspection_sha256": "6bb9f1686b67577e5e547c554f15aaa4923e77728dcf39c599d95befa342684c"
+          }
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/Library-Refinement/model-standing-v002.png",
+          "sha256": "c4c6b607727759b347f93ccef664b0ac4b9a8ade512908343748fb9e2a96e9b6",
+          "role": "Provisional interpreted model, no anatomical authority"
+        }
+      ]
+    },
+    {
+      "id": "correct",
+      "tool": "image_gen.imagegen",
+      "arguments": {
+        "prompt": "Correct this drawn two-panel staging ONLY. LOWER panel tan Neet must have ONLY tiny near-flush rump nub, remove long tan tail completely. Buddy dark tail slender tapered modest fringe, remove heavy plume. Upper panel keep all four limbs each properly grounded including Buddy paw on blanket. Remove the overly shaggy body silhouettes of Buddy in both panels: close clipped torso, retain distinct projecting irregular moustache, modest beard, brows, regional ears/paws. Lower panel replace miniature raft with partially immersed murti amid floating flowers (no platform). Keep composition, other anatomy and two scenes unchanged. Graphite staging only.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E054-the-visarjan-protocol/staging-v002.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg"
+        ],
+        "transparent_background": false
+      },
+      "model": "unknown",
+      "seed": "unknown",
+      "output": {
+        "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E054-the-visarjan-protocol/staging-v003.png",
+        "sha256": "7bcd90e4c0b1d5f919f1393e92cc5c3f1892702e79afcc23cb65141bb1a3246c",
+        "dimensions": [
+          1536,
+          1024
+        ]
+      },
+      "inputs": [
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E054-the-visarjan-protocol/staging-v002.png",
+          "sha256": "8c1e45a0d859c0d21626ae161f1eb25dcb5c5ba3607a3acf00b7c4f71d23505f",
+          "role": "Generated composition/edit target or finish support; no anatomical authority",
+          "recoverable_input_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/E054-expanded/staging-generated.png"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+          "role": "Original visible anatomy authority within policy",
+          "full_reference": {
+            "id": "N19",
+            "character": "Neet",
+            "path": "Characters/Neet/Photos/neet-19.jpeg",
+            "filename": "neet-19.jpeg",
+            "sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+            "archived_source_path": "03_Asset_Library/Characters/Neet/neet-19.jpeg",
+            "same_exposure_group": null,
+            "use": "Primary body-level side standing and tail nub",
+            "approval_status": "unknown",
+            "effective_use_policy": {
+              "allowed_uses": [
+                "visible_anatomy",
+                "styling",
+                "standing_pose"
+              ],
+              "provenance": "cataloged_photo",
+              "limitations": [
+                "Primary standing body proportions, paws, hocks and stub silhouette; head is not a pure profile.",
+                "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+                "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+                "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+                "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+                "Head rotated; far limbs overlap; uncalibrated camera offers no measurements; room light subdued"
+              ],
+              "inspection_sha256": "b2c6db0a5af6a885d993cbd986cc2759b9461e693fbcabd8aa96bce1eb5ea901",
+              "source_sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+              "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+              "archived_evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md",
+              "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N19.json"
+            },
+            "source_use_policy": {
+              "allowed_uses": [
+                "visible_anatomy",
+                "pose",
+                "resting_pose",
+                "styling"
+              ],
+              "provenance": "cataloged_photo",
+              "limitations": [
+                "Primary standing body proportions, paws, hocks and stub silhouette; head is not a pure profile.",
+                "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state."
+              ],
+              "evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md"
+            },
+            "source_observation": {
+              "date": "2026-10-03",
+              "pose_view_camera": "Standing left-facing side with head toward camera; near body-level",
+              "visible_features": "Tiny short tan rump nub; near-square qualitative standing impression; long slender legs; full ribcage/thigh; moderate ventral rise; smooth short coat",
+              "limitations": "Head rotated; far limbs overlap; uncalibrated camera offers no measurements; room light subdued",
+              "recommended_uses": [
+                "standing_pose",
+                "visible_anatomy",
+                "styling"
+              ],
+              "full_restrictions": [
+                "Primary standing body proportions, paws, hocks and stub silhouette; head is not a pure profile.",
+                "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+                "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+                "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+                "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+                "Head rotated; far limbs overlap; uncalibrated camera offers no measurements; room light subdued"
+              ]
+            },
+            "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N19.json",
+            "inspection_sha256": "b2c6db0a5af6a885d993cbd986cc2759b9461e693fbcabd8aa96bce1eb5ea901"
+          }
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+          "sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+          "role": "Original visible anatomy authority within policy",
+          "full_reference": {
+            "id": "B29",
+            "character": "Buddy",
+            "path": "Characters/Buddy/Photos/buddy-29.jpeg",
+            "filename": "buddy-29.jpeg",
+            "sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+            "archived_source_path": "03_Asset_Library/Characters/Buddy/buddy-29.jpeg",
+            "same_exposure_group": null,
+            "use": "Side stride, torso length, leg clearance and tail curve",
+            "approval_status": "unknown",
+            "effective_use_policy": {
+              "allowed_uses": [
+                "visible_anatomy",
+                "pose"
+              ],
+              "provenance": "cataloged_photo",
+              "limitations": [
+                "Best available lateral body-length, tail-length/carriage and walking-pose reference; weak fine landmarks because blurred and not neutral standing.",
+                "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+                "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+                "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+                "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+                "Motion blur and lifted legs; cannot establish neutral back slope, exact leg ratios or gait timing from still"
+              ],
+              "inspection_sha256": "c671664ca5e4e2e07bfd3049ea641c3a1645742fb8290494e67a17f7ed213ea9",
+              "source_sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+              "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+              "archived_evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+              "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B29.json"
+            },
+            "source_use_policy": {
+              "allowed_uses": [
+                "visible_anatomy",
+                "pose",
+                "resting_pose",
+                "styling"
+              ],
+              "provenance": "cataloged_photo",
+              "limitations": [
+                "Best available lateral body-length, tail-length/carriage and walking-pose reference; weak fine landmarks because blurred and not neutral standing.",
+                "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state."
+              ],
+              "evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md"
+            },
+            "source_observation": {
+              "date": "2026-10-03",
+              "pose_view_camera": "Left-facing walking side view indoors; near body-level",
+              "visible_features": "Elongated dark trunk; projecting muzzle/pendant ears; pale lower legs; dark tapering tail held low with gentle curve; underside hair fringe",
+              "limitations": "Motion blur and lifted legs; cannot establish neutral back slope, exact leg ratios or gait timing from still",
+              "recommended_uses": [
+                "pose",
+                "visible_anatomy"
+              ],
+              "full_restrictions": [
+                "Best available lateral body-length, tail-length/carriage and walking-pose reference; weak fine landmarks because blurred and not neutral standing.",
+                "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+                "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+                "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+                "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+                "Motion blur and lifted legs; cannot establish neutral back slope, exact leg ratios or gait timing from still"
+              ]
+            },
+            "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B29.json",
+            "inspection_sha256": "c671664ca5e4e2e07bfd3049ea641c3a1645742fb8290494e67a17f7ed213ea9"
+          }
+        }
+      ]
+    },
+    {
+      "id": "morning",
+      "tool": "image_gen.imagegen",
+      "arguments": {
+        "prompt": "Use case: illustration-story. Render ONE standalone finished landscape illustration from specified panel of image1 drawn staging. Image1 composition ONLY, NO graphite texture. Image2 BODY FINISH ONLY smooth broad watercolor/gouache washes, no wavy engraved or curly hair on either torso, no shag silhouette. Images3-5 ORIGINAL visible anatomy authorities. Neet full narrow torso, fine long legs, large cupped triangular ears, tiny near-flush nub, short smooth fawn coat cream muzzle/throat bib. Buddy full moderately elongated charcoal torso, substantial legs real clearance, connected neck, IRREGULAR projecting pale moustache, modest beard, curved brows, ear and paw regional furnishings REQUIRED: do not oversmooth face. Slender taper tail modest fringe. Four connected legs grounded or clearly occluded each. Warm illustrated book natural light. No text, no costume, no extra dogs. N35 excluded B08 styling only B25 unavailable B30 supplemental rest unused. One exposure once; human likeness provisional. Use UPPER panel only: Buddy one paw on his rumpled blanket looks pleadingly at mildly embarrassed Neet before Neet resumes pacing. Ganesh murti on shrine in background with marigolds, morning living room. Preserve grounded four legs each, no overlap confusion. Cream background, muted blue blanket, orange flowers.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E054-the-visarjan-protocol/staging-v003.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-6.jpg"
+        ],
+        "transparent_background": false
+      },
+      "model": "unknown",
+      "seed": "unknown",
+      "output": {
+        "path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/E054-expanded/morning-generated.png",
+        "sha256": "84f8f6e95a937900cae610c1b5b425e9688654fe58d2c3a6b698bf1a8f8f6dab",
+        "dimensions": [
+          1536,
+          1024
+        ]
+      },
+      "inputs": [
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E054-the-visarjan-protocol/staging-v003.png",
+          "sha256": "7bcd90e4c0b1d5f919f1393e92cc5c3f1892702e79afcc23cb65141bb1a3246c",
+          "role": "Generated composition/edit target or finish support; no anatomical authority"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "sha256": "19be9a85760177405bbedd26644a7e0eb9c7945709e43825d201ff2fa91742b9",
+          "role": "BODY FINISH only, no anatomy authority"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+          "role": "Original visible anatomy authority within policy",
+          "full_reference": {
+            "id": "N19",
+            "character": "Neet",
+            "path": "Characters/Neet/Photos/neet-19.jpeg",
+            "filename": "neet-19.jpeg",
+            "sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+            "archived_source_path": "03_Asset_Library/Characters/Neet/neet-19.jpeg",
+            "same_exposure_group": null,
+            "use": "Primary body-level side standing and tail nub",
+            "approval_status": "unknown",
+            "effective_use_policy": {
+              "allowed_uses": [
+                "visible_anatomy",
+                "styling",
+                "standing_pose"
+              ],
+              "provenance": "cataloged_photo",
+              "limitations": [
+                "Primary standing body proportions, paws, hocks and stub silhouette; head is not a pure profile.",
+                "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+                "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+                "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+                "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+                "Head rotated; far limbs overlap; uncalibrated camera offers no measurements; room light subdued"
+              ],
+              "inspection_sha256": "b2c6db0a5af6a885d993cbd986cc2759b9461e693fbcabd8aa96bce1eb5ea901",
+              "source_sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+              "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+              "archived_evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md",
+              "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N19.json"
+            },
+            "source_use_policy": {
+              "allowed_uses": [
+                "visible_anatomy",
+                "pose",
+                "resting_pose",
+                "styling"
+              ],
+              "provenance": "cataloged_photo",
+              "limitations": [
+                "Primary standing body proportions, paws, hocks and stub silhouette; head is not a pure profile.",
+                "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state."
+              ],
+              "evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md"
+            },
+            "source_observation": {
+              "date": "2026-10-03",
+              "pose_view_camera": "Standing left-facing side with head toward camera; near body-level",
+              "visible_features": "Tiny short tan rump nub; near-square qualitative standing impression; long slender legs; full ribcage/thigh; moderate ventral rise; smooth short coat",
+              "limitations": "Head rotated; far limbs overlap; uncalibrated camera offers no measurements; room light subdued",
+              "recommended_uses": [
+                "standing_pose",
+                "visible_anatomy",
+                "styling"
+              ],
+              "full_restrictions": [
+                "Primary standing body proportions, paws, hocks and stub silhouette; head is not a pure profile.",
+                "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+                "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+                "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+                "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+                "Head rotated; far limbs overlap; uncalibrated camera offers no measurements; room light subdued"
+              ]
+            },
+            "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N19.json",
+            "inspection_sha256": "b2c6db0a5af6a885d993cbd986cc2759b9461e693fbcabd8aa96bce1eb5ea901"
+          }
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+          "sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+          "role": "Original visible anatomy authority within policy",
+          "full_reference": {
+            "id": "B29",
+            "character": "Buddy",
+            "path": "Characters/Buddy/Photos/buddy-29.jpeg",
+            "filename": "buddy-29.jpeg",
+            "sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+            "archived_source_path": "03_Asset_Library/Characters/Buddy/buddy-29.jpeg",
+            "same_exposure_group": null,
+            "use": "Side stride, torso length, leg clearance and tail curve",
+            "approval_status": "unknown",
+            "effective_use_policy": {
+              "allowed_uses": [
+                "visible_anatomy",
+                "pose"
+              ],
+              "provenance": "cataloged_photo",
+              "limitations": [
+                "Best available lateral body-length, tail-length/carriage and walking-pose reference; weak fine landmarks because blurred and not neutral standing.",
+                "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+                "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+                "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+                "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+                "Motion blur and lifted legs; cannot establish neutral back slope, exact leg ratios or gait timing from still"
+              ],
+              "inspection_sha256": "c671664ca5e4e2e07bfd3049ea641c3a1645742fb8290494e67a17f7ed213ea9",
+              "source_sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+              "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+              "archived_evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+              "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B29.json"
+            },
+            "source_use_policy": {
+              "allowed_uses": [
+                "visible_anatomy",
+                "pose",
+                "resting_pose",
+                "styling"
+              ],
+              "provenance": "cataloged_photo",
+              "limitations": [
+                "Best available lateral body-length, tail-length/carriage and walking-pose reference; weak fine landmarks because blurred and not neutral standing.",
+                "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state."
+              ],
+              "evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md"
+            },
+            "source_observation": {
+              "date": "2026-10-03",
+              "pose_view_camera": "Left-facing walking side view indoors; near body-level",
+              "visible_features": "Elongated dark trunk; projecting muzzle/pendant ears; pale lower legs; dark tapering tail held low with gentle curve; underside hair fringe",
+              "limitations": "Motion blur and lifted legs; cannot establish neutral back slope, exact leg ratios or gait timing from still",
+              "recommended_uses": [
+                "pose",
+                "visible_anatomy"
+              ],
+              "full_restrictions": [
+                "Best available lateral body-length, tail-length/carriage and walking-pose reference; weak fine landmarks because blurred and not neutral standing.",
+                "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+                "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+                "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+                "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+                "Motion blur and lifted legs; cannot establish neutral back slope, exact leg ratios or gait timing from still"
+              ]
+            },
+            "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B29.json",
+            "inspection_sha256": "c671664ca5e4e2e07bfd3049ea641c3a1645742fb8290494e67a17f7ed213ea9"
+          }
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-6.jpg",
+          "sha256": "529eb0e7157b9837e577f94e5037d7bd7afe9ecad3de133b3cfa8efe829b03b1",
+          "role": "Original visible anatomy authority within policy",
+          "full_reference": {
+            "id": "B06",
+            "character": "Buddy",
+            "path": "Characters/Buddy/Photos/buddy-6.jpg",
+            "filename": "buddy-6.jpg",
+            "sha256": "529eb0e7157b9837e577f94e5037d7bd7afe9ecad3de133b3cfa8efe829b03b1",
+            "archived_source_path": "03_Asset_Library/Characters/Buddy/buddy-6.jpg",
+            "same_exposure_group": null,
+            "use": "Upright sitting with retained beard and costume styling",
+            "approval_status": "unknown",
+            "effective_use_policy": {
+              "allowed_uses": [
+                "visible_anatomy",
+                "styling"
+              ],
+              "provenance": "cataloged_photo",
+              "limitations": [
+                "Excellent composed sit and groomed frontal face; useful chest width; unreliable full foreleg length.",
+                "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+                "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+                "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+                "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+                "Bed rim hides paws; tie obscures center throat/chest; torso depth unavailable"
+              ],
+              "inspection_sha256": "6bb9f1686b67577e5e547c554f15aaa4923e77728dcf39c599d95befa342684c",
+              "source_sha256": "529eb0e7157b9837e577f94e5037d7bd7afe9ecad3de133b3cfa8efe829b03b1",
+              "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+              "archived_evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+              "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B06.json"
+            },
+            "source_use_policy": {
+              "allowed_uses": [
+                "visible_anatomy",
+                "pose",
+                "resting_pose",
+                "styling"
+              ],
+              "provenance": "cataloged_photo",
+              "limitations": [
+                "Excellent composed sit and groomed frontal face; useful chest width; unreliable full foreleg length.",
+                "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state."
+              ],
+              "evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md"
+            },
+            "source_observation": {
+              "date": "2026-10-03",
+              "pose_view_camera": "Frontal upright seated in bed wearing green tie; near face-level",
+              "visible_features": "Pale muzzle/brows; charcoal throat with pale chest sides; long hanging ear fringe; close torso; narrow visible foreleg shafts",
+              "limitations": "Bed rim hides paws; tie obscures center throat/chest; torso depth unavailable",
+              "recommended_uses": [
+                "sitting_pose",
+                "visible_anatomy",
+                "styling"
+              ],
+              "full_restrictions": [
+                "Excellent composed sit and groomed frontal face; useful chest width; unreliable full foreleg length.",
+                "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+                "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+                "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+                "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+                "Bed rim hides paws; tie obscures center throat/chest; torso depth unavailable"
+              ]
+            },
+            "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B06.json",
+            "inspection_sha256": "6bb9f1686b67577e5e547c554f15aaa4923e77728dcf39c599d95befa342684c"
+          }
+        }
+      ]
+    },
+    {
+      "id": "shore",
+      "tool": "image_gen.imagegen",
+      "arguments": {
+        "prompt": "Use case: illustration-story. Render ONE standalone finished landscape illustration from specified panel of image1 drawn staging. Image1 composition ONLY, NO graphite texture. Image2 BODY FINISH ONLY smooth broad watercolor/gouache washes, no wavy engraved or curly hair on either torso, no shag silhouette. Images3-5 ORIGINAL visible anatomy authorities. Neet full narrow torso, fine long legs, large cupped triangular ears, tiny near-flush nub, short smooth fawn coat cream muzzle/throat bib. Buddy full moderately elongated charcoal torso, substantial legs real clearance, connected neck, IRREGULAR projecting pale moustache, modest beard, curved brows, ear and paw regional furnishings REQUIRED: do not oversmooth face. Slender taper tail modest fringe. Four connected legs grounded or clearly occluded each. Warm illustrated book natural light. No text, no costume, no extra dogs. N35 excluded B08 styling only B25 unavailable B30 supplemental rest unused. One exposure once; human likeness provisional. Use LOWER panel ONLY: lakeshore farewell. Seated Buddy left and Neet right from three-quarter rear watching a breeze carry small orange marigold petals above the water. Partly immersed small Ganesh murti distant in water with flowers, no raft/platform. Preserve readable side profiles, seated haunches, visible forward paws where appropriate and no unowned limbs. Neet tiny near-flush nub only; Buddy slender tapered dark tail along ground. Let quiet light and open lake carry earned feeling, not exaggerated crying. Background festival families distant indistinct. Smooth coats, pale irregular muzzle moustache and modest beard must remain projecting.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E054-the-visarjan-protocol/staging-v003.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-6.jpg"
+        ],
+        "transparent_background": false
+      },
+      "model": "unknown",
+      "seed": "unknown",
+      "output": {
+        "path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/E054-expanded/shore-generated.png",
+        "sha256": "ce665231e705dbb83465ad4609ad9144324e055aff42e680db044765111581c8",
+        "dimensions": [
+          1536,
+          1024
+        ]
+      },
+      "inputs": [
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E054-the-visarjan-protocol/staging-v003.png",
+          "sha256": "7bcd90e4c0b1d5f919f1393e92cc5c3f1892702e79afcc23cb65141bb1a3246c",
+          "role": "Generated composition/edit target or finish support; no anatomical authority"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "sha256": "19be9a85760177405bbedd26644a7e0eb9c7945709e43825d201ff2fa91742b9",
+          "role": "BODY FINISH only, no anatomy authority"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+          "role": "Original visible anatomy authority within policy",
+          "full_reference": {
+            "id": "N19",
+            "character": "Neet",
+            "path": "Characters/Neet/Photos/neet-19.jpeg",
+            "filename": "neet-19.jpeg",
+            "sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+            "archived_source_path": "03_Asset_Library/Characters/Neet/neet-19.jpeg",
+            "same_exposure_group": null,
+            "use": "Primary body-level side standing and tail nub",
+            "approval_status": "unknown",
+            "effective_use_policy": {
+              "allowed_uses": [
+                "visible_anatomy",
+                "styling",
+                "standing_pose"
+              ],
+              "provenance": "cataloged_photo",
+              "limitations": [
+                "Primary standing body proportions, paws, hocks and stub silhouette; head is not a pure profile.",
+                "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+                "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+                "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+                "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+                "Head rotated; far limbs overlap; uncalibrated camera offers no measurements; room light subdued"
+              ],
+              "inspection_sha256": "b2c6db0a5af6a885d993cbd986cc2759b9461e693fbcabd8aa96bce1eb5ea901",
+              "source_sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+              "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+              "archived_evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md",
+              "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N19.json"
+            },
+            "source_use_policy": {
+              "allowed_uses": [
+                "visible_anatomy",
+                "pose",
+                "resting_pose",
+                "styling"
+              ],
+              "provenance": "cataloged_photo",
+              "limitations": [
+                "Primary standing body proportions, paws, hocks and stub silhouette; head is not a pure profile.",
+                "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state."
+              ],
+              "evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md"
+            },
+            "source_observation": {
+              "date": "2026-10-03",
+              "pose_view_camera": "Standing left-facing side with head toward camera; near body-level",
+              "visible_features": "Tiny short tan rump nub; near-square qualitative standing impression; long slender legs; full ribcage/thigh; moderate ventral rise; smooth short coat",
+              "limitations": "Head rotated; far limbs overlap; uncalibrated camera offers no measurements; room light subdued",
+              "recommended_uses": [
+                "standing_pose",
+                "visible_anatomy",
+                "styling"
+              ],
+              "full_restrictions": [
+                "Primary standing body proportions, paws, hocks and stub silhouette; head is not a pure profile.",
+                "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+                "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+                "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+                "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+                "Head rotated; far limbs overlap; uncalibrated camera offers no measurements; room light subdued"
+              ]
+            },
+            "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N19.json",
+            "inspection_sha256": "b2c6db0a5af6a885d993cbd986cc2759b9461e693fbcabd8aa96bce1eb5ea901"
+          }
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+          "sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+          "role": "Original visible anatomy authority within policy",
+          "full_reference": {
+            "id": "B29",
+            "character": "Buddy",
+            "path": "Characters/Buddy/Photos/buddy-29.jpeg",
+            "filename": "buddy-29.jpeg",
+            "sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+            "archived_source_path": "03_Asset_Library/Characters/Buddy/buddy-29.jpeg",
+            "same_exposure_group": null,
+            "use": "Side stride, torso length, leg clearance and tail curve",
+            "approval_status": "unknown",
+            "effective_use_policy": {
+              "allowed_uses": [
+                "visible_anatomy",
+                "pose"
+              ],
+              "provenance": "cataloged_photo",
+              "limitations": [
+                "Best available lateral body-length, tail-length/carriage and walking-pose reference; weak fine landmarks because blurred and not neutral standing.",
+                "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+                "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+                "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+                "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+                "Motion blur and lifted legs; cannot establish neutral back slope, exact leg ratios or gait timing from still"
+              ],
+              "inspection_sha256": "c671664ca5e4e2e07bfd3049ea641c3a1645742fb8290494e67a17f7ed213ea9",
+              "source_sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+              "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+              "archived_evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+              "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B29.json"
+            },
+            "source_use_policy": {
+              "allowed_uses": [
+                "visible_anatomy",
+                "pose",
+                "resting_pose",
+                "styling"
+              ],
+              "provenance": "cataloged_photo",
+              "limitations": [
+                "Best available lateral body-length, tail-length/carriage and walking-pose reference; weak fine landmarks because blurred and not neutral standing.",
+                "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state."
+              ],
+              "evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md"
+            },
+            "source_observation": {
+              "date": "2026-10-03",
+              "pose_view_camera": "Left-facing walking side view indoors; near body-level",
+              "visible_features": "Elongated dark trunk; projecting muzzle/pendant ears; pale lower legs; dark tapering tail held low with gentle curve; underside hair fringe",
+              "limitations": "Motion blur and lifted legs; cannot establish neutral back slope, exact leg ratios or gait timing from still",
+              "recommended_uses": [
+                "pose",
+                "visible_anatomy"
+              ],
+              "full_restrictions": [
+                "Best available lateral body-length, tail-length/carriage and walking-pose reference; weak fine landmarks because blurred and not neutral standing.",
+                "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+                "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+                "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+                "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+                "Motion blur and lifted legs; cannot establish neutral back slope, exact leg ratios or gait timing from still"
+              ]
+            },
+            "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B29.json",
+            "inspection_sha256": "c671664ca5e4e2e07bfd3049ea641c3a1645742fb8290494e67a17f7ed213ea9"
+          }
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-6.jpg",
+          "sha256": "529eb0e7157b9837e577f94e5037d7bd7afe9ecad3de133b3cfa8efe829b03b1",
+          "role": "Original visible anatomy authority within policy",
+          "full_reference": {
+            "id": "B06",
+            "character": "Buddy",
+            "path": "Characters/Buddy/Photos/buddy-6.jpg",
+            "filename": "buddy-6.jpg",
+            "sha256": "529eb0e7157b9837e577f94e5037d7bd7afe9ecad3de133b3cfa8efe829b03b1",
+            "archived_source_path": "03_Asset_Library/Characters/Buddy/buddy-6.jpg",
+            "same_exposure_group": null,
+            "use": "Upright sitting with retained beard and costume styling",
+            "approval_status": "unknown",
+            "effective_use_policy": {
+              "allowed_uses": [
+                "visible_anatomy",
+                "styling"
+              ],
+              "provenance": "cataloged_photo",
+              "limitations": [
+                "Excellent composed sit and groomed frontal face; useful chest width; unreliable full foreleg length.",
+                "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+                "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+                "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+                "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+                "Bed rim hides paws; tie obscures center throat/chest; torso depth unavailable"
+              ],
+              "inspection_sha256": "6bb9f1686b67577e5e547c554f15aaa4923e77728dcf39c599d95befa342684c",
+              "source_sha256": "529eb0e7157b9837e577f94e5037d7bd7afe9ecad3de133b3cfa8efe829b03b1",
+              "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+              "archived_evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+              "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B06.json"
+            },
+            "source_use_policy": {
+              "allowed_uses": [
+                "visible_anatomy",
+                "pose",
+                "resting_pose",
+                "styling"
+              ],
+              "provenance": "cataloged_photo",
+              "limitations": [
+                "Excellent composed sit and groomed frontal face; useful chest width; unreliable full foreleg length.",
+                "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state."
+              ],
+              "evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md"
+            },
+            "source_observation": {
+              "date": "2026-10-03",
+              "pose_view_camera": "Frontal upright seated in bed wearing green tie; near face-level",
+              "visible_features": "Pale muzzle/brows; charcoal throat with pale chest sides; long hanging ear fringe; close torso; narrow visible foreleg shafts",
+              "limitations": "Bed rim hides paws; tie obscures center throat/chest; torso depth unavailable",
+              "recommended_uses": [
+                "sitting_pose",
+                "visible_anatomy",
+                "styling"
+              ],
+              "full_restrictions": [
+                "Excellent composed sit and groomed frontal face; useful chest width; unreliable full foreleg length.",
+                "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+                "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+                "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+                "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+                "Bed rim hides paws; tie obscures center throat/chest; torso depth unavailable"
+              ]
+            },
+            "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B06.json",
+            "inspection_sha256": "6bb9f1686b67577e5e547c554f15aaa4923e77728dcf39c599d95befa342684c"
+          }
+        }
+      ]
+    },
+    {
+      "id": "closing",
+      "tool": "image_gen.imagegen",
+      "arguments": {
+        "prompt": "Use case identity-preserve, illustrated story coat-only repair. IMAGE1 edit target: preserve entire empty-shrine scene geometry, Buddy standing head lowered to red squeaky bone, Neet prone, all limbs, markings, room, diya, orange flowers and composition. IMAGE2 BODY FINISH ONLY: broad completely smooth short coat color planes. Replace all embossed/engraved curled squiggles across both dog bodies with smooth watercolor-gouache washes. No directional hair or curly texture on torso/neck. CRITICAL retain Buddy's projecting irregular pale moustache, modest chin beard, curved brows, ear fringe and small paw furnishings, from original photos3-5 visible regions. Do not turn face into smooth generic rounded muzzle. Buddy slender tapered modest-fringe tail. No geometry changes. Original photos authority; no calibrated dimensions. N35 excluded B08 styling only B25 unavailable B30 rest only unused; one exposure once. No new props/text.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E054-the-visarjan-protocol/illustration-v002.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-6.jpg"
+        ],
+        "transparent_background": false
+      },
+      "model": "unknown",
+      "seed": "unknown",
+      "output": {
+        "path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/E054-expanded/closing-generated.png",
+        "sha256": "a951fb824d0bd7bb69c3c2f7354360a0a779a89e5883f2ad01c870d0410c570b",
+        "dimensions": [
+          1448,
+          1086
+        ]
+      },
+      "inputs": [
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E054-the-visarjan-protocol/illustration-v002.png",
+          "sha256": "f77d3f6016cdd991636e349f6756b0548f781583ded92d11720e820464e375b9",
+          "role": "Generated composition/edit target or finish support; no anatomical authority"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "sha256": "19be9a85760177405bbedd26644a7e0eb9c7945709e43825d201ff2fa91742b9",
+          "role": "BODY FINISH only, no anatomy authority"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+          "role": "Original visible anatomy authority within policy",
+          "full_reference": {
+            "id": "N19",
+            "character": "Neet",
+            "path": "Characters/Neet/Photos/neet-19.jpeg",
+            "filename": "neet-19.jpeg",
+            "sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+            "archived_source_path": "03_Asset_Library/Characters/Neet/neet-19.jpeg",
+            "same_exposure_group": null,
+            "use": "Primary body-level side standing and tail nub",
+            "approval_status": "unknown",
+            "effective_use_policy": {
+              "allowed_uses": [
+                "visible_anatomy",
+                "styling",
+                "standing_pose"
+              ],
+              "provenance": "cataloged_photo",
+              "limitations": [
+                "Primary standing body proportions, paws, hocks and stub silhouette; head is not a pure profile.",
+                "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+                "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+                "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+                "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+                "Head rotated; far limbs overlap; uncalibrated camera offers no measurements; room light subdued"
+              ],
+              "inspection_sha256": "b2c6db0a5af6a885d993cbd986cc2759b9461e693fbcabd8aa96bce1eb5ea901",
+              "source_sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+              "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+              "archived_evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md",
+              "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N19.json"
+            },
+            "source_use_policy": {
+              "allowed_uses": [
+                "visible_anatomy",
+                "pose",
+                "resting_pose",
+                "styling"
+              ],
+              "provenance": "cataloged_photo",
+              "limitations": [
+                "Primary standing body proportions, paws, hocks and stub silhouette; head is not a pure profile.",
+                "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state."
+              ],
+              "evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md"
+            },
+            "source_observation": {
+              "date": "2026-10-03",
+              "pose_view_camera": "Standing left-facing side with head toward camera; near body-level",
+              "visible_features": "Tiny short tan rump nub; near-square qualitative standing impression; long slender legs; full ribcage/thigh; moderate ventral rise; smooth short coat",
+              "limitations": "Head rotated; far limbs overlap; uncalibrated camera offers no measurements; room light subdued",
+              "recommended_uses": [
+                "standing_pose",
+                "visible_anatomy",
+                "styling"
+              ],
+              "full_restrictions": [
+                "Primary standing body proportions, paws, hocks and stub silhouette; head is not a pure profile.",
+                "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+                "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+                "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+                "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+                "Head rotated; far limbs overlap; uncalibrated camera offers no measurements; room light subdued"
+              ]
+            },
+            "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N19.json",
+            "inspection_sha256": "b2c6db0a5af6a885d993cbd986cc2759b9461e693fbcabd8aa96bce1eb5ea901"
+          }
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+          "sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+          "role": "Original visible anatomy authority within policy",
+          "full_reference": {
+            "id": "B29",
+            "character": "Buddy",
+            "path": "Characters/Buddy/Photos/buddy-29.jpeg",
+            "filename": "buddy-29.jpeg",
+            "sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+            "archived_source_path": "03_Asset_Library/Characters/Buddy/buddy-29.jpeg",
+            "same_exposure_group": null,
+            "use": "Side stride, torso length, leg clearance and tail curve",
+            "approval_status": "unknown",
+            "effective_use_policy": {
+              "allowed_uses": [
+                "visible_anatomy",
+                "pose"
+              ],
+              "provenance": "cataloged_photo",
+              "limitations": [
+                "Best available lateral body-length, tail-length/carriage and walking-pose reference; weak fine landmarks because blurred and not neutral standing.",
+                "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+                "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+                "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+                "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+                "Motion blur and lifted legs; cannot establish neutral back slope, exact leg ratios or gait timing from still"
+              ],
+              "inspection_sha256": "c671664ca5e4e2e07bfd3049ea641c3a1645742fb8290494e67a17f7ed213ea9",
+              "source_sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+              "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+              "archived_evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+              "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B29.json"
+            },
+            "source_use_policy": {
+              "allowed_uses": [
+                "visible_anatomy",
+                "pose",
+                "resting_pose",
+                "styling"
+              ],
+              "provenance": "cataloged_photo",
+              "limitations": [
+                "Best available lateral body-length, tail-length/carriage and walking-pose reference; weak fine landmarks because blurred and not neutral standing.",
+                "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state."
+              ],
+              "evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md"
+            },
+            "source_observation": {
+              "date": "2026-10-03",
+              "pose_view_camera": "Left-facing walking side view indoors; near body-level",
+              "visible_features": "Elongated dark trunk; projecting muzzle/pendant ears; pale lower legs; dark tapering tail held low with gentle curve; underside hair fringe",
+              "limitations": "Motion blur and lifted legs; cannot establish neutral back slope, exact leg ratios or gait timing from still",
+              "recommended_uses": [
+                "pose",
+                "visible_anatomy"
+              ],
+              "full_restrictions": [
+                "Best available lateral body-length, tail-length/carriage and walking-pose reference; weak fine landmarks because blurred and not neutral standing.",
+                "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+                "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+                "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+                "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+                "Motion blur and lifted legs; cannot establish neutral back slope, exact leg ratios or gait timing from still"
+              ]
+            },
+            "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B29.json",
+            "inspection_sha256": "c671664ca5e4e2e07bfd3049ea641c3a1645742fb8290494e67a17f7ed213ea9"
+          }
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-6.jpg",
+          "sha256": "529eb0e7157b9837e577f94e5037d7bd7afe9ecad3de133b3cfa8efe829b03b1",
+          "role": "Original visible anatomy authority within policy",
+          "full_reference": {
+            "id": "B06",
+            "character": "Buddy",
+            "path": "Characters/Buddy/Photos/buddy-6.jpg",
+            "filename": "buddy-6.jpg",
+            "sha256": "529eb0e7157b9837e577f94e5037d7bd7afe9ecad3de133b3cfa8efe829b03b1",
+            "archived_source_path": "03_Asset_Library/Characters/Buddy/buddy-6.jpg",
+            "same_exposure_group": null,
+            "use": "Upright sitting with retained beard and costume styling",
+            "approval_status": "unknown",
+            "effective_use_policy": {
+              "allowed_uses": [
+                "visible_anatomy",
+                "styling"
+              ],
+              "provenance": "cataloged_photo",
+              "limitations": [
+                "Excellent composed sit and groomed frontal face; useful chest width; unreliable full foreleg length.",
+                "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+                "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+                "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+                "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+                "Bed rim hides paws; tie obscures center throat/chest; torso depth unavailable"
+              ],
+              "inspection_sha256": "6bb9f1686b67577e5e547c554f15aaa4923e77728dcf39c599d95befa342684c",
+              "source_sha256": "529eb0e7157b9837e577f94e5037d7bd7afe9ecad3de133b3cfa8efe829b03b1",
+              "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+              "archived_evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+              "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B06.json"
+            },
+            "source_use_policy": {
+              "allowed_uses": [
+                "visible_anatomy",
+                "pose",
+                "resting_pose",
+                "styling"
+              ],
+              "provenance": "cataloged_photo",
+              "limitations": [
+                "Excellent composed sit and groomed frontal face; useful chest width; unreliable full foreleg length.",
+                "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state."
+              ],
+              "evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md"
+            },
+            "source_observation": {
+              "date": "2026-10-03",
+              "pose_view_camera": "Frontal upright seated in bed wearing green tie; near face-level",
+              "visible_features": "Pale muzzle/brows; charcoal throat with pale chest sides; long hanging ear fringe; close torso; narrow visible foreleg shafts",
+              "limitations": "Bed rim hides paws; tie obscures center throat/chest; torso depth unavailable",
+              "recommended_uses": [
+                "sitting_pose",
+                "visible_anatomy",
+                "styling"
+              ],
+              "full_restrictions": [
+                "Excellent composed sit and groomed frontal face; useful chest width; unreliable full foreleg length.",
+                "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+                "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+                "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+                "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+                "Bed rim hides paws; tie obscures center throat/chest; torso depth unavailable"
+              ]
+            },
+            "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B06.json",
+            "inspection_sha256": "6bb9f1686b67577e5e547c554f15aaa4923e77728dcf39c599d95befa342684c"
+          }
+        }
+      ]
+    },
+    {
+      "id": "closing2",
+      "tool": "image_gen.imagegen",
+      "arguments": {
+        "prompt": "Use case illustration-story. Repaint this composition as clean hand-painted CEL-WASH illustration, not textured realism. IMAGE1 is positional layout ONLY. IMAGE2 controls totally smooth BODY paint. Remove ALL curled relief, micro-squiggles, hatching, engraved, pebbled marks on dog bodies. Broad flat charcoal/gray Buddy torso and broad flat ochre Neet torso with 2-3 large soft shadow shapes, clean outlines. Keep locally strand-drawn Buddy irregular projecting moustache, short beard, eyebrows, ear tips and paws, never smooth these away. Empty wood shrine with red-gold cloth and orange flowers, diya; Buddy placing red/yellow pawprint squeaky bone, Neet prone on rug in sunbeam. Same positions and connected limbs. Originals 3-5 are visible likeness authorities: Neet fine legs full narrow body and tiny nub, Buddy elongated full torso substantial leg clearance slender dark modest fringe tail. No patterned fur anywhere across body. No changes to actions or furnishings. Use clean smooth body surfaces as in second picture emphatically.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E054-the-visarjan-protocol/rough-v001.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-25.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-19.jpg"
+        ],
+        "transparent_background": false
+      },
+      "model": "unknown",
+      "seed": "unknown",
+      "output": {
+        "path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/E054-expanded/closing2-generated.png",
+        "sha256": "6ac52de84a8bb787a24622b26143d162fae263e341233956be92429960a62fcc",
+        "dimensions": [
+          1448,
+          1086
+        ]
+      },
+      "inputs": [
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E054-the-visarjan-protocol/rough-v001.png",
+          "sha256": "9b2403ee8e4549f9a8d81d8955006bfffed40e7a14bc4f375895cc41b591a743",
+          "role": "Generated composition/edit target or finish support; no anatomical authority"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "sha256": "19be9a85760177405bbedd26644a7e0eb9c7945709e43825d201ff2fa91742b9",
+          "role": "BODY FINISH only, no anatomy authority"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-25.jpeg",
+          "sha256": "67530c2ebc1baa412f76a825a7bd2369cebf72a101e7f45836fefa0fcae90ca4",
+          "role": "Original visible anatomy authority within policy",
+          "full_reference": {
+            "id": "N25",
+            "character": "Neet",
+            "path": "Characters/Neet/Photos/neet-25.jpeg",
+            "filename": "neet-25.jpeg",
+            "sha256": "67530c2ebc1baa412f76a825a7bd2369cebf72a101e7f45836fefa0fcae90ca4",
+            "archived_source_path": "03_Asset_Library/Characters/Neet/neet-25.jpeg",
+            "same_exposure_group": null,
+            "use": "Sternal rest with extended fine forelegs",
+            "approval_status": "unknown",
+            "effective_use_policy": {
+              "allowed_uses": [
+                "visible_anatomy",
+                "pose",
+                "resting_pose"
+              ],
+              "provenance": "cataloged_photo",
+              "limitations": [
+                "Excellent prone posture and forward paws; useful lateral ear spread.",
+                "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+                "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+                "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+                "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+                "Hindfeet and tail concealed; plush partly covers toes; cannot supply standing leg/trunk ratios"
+              ],
+              "inspection_sha256": "0e493b84294cbe31f8e7e484b1ce100d8bd7370e2de36f46b35f73b2eab5f99e",
+              "source_sha256": "67530c2ebc1baa412f76a825a7bd2369cebf72a101e7f45836fefa0fcae90ca4",
+              "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+              "archived_evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md",
+              "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N25.json"
+            },
+            "source_use_policy": {
+              "allowed_uses": [
+                "visible_anatomy",
+                "pose",
+                "resting_pose",
+                "styling"
+              ],
+              "provenance": "cataloged_photo",
+              "limitations": [
+                "Excellent prone posture and forward paws; useful lateral ear spread.",
+                "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state."
+              ],
+              "evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md"
+            },
+            "source_observation": {
+              "date": "2026-10-03",
+              "pose_view_camera": "Sternal recline on mat; front three-quarter at raised camera",
+              "visible_features": "Extended narrow forelegs; small paws; full torso; pale chest; ears diagonally outward",
+              "limitations": "Hindfeet and tail concealed; plush partly covers toes; cannot supply standing leg/trunk ratios",
+              "recommended_uses": [
+                "resting_pose",
+                "visible_anatomy",
+                "pose"
+              ],
+              "full_restrictions": [
+                "Excellent prone posture and forward paws; useful lateral ear spread.",
+                "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+                "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+                "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+                "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+                "Hindfeet and tail concealed; plush partly covers toes; cannot supply standing leg/trunk ratios"
+              ]
+            },
+            "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N25.json",
+            "inspection_sha256": "0e493b84294cbe31f8e7e484b1ce100d8bd7370e2de36f46b35f73b2eab5f99e"
+          }
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+          "sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+          "role": "Original visible anatomy authority within policy",
+          "full_reference": {
+            "id": "B29",
+            "character": "Buddy",
+            "path": "Characters/Buddy/Photos/buddy-29.jpeg",
+            "filename": "buddy-29.jpeg",
+            "sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+            "archived_source_path": "03_Asset_Library/Characters/Buddy/buddy-29.jpeg",
+            "same_exposure_group": null,
+            "use": "Side stride, torso length, leg clearance and tail curve",
+            "approval_status": "unknown",
+            "effective_use_policy": {
+              "allowed_uses": [
+                "visible_anatomy",
+                "pose"
+              ],
+              "provenance": "cataloged_photo",
+              "limitations": [
+                "Best available lateral body-length, tail-length/carriage and walking-pose reference; weak fine landmarks because blurred and not neutral standing.",
+                "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+                "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+                "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+                "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+                "Motion blur and lifted legs; cannot establish neutral back slope, exact leg ratios or gait timing from still"
+              ],
+              "inspection_sha256": "c671664ca5e4e2e07bfd3049ea641c3a1645742fb8290494e67a17f7ed213ea9",
+              "source_sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+              "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+              "archived_evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+              "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B29.json"
+            },
+            "source_use_policy": {
+              "allowed_uses": [
+                "visible_anatomy",
+                "pose",
+                "resting_pose",
+                "styling"
+              ],
+              "provenance": "cataloged_photo",
+              "limitations": [
+                "Best available lateral body-length, tail-length/carriage and walking-pose reference; weak fine landmarks because blurred and not neutral standing.",
+                "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state."
+              ],
+              "evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md"
+            },
+            "source_observation": {
+              "date": "2026-10-03",
+              "pose_view_camera": "Left-facing walking side view indoors; near body-level",
+              "visible_features": "Elongated dark trunk; projecting muzzle/pendant ears; pale lower legs; dark tapering tail held low with gentle curve; underside hair fringe",
+              "limitations": "Motion blur and lifted legs; cannot establish neutral back slope, exact leg ratios or gait timing from still",
+              "recommended_uses": [
+                "pose",
+                "visible_anatomy"
+              ],
+              "full_restrictions": [
+                "Best available lateral body-length, tail-length/carriage and walking-pose reference; weak fine landmarks because blurred and not neutral standing.",
+                "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+                "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+                "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+                "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+                "Motion blur and lifted legs; cannot establish neutral back slope, exact leg ratios or gait timing from still"
+              ]
+            },
+            "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B29.json",
+            "inspection_sha256": "c671664ca5e4e2e07bfd3049ea641c3a1645742fb8290494e67a17f7ed213ea9"
+          }
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-19.jpg",
+          "sha256": "201ec36498d5aaa85ef6e44a9176c333587d95797279a689237ccb49090ee521",
+          "role": "Original visible anatomy authority within policy",
+          "full_reference": {
+            "id": "B19",
+            "character": "Buddy",
+            "path": "Characters/Buddy/Photos/buddy-19.jpg",
+            "filename": "buddy-19.jpg",
+            "sha256": "201ec36498d5aaa85ef6e44a9176c333587d95797279a689237ccb49090ee521",
+            "archived_source_path": "03_Asset_Library/Characters/Buddy/buddy-19.jpg",
+            "same_exposure_group": null,
+            "use": "Chin-down resting with messy facial furnishings",
+            "approval_status": "unknown",
+            "effective_use_policy": {
+              "allowed_uses": [
+                "visible_anatomy",
+                "resting_pose"
+              ],
+              "provenance": "cataloged_photo",
+              "limitations": [
+                "Excellent low face, ear-root tufts, muzzle sweep and head-between-paws reference; poor global proportions.",
+                "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+                "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+                "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+                "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+                "Nearest face enlarged by perspective; rear blurred; limbs folded; no neutral head/body proportions"
+              ],
+              "inspection_sha256": "6686639617369f80387a581720cb9d28a2f0f5cf940da025eadf8b420095dfd2",
+              "source_sha256": "201ec36498d5aaa85ef6e44a9176c333587d95797279a689237ccb49090ee521",
+              "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+              "archived_evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+              "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B19.json"
+            },
+            "source_use_policy": {
+              "allowed_uses": [
+                "visible_anatomy",
+                "pose",
+                "resting_pose",
+                "styling"
+              ],
+              "provenance": "cataloged_photo",
+              "limitations": [
+                "Excellent low face, ear-root tufts, muzzle sweep and head-between-paws reference; poor global proportions.",
+                "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state."
+              ],
+              "evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md"
+            },
+            "source_observation": {
+              "date": "2026-10-03",
+              "pose_view_camera": "Chin down on forepaws; very low frontal close view",
+              "visible_features": "Pale muzzle strands/beard compressed; warm pale paws; paired brow arcs; dark eye surrounds; long hanging ear fringe; upward wispy roots",
+              "limitations": "Nearest face enlarged by perspective; rear blurred; limbs folded; no neutral head/body proportions",
+              "recommended_uses": [
+                "resting_pose",
+                "visible_anatomy",
+                "facial_expression"
+              ],
+              "full_restrictions": [
+                "Excellent low face, ear-root tufts, muzzle sweep and head-between-paws reference; poor global proportions.",
+                "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+                "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+                "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+                "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+                "Nearest face enlarged by perspective; rear blurred; limbs folded; no neutral head/body proportions"
+              ]
+            },
+            "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B19.json",
+            "inspection_sha256": "6686639617369f80387a581720cb9d28a2f0f5cf940da025eadf8b420095dfd2"
+          }
+        }
+      ]
+    },
+    {
+      "id": "morning2",
+      "tool": "image_gen.imagegen",
+      "arguments": {
+        "prompt": "Edit IMAGE1. Remove ALL the raised long fur brush marks and shag on BOTH DOGS BODIES: paint Neet neck torso limbs as plain smooth ochre with broad flat shadow shapes; Buddy torso neck limbs plain smooth dark charcoal and cream fields. NO fine coat strokes anywhere on these regions, NO jagged body outline, no raised shag. Keep Buddy irregular moustache beard brow ear/paw regional furnishing strands unchanged. Keep geometry poses blanket shrine faces object placement absolutely unchanged. IMAGE2 is exact smooth BODY surface style to use. This is short coat correction. Buddy tail slender dark taper with modest fringe only.",
+        "referenced_image_paths": [
+          "/Users/sagar/.codex/generated_images/01a1072f-7b94-7991-83c7-3c529157499e/exec-19d7b6f6-47e1-4161-9f1d-037a5e74b77a.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png"
+        ],
+        "transparent_background": false
+      },
+      "model": "unknown",
+      "seed": "unknown",
+      "output": {
+        "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E054-the-visarjan-protocol/morning-art-v003.png",
+        "sha256": "6c032fb199846efd13ad27982fbcc41f051f7eecff4b2b7165f3698ed9cb17dc",
+        "dimensions": [
+          1536,
+          1024
+        ]
+      },
+      "inputs": [
+        {
+          "path": "/Users/sagar/.codex/generated_images/01a1072f-7b94-7991-83c7-3c529157499e/exec-19d7b6f6-47e1-4161-9f1d-037a5e74b77a.png",
+          "sha256": "84f8f6e95a937900cae610c1b5b425e9688654fe58d2c3a6b698bf1a8f8f6dab",
+          "role": "Generated composition/edit target or finish support; no anatomical authority"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "sha256": "19be9a85760177405bbedd26644a7e0eb9c7945709e43825d201ff2fa91742b9",
+          "role": "BODY FINISH only, no anatomy authority"
+        }
+      ]
+    },
+    {
+      "id": "shore2",
+      "tool": "image_gen.imagegen",
+      "arguments": {
+        "prompt": "Edit IMAGE1 only dog coat and Buddy tail finish. Replace directional long fur strokes across Buddy neck shoulder torso haunch with PLAIN smooth charcoal gray watercolor fields, clear smooth outline no projecting shag. Replace Neet fine hatched body with PLAIN ochre smooth paint. IMAGE2 body-finish example: use that completely smooth cel-wash surface. Buddy tail MUST be SLENDER TAPERING mostly dark modest fringe, reduce thick bush width by more than half, same position attached at pelvis. Preserve Buddy distinct projecting irregular pale moustache and short beard, brows and ear fringes, pale paw furnishings. Do NOT oversmooth face. Keep composition every limb and support, Neet tiny nub, water flowers idol scenery unchanged. No other edits.",
+        "referenced_image_paths": [
+          "/Users/sagar/.codex/generated_images/01a1072f-7b94-7991-83c7-3c529157499e/exec-6c24f87d-57e6-4fcd-a55c-6c467c276cd6.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png"
+        ],
+        "transparent_background": false
+      },
+      "model": "unknown",
+      "seed": "unknown",
+      "output": {
+        "path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/E054-expanded/shore2-generated.png",
+        "sha256": "a2f388c06c1eed52a0a14c465ba9dcd6387648a037eaa5c2024a9c11b2ad6fff",
+        "dimensions": [
+          1536,
+          1024
+        ]
+      },
+      "inputs": [
+        {
+          "path": "/Users/sagar/.codex/generated_images/01a1072f-7b94-7991-83c7-3c529157499e/exec-6c24f87d-57e6-4fcd-a55c-6c467c276cd6.png",
+          "sha256": "ce665231e705dbb83465ad4609ad9144324e055aff42e680db044765111581c8",
+          "role": "Generated composition/edit target or finish support; no anatomical authority"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "sha256": "19be9a85760177405bbedd26644a7e0eb9c7945709e43825d201ff2fa91742b9",
+          "role": "BODY FINISH only, no anatomy authority"
+        }
+      ]
+    },
+    {
+      "id": "closing3",
+      "tool": "image_gen.imagegen",
+      "arguments": {
+        "prompt": "Edit first image ONLY Buddy shoulder and neck coat and Neet throat/neck. Smooth their spiky directional dark/light hair-shaped edges into clean broad contiguous color washes. Match completely smooth short coat fields of image2. Preserve all face furnishing strands: Buddy projecting irregular moustache chin beard eyebrows ears and paw tufts mandatory unchanged. Preserve body geometry, four standing supports, Neet supported prone legs, tiny nub, modest tail, shrine bone flowers rug all unchanged. Bone red with yellow pawprints. No curly/engraved/hair strokes on bodies. Finish-only local cleanup.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E054-the-visarjan-protocol/closing-art-v004.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E054-the-visarjan-protocol/morning-art-v003.png"
+        ],
+        "transparent_background": false
+      },
+      "model": "unknown",
+      "seed": "unknown",
+      "output": {
+        "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E054-the-visarjan-protocol/closing-art-v005.png",
+        "sha256": "b8555904c45b254af108a3547bf11dd0037a865dd3cad5b601069365be251be9",
+        "dimensions": [
+          1448,
+          1086
+        ]
+      },
+      "inputs": [
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E054-the-visarjan-protocol/closing-art-v004.png",
+          "sha256": "6ac52de84a8bb787a24622b26143d162fae263e341233956be92429960a62fcc",
+          "role": "Generated composition/edit target or finish support; no anatomical authority",
+          "recoverable_input_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/E054-expanded/closing2-generated.png"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E054-the-visarjan-protocol/morning-art-v003.png",
+          "sha256": "6c032fb199846efd13ad27982fbcc41f051f7eecff4b2b7165f3698ed9cb17dc",
+          "role": "Generated composition/edit target or finish support; no anatomical authority"
+        }
+      ]
+    },
+    {
+      "id": "shore3",
+      "tool": "image_gen.imagegen",
+      "arguments": {
+        "prompt": "One precise anatomy correction to IMAGE1: Buddy DARK dog's tail at lower left is too wide and pale. Make it a slender predominantly charcoal tapered tail about ONE THIRD current width, with only a few modest short fringe strands. Follow ORIGINAL Buddy photo2 tail's slender form, adjusted seated position along ground. Tail begins at same pelvis root and extends same direction on ground. Absolutely preserve every other pixel-level scene feature: dogs smooth bodies, moustache beard brows ear/paw furnishings, Neet tiny nub, all limbs, shrine lake idol petals background. Do not regenerate faces or body coat. ONLY dark dog's tail silhouette and color.",
+        "referenced_image_paths": [
+          "/Users/sagar/.codex/generated_images/01a1072f-7b94-7991-83c7-3c529157499e/exec-12415246-b5a0-42b8-8578-90aeb482f539.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg"
+        ],
+        "transparent_background": false
+      },
+      "model": "unknown",
+      "seed": "unknown",
+      "output": {
+        "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E054-the-visarjan-protocol/shore-art-v004.png",
+        "sha256": "829ce98f4f7f44a71c6a373328fdc2118bb2e3c407f6c70d0f5c41fbefb3e4c9",
+        "dimensions": [
+          1536,
+          1024
+        ]
+      },
+      "inputs": [
+        {
+          "path": "/Users/sagar/.codex/generated_images/01a1072f-7b94-7991-83c7-3c529157499e/exec-12415246-b5a0-42b8-8578-90aeb482f539.png",
+          "sha256": "a2f388c06c1eed52a0a14c465ba9dcd6387648a037eaa5c2024a9c11b2ad6fff",
+          "role": "Generated composition/edit target or finish support; no anatomical authority"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+          "sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+          "role": "Original visible anatomy authority within policy",
+          "full_reference": {
+            "id": "B29",
+            "character": "Buddy",
+            "path": "Characters/Buddy/Photos/buddy-29.jpeg",
+            "filename": "buddy-29.jpeg",
+            "sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+            "archived_source_path": "03_Asset_Library/Characters/Buddy/buddy-29.jpeg",
+            "same_exposure_group": null,
+            "use": "Side stride, torso length, leg clearance and tail curve",
+            "approval_status": "unknown",
+            "effective_use_policy": {
+              "allowed_uses": [
+                "visible_anatomy",
+                "pose"
+              ],
+              "provenance": "cataloged_photo",
+              "limitations": [
+                "Best available lateral body-length, tail-length/carriage and walking-pose reference; weak fine landmarks because blurred and not neutral standing.",
+                "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+                "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+                "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+                "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+                "Motion blur and lifted legs; cannot establish neutral back slope, exact leg ratios or gait timing from still"
+              ],
+              "inspection_sha256": "c671664ca5e4e2e07bfd3049ea641c3a1645742fb8290494e67a17f7ed213ea9",
+              "source_sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+              "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+              "archived_evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+              "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B29.json"
+            },
+            "source_use_policy": {
+              "allowed_uses": [
+                "visible_anatomy",
+                "pose",
+                "resting_pose",
+                "styling"
+              ],
+              "provenance": "cataloged_photo",
+              "limitations": [
+                "Best available lateral body-length, tail-length/carriage and walking-pose reference; weak fine landmarks because blurred and not neutral standing.",
+                "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state."
+              ],
+              "evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md"
+            },
+            "source_observation": {
+              "date": "2026-10-03",
+              "pose_view_camera": "Left-facing walking side view indoors; near body-level",
+              "visible_features": "Elongated dark trunk; projecting muzzle/pendant ears; pale lower legs; dark tapering tail held low with gentle curve; underside hair fringe",
+              "limitations": "Motion blur and lifted legs; cannot establish neutral back slope, exact leg ratios or gait timing from still",
+              "recommended_uses": [
+                "pose",
+                "visible_anatomy"
+              ],
+              "full_restrictions": [
+                "Best available lateral body-length, tail-length/carriage and walking-pose reference; weak fine landmarks because blurred and not neutral standing.",
+                "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+                "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+                "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+                "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+                "Motion blur and lifted legs; cannot establish neutral back slope, exact leg ratios or gait timing from still"
+              ]
+            },
+            "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B29.json",
+            "inspection_sha256": "c671664ca5e4e2e07bfd3049ea641c3a1645742fb8290494e67a17f7ed213ea9"
+          }
+        }
+      ]
+    }
+  ],
+  "approval": "unapproved",
+  "publication": "not_published",
+  "references": {
+    "references": [
+      {
+        "id": "N19",
+        "character": "Neet",
+        "path": "Characters/Neet/Photos/neet-19.jpeg",
+        "filename": "neet-19.jpeg",
+        "sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+        "archived_source_path": "03_Asset_Library/Characters/Neet/neet-19.jpeg",
+        "same_exposure_group": null,
+        "use": "Primary body-level side standing and tail nub",
+        "approval_status": "unknown",
+        "effective_use_policy": {
+          "allowed_uses": [
+            "visible_anatomy",
+            "styling",
+            "standing_pose"
+          ],
+          "provenance": "cataloged_photo",
+          "limitations": [
+            "Primary standing body proportions, paws, hocks and stub silhouette; head is not a pure profile.",
+            "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+            "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+            "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+            "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+            "Head rotated; far limbs overlap; uncalibrated camera offers no measurements; room light subdued"
+          ],
+          "inspection_sha256": "b2c6db0a5af6a885d993cbd986cc2759b9461e693fbcabd8aa96bce1eb5ea901",
+          "source_sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+          "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+          "archived_evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md",
+          "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N19.json"
+        },
+        "source_use_policy": {
+          "allowed_uses": [
+            "visible_anatomy",
+            "pose",
+            "resting_pose",
+            "styling"
+          ],
+          "provenance": "cataloged_photo",
+          "limitations": [
+            "Primary standing body proportions, paws, hocks and stub silhouette; head is not a pure profile.",
+            "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state."
+          ],
+          "evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md"
+        },
+        "source_observation": {
+          "date": "2026-10-03",
+          "pose_view_camera": "Standing left-facing side with head toward camera; near body-level",
+          "visible_features": "Tiny short tan rump nub; near-square qualitative standing impression; long slender legs; full ribcage/thigh; moderate ventral rise; smooth short coat",
+          "limitations": "Head rotated; far limbs overlap; uncalibrated camera offers no measurements; room light subdued",
+          "recommended_uses": [
+            "standing_pose",
+            "visible_anatomy",
+            "styling"
+          ],
+          "full_restrictions": [
+            "Primary standing body proportions, paws, hocks and stub silhouette; head is not a pure profile.",
+            "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+            "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+            "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+            "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+            "Head rotated; far limbs overlap; uncalibrated camera offers no measurements; room light subdued"
+          ]
+        },
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N19.json",
+        "inspection_sha256": "b2c6db0a5af6a885d993cbd986cc2759b9461e693fbcabd8aa96bce1eb5ea901"
+      },
+      {
+        "id": "B06",
+        "character": "Buddy",
+        "path": "Characters/Buddy/Photos/buddy-6.jpg",
+        "filename": "buddy-6.jpg",
+        "sha256": "529eb0e7157b9837e577f94e5037d7bd7afe9ecad3de133b3cfa8efe829b03b1",
+        "archived_source_path": "03_Asset_Library/Characters/Buddy/buddy-6.jpg",
+        "same_exposure_group": null,
+        "use": "Upright sitting with retained beard and costume styling",
+        "approval_status": "unknown",
+        "effective_use_policy": {
+          "allowed_uses": [
+            "visible_anatomy",
+            "styling"
+          ],
+          "provenance": "cataloged_photo",
+          "limitations": [
+            "Excellent composed sit and groomed frontal face; useful chest width; unreliable full foreleg length.",
+            "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+            "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+            "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+            "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+            "Bed rim hides paws; tie obscures center throat/chest; torso depth unavailable"
+          ],
+          "inspection_sha256": "6bb9f1686b67577e5e547c554f15aaa4923e77728dcf39c599d95befa342684c",
+          "source_sha256": "529eb0e7157b9837e577f94e5037d7bd7afe9ecad3de133b3cfa8efe829b03b1",
+          "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+          "archived_evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+          "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B06.json"
+        },
+        "source_use_policy": {
+          "allowed_uses": [
+            "visible_anatomy",
+            "pose",
+            "resting_pose",
+            "styling"
+          ],
+          "provenance": "cataloged_photo",
+          "limitations": [
+            "Excellent composed sit and groomed frontal face; useful chest width; unreliable full foreleg length.",
+            "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state."
+          ],
+          "evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md"
+        },
+        "source_observation": {
+          "date": "2026-10-03",
+          "pose_view_camera": "Frontal upright seated in bed wearing green tie; near face-level",
+          "visible_features": "Pale muzzle/brows; charcoal throat with pale chest sides; long hanging ear fringe; close torso; narrow visible foreleg shafts",
+          "limitations": "Bed rim hides paws; tie obscures center throat/chest; torso depth unavailable",
+          "recommended_uses": [
+            "sitting_pose",
+            "visible_anatomy",
+            "styling"
+          ],
+          "full_restrictions": [
+            "Excellent composed sit and groomed frontal face; useful chest width; unreliable full foreleg length.",
+            "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+            "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+            "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+            "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+            "Bed rim hides paws; tie obscures center throat/chest; torso depth unavailable"
+          ]
+        },
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B06.json",
+        "inspection_sha256": "6bb9f1686b67577e5e547c554f15aaa4923e77728dcf39c599d95befa342684c"
+      },
+      {
+        "id": "B29",
+        "character": "Buddy",
+        "path": "Characters/Buddy/Photos/buddy-29.jpeg",
+        "filename": "buddy-29.jpeg",
+        "sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+        "archived_source_path": "03_Asset_Library/Characters/Buddy/buddy-29.jpeg",
+        "same_exposure_group": null,
+        "use": "Side stride, torso length, leg clearance and tail curve",
+        "approval_status": "unknown",
+        "effective_use_policy": {
+          "allowed_uses": [
+            "visible_anatomy",
+            "pose"
+          ],
+          "provenance": "cataloged_photo",
+          "limitations": [
+            "Best available lateral body-length, tail-length/carriage and walking-pose reference; weak fine landmarks because blurred and not neutral standing.",
+            "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+            "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+            "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+            "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+            "Motion blur and lifted legs; cannot establish neutral back slope, exact leg ratios or gait timing from still"
+          ],
+          "inspection_sha256": "c671664ca5e4e2e07bfd3049ea641c3a1645742fb8290494e67a17f7ed213ea9",
+          "source_sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+          "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+          "archived_evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+          "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B29.json"
+        },
+        "source_use_policy": {
+          "allowed_uses": [
+            "visible_anatomy",
+            "pose",
+            "resting_pose",
+            "styling"
+          ],
+          "provenance": "cataloged_photo",
+          "limitations": [
+            "Best available lateral body-length, tail-length/carriage and walking-pose reference; weak fine landmarks because blurred and not neutral standing.",
+            "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state."
+          ],
+          "evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md"
+        },
+        "source_observation": {
+          "date": "2026-10-03",
+          "pose_view_camera": "Left-facing walking side view indoors; near body-level",
+          "visible_features": "Elongated dark trunk; projecting muzzle/pendant ears; pale lower legs; dark tapering tail held low with gentle curve; underside hair fringe",
+          "limitations": "Motion blur and lifted legs; cannot establish neutral back slope, exact leg ratios or gait timing from still",
+          "recommended_uses": [
+            "pose",
+            "visible_anatomy"
+          ],
+          "full_restrictions": [
+            "Best available lateral body-length, tail-length/carriage and walking-pose reference; weak fine landmarks because blurred and not neutral standing.",
+            "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+            "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+            "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+            "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+            "Motion blur and lifted legs; cannot establish neutral back slope, exact leg ratios or gait timing from still"
+          ]
+        },
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B29.json",
+        "inspection_sha256": "c671664ca5e4e2e07bfd3049ea641c3a1645742fb8290494e67a17f7ed213ea9"
+      },
+      {
+        "id": "N25",
+        "character": "Neet",
+        "path": "Characters/Neet/Photos/neet-25.jpeg",
+        "filename": "neet-25.jpeg",
+        "sha256": "67530c2ebc1baa412f76a825a7bd2369cebf72a101e7f45836fefa0fcae90ca4",
+        "archived_source_path": "03_Asset_Library/Characters/Neet/neet-25.jpeg",
+        "same_exposure_group": null,
+        "use": "Sternal rest with extended fine forelegs",
+        "approval_status": "unknown",
+        "effective_use_policy": {
+          "allowed_uses": [
+            "visible_anatomy",
+            "pose",
+            "resting_pose"
+          ],
+          "provenance": "cataloged_photo",
+          "limitations": [
+            "Excellent prone posture and forward paws; useful lateral ear spread.",
+            "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+            "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+            "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+            "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+            "Hindfeet and tail concealed; plush partly covers toes; cannot supply standing leg/trunk ratios"
+          ],
+          "inspection_sha256": "0e493b84294cbe31f8e7e484b1ce100d8bd7370e2de36f46b35f73b2eab5f99e",
+          "source_sha256": "67530c2ebc1baa412f76a825a7bd2369cebf72a101e7f45836fefa0fcae90ca4",
+          "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+          "archived_evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md",
+          "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N25.json"
+        },
+        "source_use_policy": {
+          "allowed_uses": [
+            "visible_anatomy",
+            "pose",
+            "resting_pose",
+            "styling"
+          ],
+          "provenance": "cataloged_photo",
+          "limitations": [
+            "Excellent prone posture and forward paws; useful lateral ear spread.",
+            "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state."
+          ],
+          "evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md"
+        },
+        "source_observation": {
+          "date": "2026-10-03",
+          "pose_view_camera": "Sternal recline on mat; front three-quarter at raised camera",
+          "visible_features": "Extended narrow forelegs; small paws; full torso; pale chest; ears diagonally outward",
+          "limitations": "Hindfeet and tail concealed; plush partly covers toes; cannot supply standing leg/trunk ratios",
+          "recommended_uses": [
+            "resting_pose",
+            "visible_anatomy",
+            "pose"
+          ],
+          "full_restrictions": [
+            "Excellent prone posture and forward paws; useful lateral ear spread.",
+            "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+            "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+            "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+            "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+            "Hindfeet and tail concealed; plush partly covers toes; cannot supply standing leg/trunk ratios"
+          ]
+        },
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N25.json",
+        "inspection_sha256": "0e493b84294cbe31f8e7e484b1ce100d8bd7370e2de36f46b35f73b2eab5f99e"
+      },
+      {
+        "id": "B19",
+        "character": "Buddy",
+        "path": "Characters/Buddy/Photos/buddy-19.jpg",
+        "filename": "buddy-19.jpg",
+        "sha256": "201ec36498d5aaa85ef6e44a9176c333587d95797279a689237ccb49090ee521",
+        "archived_source_path": "03_Asset_Library/Characters/Buddy/buddy-19.jpg",
+        "same_exposure_group": null,
+        "use": "Chin-down resting with messy facial furnishings",
+        "approval_status": "unknown",
+        "effective_use_policy": {
+          "allowed_uses": [
+            "visible_anatomy",
+            "resting_pose"
+          ],
+          "provenance": "cataloged_photo",
+          "limitations": [
+            "Excellent low face, ear-root tufts, muzzle sweep and head-between-paws reference; poor global proportions.",
+            "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+            "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+            "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+            "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+            "Nearest face enlarged by perspective; rear blurred; limbs folded; no neutral head/body proportions"
+          ],
+          "inspection_sha256": "6686639617369f80387a581720cb9d28a2f0f5cf940da025eadf8b420095dfd2",
+          "source_sha256": "201ec36498d5aaa85ef6e44a9176c333587d95797279a689237ccb49090ee521",
+          "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+          "archived_evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+          "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B19.json"
+        },
+        "source_use_policy": {
+          "allowed_uses": [
+            "visible_anatomy",
+            "pose",
+            "resting_pose",
+            "styling"
+          ],
+          "provenance": "cataloged_photo",
+          "limitations": [
+            "Excellent low face, ear-root tufts, muzzle sweep and head-between-paws reference; poor global proportions.",
+            "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state."
+          ],
+          "evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md"
+        },
+        "source_observation": {
+          "date": "2026-10-03",
+          "pose_view_camera": "Chin down on forepaws; very low frontal close view",
+          "visible_features": "Pale muzzle strands/beard compressed; warm pale paws; paired brow arcs; dark eye surrounds; long hanging ear fringe; upward wispy roots",
+          "limitations": "Nearest face enlarged by perspective; rear blurred; limbs folded; no neutral head/body proportions",
+          "recommended_uses": [
+            "resting_pose",
+            "visible_anatomy",
+            "facial_expression"
+          ],
+          "full_restrictions": [
+            "Excellent low face, ear-root tufts, muzzle sweep and head-between-paws reference; poor global proportions.",
+            "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+            "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+            "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+            "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+            "Nearest face enlarged by perspective; rear blurred; limbs folded; no neutral head/body proportions"
+          ]
+        },
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B19.json",
+        "inspection_sha256": "6686639617369f80387a581720cb9d28a2f0f5cf940da025eadf8b420095dfd2"
+      }
+    ],
+    "restrictions": "N35 excludes anatomy; B08 styling only; B25 unavailable; B30 supplemental rest only. One exposure once. Human appearance provisional.",
+    "approval": "unapproved",
+    "observed": {
+      "model": "Standing model opened; anatomy usable provisionally, dense coat finish not inherited. Rest model and old closing rough opened; full supported torso and limbs useful.",
+      "staging-v002": "Two full scenes actually drawn; upper four-limb supports readable. Lower Neet long tail rejected, Buddy plume and raft questioned.",
+      "staging-v003": "Opened correction: Neet nub restored; Buddy tail less broad, sitting supports read. Murti now partly immersed. Dense pencil body texture explicitly removed at finishing.",
+      "existing_closing": "Retain composition. Curly/engraved torso wash is material finish defect to correct."
+    }
+  },
+  "model_gate": {
+    "opened": [
+      "Productions/Library-Refinement/model-standing-v002.png",
+      "Productions/Library-Refinement/model-rest-action-v002.png"
+    ],
+    "decision": "Provisional structure usable; coat texture not inherited; original photographs authority"
+  },
+  "staging_gate": {
+    "model": "Standing model opened; anatomy usable provisionally, dense coat finish not inherited. Rest model and old closing rough opened; full supported torso and limbs useful.",
+    "staging-v002": "Two full scenes actually drawn; upper four-limb supports readable. Lower Neet long tail rejected, Buddy plume and raft questioned.",
+    "staging-v003": "Opened correction: Neet nub restored; Buddy tail less broad, sitting supports read. Murti now partly immersed. Dense pencil body texture explicitly removed at finishing.",
+    "existing_closing": "Retain composition. Curly/engraved torso wash is material finish defect to correct."
+  },
+  "story_gate": "comedy-pass-v002.json",
+  "independent_visual_review": "pending",
+  "fresh_complete_reading": "pending",
+  "selected_images": [
+    "Productions/E054-the-visarjan-protocol/morning-art-v003.png",
+    "Productions/E054-the-visarjan-protocol/shore-art-v004.png",
+    "Productions/E054-the-visarjan-protocol/closing-art-v005.png"
+  ],
+  "generator_observations": {
+    "morning-art-v003.png": "Opened full 1536x1024: four grounded supports each including Buddy paw on blanket, projecting muzzle/beard/brows retained, smooth body fields, nubby Neet tail, pleading vs serious acting. Submit independent judgement.",
+    "shore-art-v004.png": "Opened full 1536x1024: seated haunches, supported paws, Neet nub preserved, Buddy tail narrowed/darkened after first correction insufficient; smooth body fields and regional muzzle/ear details. Quiet lake/petals actual farewell. Submit independent judgement of tail and proportions.",
+    "closing-art-v005.png": "Opened full 1448x1086: preserved empty-shrine offering composition, four Buddy supports, Neet full prone trunk and two forepaws/folded near rear. Smooth fields replace engraved coat, irregular facial furnishings retained. Some regional leg edges remain; independent judgement required."
+  },
+  "status": "proposed_pending_independent_review",
+  "author_complete_reread": "Final complete Markdown with all three anchors read after embedding; image states precede movement/petals response/settling. Independent intended-size rendered reading pending."
+}

@@ -1,0 +1,118 @@
+{
+  "story_id": "S025",
+  "status": "writer_pass_complete_pending_independent_reviews",
+  "sources": [
+    {
+      "path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S025-expanded/previous-working.md",
+      "sha256": "1c97ac5be260f193649ce70f07f78010279aefd6f4f682cc60551b9e0bcdf5dd"
+    },
+    {
+      "path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S025-expanded/26-the-return-to-the-u-s-immigration-madness.md",
+      "sha256": "1a14ca0bd7ebc29818a19dcf186bef53d659454571b7009e183d660e7a56daa4"
+    },
+    {
+      "path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S025-expanded/reader-44.txt",
+      "sha256": "fdbf386d5d1aa6d0dc5551babde4e0e9aeff33c3bf10cdcf98f22c5449726feb"
+    },
+    {
+      "path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S025-expanded/reader-45.txt",
+      "sha256": "f38dbe7128cc6d819834c176e64674186bf56ec25f9ec8aaabd7177c72e43878"
+    }
+  ],
+  "connected_reads": [
+    {
+      "path": "/Users/sagar/Documents/ChatGPT/NBC/Stories/S024-the-istanbul-layover-debacle.md",
+      "sha256": "7a3b62757a239dc9712547e6b93c3d2db7a8192d51427c40197c2a1c4c42952c"
+    },
+    {
+      "path": "/Users/sagar/Documents/ChatGPT/NBC/Stories/S026-the-homecoming-blues.md",
+      "sha256": "1b1cd569362bef2938fccd8f00f7b24b0be73e78c0203631b23a9f7cead6dca0"
+    }
+  ],
+  "central_comic_situation": "Neet tries to look natural while smuggling olives, then voluntarily becomes conspicuous luggage. Feeling: affectionate travel exhaustion and comic homecoming relief.",
+  "wants": {
+    "Neet": "Bring olives home and turn every procedural delay into his triumph.",
+    "Buddy": "Get Heather and luggage through the exit so his next nap remains in one country.",
+    "collision": "Buddy tries three sensible steps; Neet makes himself a fourth item to retrieve."
+  },
+  "preserved": [
+    "Cool and natural advice",
+    "Emotional support chaos",
+    "Define food/illegal pair",
+    "Food denial and passport release",
+    "I AM PART OF THE LUGGAGE NOW",
+    "Beagle detection",
+    "Whole olives eaten one by one",
+    "You cannot confiscate what no longer exists",
+    "Two airport bans and totally worth it closing"
+  ],
+  "changes": [
+    "Buddy specific nap/home desire",
+    "Neet half-paw competition even while behaving",
+    "Bag concealment and innocent Buddy stare",
+    "Recurrent red suitcase replaces generic war-zone simile",
+    "Planted paws follow spinning for exact illustration state",
+    "Buddy found-item callback and active collected-luggage closing",
+    "Buddy suspicious step away from beagle",
+    "Quiet shared olive-eating audience reaction"
+  ],
+  "ending": "Original totally worth it survives; Buddy earns exit by blocking return to belt and declaring Neet collected.",
+  "variant_decision": "All three complete archived encodings compared independently. reader44 is equivalent prose; reader45 adds formatting emphasis. No distinct narrative alternative warrants separate invented variant or artwork.",
+  "comparison": {
+    "complete_reread": true,
+    "previous_working": "Every original incident and strong punchline retained; adds short causal Buddy arc, no unnecessary subplot. Existing warm collar hold preserved instead of historical kick/hate.",
+    "original": "Historical TSA/beagle speaking authority, food denial, absurd eaten-evidence release, Heather/dogs household preserved as fiction; no policy fact correction or added Sagar. Prior removal of pretended disownership remains documented by original recovery.",
+    "complete_final_reread": "Read complete revised text after embedding all three images. Corrected detector gaze microbeat to keep sniffing at illustration anchor. Source incidents and ending retained."
+  },
+  "selected_images": [
+    {
+      "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E025-the-return-to-the-u-s-immigration-madness/checkpoint-art-v003.png",
+      "sha256": "30acf900207b89db22eeaed6a941ffd4d4a56daec0c391767b82d630abafec6c",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "placement_after": "Neet pressed his little bag behind his forelegs. Buddy looked straight ahead with the fierce concentration of a dog who had never met an olive.",
+      "alt_text": "Neet hides the bag while Buddy concentrates on looking innocent.",
+      "variant": "primary",
+      "generation_pointer": "artwork-generation-v002.json#/generations/2",
+      "generation_id": "checkpointfix",
+      "status": "pending_independent_review"
+    },
+    {
+      "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E025-the-return-to-the-u-s-immigration-madness/carousel-art-v002.png",
+      "sha256": "bff7c35764cdea896cbe3596c709ccf5cfb849373cbab7b1e0405886c4841e17",
+      "dimensions": [
+        1448,
+        1086
+      ],
+      "placement_after": "Buddy followed along the stationary edge as Neet rotated like a rotisserie chicken. He stopped at the next clear gap and barked. If Neet insisted on being luggage, someone had to be there to collect him.",
+      "alt_text": "Buddy waits at the clear pickup gap while Neet enjoys becoming part of the baggage.",
+      "variant": "primary",
+      "generation_pointer": "artwork-generation-v002.json#/generations/3",
+      "generation_id": "carousel",
+      "status": "pending_independent_review"
+    },
+    {
+      "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E025-the-return-to-the-u-s-immigration-madness/detection-art-v003.png",
+      "sha256": "9d4a9a133890926d9af689fdffe8538f985eac888ddfdac344d363ffa0e42772",
+      "dimensions": [
+        1774,
+        887
+      ],
+      "placement_after": "He took one careful step away from the bag, then stopped. What if leaving looked suspicious? The beagle kept sniffing. Buddy stayed exactly where he was.",
+      "alt_text": "The detector beagle finds the bag while Buddy freezes one careful step away.",
+      "variant": "primary",
+      "generation_pointer": "artwork-generation-v002.json#/generations/5",
+      "generation_id": "detectionfix",
+      "status": "pending_independent_review"
+    }
+  ],
+  "recovery_snapshot": "/Users/sagar/Documents/ChatGPT/NBC_Archives/NBC-before-expanded-refinement-2026-10-04_035505Z.tar.gz",
+  "revised_story": {
+    "path": "/Users/sagar/Documents/ChatGPT/NBC/Stories/S025-the-return-to-the-u-s-immigration-madness.md",
+    "sha256": "18a10d4626016457c5551125f88e1dd7073bed28a4c5c6b42f907fa66f97bc2a"
+  },
+  "approval": "unapproved",
+  "publication": "not_published"
+}

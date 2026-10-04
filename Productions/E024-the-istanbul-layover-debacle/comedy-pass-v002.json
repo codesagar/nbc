@@ -1,0 +1,92 @@
+{
+  "story_id": "S024",
+  "status": "second_creative_pass_complete_pending_independent_reading",
+  "sources": [
+    {
+      "path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S024-original-v002.md",
+      "sha256": "4307bb10d3d1752380c3b45f6c49214000971679ed33790e87f576716c5e3d57"
+    },
+    {
+      "path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S024-expanded/S024-the-istanbul-layover-debacle.md.before-v002",
+      "sha256": "59a69129ab7476b1420447b569ea8f8a0c4e4559373beca63338492197722907"
+    }
+  ],
+  "connected_episodes_read": [
+    {
+      "path": "/Users/sagar/Documents/ChatGPT/NBC/Stories/S023-the-business-class-upgrade-disaster.md",
+      "sha256": "99b2ebc7d0d54f1c2aabc13c654ee28cc1436d4eb4e730a52eed798c27e3a407"
+    },
+    {
+      "path": "/Users/sagar/Documents/ChatGPT/NBC/Stories/S025-the-return-to-the-u-s-immigration-madness.md",
+      "sha256": "1c97ac5be260f193649ce70f07f78010279aefd6f4f682cc60551b9e0bcdf5dd"
+    }
+  ],
+  "central_comic_situation": "A five-hour luxury layover becomes Neet's chance to investigate everything and steal olives; Buddy cannot protect a single nap.",
+  "intended_feeling": "Affectionate travel fatigue and ridiculous confidence, with quiet physical payoff.",
+  "wants": {
+    "Neet": "Dominate the layover, explore buttons and take buffet olives home.",
+    "Buddy": "Eat, nap uninterrupted and let Heather finish her shower.",
+    "Heather": "Find lounge, freshen up and reach gate without another international incident."
+  },
+  "preserved_incidents_and_jokes": [
+    "Barked LOUNGE FOOD NAP demand and employee pointing",
+    "See? You just gotta speak their language",
+    "Private room and clear inner shower glass; closed outer door boundary",
+    "Water pressure and buttons interruptions",
+    "Stolen towel and Embracing the luxury life",
+    "Olives concealed under sleeping Buddy",
+    "Buddy standing reveals napkin before Neet bags it",
+    "If I get detained for smuggling produce, I will haunt you",
+    "Final Talent line"
+  ],
+  "actual_changes": [
+    "Buddy's adventure has a footrest; he selects a seat facing away from buffet and shields his rest.",
+    "Heather apologizes that Neet thinks volume is a language; joke targets Neet, not language barrier.",
+    "Buddy offers an inspection of the other chair, silently, to redirect interruption.",
+    "Stolen towel slips over one forepaw; frozen dignity and Heather's quiet rescue give a physical reversal; towel returned before olive scene.",
+    "Explicit padded dining seat bridges Buddy's second nap and olive reveal; I applied to be a pillow supports his own lost comfort."
+  ],
+  "ending": "Preserved final Talent, preserving comic arrogance and transit into S025 olive consequences.",
+  "alternatives": {
+    "meaningful_alternatives_present": false,
+    "decision": "S024 contains one primary and one original legacy source. No invented blended alternative or separate variant artwork."
+  },
+  "complete_reread_comparison": {
+    "performed": true,
+    "method": "Read full current primary, full recovered legacy Chapter 25, complete pre-expanded snapshot version, and full S023/S025. After changes reread full story and compare preserved incident sequence.",
+    "findings": [
+      "No central incident lost; unchanged named household Heather/Neet/Buddy, no added Sagar.",
+      "Retained prior privacy correction and explicit olive bag transfer instead of reverting original contradictory walking concealment.",
+      "Kept existing final lines instead of adding an explanatory tag; added about 150 words concentrated in character actions.",
+      "Historical travel claims remain story fiction, not current airport/legal guidance. No chronology/canon claim.",
+      "Three scenes selected for independent narrative contribution; no alternative exists to illustrate."
+    ]
+  },
+  "art_plan": [
+    {
+      "scene": "lounge",
+      "contribution": "Opposed sensory priorities before the shower.",
+      "anchor": "Neet stood beside the chair, nose aimed toward the food. Buddy lowered his own nose between his paws."
+    },
+    {
+      "scene": "towel",
+      "contribution": "Heather frees the paw as Neet's luxurious dignity stalls.",
+      "anchor": "Heather crouched to free the paw. \"Luxury has got you.\""
+    },
+    {
+      "scene": "olive",
+      "contribution": "Concealed stash newly exposed, before retrieval.",
+      "anchor": "The boarding announcement came while Heather was gathering their bags. Buddy stood, revealing the napkin."
+    }
+  ],
+  "approval": {
+    "state": "unapproved"
+  },
+  "publication": {
+    "state": "not_published"
+  },
+  "final_story": {
+    "path": "Stories/S024-the-istanbul-layover-debacle.md",
+    "sha256": "7a3b62757a239dc9712547e6b93c3d2db7a8192d51427c40197c2a1c4c42952c"
+  }
+}

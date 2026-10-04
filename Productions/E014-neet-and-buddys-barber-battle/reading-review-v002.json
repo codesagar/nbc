@@ -1,0 +1,62 @@
+{
+  "story_id": "S014",
+  "status": "accepted",
+  "reviewer": "fresh-complete-reading-S014",
+  "reviewed_at": "2026-10-04T06:11:49.036040+00:00",
+  "story": {
+    "path": "Stories/S014-neet-and-buddys-barber-battle.md",
+    "sha256": "9720c1364d6398f6e6c421c5cbbe7316d10870e633f3c4adcaa20b7d01b6710a"
+  },
+  "images": [
+    {
+      "path": "Productions/E014-neet-and-buddys-barber-battle/arrival-art-v004.png",
+      "sha256": "10c0f8f7f282defdcbb7660b84a2b202387b82b28a828a2ea5b93289d18e1c64"
+    },
+    {
+      "path": "Productions/E014-neet-and-buddys-barber-battle/illustration-v003.png",
+      "sha256": "42417ac9c0ebbf5107518187f1406133934ffab092ef4dce7542f76f879013f3"
+    },
+    {
+      "path": "Productions/E014-neet-and-buddys-barber-battle/mirror-art-v003.png",
+      "sha256": "82eccb4d857562404f78ea881a87537d1268116e5da77b73e43eb7db4745b17d"
+    }
+  ],
+  "method": {
+    "kind": "actual browser rendered complete illustrated reading",
+    "url": "http://127.0.0.1:56824/Stories/S014-neet-and-buddys-barber-battle.md",
+    "browser": "Chrome via cua_repl",
+    "viewport_css_pixels": [
+      1800,
+      1042
+    ],
+    "body_font_css_pixels": 20,
+    "image_display_width_css_pixels": 960,
+    "coverage": "Read complete primary from title through final callback, refinement record and final provenance hash, using overlapping sequential viewport screenshots and rendered accessibility text. Inspected all three fully loaded 1448x1086 images in their embedded positions. No meaningful alternative is present in the working story; comedy-pass-v002 variant decision was also read.",
+    "inspection_scope": "Complete illustrated reading; independent native-resolution anatomy review remains the separately pinned visual-review-v002.json."
+  },
+  "observations": [
+    "Neet wants admiration and Buddy wants to finish and go home; their priorities are established before the arrival illustration. Neet presenting both good sides provides the precise physical joke repeated by Buddy at the ending.",
+    "The lather enthusiasm, Heather's puddle observation and isolated buzzing line establish the reversal before escape. Conditioner spill, flying towel, poodle paw and dachshund jump make a concrete causal sequence; Buddy chooses to block the exit to prevent a second appointment.",
+    "The blockade picture appears after Buddy plants himself across the exit and before the whispered negotiation. Wet suds, spilled bottle, fallen towel, under-station Neet and broadside Buddy match this temporary state; Buddy has no premature mohawk. His cheerful expression is compatible with successful practical intervention.",
+    "Buddy's stillness contrasts with Neet's flight. The blink / Moral help exchange has uninterrupted dialogue order and enough paragraph pause. Heather's towel retrieval recalls the earlier scramble without repeating Neet's shouting.",
+    "The arrival picture supplies clean, dry salon geography and opposed attitudes; the blockade supplies the physical predicament; the mirror supplies Buddy's reward. These are three complementary narrative contributions rather than repeated portraits.",
+    "The mirror illustration follows Buddy seeing the finished mohawk and saying I look tough. Buddy is on the table, Raj holds the mirror, and Neet is dry on the floor. It does not reveal the mohawk before the prose. The closing street sequence is left free for the shop-window reversal.",
+    "Buddy's final delay and two good sides earn an affectionate transfer of Neet's vanity. Neet asking Finished recalls Buddy's earlier wish to look finished. Heather is amused and reassuring, Raj is practical, and Sagar is not imported into the historical Heather-centered household.",
+    "The provenance explicitly retains the long-fur/asymmetrical haircut contradiction. Short smooth Neet in the art follows photographic authority rather than silently turning source prose into anatomy. This unresolved source choice is retained, not claimed resolved by acceptance.",
+    "No meaningful alternative is embedded or identified by comedy-pass-v002. The record explicitly distinguishes the original protested haircut from the retained working version in which Heather agrees; this reading does not blend those incompatible events.",
+    "All three current image hashes match accepted entries in visual-review-v002.json and its empty material findings. At intended reading size, no additional material text-image continuity, image-load, timing or readability finding appeared."
+  ],
+  "material_findings": [],
+  "open_findings": [],
+  "source_choices_retained": [
+    "Long-fur haircut premise and uneven Neet trim remain explicit historical prose conflicts; original photo anatomy governs art.",
+    "Human likeness and visual style remain provisional."
+  ],
+  "visual_review": {
+    "path": "Productions/E014-neet-and-buddys-barber-battle/visual-review-v002.json",
+    "sha256": "610cfde38cf0cebc46818a8ad52d07e29e78173c1bb6fc32e6f16012f5a9bc76"
+  },
+  "approval": "unapproved",
+  "publication": "not_published",
+  "limits": "Acceptance applies only to the pinned current story and three image bytes. This is reviewer acceptance, not owner canon or publication approval."
+}

@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "former_path": "Productions/E068-the-piedmont-park-wedding/staging-v002.png",
+      "archive_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/E068-expanded/rejected-staging/staging-v002.png",
+      "sha256": "af47c6b7da83cf4e0057175d372256e472e28d9a803674c69a957d2d0b34aa3f"
+    },
+    {
+      "former_path": "Productions/E068-the-piedmont-park-wedding/staging-v003.png",
+      "archive_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/E068-expanded/rejected-staging/staging-v003.png",
+      "sha256": "5576a19049b81ea2cf2f712dbc58fb60725d29e9a042066b0bccd17107a10cd0"
+    },
+    {
+      "former_path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E068-the-piedmont-park-wedding/rings-art-v002.png",
+      "archive_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/E068-expanded/superseded-art/rings-art-v002.png",
+      "sha256": "9a1b40bc98d72aec39b725222b9cd8fdda75182ab62cd564b697fce406f13bfa",
+      "reason": "Replaced after artist inspection: smooth coat surfaces, tail or scene time correction"
+    },
+    {
+      "former_path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E068-the-piedmont-park-wedding/rings-art-v003.png",
+      "archive_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/E068-expanded/superseded-art/rings-art-v003.png",
+      "sha256": "16e51ebf4913dc55ee614348e62ca6003334acf99124be6c458455e207461afd",
+      "reason": "Replaced after artist inspection: smooth coat surfaces, tail or scene time correction"
+    },
+    {
+      "former_path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E068-the-piedmont-park-wedding/picnic-art-v002.png",
+      "archive_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/E068-expanded/superseded-art/picnic-art-v002.png",
+      "sha256": "2d73b55f06997a9683f142f418124a607d13777d30ef8d57895046d7ff672f1c",
+      "reason": "Replaced after artist inspection: smooth coat surfaces, tail or scene time correction"
+    },
+    {
+      "former_path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E068-the-piedmont-park-wedding/dance-art-v002.png",
+      "archive_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/E068-expanded/superseded-art/dance-art-v002.png",
+      "sha256": "e2d00707df4e2ba59b2ce74ce44e312ac31b13b313c4f2d1fc8676494a012403",
+      "reason": "Replaced after artist inspection: smooth coat surfaces, tail or scene time correction"
+    },
+    {
+      "former_path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E068-the-piedmont-park-wedding/rings-art-v004.png",
+      "archive_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/E068-expanded/rejected-after-visual-v002/rings-art-v004.png",
+      "sha256": "64c5fc7726d4808fd5ecca72418fc88604325ee8c09885585558d0632755d756",
+      "reason": "Independent visual-review-v002 rejected engraved coat rendering; corrected direct replacement saved"
+    },
+    {
+      "former_path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E068-the-piedmont-park-wedding/picnic-art-v003.png",
+      "archive_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/E068-expanded/rejected-after-visual-v002/picnic-art-v003.png",
+      "sha256": "7d2e86c9d982d5fbd8db52c38949c98f28e3395caea6d53fca2d2ac003ad4a38",
+      "reason": "Independent visual-review-v002 rejected engraved coat rendering; corrected direct replacement saved"
+    }
+  ],
+  "reasons": {
+    "staging-v002.png": "Neet long tail and western bride gown; corrected before finish",
+    "staging-v003.png": "Buddy middle tail accidentally shortened and top rings removed; corrected before finish"
+  }
+}

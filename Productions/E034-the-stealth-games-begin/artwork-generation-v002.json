@@ -1,0 +1,1775 @@
+{
+  "story_id": "S034",
+  "version": 2,
+  "tool": "image_gen.imagegen",
+  "model": "unknown",
+  "seed": "unknown",
+  "status": "seven_proposed_images_pending_independent_review",
+  "approval": "unapproved",
+  "publication": "not_published",
+  "references": [
+    {
+      "id": "N19",
+      "character": "Neet",
+      "path": "Characters/Neet/Photos/neet-19.jpeg",
+      "filename": "neet-19.jpeg",
+      "sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+      "archived_source_path": "03_Asset_Library/Characters/Neet/neet-19.jpeg",
+      "same_exposure_group": null,
+      "use": "Primary body-level side standing and tail nub",
+      "approval_status": "unknown",
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "styling",
+          "standing_pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Primary standing body proportions, paws, hocks and stub silhouette; head is not a pure profile.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Head rotated; far limbs overlap; uncalibrated camera offers no measurements; room light subdued"
+        ],
+        "inspection_sha256": "b2c6db0a5af6a885d993cbd986cc2759b9461e693fbcabd8aa96bce1eb5ea901",
+        "source_sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N19.json"
+      },
+      "source_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose",
+          "resting_pose",
+          "styling"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Primary standing body proportions, paws, hocks and stub silhouette; head is not a pure profile.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state."
+        ],
+        "evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md"
+      },
+      "source_observation": {
+        "date": "2026-10-03",
+        "pose_view_camera": "Standing left-facing side with head toward camera; near body-level",
+        "visible_features": "Tiny short tan rump nub; near-square qualitative standing impression; long slender legs; full ribcage/thigh; moderate ventral rise; smooth short coat",
+        "limitations": "Head rotated; far limbs overlap; uncalibrated camera offers no measurements; room light subdued",
+        "recommended_uses": [
+          "standing_pose",
+          "visible_anatomy",
+          "styling"
+        ],
+        "full_restrictions": [
+          "Primary standing body proportions, paws, hocks and stub silhouette; head is not a pure profile.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Head rotated; far limbs overlap; uncalibrated camera offers no measurements; room light subdued"
+        ]
+      },
+      "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N19.json",
+      "inspection_sha256": "b2c6db0a5af6a885d993cbd986cc2759b9461e693fbcabd8aa96bce1eb5ea901"
+    },
+    {
+      "id": "N29",
+      "character": "Neet",
+      "path": "Characters/Neet/Photos/neet-29.jpeg",
+      "filename": "neet-29.jpeg",
+      "sha256": "dedcc7d8bcbc5da7e2441352200025606fc971644d0cbacd24e8465db8dcdc16",
+      "archived_source_path": "03_Asset_Library/Characters/Neet/neet-29.jpeg",
+      "same_exposure_group": null,
+      "use": "Frontal standing chest and leg clearance",
+      "approval_status": "unknown",
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "styling",
+          "standing_pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Primary frontal standing proportions, leg slenderness, head/body scale and chest markings.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Body depth foreshortened; tail hidden; light/shadow affect colors; exact ratios unknown"
+        ],
+        "inspection_sha256": "af30873f7f392d2503a668667ed619b8d183d685403e25977ce3fe23d9359802",
+        "source_sha256": "dedcc7d8bcbc5da7e2441352200025606fc971644d0cbacd24e8465db8dcdc16",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N29.json"
+      },
+      "source_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose",
+          "resting_pose",
+          "styling"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Primary frontal standing proportions, leg slenderness, head/body scale and chest markings.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state."
+        ],
+        "evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md"
+      },
+      "source_observation": {
+        "date": "2026-10-03",
+        "pose_view_camera": "Frontal standing outdoors; near chest-height with slight elevation",
+        "visible_features": "Long thin foreleg columns; narrow front; small compact dark-clawed paws; large ears; pale throat and central bib; tan torso",
+        "limitations": "Body depth foreshortened; tail hidden; light/shadow affect colors; exact ratios unknown",
+        "recommended_uses": [
+          "standing_pose",
+          "visible_anatomy",
+          "styling"
+        ],
+        "full_restrictions": [
+          "Primary frontal standing proportions, leg slenderness, head/body scale and chest markings.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Body depth foreshortened; tail hidden; light/shadow affect colors; exact ratios unknown"
+        ]
+      },
+      "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N29.json",
+      "inspection_sha256": "af30873f7f392d2503a668667ed619b8d183d685403e25977ce3fe23d9359802"
+    },
+    {
+      "id": "B04",
+      "character": "Buddy",
+      "path": "Characters/Buddy/Photos/buddy-4.jpg",
+      "filename": "buddy-4.jpg",
+      "sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+      "archived_source_path": "03_Asset_Library/Characters/Buddy/buddy-4.jpg",
+      "same_exposure_group": "B04-B24",
+      "use": "Primary frontal standing and groomed facial pattern",
+      "approval_status": "unknown",
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "styling",
+          "standing_pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Excellent front-leg clearance, chest pattern and groomed face; useful standing stance. Same photographic exposure as B24 for evidence counting.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Tail partly cropped at left; grass hides toes; perspective foreshortens torso; B24 same exposure in separate encoding"
+        ],
+        "inspection_sha256": "dd7da906a0e61eb4cdbd84eac3c97fea3318813d5a874c4e6cd4d8d3ba890797",
+        "source_sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B04.json"
+      },
+      "source_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose",
+          "resting_pose",
+          "styling"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Excellent front-leg clearance, chest pattern and groomed face; useful standing stance. Same photographic exposure as B24 for evidence counting.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state."
+        ],
+        "evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+        "same_exposure_group": "B04-B24"
+      },
+      "source_observation": {
+        "date": "2026-10-03",
+        "pose_view_camera": "Standing front three-quarter outdoors; approximately chest-level",
+        "visible_features": "Deep chest; substantial leg shafts; pale lower legs and splaying foot hair; dark torso; pale chest sides/dark throat; long pendant ear fringe; pale muzzle/brows",
+        "limitations": "Tail partly cropped at left; grass hides toes; perspective foreshortens torso; B24 same exposure in separate encoding",
+        "recommended_uses": [
+          "standing_pose",
+          "visible_anatomy",
+          "styling"
+        ],
+        "full_restrictions": [
+          "Excellent front-leg clearance, chest pattern and groomed face; useful standing stance. Same photographic exposure as B24 for evidence counting.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Tail partly cropped at left; grass hides toes; perspective foreshortens torso; B24 same exposure in separate encoding"
+        ]
+      },
+      "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B04.json",
+      "inspection_sha256": "dd7da906a0e61eb4cdbd84eac3c97fea3318813d5a874c4e6cd4d8d3ba890797"
+    },
+    {
+      "id": "B29",
+      "character": "Buddy",
+      "path": "Characters/Buddy/Photos/buddy-29.jpeg",
+      "filename": "buddy-29.jpeg",
+      "sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+      "archived_source_path": "03_Asset_Library/Characters/Buddy/buddy-29.jpeg",
+      "same_exposure_group": null,
+      "use": "Side stride, torso length, leg clearance and tail curve",
+      "approval_status": "unknown",
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Best available lateral body-length, tail-length/carriage and walking-pose reference; weak fine landmarks because blurred and not neutral standing.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Motion blur and lifted legs; cannot establish neutral back slope, exact leg ratios or gait timing from still"
+        ],
+        "inspection_sha256": "c671664ca5e4e2e07bfd3049ea641c3a1645742fb8290494e67a17f7ed213ea9",
+        "source_sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B29.json"
+      },
+      "source_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose",
+          "resting_pose",
+          "styling"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Best available lateral body-length, tail-length/carriage and walking-pose reference; weak fine landmarks because blurred and not neutral standing.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state."
+        ],
+        "evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md"
+      },
+      "source_observation": {
+        "date": "2026-10-03",
+        "pose_view_camera": "Left-facing walking side view indoors; near body-level",
+        "visible_features": "Elongated dark trunk; projecting muzzle/pendant ears; pale lower legs; dark tapering tail held low with gentle curve; underside hair fringe",
+        "limitations": "Motion blur and lifted legs; cannot establish neutral back slope, exact leg ratios or gait timing from still",
+        "recommended_uses": [
+          "pose",
+          "visible_anatomy"
+        ],
+        "full_restrictions": [
+          "Best available lateral body-length, tail-length/carriage and walking-pose reference; weak fine landmarks because blurred and not neutral standing.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Motion blur and lifted legs; cannot establish neutral back slope, exact leg ratios or gait timing from still"
+        ]
+      },
+      "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B29.json",
+      "inspection_sha256": "c671664ca5e4e2e07bfd3049ea641c3a1645742fb8290494e67a17f7ed213ea9"
+    },
+    {
+      "id": "N24",
+      "character": "Neet",
+      "path": "Characters/Neet/Photos/neet-24.jpeg",
+      "filename": "neet-24.jpeg",
+      "sha256": "a80dbd57f4daf8f53232a4c5e604f7e92411ed2ca15fccb8d50a5f053b0eacd6",
+      "archived_source_path": "03_Asset_Library/Characters/Neet/neet-24.jpeg",
+      "same_exposure_group": null,
+      "use": "Upright sit and subtle head tilt",
+      "approval_status": "unknown",
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Primary upright sitting, narrow chest, head-tilt and color-map reference.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Tail hidden; scattered stuffing does not prove this dog caused destruction; seated proportions only"
+        ],
+        "inspection_sha256": "2dc370cfcb6bf22dde3ee7f0f7b169e11501f6b97e69b65ee733fe43737a4a8b",
+        "source_sha256": "a80dbd57f4daf8f53232a4c5e604f7e92411ed2ca15fccb8d50a5f053b0eacd6",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N24.json"
+      },
+      "source_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose",
+          "resting_pose",
+          "styling"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Primary upright sitting, narrow chest, head-tilt and color-map reference.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state."
+        ],
+        "evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md"
+      },
+      "source_observation": {
+        "date": "2026-10-03",
+        "pose_view_camera": "Unclothed frontal seated with slight head tilt; approximately chest-level",
+        "visible_features": "Long forelegs; pale central chest/throat; triangular ears; compact paws; rounded folded thigh",
+        "limitations": "Tail hidden; scattered stuffing does not prove this dog caused destruction; seated proportions only",
+        "recommended_uses": [
+          "sitting_pose",
+          "visible_anatomy",
+          "facial_expression"
+        ],
+        "full_restrictions": [
+          "Primary upright sitting, narrow chest, head-tilt and color-map reference.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Tail hidden; scattered stuffing does not prove this dog caused destruction; seated proportions only"
+        ]
+      },
+      "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N24.json",
+      "inspection_sha256": "2dc370cfcb6bf22dde3ee7f0f7b169e11501f6b97e69b65ee733fe43737a4a8b"
+    },
+    {
+      "id": "B15",
+      "character": "Buddy",
+      "path": "Characters/Buddy/Photos/buddy-15.jpg",
+      "filename": "buddy-15.jpg",
+      "sha256": "947aca933769ac618dd657fd6a8491a8c67ff6997c289d76f87ec0167b07a923",
+      "archived_source_path": "03_Asset_Library/Characters/Buddy/buddy-15.jpg",
+      "same_exposure_group": null,
+      "use": "Uncostumed upright sitting with close-groomed face",
+      "approval_status": "unknown",
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "styling"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Excellent uncostumed upright sit and folded rear-thigh shape; useful underlying facial taper.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Bed rim hides front feet; perspective compresses torso; no standing ratios"
+        ],
+        "inspection_sha256": "4aff983a24dc33e82ba89c8c2806a346fe68f7f659414aadd57e15d2ea8deaf5",
+        "source_sha256": "947aca933769ac618dd657fd6a8491a8c67ff6997c289d76f87ec0167b07a923",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B15.json"
+      },
+      "source_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose",
+          "resting_pose",
+          "styling"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Excellent uncostumed upright sit and folded rear-thigh shape; useful underlying facial taper.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state."
+        ],
+        "evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md"
+      },
+      "source_observation": {
+        "date": "2026-10-03",
+        "pose_view_camera": "Upright seated in bed; elevated three-quarter with upward gaze",
+        "visible_features": "Compact close-groomed ear flaps; pale brows/muzzle and chest sides; dark throat; full haunch; pale hindfoot; small dark tail at haunch",
+        "limitations": "Bed rim hides front feet; perspective compresses torso; no standing ratios",
+        "recommended_uses": [
+          "sitting_pose",
+          "visible_anatomy",
+          "styling"
+        ],
+        "full_restrictions": [
+          "Excellent uncostumed upright sit and folded rear-thigh shape; useful underlying facial taper.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Bed rim hides front feet; perspective compresses torso; no standing ratios"
+        ]
+      },
+      "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B15.json",
+      "inspection_sha256": "4aff983a24dc33e82ba89c8c2806a346fe68f7f659414aadd57e15d2ea8deaf5"
+    }
+  ],
+  "restrictions": [
+    "N35 excludes anatomy",
+    "B08 styling only",
+    "B25 unavailable",
+    "B30 supplemental resting only, not selected",
+    "B04/B24 one exposure; multiple encodings count once"
+  ],
+  "reference_roles": {
+    "originals": "likeness and visible-region anatomy within full copied effective policies",
+    "model": "inspected provisional construction only, does not control anatomy or fur",
+    "E001 max-art-v005": "smooth torso surface finish only; no anatomy, proportions, scale or scene borrowing"
+  },
+  "model_inspection": {
+    "artifact": "Productions/Library-Refinement/model-paired-standing-v001.png",
+    "observations": [
+      "Neet long fine legs, real full narrow torso, large ears, nub and Buddy moderately elongated full trunk and real clearance available for provisional construction.",
+      "Excessive engraved hair in older model excluded from finish; original photos and smooth surface finish calibration take precedence."
+    ]
+  },
+  "scenes": [
+    {
+      "id": "p01-bath",
+      "variant": "primary",
+      "scene": "Bathroom tiled floor. Neet and Buddy sit side by side each in a separate loosely wrapped towel after bath, their heads and forepaws visible and feet supported. Neet looks solemnly insulted; Buddy innocently looks away while a pair of CLOSED nail clippers peeks from under his towel at his seated rump. No water spray, no humans, no speech or text.",
+      "anchor": "\u201cWe are warriors,\u201d Neet muttered. \u201cNot cuddle muffins.\u201d",
+      "alt": "Freshly bathed Neet and Buddy sit in towels, with the closed clippers hidden beneath Buddy."
+    },
+    {
+      "id": "p02-beanie",
+      "variant": "primary",
+      "scene": "Apartment by closed front door. Full-body standing Neet wears tiny baby knitted beanie between his two broad visible ears with a pompom, very serious. Buddy stands separately looking toward him with amused relaxed open mouth; a small tipped pot and scattered soil lie next to Buddy, intact houseplant. All eight paws grounded distinct. No notice, no people.",
+      "anchor": "\u201cYour position has a pom-pom.\u201d",
+      "alt": "Neet regards the spilled plant solemnly while Buddy admires his pom-pom disguise."
+    },
+    {
+      "id": "p03-todd",
+      "variant": "primary",
+      "scene": "Low wide view of apartment open front doorway JUST AFTER failed dog costume collapsed. Neet and Buddy now both safely planted on all four paws separately on apartment floor with a crumpled oversized old hoodie and broom lying between them; three unused glue sticks near wall. Both dogs look up startled at manager in hallway, shown only two trouser legs and shoes cropped at knees in far background. No stacked dogs, no levitating paws, no pee yet. Comedy of two visible dogs exposed after one-dog disguise. No notice or text.",
+      "anchor": "The hoodie settled between two very separate dogs.",
+      "alt": "The Todd disguise collapses at the doorway, exposing two startled dogs to the manager."
+    },
+    {
+      "id": "p04-ficus",
+      "variant": "primary",
+      "scene": "Apartment interior, ficus in broad pot left foreground. Neet sits naturally behind pot, wearing small dark sunglasses, head and full narrow torso visible through side gap, lowering muzzle toward shallow beef-broth bowl ON FLOOR, not holding cup. Through open doorway right background Buddy stands full-body greeting a mail carrier shown only hand holding envelopes and trouser leg. No notice. Warm domestic light, espionage contrast to friendly Buddy.",
+      "anchor": "Neet monitored it all from behind a ficus, wearing sunglasses and sipping beef broth like it was whiskey.",
+      "alt": "Neet shelters behind the ficus with his broth while Buddy conducts friendly public relations."
+    },
+    {
+      "id": "p05-stairs",
+      "variant": "primary",
+      "scene": "Warm evening apartment stairwell landing; Buddy stands waiting on flat bottom landing looking affectionately at Neet who has just reached the SAME flat floor beside him, bodies clear and nonoverlapping, heads close with gentle shoulder bump. Stair flight visible behind and empty. Both have simple collars and loose leashes going upward out frame to unseen human. No sign, no notice, no text. Quiet friendship payoff, no hats or props.",
+      "anchor": "\u201cSame time tomorrow, Todd?\u201d he whispers.",
+      "alt": "Buddy meets Neet at the bottom of the stairs for their shared evening walk."
+    },
+    {
+      "id": "a01-diplomacy",
+      "variant": "alternative",
+      "scene": "Alternative continuity: Buddy alone at apartment lobby mailboxes executes polite sit-and-paw greeting BEFORE the rebuff. Natural dog sit supported haunches, one forepaw planted, other raised politely toward manager standing right, shown only beige coat bottom, trousers and shoes cropped at waist; manager arms crossed edge visible. Buddy hopeful small pant smile. Neet absent. No urine, no notice yet, no readable text.",
+      "anchor": "He intercepted Mr. Grubbs one afternoon near the mailboxes and executed a flawless sit-paw-smile combo.",
+      "alt": "In the alternative, Buddy offers the manager his best diplomatic paw beside the mailboxes."
+    },
+    {
+      "id": "a02-leaf",
+      "variant": "alternative",
+      "scene": "Separate alternative continuity with female Neet. Apartment corridor, dry crumpled brown leaf under Neet near forepaw, she freezes startled with all four feet contacting floor, looks off frame toward unseen manager. Buddy halfstep ahead turns his head back with open mouth about to call RUN, four paws grounded. Clearly separated continuous bodies and loose collar leashes trailing clear of feet toward unseen human. Nearby open apartment door is escape route; a plain notice paper attached door has faint unreadable gray lines. No hats or backpack, no primary continuity. No speech text.",
+      "anchor": "Buddy barked: \u201cRUN!\u201d",
+      "alt": "In the alternative, a crunchy leaf betrays Neet as Buddy calls for escape."
+    }
+  ],
+  "generations": [
+    {
+      "id": "staging-v002",
+      "stage": "drawn_storyboard",
+      "arguments": {
+        "prompt": "Use case: illustration-story. Original photos 1-2 are Neet likeness authority: fine long legs, full narrow torso, smooth very short fawn coat, projecting cream muzzle, cream chest bib, large broad triangular ears, tiny near-flush nub. Photos 3-4 are Buddy likeness authority: moderately elongated full charcoal torso, connected neck, substantial legs with clear floor clearance, close smooth body coat, pale irregular muzzle beard and brows, hanging regionally furnished ears, tan chest and pale feet, slender dark tail. Visible regions only, no calibrated ratios. N35 excludes anatomy, B08 styling only, B25 unavailable, B30 supplemental rest unused; B04/B24 one exposure. No uniform shag, curls, engraved fur, extra paws or detached limbs. Natural dogs, no human hands. Human faces provisional.  Draw a real storyboard sheet of SEVEN framed panels, 2 columns 4 rows with final space blank. Gray ink flat wash, clear continuous spines and pelvis/ribcage/limb roots, all support and occlusion readable. Keep short coats smooth. Panels in reading order: 1. Bathroom tiled floor. Neet and Buddy sit side by side each in a separate loosely wrapped towel after bath, their heads and forepaws visible and feet supported. Neet looks solemnly insulted; Buddy innocently looks away while a pair of CLOSED nail clippers peeks from under his towel at his seated rump. No water spray, no humans, no speech or text.\n2. Apartment by closed front door. Full-body standing Neet wears tiny baby knitted beanie between his two broad visible ears with a pompom, very serious. Buddy stands separately looking toward him with amused relaxed open mouth; a small tipped pot and scattered soil lie next to Buddy, intact houseplant. All eight paws grounded distinct. No notice, no people.\n3. Low wide view of apartment open front doorway JUST AFTER failed dog costume collapsed. Neet and Buddy now both safely planted on all four paws separately on apartment floor with a crumpled oversized old hoodie and broom lying between them; three unused glue sticks near wall. Both dogs look up startled at manager in hallway, shown only two trouser legs and shoes cropped at knees in far background. No stacked dogs, no levitating paws, no pee yet. Comedy of two visible dogs exposed after one-dog disguise. No notice or text.\n4. Apartment interior, ficus in broad pot left foreground. Neet sits naturally behind pot, wearing small dark sunglasses, head and full narrow torso visible through side gap, lowering muzzle toward shallow beef-broth bowl ON FLOOR, not holding cup. Through open doorway right background Buddy stands full-body greeting a mail carrier shown only hand holding envelopes and trouser leg. No notice. Warm domestic light, espionage contrast to friendly Buddy.\n5. Warm evening apartment stairwell landing; Buddy stands waiting on flat bottom landing looking affectionately at Neet who has just reached the SAME flat floor beside him, bodies clear and nonoverlapping, heads close with gentle shoulder bump. Stair flight visible behind and empty. Both have simple collars and loose leashes going upward out frame to unseen human. No sign, no notice, no text. Quiet friendship payoff, no hats or props.\n6. Alternative continuity: Buddy alone at apartment lobby mailboxes executes polite sit-and-paw greeting BEFORE the rebuff. Natural dog sit supported haunches, one forepaw planted, other raised politely toward manager standing right, shown only beige coat bottom, trousers and shoes cropped at waist; manager arms crossed edge visible. Buddy hopeful small pant smile. Neet absent. No urine, no notice yet, no readable text.\n7. Separate alternative continuity with female Neet. Apartment corridor, dry crumpled brown leaf under Neet near forepaw, she freezes startled with all four feet contacting floor, looks off frame toward unseen manager. Buddy halfstep ahead turns his head back with open mouth about to call RUN, four paws grounded. Clearly separated continuous bodies and loose collar leashes trailing clear of feet toward unseen human. Nearby open apartment door is escape route; a plain notice paper attached door has faint unreadable gray lines. No hats or backpack, no primary continuity. No speech text. No lettering. These are seven independent moments; do not mix props between panels.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-29.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg"
+        ],
+        "transparent_background": false
+      },
+      "inputs": [
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+          "role": "original photo"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-29.jpeg",
+          "sha256": "dedcc7d8bcbc5da7e2441352200025606fc971644d0cbacd24e8465db8dcdc16",
+          "role": "original photo"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+          "sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+          "role": "original photo"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+          "sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+          "role": "original photo"
+        }
+      ],
+      "output": {
+        "path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S034-expanded/staging-v002.png",
+        "sha256": "ca38878c5848ddb403f071542d95524f4790e9cf7980462414eaf7120c817dcd",
+        "dimensions": [
+          1024,
+          1536
+        ],
+        "original_path": "Productions/E034-the-stealth-games-begin/staging-v002.png"
+      },
+      "status": "needs_rework",
+      "observations": [
+        "Long Neet tail panel3/7 and curled Buddy tail materially drift from originals.",
+        "Panel3 Buddy seated instead of standing; panel4 Neet body overoccluded; panel7 leaf misses contact.",
+        "Engraved coat texture must be removed before finish."
+      ],
+      "correction": "Submitted separate drawn correction before any finished generation."
+    },
+    {
+      "id": "staging-v003",
+      "stage": "drawn_storyboard",
+      "arguments": {
+        "prompt": "Use case: illustration-story. Original photos 1-2 are Neet likeness authority: fine long legs, full narrow torso, smooth very short fawn coat, projecting cream muzzle, cream chest bib, large broad triangular ears, tiny near-flush nub. Photos 3-4 are Buddy likeness authority: moderately elongated full charcoal torso, connected neck, substantial legs with clear floor clearance, close smooth body coat, pale irregular muzzle beard and brows, hanging regionally furnished ears, tan chest and pale feet, slender dark tail. Visible regions only, no calibrated ratios. N35 excludes anatomy, B08 styling only, B25 unavailable, B30 supplemental rest unused; B04/B24 one exposure. No uniform shag, curls, engraved fur, extra paws or detached limbs. Natural dogs, no human hands. Human faces provisional. EDIT TARGET image 5 is seven-panel storyboard. Correct construction BEFORE rendering finish: Neet tail must be only tiny near-flush nub in every panel, especially panel3 and panel7 remove long tail entirely. Buddy tail slender gently curved downward, never curled loop or raised plume, all panels. Panel3 Buddy must stand on four feet, currently seated. Panel4 reveal Neet entire connected narrow torso and seated haunches to right of ficus pot, no disembodied head. Panel7 Neet near forepaw must actually contact the brown leaf, he is frozen with four feet grounded; Buddy stand with four planted paws and turned head. Remove all engraved/curly/shag body hair throughout: simple smooth gray wash for both coats, keep Buddy eyebrows/moustache/ear regional furnishings. Preserve separate scene props and seven-panel order, eight final cell blank, no text.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-29.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E034-the-stealth-games-begin/staging-v002.png"
+        ],
+        "transparent_background": false
+      },
+      "inputs": [
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+          "role": "original photo"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-29.jpeg",
+          "sha256": "dedcc7d8bcbc5da7e2441352200025606fc971644d0cbacd24e8465db8dcdc16",
+          "role": "original photo"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+          "sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+          "role": "original photo"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+          "sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+          "role": "original photo"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E034-the-stealth-games-begin/staging-v002.png",
+          "sha256": "ca38878c5848ddb403f071542d95524f4790e9cf7980462414eaf7120c817dcd",
+          "role": "edit target"
+        }
+      ],
+      "output": {
+        "path": "Productions/E034-the-stealth-games-begin/staging-v003.png",
+        "sha256": "6c3880a2843a60588abc39a612eb0da37cdc7a191a10a7d333ec48845bb7c95a",
+        "dimensions": [
+          1024,
+          1536
+        ]
+      },
+      "status": "needs_local_correction",
+      "observations": [
+        "Tail and connected body construction corrected; Buddy stands in Todd panel, Neet seated full body by ficus, alternative leaf contacts paw.",
+        "Unwanted leaf leaked into stair reunion panel5. Correcting that drawn prop before finish.",
+        "Body strokes remain undesirable finish texture; finish will use smooth surface planes."
+      ]
+    },
+    {
+      "id": "staging-v004",
+      "stage": "drawn_storyboard",
+      "arguments": {
+        "prompt": "Edit this seven-panel staging sheet. ONLY panel 5 (third row LEFT, staircase landing): remove the brown leaf completely from under Neet paw and make clean continuous floor. That leaf belongs ONLY in panel7, bottom left, keep panel7 leaf. Preserve every dog anatomy, tail nub, legs, scene layout and all other pixels. No other changes.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E034-the-stealth-games-begin/staging-v003.png"
+        ],
+        "transparent_background": false
+      },
+      "inputs": [
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E034-the-stealth-games-begin/staging-v003.png",
+          "sha256": "6c3880a2843a60588abc39a612eb0da37cdc7a191a10a7d333ec48845bb7c95a",
+          "role": "edit target"
+        }
+      ],
+      "output": {
+        "path": "Productions/E034-the-stealth-games-begin/staging-v004.png",
+        "sha256": "b612a64a3f15509d05c6e585844299aaa4ea19b5430e7afef570a6eca3cd111f",
+        "dimensions": [
+          1024,
+          1536
+        ]
+      },
+      "status": "selected_panels_only",
+      "observations": [
+        "Panel5 correctly has clean landing. All paw support and body connections retained.",
+        "Edit also removed panel7 leaf, so panel7 is NOT selected here. Use previously corrected v003 panel7 with actual leaf contact.",
+        "Selected staging is v004 panels1-6 and v003 panel7; coats still require smooth finished surface treatment."
+      ]
+    },
+    {
+      "id": "p01-bath-art-v002",
+      "stage": "finished_art",
+      "arguments": {
+        "prompt": "Use case: illustration-story. Original photo1 are Neet likeness authority: fine long legs, full narrow torso, smooth very short fawn coat, projecting cream muzzle, cream chest bib, large broad triangular ears, tiny near-flush nub. Photos 2-3 are Buddy likeness authority: moderately elongated full charcoal torso, connected neck, substantial legs with clear floor clearance, close smooth body coat, pale irregular muzzle beard and brows, hanging regionally furnished ears, tan chest and pale feet, slender dark tail. Visible regions only, no calibrated ratios. N35 excludes anatomy, B08 styling only, B25 unavailable, B30 supplemental rest unused; B04/B24 one exposure. No uniform shag, curls, engraved fur, extra paws or detached limbs. Natural dogs, no human hands. Human faces provisional.  Render ONE finished landscape illustration, not a collage. Scene 1 only from storyboard input4; do not import any neighboring scene objects. Input5 is BODY SURFACE FINISH only: smooth clean color planes with gentle watercolor environment, absolutely no engraved/curl/shag strokes on either torso. Do not borrow third dog or its anatomy. PRIMARY REQUEST: Bathroom tiled floor. Neet and Buddy sit side by side each in a separate loosely wrapped towel after bath, their heads and forepaws visible and feet supported. Neet looks solemnly insulted; Buddy innocently looks away while a pair of CLOSED nail clippers peeks from under his towel at his seated rump. No water spray, no humans, no speech or text. Body finish must be restrained smooth gouache washes and subtle shading, not textured fur. Buddy regional beard/brows/ears/paws retain modest furnishings. Neet's tail near-flush nub, never long tail; Buddy slender low gently curved dark tail never plume/ring. Story comedy readable through gaze and posture. No text, speech bubbles or frame. Detailed warm apartment background. Original photos identity authority; storyboard only staging.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-24.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-15.jpg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E034-the-stealth-games-begin/staging-v004.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png"
+        ],
+        "transparent_background": false
+      },
+      "inputs": [
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-24.jpeg",
+          "sha256": "a80dbd57f4daf8f53232a4c5e604f7e92411ed2ca15fccb8d50a5f053b0eacd6",
+          "role": "original photo",
+          "intended_use": "visible anatomy under copied effective policy"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-15.jpg",
+          "sha256": "947aca933769ac618dd657fd6a8491a8c67ff6997c289d76f87ec0167b07a923",
+          "role": "original photo",
+          "intended_use": "visible anatomy under copied effective policy"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+          "sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+          "role": "original photo",
+          "intended_use": "visible anatomy under copied effective policy"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E034-the-stealth-games-begin/staging-v004.png",
+          "sha256": "b612a64a3f15509d05c6e585844299aaa4ea19b5430e7afef570a6eca3cd111f",
+          "role": "selected staging only",
+          "intended_use": "role-limited interpretation"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "sha256": "19be9a85760177405bbedd26644a7e0eb9c7945709e43825d201ff2fa91742b9",
+          "role": "body surface finish only, not anatomy",
+          "intended_use": "role-limited interpretation"
+        }
+      ],
+      "output": {
+        "path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S034-expanded/p01-bath-art-v002-rejected.png",
+        "source_path": "/Users/sagar/.codex/generated_images/01a10642-d113-72e3-8842-87d85ad50abd/exec-9dd674ca-cd60-46f6-964c-758ec01b695c.png",
+        "sha256": "1df7480b5f72fb82a71102adffad52c5cf3daf43e5de645be08b9bb7e120274a",
+        "dimensions": [
+          1536,
+          1024
+        ]
+      },
+      "status": "rejected_superseded",
+      "observations": [
+        "Excessive individually rendered engraved/body fur requires smooth finish correction."
+      ]
+    },
+    {
+      "id": "p02-beanie-art-v002",
+      "stage": "finished_art",
+      "arguments": {
+        "prompt": "Use case: illustration-story. Original photo1 are Neet likeness authority: fine long legs, full narrow torso, smooth very short fawn coat, projecting cream muzzle, cream chest bib, large broad triangular ears, tiny near-flush nub. Photos 2-3 are Buddy likeness authority: moderately elongated full charcoal torso, connected neck, substantial legs with clear floor clearance, close smooth body coat, pale irregular muzzle beard and brows, hanging regionally furnished ears, tan chest and pale feet, slender dark tail. Visible regions only, no calibrated ratios. N35 excludes anatomy, B08 styling only, B25 unavailable, B30 supplemental rest unused; B04/B24 one exposure. No uniform shag, curls, engraved fur, extra paws or detached limbs. Natural dogs, no human hands. Human faces provisional.  Render ONE finished landscape illustration, not a collage. Scene 2 only from storyboard input4; do not import any neighboring scene objects. Input5 is BODY SURFACE FINISH only: smooth clean color planes with gentle watercolor environment, absolutely no engraved/curl/shag strokes on either torso. Do not borrow third dog or its anatomy. PRIMARY REQUEST: Apartment by closed front door. Full-body standing Neet wears tiny baby knitted beanie between his two broad visible ears with a pompom, very serious. Buddy stands separately looking toward him with amused relaxed open mouth; a small tipped pot and scattered soil lie next to Buddy, intact houseplant. All eight paws grounded distinct. No notice, no people. Body finish must be restrained smooth gouache washes and subtle shading, not textured fur. Buddy regional beard/brows/ears/paws retain modest furnishings. Neet's tail near-flush nub, never long tail; Buddy slender low gently curved dark tail never plume/ring. Story comedy readable through gaze and posture. No text, speech bubbles or frame. Detailed warm apartment background. Original photos identity authority; storyboard only staging.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E034-the-stealth-games-begin/staging-v004.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png"
+        ],
+        "transparent_background": false
+      },
+      "inputs": [
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+          "role": "original photo",
+          "intended_use": "visible anatomy under copied effective policy"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+          "sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+          "role": "original photo",
+          "intended_use": "visible anatomy under copied effective policy"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+          "sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+          "role": "original photo",
+          "intended_use": "visible anatomy under copied effective policy"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E034-the-stealth-games-begin/staging-v004.png",
+          "sha256": "b612a64a3f15509d05c6e585844299aaa4ea19b5430e7afef570a6eca3cd111f",
+          "role": "selected staging only",
+          "intended_use": "role-limited interpretation"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "sha256": "19be9a85760177405bbedd26644a7e0eb9c7945709e43825d201ff2fa91742b9",
+          "role": "body surface finish only, not anatomy",
+          "intended_use": "role-limited interpretation"
+        }
+      ],
+      "output": {
+        "path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S034-expanded/p02-beanie-art-v002-rejected.png",
+        "source_path": "/Users/sagar/.codex/generated_images/01a10642-d113-72e3-8842-87d85ad50abd/exec-93223449-93db-4aad-9031-1b7c0d529869.png",
+        "sha256": "6ec61e990ec680d0f14f08637d983c757f67fd82b8ccfc26454eedc4ada37f4a",
+        "dimensions": [
+          1536,
+          1024
+        ]
+      },
+      "status": "rejected_superseded",
+      "observations": [
+        "Excessive individually rendered engraved/body fur requires smooth finish correction."
+      ]
+    },
+    {
+      "id": "p03-todd-art-v002",
+      "stage": "finished_art",
+      "arguments": {
+        "prompt": "Use case: illustration-story. Original photo1 are Neet likeness authority: fine long legs, full narrow torso, smooth very short fawn coat, projecting cream muzzle, cream chest bib, large broad triangular ears, tiny near-flush nub. Photos 2-3 are Buddy likeness authority: moderately elongated full charcoal torso, connected neck, substantial legs with clear floor clearance, close smooth body coat, pale irregular muzzle beard and brows, hanging regionally furnished ears, tan chest and pale feet, slender dark tail. Visible regions only, no calibrated ratios. N35 excludes anatomy, B08 styling only, B25 unavailable, B30 supplemental rest unused; B04/B24 one exposure. No uniform shag, curls, engraved fur, extra paws or detached limbs. Natural dogs, no human hands. Human faces provisional.  Render ONE finished landscape illustration, not a collage. Scene 3 only from storyboard input4; do not import any neighboring scene objects. Input5 is BODY SURFACE FINISH only: smooth clean color planes with gentle watercolor environment, absolutely no engraved/curl/shag strokes on either torso. Do not borrow third dog or its anatomy. PRIMARY REQUEST: Low wide view of apartment open front doorway JUST AFTER failed dog costume collapsed. Neet and Buddy now both safely planted on all four paws separately on apartment floor with a crumpled oversized old hoodie and broom lying between them; three unused glue sticks near wall. Both dogs look up startled at manager in hallway, shown only two trouser legs and shoes cropped at knees in far background. No stacked dogs, no levitating paws, no pee yet. Comedy of two visible dogs exposed after one-dog disguise. No notice or text. Body finish must be restrained smooth gouache washes and subtle shading, not textured fur. Buddy regional beard/brows/ears/paws retain modest furnishings. Neet's tail near-flush nub, never long tail; Buddy slender low gently curved dark tail never plume/ring. Story comedy readable through gaze and posture. No text, speech bubbles or frame. Detailed warm apartment background. Original photos identity authority; storyboard only staging.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E034-the-stealth-games-begin/staging-v004.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png"
+        ],
+        "transparent_background": false
+      },
+      "inputs": [
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+          "role": "original photo",
+          "intended_use": "visible anatomy under copied effective policy"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+          "sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+          "role": "original photo",
+          "intended_use": "visible anatomy under copied effective policy"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+          "sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+          "role": "original photo",
+          "intended_use": "visible anatomy under copied effective policy"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E034-the-stealth-games-begin/staging-v004.png",
+          "sha256": "b612a64a3f15509d05c6e585844299aaa4ea19b5430e7afef570a6eca3cd111f",
+          "role": "selected staging only",
+          "intended_use": "role-limited interpretation"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "sha256": "19be9a85760177405bbedd26644a7e0eb9c7945709e43825d201ff2fa91742b9",
+          "role": "body surface finish only, not anatomy",
+          "intended_use": "role-limited interpretation"
+        }
+      ],
+      "output": {
+        "path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S034-expanded/p03-todd-art-v002-rejected.png",
+        "source_path": "/Users/sagar/.codex/generated_images/01a10642-d113-72e3-8842-87d85ad50abd/exec-02c05a7c-73b1-43e9-9232-8a98c92ed123.png",
+        "sha256": "7fcd5137d8d9b431d832b3c3406c475374b1c382ad6ea1a5891866aee5d1d8d2",
+        "dimensions": [
+          1536,
+          1024
+        ]
+      },
+      "status": "rejected_superseded",
+      "observations": [
+        "Excessive individually rendered engraved/body fur requires smooth finish correction.",
+        "Craft glue containers must become actual hot-glue rods."
+      ]
+    },
+    {
+      "id": "p04-ficus-art-v002",
+      "stage": "finished_art",
+      "arguments": {
+        "prompt": "Use case: illustration-story. Original photo1 are Neet likeness authority: fine long legs, full narrow torso, smooth very short fawn coat, projecting cream muzzle, cream chest bib, large broad triangular ears, tiny near-flush nub. Photos 2-3 are Buddy likeness authority: moderately elongated full charcoal torso, connected neck, substantial legs with clear floor clearance, close smooth body coat, pale irregular muzzle beard and brows, hanging regionally furnished ears, tan chest and pale feet, slender dark tail. Visible regions only, no calibrated ratios. N35 excludes anatomy, B08 styling only, B25 unavailable, B30 supplemental rest unused; B04/B24 one exposure. No uniform shag, curls, engraved fur, extra paws or detached limbs. Natural dogs, no human hands. Human faces provisional.  Render ONE finished landscape illustration, not a collage. Scene 4 only from storyboard input4; do not import any neighboring scene objects. Input5 is BODY SURFACE FINISH only: smooth clean color planes with gentle watercolor environment, absolutely no engraved/curl/shag strokes on either torso. Do not borrow third dog or its anatomy. PRIMARY REQUEST: Apartment interior, ficus in broad pot left foreground. Neet sits naturally behind pot, wearing small dark sunglasses, head and full narrow torso visible through side gap, lowering muzzle toward shallow beef-broth bowl ON FLOOR, not holding cup. Through open doorway right background Buddy stands full-body greeting a mail carrier shown only hand holding envelopes and trouser leg. No notice. Warm domestic light, espionage contrast to friendly Buddy. Body finish must be restrained smooth gouache washes and subtle shading, not textured fur. Buddy regional beard/brows/ears/paws retain modest furnishings. Neet's tail near-flush nub, never long tail; Buddy slender low gently curved dark tail never plume/ring. Story comedy readable through gaze and posture. No text, speech bubbles or frame. Detailed warm apartment background. Original photos identity authority; storyboard only staging.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-24.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-15.jpg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E034-the-stealth-games-begin/staging-v004.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png"
+        ],
+        "transparent_background": false
+      },
+      "inputs": [
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-24.jpeg",
+          "sha256": "a80dbd57f4daf8f53232a4c5e604f7e92411ed2ca15fccb8d50a5f053b0eacd6",
+          "role": "original photo",
+          "intended_use": "visible anatomy under copied effective policy"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-15.jpg",
+          "sha256": "947aca933769ac618dd657fd6a8491a8c67ff6997c289d76f87ec0167b07a923",
+          "role": "original photo",
+          "intended_use": "visible anatomy under copied effective policy"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+          "sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+          "role": "original photo",
+          "intended_use": "visible anatomy under copied effective policy"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E034-the-stealth-games-begin/staging-v004.png",
+          "sha256": "b612a64a3f15509d05c6e585844299aaa4ea19b5430e7afef570a6eca3cd111f",
+          "role": "selected staging only",
+          "intended_use": "role-limited interpretation"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "sha256": "19be9a85760177405bbedd26644a7e0eb9c7945709e43825d201ff2fa91742b9",
+          "role": "body surface finish only, not anatomy",
+          "intended_use": "role-limited interpretation"
+        }
+      ],
+      "output": {
+        "path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S034-expanded/p04-ficus-art-v002-rejected.png",
+        "source_path": "/Users/sagar/.codex/generated_images/01a10642-d113-72e3-8842-87d85ad50abd/exec-2daa337c-66a1-4f48-bd58-841de961fa68.png",
+        "sha256": "fa78729a30dd78ddb625f51c57463dd02e4a062a6ed8088be23db89c4c8195a5",
+        "dimensions": [
+          1536,
+          1024
+        ]
+      },
+      "status": "rejected_superseded",
+      "observations": [
+        "Excessive individually rendered engraved/body fur requires smooth finish correction."
+      ]
+    },
+    {
+      "id": "p05-stairs-art-v002",
+      "stage": "finished_art",
+      "arguments": {
+        "prompt": "Use case: illustration-story. Original photo1 are Neet likeness authority: fine long legs, full narrow torso, smooth very short fawn coat, projecting cream muzzle, cream chest bib, large broad triangular ears, tiny near-flush nub. Photos 2-3 are Buddy likeness authority: moderately elongated full charcoal torso, connected neck, substantial legs with clear floor clearance, close smooth body coat, pale irregular muzzle beard and brows, hanging regionally furnished ears, tan chest and pale feet, slender dark tail. Visible regions only, no calibrated ratios. N35 excludes anatomy, B08 styling only, B25 unavailable, B30 supplemental rest unused; B04/B24 one exposure. No uniform shag, curls, engraved fur, extra paws or detached limbs. Natural dogs, no human hands. Human faces provisional.  Render ONE finished landscape illustration, not a collage. Scene 5 only from storyboard input4; do not import any neighboring scene objects. Input5 is BODY SURFACE FINISH only: smooth clean color planes with gentle watercolor environment, absolutely no engraved/curl/shag strokes on either torso. Do not borrow third dog or its anatomy. PRIMARY REQUEST: Warm evening apartment stairwell landing; Buddy stands waiting on flat bottom landing looking affectionately at Neet who has just reached the SAME flat floor beside him, bodies clear and nonoverlapping, heads close with gentle shoulder bump. Stair flight visible behind and empty. Both have simple collars and loose leashes going upward out frame to unseen human. No sign, no notice, no text. Quiet friendship payoff, no hats or props. Body finish must be restrained smooth gouache washes and subtle shading, not textured fur. Buddy regional beard/brows/ears/paws retain modest furnishings. Neet's tail near-flush nub, never long tail; Buddy slender low gently curved dark tail never plume/ring. Story comedy readable through gaze and posture. No text, speech bubbles or frame. Detailed warm apartment background. Original photos identity authority; storyboard only staging.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E034-the-stealth-games-begin/staging-v004.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png"
+        ],
+        "transparent_background": false
+      },
+      "inputs": [
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+          "role": "original photo",
+          "intended_use": "visible anatomy under copied effective policy"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+          "sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+          "role": "original photo",
+          "intended_use": "visible anatomy under copied effective policy"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+          "sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+          "role": "original photo",
+          "intended_use": "visible anatomy under copied effective policy"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E034-the-stealth-games-begin/staging-v004.png",
+          "sha256": "b612a64a3f15509d05c6e585844299aaa4ea19b5430e7afef570a6eca3cd111f",
+          "role": "selected staging only",
+          "intended_use": "role-limited interpretation"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "sha256": "19be9a85760177405bbedd26644a7e0eb9c7945709e43825d201ff2fa91742b9",
+          "role": "body surface finish only, not anatomy",
+          "intended_use": "role-limited interpretation"
+        }
+      ],
+      "output": {
+        "path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S034-expanded/p05-stairs-art-v002-rejected.png",
+        "source_path": "/Users/sagar/.codex/generated_images/01a10642-d113-72e3-8842-87d85ad50abd/exec-2474dfa8-77f9-48f4-b93c-7e26c3c77469.png",
+        "sha256": "9978e5ada3f2fb5a3ebd10aed1d6ca7ea61912e34c1963b693840666df5a8722",
+        "dimensions": [
+          1536,
+          1024
+        ]
+      },
+      "status": "rejected_superseded",
+      "observations": [
+        "Excessive individually rendered engraved/body fur requires smooth finish correction."
+      ]
+    },
+    {
+      "id": "a01-diplomacy-art-v002",
+      "stage": "finished_art",
+      "arguments": {
+        "prompt": "Use case: illustration-story. Original photo1 are Neet likeness authority: fine long legs, full narrow torso, smooth very short fawn coat, projecting cream muzzle, cream chest bib, large broad triangular ears, tiny near-flush nub. Photos 2-3 are Buddy likeness authority: moderately elongated full charcoal torso, connected neck, substantial legs with clear floor clearance, close smooth body coat, pale irregular muzzle beard and brows, hanging regionally furnished ears, tan chest and pale feet, slender dark tail. Visible regions only, no calibrated ratios. N35 excludes anatomy, B08 styling only, B25 unavailable, B30 supplemental rest unused; B04/B24 one exposure. No uniform shag, curls, engraved fur, extra paws or detached limbs. Natural dogs, no human hands. Human faces provisional.  Render ONE finished landscape illustration, not a collage. Scene 6 only from storyboard input4; do not import any neighboring scene objects. Input5 is BODY SURFACE FINISH only: smooth clean color planes with gentle watercolor environment, absolutely no engraved/curl/shag strokes on either torso. Do not borrow third dog or its anatomy. PRIMARY REQUEST: Alternative continuity: Buddy alone at apartment lobby mailboxes executes polite sit-and-paw greeting BEFORE the rebuff. Natural dog sit supported haunches, one forepaw planted, other raised politely toward manager standing right, shown only beige coat bottom, trousers and shoes cropped at waist; manager arms crossed edge visible. Buddy hopeful small pant smile. Neet absent. No urine, no notice yet, no readable text. Body finish must be restrained smooth gouache washes and subtle shading, not textured fur. Buddy regional beard/brows/ears/paws retain modest furnishings. Neet's tail near-flush nub, never long tail; Buddy slender low gently curved dark tail never plume/ring. Story comedy readable through gaze and posture. No text, speech bubbles or frame. Detailed warm apartment background. Original photos identity authority; storyboard only staging.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-24.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-15.jpg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E034-the-stealth-games-begin/staging-v004.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png"
+        ],
+        "transparent_background": false
+      },
+      "inputs": [
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-24.jpeg",
+          "sha256": "a80dbd57f4daf8f53232a4c5e604f7e92411ed2ca15fccb8d50a5f053b0eacd6",
+          "role": "original photo",
+          "intended_use": "visible anatomy under copied effective policy"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-15.jpg",
+          "sha256": "947aca933769ac618dd657fd6a8491a8c67ff6997c289d76f87ec0167b07a923",
+          "role": "original photo",
+          "intended_use": "visible anatomy under copied effective policy"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+          "sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+          "role": "original photo",
+          "intended_use": "visible anatomy under copied effective policy"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E034-the-stealth-games-begin/staging-v004.png",
+          "sha256": "b612a64a3f15509d05c6e585844299aaa4ea19b5430e7afef570a6eca3cd111f",
+          "role": "selected staging only",
+          "intended_use": "role-limited interpretation"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "sha256": "19be9a85760177405bbedd26644a7e0eb9c7945709e43825d201ff2fa91742b9",
+          "role": "body surface finish only, not anatomy",
+          "intended_use": "role-limited interpretation"
+        }
+      ],
+      "output": {
+        "path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S034-expanded/a01-diplomacy-art-v002-rejected.png",
+        "source_path": "/Users/sagar/.codex/generated_images/01a10642-d113-72e3-8842-87d85ad50abd/exec-396c5409-379c-4fa6-8081-aec2d1136ea6.png",
+        "sha256": "536ae1b4e0d99ff3e5ca8802623297c3f8313b7d405b79249ab38d69e69225cd",
+        "dimensions": [
+          1536,
+          1024
+        ]
+      },
+      "status": "rejected_superseded",
+      "observations": [
+        "Excessive individually rendered engraved/body fur requires smooth finish correction.",
+        "Long coat must become source beige windbreaker."
+      ]
+    },
+    {
+      "id": "a02-leaf-art-v002",
+      "stage": "finished_art",
+      "arguments": {
+        "prompt": "Use case: illustration-story. Original photo1 are Neet likeness authority: fine long legs, full narrow torso, smooth very short fawn coat, projecting cream muzzle, cream chest bib, large broad triangular ears, tiny near-flush nub. Photos 2-3 are Buddy likeness authority: moderately elongated full charcoal torso, connected neck, substantial legs with clear floor clearance, close smooth body coat, pale irregular muzzle beard and brows, hanging regionally furnished ears, tan chest and pale feet, slender dark tail. Visible regions only, no calibrated ratios. N35 excludes anatomy, B08 styling only, B25 unavailable, B30 supplemental rest unused; B04/B24 one exposure. No uniform shag, curls, engraved fur, extra paws or detached limbs. Natural dogs, no human hands. Human faces provisional.  Render ONE finished landscape illustration, not a collage. Scene 7 only from storyboard input4; do not import any neighboring scene objects. Input5 is BODY SURFACE FINISH only: smooth clean color planes with gentle watercolor environment, absolutely no engraved/curl/shag strokes on either torso. Do not borrow third dog or its anatomy. PRIMARY REQUEST: Separate alternative continuity with female Neet. Apartment corridor, dry crumpled brown leaf under Neet near forepaw, she freezes startled with all four feet contacting floor, looks off frame toward unseen manager. Buddy halfstep ahead turns his head back with open mouth about to call RUN, four paws grounded. Clearly separated continuous bodies and loose collar leashes trailing clear of feet toward unseen human. Nearby open apartment door is escape route; a plain notice paper attached door has faint unreadable gray lines. No hats or backpack, no primary continuity. No speech text. Body finish must be restrained smooth gouache washes and subtle shading, not textured fur. Buddy regional beard/brows/ears/paws retain modest furnishings. Neet's tail near-flush nub, never long tail; Buddy slender low gently curved dark tail never plume/ring. Story comedy readable through gaze and posture. No text, speech bubbles or frame. Detailed warm apartment background. Original photos identity authority; storyboard only staging.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E034-the-stealth-games-begin/staging-v003.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png"
+        ],
+        "transparent_background": false
+      },
+      "inputs": [
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+          "role": "original photo",
+          "intended_use": "visible anatomy under copied effective policy"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+          "sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+          "role": "original photo",
+          "intended_use": "visible anatomy under copied effective policy"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+          "sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+          "role": "original photo",
+          "intended_use": "visible anatomy under copied effective policy"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E034-the-stealth-games-begin/staging-v003.png",
+          "sha256": "6c3880a2843a60588abc39a612eb0da37cdc7a191a10a7d333ec48845bb7c95a",
+          "role": "selected staging only",
+          "intended_use": "role-limited interpretation"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "sha256": "19be9a85760177405bbedd26644a7e0eb9c7945709e43825d201ff2fa91742b9",
+          "role": "body surface finish only, not anatomy",
+          "intended_use": "role-limited interpretation"
+        }
+      ],
+      "output": {
+        "path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S034-expanded/a02-leaf-art-v002-rejected.png",
+        "source_path": "/Users/sagar/.codex/generated_images/01a10642-d113-72e3-8842-87d85ad50abd/exec-a25b37e6-76ae-47b3-82e4-ea899656a30d.png",
+        "sha256": "ce9b13e359f1c71a03618fa30e9dd8f65658073e47b95dacf7b3b94a6394f789",
+        "dimensions": [
+          1536,
+          1024
+        ]
+      },
+      "status": "rejected_superseded",
+      "observations": [
+        "Excessive individually rendered engraved/body fur requires smooth finish correction.",
+        "Leaf missed forepaw contact; duplicate/misattached leashes; female variant needs neutral belly."
+      ]
+    },
+    {
+      "id": "p01-bath-art-v003",
+      "stage": "finished_correction",
+      "arguments": {
+        "prompt": "Edit target image1. Material correction: Neet cream chest and fawn neck/legs currently have long wavy curled fur strokes; Buddy dark throat/chest has engraved shag. Replace ONLY these short-coat body surfaces with smooth flat shaded gouache color planes, no individual fur strands, no hatching, no curls. Use image2 ONLY as example of smooth dog body surface finish. Keep Buddy cream moustache beard brow and ear hair as regional furnishings, preserve towels, clippers, expressions, heads, paw count, connected anatomy, bathroom and composition. Photos3-5 remain likeness authority within visible regions only. No measured ratios. Neet tiny nub unseen, Buddy tail unseen; no added tails. N35 no anatomy, B08 styling only, B25 unavailable, B30 rest only unused. Preserve original scene exactly. This is a smooth painted illustrated dog body, not photorealistic rendered fur.",
+        "referenced_image_paths": [
+          "/Users/sagar/.codex/generated_images/01a10642-d113-72e3-8842-87d85ad50abd/exec-9dd674ca-cd60-46f6-964c-758ec01b695c.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-24.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-15.jpg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg"
+        ],
+        "transparent_background": false
+      },
+      "inputs": [
+        {
+          "path": "/Users/sagar/.codex/generated_images/01a10642-d113-72e3-8842-87d85ad50abd/exec-9dd674ca-cd60-46f6-964c-758ec01b695c.png",
+          "sha256": "1df7480b5f72fb82a71102adffad52c5cf3daf43e5de645be08b9bb7e120274a",
+          "role": "edit target",
+          "intended_use": "role-limited interpretation"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "sha256": "19be9a85760177405bbedd26644a7e0eb9c7945709e43825d201ff2fa91742b9",
+          "role": "body surface finish only, not anatomy",
+          "intended_use": "role-limited interpretation"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-24.jpeg",
+          "sha256": "a80dbd57f4daf8f53232a4c5e604f7e92411ed2ca15fccb8d50a5f053b0eacd6",
+          "role": "original photo",
+          "intended_use": "visible anatomy under copied effective policy"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-15.jpg",
+          "sha256": "947aca933769ac618dd657fd6a8491a8c67ff6997c289d76f87ec0167b07a923",
+          "role": "original photo",
+          "intended_use": "visible anatomy under copied effective policy"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+          "sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+          "role": "original photo",
+          "intended_use": "visible anatomy under copied effective policy"
+        }
+      ],
+      "output": {
+        "path": "Productions/E034-the-stealth-games-begin/p01-bath-art-v003.png",
+        "source_path": "/Users/sagar/.codex/generated_images/01a10642-d113-72e3-8842-87d85ad50abd/exec-4e8c8b44-e468-4e85-96fc-7c3dca8c649f.png",
+        "sha256": "99cce0eff23831e4e46c3bbc96db441130c4b3784ef503aaf5540fa41e3317bf",
+        "dimensions": [
+          1536,
+          1024
+        ]
+      },
+      "status": "proposed_pending_independent_review",
+      "observations": [
+        "Actual replacement viewed at full tool resolution. Smooth body surfaces restored; original staging/identity retained. Not independently accepted."
+      ]
+    },
+    {
+      "id": "p02-beanie-art-v003",
+      "stage": "finished_correction",
+      "arguments": {
+        "prompt": "Edit image1 beanie scene. Keep composition, faces, props, expressions, proportions and connected anatomy. Material correction: replace ALL fur rendering on Neet neck/chest/torso/legs and Buddy dark neck/torso/leg shafts with broad SMOOTH FLAT COLOR PLANES and subtle smooth shading exactly like dog body surfaces in input2. No individual hairs, ripples, curls, hatching, engraved strands or shag contours on short-coated bodies. Buddy must KEEP furnished pale muzzle/beard/brows and softly hanging ear fringes; keep paw furnishings modest. Original photos3-5 control anatomy within visible regions, not exact ratios. Original photo identity: Neet broad triangular ears, fine legs, full narrow torso, near-flush tiny nub; Buddy continuous moderately elongated torso substantial legs visible clearance. Neet nub currently a small protruding finger: shorten to nearly flush with rump. Buddy low slender dark tail no thick plume. Preserve baby pompom hat and plant spill, no text or notice. Art should read as smooth painted narrative illustration, not photorealistic fur.",
+        "referenced_image_paths": [
+          "/Users/sagar/.codex/generated_images/01a10642-d113-72e3-8842-87d85ad50abd/exec-93223449-93db-4aad-9031-1b7c0d529869.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg"
+        ],
+        "transparent_background": false
+      },
+      "inputs": [
+        {
+          "path": "/Users/sagar/.codex/generated_images/01a10642-d113-72e3-8842-87d85ad50abd/exec-93223449-93db-4aad-9031-1b7c0d529869.png",
+          "sha256": "6ec61e990ec680d0f14f08637d983c757f67fd82b8ccfc26454eedc4ada37f4a",
+          "role": "edit target",
+          "intended_use": "role-limited interpretation"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "sha256": "19be9a85760177405bbedd26644a7e0eb9c7945709e43825d201ff2fa91742b9",
+          "role": "body surface finish only, not anatomy",
+          "intended_use": "role-limited interpretation"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+          "role": "original photo",
+          "intended_use": "visible anatomy under copied effective policy"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+          "sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+          "role": "original photo",
+          "intended_use": "visible anatomy under copied effective policy"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+          "sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+          "role": "original photo",
+          "intended_use": "visible anatomy under copied effective policy"
+        }
+      ],
+      "output": {
+        "path": "Productions/E034-the-stealth-games-begin/p02-beanie-art-v003.png",
+        "source_path": "/Users/sagar/.codex/generated_images/01a10642-d113-72e3-8842-87d85ad50abd/exec-d82e79f3-99c6-4c55-af93-a13a3a7f97c0.png",
+        "sha256": "4041fd3f2bfb71b026d32b08ffa27f2ead66874cf986bd3609b0b6366df37a58",
+        "dimensions": [
+          1536,
+          1024
+        ]
+      },
+      "status": "proposed_pending_independent_review",
+      "observations": [
+        "Actual replacement viewed at full tool resolution. Smooth body surfaces restored; original staging/identity retained. Not independently accepted."
+      ]
+    },
+    {
+      "id": "p03-todd-art-v003",
+      "stage": "finished_correction",
+      "arguments": {
+        "prompt": "Edit target image1 Todd-collapse scene: preserve composition, canine anatomical proportions, feet and head poses, hoodie, broom, glue and manager legs. Remove furry/engraved rendering on both dogs short body coats. Paint neck/chest/trunk/upper leg shafts as smooth flat shaded gouache color planes like input2 body finish; NO individually visible hairs, curls, ripples, hatch strokes or shag body outline. Keep Buddy cream moustache/beard/brows and regional hanging ear hair and modest paw furnishings. Keep Neet huge broad triangular ears, fine legs, full narrow torso, tiny near-flush nub. Keep Buddy full moderately elongated connected torso and visible clearance, slender low tail. Photos3-5 are identity authority, only visible anatomy, no calibrated ratios. Do not borrow third dog from finish example. Do not alter props or add notice. No text. This should be smooth storybook painted anatomy, not realistic fur rendering.",
+        "referenced_image_paths": [
+          "/Users/sagar/.codex/generated_images/01a10642-d113-72e3-8842-87d85ad50abd/exec-02c05a7c-73b1-43e9-9232-8a98c92ed123.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg"
+        ],
+        "transparent_background": false
+      },
+      "inputs": [
+        {
+          "path": "/Users/sagar/.codex/generated_images/01a10642-d113-72e3-8842-87d85ad50abd/exec-02c05a7c-73b1-43e9-9232-8a98c92ed123.png",
+          "sha256": "7fcd5137d8d9b431d832b3c3406c475374b1c382ad6ea1a5891866aee5d1d8d2",
+          "role": "edit target",
+          "intended_use": "role-limited interpretation"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "sha256": "19be9a85760177405bbedd26644a7e0eb9c7945709e43825d201ff2fa91742b9",
+          "role": "body surface finish only, not anatomy",
+          "intended_use": "role-limited interpretation"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+          "role": "original photo",
+          "intended_use": "visible anatomy under copied effective policy"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+          "sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+          "role": "original photo",
+          "intended_use": "visible anatomy under copied effective policy"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+          "sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+          "role": "original photo",
+          "intended_use": "visible anatomy under copied effective policy"
+        }
+      ],
+      "output": {
+        "path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S034-expanded/p03-todd-art-v003.png",
+        "source_path": "/Users/sagar/.codex/generated_images/01a10642-d113-72e3-8842-87d85ad50abd/exec-b63ee44b-35c4-4c84-9556-eb2b32aa119f.png",
+        "sha256": "2cab249bcc366c22b2753b482fb97208e2123f54f1705dc84055db5ae81df447",
+        "dimensions": [
+          1536,
+          1024
+        ],
+        "original_path": "Productions/E034-the-stealth-games-begin/p03-todd-art-v003.png"
+      },
+      "status": "superseded_prop_correction_pending",
+      "observations": [
+        "Actual replacement viewed at full tool resolution. Smooth body surfaces restored; original staging/identity retained. Not independently accepted."
+      ]
+    },
+    {
+      "id": "p04-ficus-art-v003",
+      "stage": "finished_correction",
+      "arguments": {
+        "prompt": "Edit target image1 ficus/broth scene. Preserve all room layout, dog poses, anatomy, sunglasses, bowl, mail carrier hand and Buddy friendly expression. Correct excessive engraved shag on Buddy dark torso/neck/legs and Neet wavy chest/torso texture: replace these short coat regions with broad SMOOTH FLAT GOUACHE COLOR PLANES and gentle shading like input2 dog BODY FINISH. No fur-stroke texture, curls, hatching, shaggy outlines on short coats. Keep Buddy pale muzzle beard, brows and regional hanging ear hair and modest paw hair; do not simplify those to a smooth generic dog face. Photo3 Neet seated anatomy, photo4 Buddy frontal, photo5 Buddy side length are likeness authority only for visible regions; no exact ratios. Neet fine legs/full narrow trunk/large triangular ears/near-flush nub, Buddy moderately elongated full connected trunk and substantial legs with true clearance. No third dog from finish reference, no added props, no notice or text. Smooth painted narrative illustration, not realistic fur.",
+        "referenced_image_paths": [
+          "/Users/sagar/.codex/generated_images/01a10642-d113-72e3-8842-87d85ad50abd/exec-2daa337c-66a1-4f48-bd58-841de961fa68.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-24.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg"
+        ],
+        "transparent_background": false
+      },
+      "inputs": [
+        {
+          "path": "/Users/sagar/.codex/generated_images/01a10642-d113-72e3-8842-87d85ad50abd/exec-2daa337c-66a1-4f48-bd58-841de961fa68.png",
+          "sha256": "fa78729a30dd78ddb625f51c57463dd02e4a062a6ed8088be23db89c4c8195a5",
+          "role": "edit target",
+          "intended_use": "role-limited interpretation"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "sha256": "19be9a85760177405bbedd26644a7e0eb9c7945709e43825d201ff2fa91742b9",
+          "role": "body surface finish only, not anatomy",
+          "intended_use": "role-limited interpretation"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-24.jpeg",
+          "sha256": "a80dbd57f4daf8f53232a4c5e604f7e92411ed2ca15fccb8d50a5f053b0eacd6",
+          "role": "original photo",
+          "intended_use": "visible anatomy under copied effective policy"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+          "sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+          "role": "original photo",
+          "intended_use": "visible anatomy under copied effective policy"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+          "sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+          "role": "original photo",
+          "intended_use": "visible anatomy under copied effective policy"
+        }
+      ],
+      "output": {
+        "path": "Productions/E034-the-stealth-games-begin/p04-ficus-art-v003.png",
+        "source_path": "/Users/sagar/.codex/generated_images/01a10642-d113-72e3-8842-87d85ad50abd/exec-474443a5-f92c-4152-b435-8b0a8f2c698e.png",
+        "sha256": "8907ae0ec02495d43268cd1a3990c37a1c1810d13f9038d23b03a3cdfa9165c4",
+        "dimensions": [
+          1536,
+          1024
+        ]
+      },
+      "status": "proposed_pending_independent_review",
+      "observations": [
+        "Actual replacement viewed at full tool resolution. Smooth body surfaces restored; original staging/identity retained. Not independently accepted."
+      ]
+    },
+    {
+      "id": "p05-stairs-art-v003",
+      "stage": "finished_correction",
+      "arguments": {
+        "prompt": "Edit target image1 evening stairs reunion. Keep affectionate mutual gaze, heads, body proportions and separate limb ownership, collars and two leashes, warm stairwell. Smooth both short-coated bodies completely: flat shaded gouache planes like input2 body finish, not individual hairs or engraved/curl/shag strokes. Remove raised shag silhouette from Buddy neck/chest/torso/leg shafts; retain ONLY regional pale beard/moustache/brows, hanging ear fringe and modest feet furnishings. Neet smooth fawn coat/cream bib, fine legs and full narrow torso, tail only near-flush tiny nub. Buddy moderately elongated full torso, substantial legs, slender low dark tail. Correct the pose to a gentle stationary shoulder touch on the bottom flat landing: all four paws of each dog grounded naturally, no floating forward foot. Photos3-5 authority for visible anatomy, no measured ratios. No new props, leaf, signs or text; no third dog from finish reference. Keep all canine bodies connected and heads modest.",
+        "referenced_image_paths": [
+          "/Users/sagar/.codex/generated_images/01a10642-d113-72e3-8842-87d85ad50abd/exec-2474dfa8-77f9-48f4-b93c-7e26c3c77469.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg"
+        ],
+        "transparent_background": false
+      },
+      "inputs": [
+        {
+          "path": "/Users/sagar/.codex/generated_images/01a10642-d113-72e3-8842-87d85ad50abd/exec-2474dfa8-77f9-48f4-b93c-7e26c3c77469.png",
+          "sha256": "9978e5ada3f2fb5a3ebd10aed1d6ca7ea61912e34c1963b693840666df5a8722",
+          "role": "edit target"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "sha256": "19be9a85760177405bbedd26644a7e0eb9c7945709e43825d201ff2fa91742b9",
+          "role": "body finish only"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+          "role": "original photo"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+          "sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+          "role": "original photo"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+          "sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+          "role": "original photo"
+        }
+      ],
+      "output": {
+        "path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S034-expanded/p05-stairs-art-v003-rejected.png",
+        "source_path": "/Users/sagar/.codex/generated_images/01a10642-d113-72e3-8842-87d85ad50abd/exec-8d2ba498-b466-4143-9ace-07b2e996f097.png",
+        "sha256": "70558483594aa4b68956e0ee8a9c2f6a12d1a0fa97b2d96163ddc5efe1b812a4",
+        "dimensions": [
+          1536,
+          1024
+        ]
+      },
+      "status": "rejected_superseded",
+      "observations": [
+        "Paws grounded and coats reduced, but repetitive body hair remained; further surface correction."
+      ]
+    },
+    {
+      "id": "p05-stairs-art-v004",
+      "stage": "finished_correction",
+      "arguments": {
+        "prompt": "Final surface correction to image1 stairs. Leave heads, ears, Buddy furnished muzzle/brows/ears, feet, anatomy, all poses and background exactly alone. Repaint BOTH dogs short neck, chest, torso and upper legs as PURE SMOOTH FLAT COLORED SHAPES with clean edges and only large soft shadow shapes, precisely the cel-painted body surface treatment in image2. Absolutely ZERO hair strands or hair texture or directional feathering or repeated engraved marks in these body regions. Neet chest bib should be flat cream pigment without long locks; Buddy charcoal neck/chest/body flat charcoal pigment without hatching. Buddy regional face and ears remain hairy. Preserve all feet and tails. Only surface treatment changes, no new scene details, no text.",
+        "referenced_image_paths": [
+          "/Users/sagar/.codex/generated_images/01a10642-d113-72e3-8842-87d85ad50abd/exec-8d2ba498-b466-4143-9ace-07b2e996f097.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png"
+        ],
+        "transparent_background": false
+      },
+      "inputs": [
+        {
+          "path": "/Users/sagar/.codex/generated_images/01a10642-d113-72e3-8842-87d85ad50abd/exec-8d2ba498-b466-4143-9ace-07b2e996f097.png",
+          "sha256": "70558483594aa4b68956e0ee8a9c2f6a12d1a0fa97b2d96163ddc5efe1b812a4",
+          "role": "edit target"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "sha256": "19be9a85760177405bbedd26644a7e0eb9c7945709e43825d201ff2fa91742b9",
+          "role": "body finish only"
+        }
+      ],
+      "output": {
+        "path": "Productions/E034-the-stealth-games-begin/p05-stairs-art-v004.png",
+        "source_path": "/Users/sagar/.codex/generated_images/01a10642-d113-72e3-8842-87d85ad50abd/exec-72be5dfe-9361-4585-ad0a-1191480d4126.png",
+        "sha256": "e3b22eb4183074404266f24fd1036ead7690c640ad6e6f44a99fbe240bf6db21",
+        "dimensions": [
+          1536,
+          1024
+        ]
+      },
+      "status": "proposed_pending_independent_review",
+      "observations": [
+        "Clean smooth body planes and supported feet restored; retained mutual gaze, shoulder touch, full connected dog bodies, no alternative leaf."
+      ]
+    },
+    {
+      "id": "a01-diplomacy-art-v003",
+      "stage": "finished_correction",
+      "arguments": {
+        "prompt": "Edit target image1 alternative diplomatic Buddy. Preserve natural seated haunch support, raised forepaw roots, grounded other paw, hopeful gaze, lobby mailboxes and human shoes. Correct two material details. 1) The manager wears a beige WINDREAKER jacket, not a long trench coat: shorten beige garment to hip/waist length, eliminate trench belt/tail, keep torso partly cropped at top. 2) Smooth Buddy dark neck, chest, trunk, haunch and upper limb coat into broad flat shaded gouache planes matching body surface finish of image2; remove all engraved/curly/wavy hair and shaggy outline there. Keep pale moustache/beard/brows, hanging ear fringe and modest paw furnishings. Keep anatomical shape and real legs; low slender dark tail not plume. Photos3-4 are Buddy original standing and seated anatomy authority, visible regions only no measured ratios. Do not import any other dog or setting from reference2. No text, notice, urine or Neet. This exact moment is BEFORE Grubbs rebuffs the greeting.",
+        "referenced_image_paths": [
+          "/Users/sagar/.codex/generated_images/01a10642-d113-72e3-8842-87d85ad50abd/exec-396c5409-379c-4fa6-8081-aec2d1136ea6.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-15.jpg"
+        ],
+        "transparent_background": false
+      },
+      "inputs": [
+        {
+          "path": "/Users/sagar/.codex/generated_images/01a10642-d113-72e3-8842-87d85ad50abd/exec-396c5409-379c-4fa6-8081-aec2d1136ea6.png",
+          "sha256": "536ae1b4e0d99ff3e5ca8802623297c3f8313b7d405b79249ab38d69e69225cd",
+          "role": "edit target"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "sha256": "19be9a85760177405bbedd26644a7e0eb9c7945709e43825d201ff2fa91742b9",
+          "role": "body finish only"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+          "sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+          "role": "original photo"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-15.jpg",
+          "sha256": "947aca933769ac618dd657fd6a8491a8c67ff6997c289d76f87ec0167b07a923",
+          "role": "original photo"
+        }
+      ],
+      "output": {
+        "path": "Productions/E034-the-stealth-games-begin/a01-diplomacy-art-v003.png",
+        "source_path": "/Users/sagar/.codex/generated_images/01a10642-d113-72e3-8842-87d85ad50abd/exec-0e7d8e3e-2307-4abf-821d-d31b0d01babe.png",
+        "sha256": "cf30883c31f267089da9ed5698dcb32db97611ca95fbbef7e8b5a0c40ee2d94b",
+        "dimensions": [
+          1536,
+          1024
+        ]
+      },
+      "status": "proposed_pending_independent_review",
+      "observations": [
+        "Hip-length beige windbreaker corrected; natural seated support and raised forepaw, source moment before rebuff, smooth dark body with regional furnishings."
+      ]
+    },
+    {
+      "id": "p03-todd-art-v004",
+      "stage": "finished_correction",
+      "arguments": {
+        "prompt": "Edit image1 ONLY the three cylindrical craft glue containers on right floor: replace them with THREE bare translucent milky-white HOT GLUE STICKS (short smooth solid rods, no caps, no labels, no colored packaging). These are leftover costume-making materials in story. Preserve exact composition, all dogs and smooth painted short body coats, Buddy regional furnishings, hoodie, broom, manager shoes, light, anatomy and facial acting. Do not regenerate body texture or change any other region. No text.",
+        "referenced_image_paths": [
+          "/Users/sagar/.codex/generated_images/01a10642-d113-72e3-8842-87d85ad50abd/exec-b63ee44b-35c4-4c84-9556-eb2b32aa119f.png"
+        ],
+        "transparent_background": false
+      },
+      "inputs": [
+        {
+          "path": "/Users/sagar/.codex/generated_images/01a10642-d113-72e3-8842-87d85ad50abd/exec-b63ee44b-35c4-4c84-9556-eb2b32aa119f.png",
+          "sha256": "2cab249bcc366c22b2753b482fb97208e2123f54f1705dc84055db5ae81df447",
+          "role": "edit target"
+        }
+      ],
+      "output": {
+        "path": "Productions/E034-the-stealth-games-begin/p03-todd-art-v004.png",
+        "source_path": "/Users/sagar/.codex/generated_images/01a10642-d113-72e3-8842-87d85ad50abd/exec-08e41c24-f996-4baf-99f8-bc39955cb9d3.png",
+        "sha256": "f6fff490dca37e5216115f61027b02a9b068d138164eeb3ed70c2c843bd2b772",
+        "dimensions": [
+          1536,
+          1024
+        ]
+      },
+      "status": "proposed_pending_independent_review",
+      "observations": [
+        "Three bare hot-glue rods now match source; whole replacement checked for preserved smooth bodies, two planted dogs, hoodie, broom and manager legs."
+      ]
+    },
+    {
+      "id": "a02-leaf-art-v003",
+      "stage": "finished_correction",
+      "arguments": {
+        "prompt": "Edit image1 alternative leaf alarm. Correct FOUR defects while preserving corridor, notice, separated bodies, wide-eyed gaze and Buddy open mouth: (1) Move brown leaf directly UNDER Neet near/front forepaw; paw visibly presses/crumples it, Neet frozen, all feet supported. (2) Exactly TWO leashes total: one single leash clipped to Neet pink collar, one single leash clipped to Buddy blue collar, each travels in a simple clear loose curve upward out frame to unseen human. Remove duplicate leash dangling from Neet chest and remove misplaced attachment on Buddy back/shoulder. (3) Neet is FEMALE in this separate source variant; neutral appropriate lower belly with no male genital detail; same photographic face/body identity, no feminine eyelashes. (4) Remove engraved/long fur on both dogs torso/neck/leg shafts: smooth broad flat shaded gouache surfaces like input2 BODY FINISH only, preserve Buddy regional pale moustache/beard/brows/hanging ear fringe/paw hair. Keep Neet fine legs full narrow torso, broad triangular ears and near-flush tiny nub, Buddy moderately elongated full torso substantial legs clearance and slender low dark tail. Photos3-5 original identity authority only visible regions/no measurements. No text beyond faint abstract notice lines; no new participants or props. Do not copy giant dog from finish reference.",
+        "referenced_image_paths": [
+          "/Users/sagar/.codex/generated_images/01a10642-d113-72e3-8842-87d85ad50abd/exec-a25b37e6-76ae-47b3-82e4-ea899656a30d.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg"
+        ],
+        "transparent_background": false
+      },
+      "inputs": [
+        {
+          "path": "/Users/sagar/.codex/generated_images/01a10642-d113-72e3-8842-87d85ad50abd/exec-a25b37e6-76ae-47b3-82e4-ea899656a30d.png",
+          "sha256": "ce9b13e359f1c71a03618fa30e9dd8f65658073e47b95dacf7b3b94a6394f789",
+          "role": "edit target"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "sha256": "19be9a85760177405bbedd26644a7e0eb9c7945709e43825d201ff2fa91742b9",
+          "role": "body finish only"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+          "role": "original photo"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+          "sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+          "role": "original photo"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+          "sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+          "role": "original photo"
+        }
+      ],
+      "output": {
+        "path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S034-expanded/a02-leaf-art-v003-rejected.png",
+        "source_path": "/Users/sagar/.codex/generated_images/01a10642-d113-72e3-8842-87d85ad50abd/exec-2dbab3fa-2c0a-4d3f-8a88-d56131e2c6ae.png",
+        "sha256": "d983587a2e30f03bd0a5d57692af533bf6b41a4b5f6f882e2952bb4b838a6aa9",
+        "dimensions": [
+          1536,
+          1024
+        ]
+      },
+      "status": "rejected_superseded",
+      "observations": [
+        "Leaf contact/female variant and duplicate leash corrected, but remaining leashes attach to wrong visible positions; correcting."
+      ]
+    },
+    {
+      "id": "a02-leaf-art-v004",
+      "stage": "finished_correction",
+      "arguments": {
+        "prompt": "Precise correction image1. LEASH ATTACHMENT: both blue leashes currently end near a cheek or a back, not at collars. Erase both existing leashes completely. Draw ONE thin blue leash per dog: Neet leash clips to the small metal D-ring visibly hanging at FRONT RIGHT of her pink collar (viewer x495 y460 area), then travels loosely toward LEFT edge without touching her muzzle; Buddy leash clips to visible metal D-ring on FRONT RIGHT of blue collar (viewer x1068 y487 area), then travels loosely toward RIGHT edge. Exactly two visible correctly attached leashes, no other leash/metal clips. Keep leaf pressed under Neet forepaw. SURFACE: remove remaining fine repetitive fur texture on Neet torso/neck/chest and Buddy torso/neck/chest/upper legs: smooth clean flat color with large shadow planes like input2 BODY FINISH only, no individual hair marks. Keep Buddy furnished muzzle/beard, brows, ears and modest paw hair. Do not change any canine pose, limb, proportion, tail, expression, setting or notice. Neet female neutral belly. No new text or characters.",
+        "referenced_image_paths": [
+          "/Users/sagar/.codex/generated_images/01a10642-d113-72e3-8842-87d85ad50abd/exec-2dbab3fa-2c0a-4d3f-8a88-d56131e2c6ae.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png"
+        ],
+        "transparent_background": false
+      },
+      "inputs": [
+        {
+          "path": "/Users/sagar/.codex/generated_images/01a10642-d113-72e3-8842-87d85ad50abd/exec-2dbab3fa-2c0a-4d3f-8a88-d56131e2c6ae.png",
+          "sha256": "d983587a2e30f03bd0a5d57692af533bf6b41a4b5f6f882e2952bb4b838a6aa9",
+          "role": "edit target"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "sha256": "19be9a85760177405bbedd26644a7e0eb9c7945709e43825d201ff2fa91742b9",
+          "role": "body finish only"
+        }
+      ],
+      "output": {
+        "path": "Productions/E034-the-stealth-games-begin/a02-leaf-art-v004.png",
+        "source_path": "/Users/sagar/.codex/generated_images/01a10642-d113-72e3-8842-87d85ad50abd/exec-3d95e3c0-186d-4e01-8398-e62a9792f1fe.png",
+        "sha256": "deb31f1cab5e225320392e8743a94633f21716391ad341b848d30c9bda82421c",
+        "dimensions": [
+          1536,
+          1024
+        ]
+      },
+      "status": "proposed_pending_independent_review",
+      "observations": [
+        "Actual full replacement inspected: both leashes now attach visibly to collar hardware, leaf pressed under Neet forepaw, female variant neutral belly, smooth body planes and continuous limbs retained.",
+        "Alternative notice remains abstract unreadable sheet, no primary Todd props."
+      ]
+    }
+  ],
+  "independent_review": "pending",
+  "selected_staging": {
+    "primary_panels_1_to_5": "staging-v004.png",
+    "alternative_diplomacy_panel6": "staging-v004.png",
+    "alternative_leaf_panel7": "staging-v003.png"
+  },
+  "tool_rejections": [
+    {
+      "id": "p01-bath",
+      "arguments": {
+        "prompt": "Use case: illustration-story. Original photos 1-2 are Neet likeness authority: fine long legs, full narrow torso, smooth very short fawn coat, projecting cream muzzle, cream chest bib, large broad triangular ears, tiny near-flush nub. Photos 3-4 are Buddy likeness authority: moderately elongated full charcoal torso, connected neck, substantial legs with clear floor clearance, close smooth body coat, pale irregular muzzle beard and brows, hanging regionally furnished ears, tan chest and pale feet, slender dark tail. Visible regions only, no calibrated ratios. N35 excludes anatomy, B08 styling only, B25 unavailable, B30 supplemental rest unused; B04/B24 one exposure. No uniform shag, curls, engraved fur, extra paws or detached limbs. Natural dogs, no human hands. Human faces provisional.  Render ONE finished landscape illustration, not a collage. Scene 1 only from storyboard input5; do not import any neighboring scene objects. Input6 is BODY SURFACE FINISH only: smooth clean color planes with gentle watercolor environment, absolutely no engraved/curl/shag strokes on either torso. Do not borrow the third dog or its anatomy. Other supplied photos are seated anatomy only where applicable. PRIMARY REQUEST: Bathroom tiled floor. Neet and Buddy sit side by side each in a separate loosely wrapped towel after bath, their heads and forepaws visible and feet supported. Neet looks solemnly insulted; Buddy innocently looks away while a pair of CLOSED nail clippers peeks from under his towel at his seated rump. No water spray, no humans, no speech or text. The body finish must have restrained smooth gouache washes and subtle shading, not textured fur. Buddy regional beard/brows/ears/paws retain modest furnishings. Neet's tail near flush nub, never long tail; Buddy slender low gently curved dark tail never plume/ring. Story comedy readable through gaze and posture. No text, no speech bubbles, no frame. Detailed warm apartment background. Original photos are identity authority; storyboard only staging.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-29.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E034-the-stealth-games-begin/staging-v004.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-24.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-15.jpg"
+        ],
+        "transparent_background": false
+      },
+      "error": "referenced_image_paths must contain at most 5 paths; tool rejected before generation"
+    },
+    {
+      "id": "p02-beanie",
+      "arguments": {
+        "prompt": "Use case: illustration-story. Original photos 1-2 are Neet likeness authority: fine long legs, full narrow torso, smooth very short fawn coat, projecting cream muzzle, cream chest bib, large broad triangular ears, tiny near-flush nub. Photos 3-4 are Buddy likeness authority: moderately elongated full charcoal torso, connected neck, substantial legs with clear floor clearance, close smooth body coat, pale irregular muzzle beard and brows, hanging regionally furnished ears, tan chest and pale feet, slender dark tail. Visible regions only, no calibrated ratios. N35 excludes anatomy, B08 styling only, B25 unavailable, B30 supplemental rest unused; B04/B24 one exposure. No uniform shag, curls, engraved fur, extra paws or detached limbs. Natural dogs, no human hands. Human faces provisional.  Render ONE finished landscape illustration, not a collage. Scene 2 only from storyboard input5; do not import any neighboring scene objects. Input6 is BODY SURFACE FINISH only: smooth clean color planes with gentle watercolor environment, absolutely no engraved/curl/shag strokes on either torso. Do not borrow the third dog or its anatomy. Other supplied photos are seated anatomy only where applicable. PRIMARY REQUEST: Apartment by closed front door. Full-body standing Neet wears tiny baby knitted beanie between his two broad visible ears with a pompom, very serious. Buddy stands separately looking toward him with amused relaxed open mouth; a small tipped pot and scattered soil lie next to Buddy, intact houseplant. All eight paws grounded distinct. No notice, no people. The body finish must have restrained smooth gouache washes and subtle shading, not textured fur. Buddy regional beard/brows/ears/paws retain modest furnishings. Neet's tail near flush nub, never long tail; Buddy slender low gently curved dark tail never plume/ring. Story comedy readable through gaze and posture. No text, no speech bubbles, no frame. Detailed warm apartment background. Original photos are identity authority; storyboard only staging.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-29.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E034-the-stealth-games-begin/staging-v004.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png"
+        ],
+        "transparent_background": false
+      },
+      "error": "referenced_image_paths must contain at most 5 paths; tool rejected before generation"
+    },
+    {
+      "id": "p03-todd",
+      "arguments": {
+        "prompt": "Use case: illustration-story. Original photos 1-2 are Neet likeness authority: fine long legs, full narrow torso, smooth very short fawn coat, projecting cream muzzle, cream chest bib, large broad triangular ears, tiny near-flush nub. Photos 3-4 are Buddy likeness authority: moderately elongated full charcoal torso, connected neck, substantial legs with clear floor clearance, close smooth body coat, pale irregular muzzle beard and brows, hanging regionally furnished ears, tan chest and pale feet, slender dark tail. Visible regions only, no calibrated ratios. N35 excludes anatomy, B08 styling only, B25 unavailable, B30 supplemental rest unused; B04/B24 one exposure. No uniform shag, curls, engraved fur, extra paws or detached limbs. Natural dogs, no human hands. Human faces provisional.  Render ONE finished landscape illustration, not a collage. Scene 3 only from storyboard input5; do not import any neighboring scene objects. Input6 is BODY SURFACE FINISH only: smooth clean color planes with gentle watercolor environment, absolutely no engraved/curl/shag strokes on either torso. Do not borrow the third dog or its anatomy. Other supplied photos are seated anatomy only where applicable. PRIMARY REQUEST: Low wide view of apartment open front doorway JUST AFTER failed dog costume collapsed. Neet and Buddy now both safely planted on all four paws separately on apartment floor with a crumpled oversized old hoodie and broom lying between them; three unused glue sticks near wall. Both dogs look up startled at manager in hallway, shown only two trouser legs and shoes cropped at knees in far background. No stacked dogs, no levitating paws, no pee yet. Comedy of two visible dogs exposed after one-dog disguise. No notice or text. The body finish must have restrained smooth gouache washes and subtle shading, not textured fur. Buddy regional beard/brows/ears/paws retain modest furnishings. Neet's tail near flush nub, never long tail; Buddy slender low gently curved dark tail never plume/ring. Story comedy readable through gaze and posture. No text, no speech bubbles, no frame. Detailed warm apartment background. Original photos are identity authority; storyboard only staging.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-29.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E034-the-stealth-games-begin/staging-v004.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png"
+        ],
+        "transparent_background": false
+      },
+      "error": "referenced_image_paths must contain at most 5 paths; tool rejected before generation"
+    },
+    {
+      "id": "p04-ficus",
+      "arguments": {
+        "prompt": "Use case: illustration-story. Original photos 1-2 are Neet likeness authority: fine long legs, full narrow torso, smooth very short fawn coat, projecting cream muzzle, cream chest bib, large broad triangular ears, tiny near-flush nub. Photos 3-4 are Buddy likeness authority: moderately elongated full charcoal torso, connected neck, substantial legs with clear floor clearance, close smooth body coat, pale irregular muzzle beard and brows, hanging regionally furnished ears, tan chest and pale feet, slender dark tail. Visible regions only, no calibrated ratios. N35 excludes anatomy, B08 styling only, B25 unavailable, B30 supplemental rest unused; B04/B24 one exposure. No uniform shag, curls, engraved fur, extra paws or detached limbs. Natural dogs, no human hands. Human faces provisional.  Render ONE finished landscape illustration, not a collage. Scene 4 only from storyboard input5; do not import any neighboring scene objects. Input6 is BODY SURFACE FINISH only: smooth clean color planes with gentle watercolor environment, absolutely no engraved/curl/shag strokes on either torso. Do not borrow the third dog or its anatomy. Other supplied photos are seated anatomy only where applicable. PRIMARY REQUEST: Apartment interior, ficus in broad pot left foreground. Neet sits naturally behind pot, wearing small dark sunglasses, head and full narrow torso visible through side gap, lowering muzzle toward shallow beef-broth bowl ON FLOOR, not holding cup. Through open doorway right background Buddy stands full-body greeting a mail carrier shown only hand holding envelopes and trouser leg. No notice. Warm domestic light, espionage contrast to friendly Buddy. The body finish must have restrained smooth gouache washes and subtle shading, not textured fur. Buddy regional beard/brows/ears/paws retain modest furnishings. Neet's tail near flush nub, never long tail; Buddy slender low gently curved dark tail never plume/ring. Story comedy readable through gaze and posture. No text, no speech bubbles, no frame. Detailed warm apartment background. Original photos are identity authority; storyboard only staging.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-29.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E034-the-stealth-games-begin/staging-v004.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-24.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-15.jpg"
+        ],
+        "transparent_background": false
+      },
+      "error": "referenced_image_paths must contain at most 5 paths; tool rejected before generation"
+    },
+    {
+      "id": "p05-stairs",
+      "arguments": {
+        "prompt": "Use case: illustration-story. Original photos 1-2 are Neet likeness authority: fine long legs, full narrow torso, smooth very short fawn coat, projecting cream muzzle, cream chest bib, large broad triangular ears, tiny near-flush nub. Photos 3-4 are Buddy likeness authority: moderately elongated full charcoal torso, connected neck, substantial legs with clear floor clearance, close smooth body coat, pale irregular muzzle beard and brows, hanging regionally furnished ears, tan chest and pale feet, slender dark tail. Visible regions only, no calibrated ratios. N35 excludes anatomy, B08 styling only, B25 unavailable, B30 supplemental rest unused; B04/B24 one exposure. No uniform shag, curls, engraved fur, extra paws or detached limbs. Natural dogs, no human hands. Human faces provisional.  Render ONE finished landscape illustration, not a collage. Scene 5 only from storyboard input5; do not import any neighboring scene objects. Input6 is BODY SURFACE FINISH only: smooth clean color planes with gentle watercolor environment, absolutely no engraved/curl/shag strokes on either torso. Do not borrow the third dog or its anatomy. Other supplied photos are seated anatomy only where applicable. PRIMARY REQUEST: Warm evening apartment stairwell landing; Buddy stands waiting on flat bottom landing looking affectionately at Neet who has just reached the SAME flat floor beside him, bodies clear and nonoverlapping, heads close with gentle shoulder bump. Stair flight visible behind and empty. Both have simple collars and loose leashes going upward out frame to unseen human. No sign, no notice, no text. Quiet friendship payoff, no hats or props. The body finish must have restrained smooth gouache washes and subtle shading, not textured fur. Buddy regional beard/brows/ears/paws retain modest furnishings. Neet's tail near flush nub, never long tail; Buddy slender low gently curved dark tail never plume/ring. Story comedy readable through gaze and posture. No text, no speech bubbles, no frame. Detailed warm apartment background. Original photos are identity authority; storyboard only staging.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-29.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E034-the-stealth-games-begin/staging-v004.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png"
+        ],
+        "transparent_background": false
+      },
+      "error": "referenced_image_paths must contain at most 5 paths; tool rejected before generation"
+    },
+    {
+      "id": "a01-diplomacy",
+      "arguments": {
+        "prompt": "Use case: illustration-story. Original photos 1-2 are Neet likeness authority: fine long legs, full narrow torso, smooth very short fawn coat, projecting cream muzzle, cream chest bib, large broad triangular ears, tiny near-flush nub. Photos 3-4 are Buddy likeness authority: moderately elongated full charcoal torso, connected neck, substantial legs with clear floor clearance, close smooth body coat, pale irregular muzzle beard and brows, hanging regionally furnished ears, tan chest and pale feet, slender dark tail. Visible regions only, no calibrated ratios. N35 excludes anatomy, B08 styling only, B25 unavailable, B30 supplemental rest unused; B04/B24 one exposure. No uniform shag, curls, engraved fur, extra paws or detached limbs. Natural dogs, no human hands. Human faces provisional.  Render ONE finished landscape illustration, not a collage. Scene 6 only from storyboard input5; do not import any neighboring scene objects. Input6 is BODY SURFACE FINISH only: smooth clean color planes with gentle watercolor environment, absolutely no engraved/curl/shag strokes on either torso. Do not borrow the third dog or its anatomy. Other supplied photos are seated anatomy only where applicable. PRIMARY REQUEST: Alternative continuity: Buddy alone at apartment lobby mailboxes executes polite sit-and-paw greeting BEFORE the rebuff. Natural dog sit supported haunches, one forepaw planted, other raised politely toward manager standing right, shown only beige coat bottom, trousers and shoes cropped at waist; manager arms crossed edge visible. Buddy hopeful small pant smile. Neet absent. No urine, no notice yet, no readable text. The body finish must have restrained smooth gouache washes and subtle shading, not textured fur. Buddy regional beard/brows/ears/paws retain modest furnishings. Neet's tail near flush nub, never long tail; Buddy slender low gently curved dark tail never plume/ring. Story comedy readable through gaze and posture. No text, no speech bubbles, no frame. Detailed warm apartment background. Original photos are identity authority; storyboard only staging.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-29.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E034-the-stealth-games-begin/staging-v004.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-24.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-15.jpg"
+        ],
+        "transparent_background": false
+      },
+      "error": "referenced_image_paths must contain at most 5 paths; tool rejected before generation"
+    },
+    {
+      "id": "a02-leaf",
+      "arguments": {
+        "prompt": "Use case: illustration-story. Original photos 1-2 are Neet likeness authority: fine long legs, full narrow torso, smooth very short fawn coat, projecting cream muzzle, cream chest bib, large broad triangular ears, tiny near-flush nub. Photos 3-4 are Buddy likeness authority: moderately elongated full charcoal torso, connected neck, substantial legs with clear floor clearance, close smooth body coat, pale irregular muzzle beard and brows, hanging regionally furnished ears, tan chest and pale feet, slender dark tail. Visible regions only, no calibrated ratios. N35 excludes anatomy, B08 styling only, B25 unavailable, B30 supplemental rest unused; B04/B24 one exposure. No uniform shag, curls, engraved fur, extra paws or detached limbs. Natural dogs, no human hands. Human faces provisional.  Render ONE finished landscape illustration, not a collage. Scene 7 only from storyboard input5; do not import any neighboring scene objects. Input6 is BODY SURFACE FINISH only: smooth clean color planes with gentle watercolor environment, absolutely no engraved/curl/shag strokes on either torso. Do not borrow the third dog or its anatomy. Other supplied photos are seated anatomy only where applicable. PRIMARY REQUEST: Separate alternative continuity with female Neet. Apartment corridor, dry crumpled brown leaf under Neet near forepaw, she freezes startled with all four feet contacting floor, looks off frame toward unseen manager. Buddy halfstep ahead turns his head back with open mouth about to call RUN, four paws grounded. Clearly separated continuous bodies and loose collar leashes trailing clear of feet toward unseen human. Nearby open apartment door is escape route; a plain notice paper attached door has faint unreadable gray lines. No hats or backpack, no primary continuity. No speech text. The body finish must have restrained smooth gouache washes and subtle shading, not textured fur. Buddy regional beard/brows/ears/paws retain modest furnishings. Neet's tail near flush nub, never long tail; Buddy slender low gently curved dark tail never plume/ring. Story comedy readable through gaze and posture. No text, no speech bubbles, no frame. Detailed warm apartment background. Original photos are identity authority; storyboard only staging.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-29.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E034-the-stealth-games-begin/staging-v003.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png"
+        ],
+        "transparent_background": false
+      },
+      "error": "referenced_image_paths must contain at most 5 paths; tool rejected before generation"
+    }
+  ],
+  "externalized_versions": [
+    {
+      "original_path": "Productions/E034-the-stealth-games-begin/staging-v002.png",
+      "archive_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S034-expanded/staging-v002.png",
+      "sha256": "ca38878c5848ddb403f071542d95524f4790e9cf7980462414eaf7120c817dcd"
+    },
+    {
+      "original_path": "Productions/E034-the-stealth-games-begin/p03-todd-art-v003.png",
+      "archive_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S034-expanded/p03-todd-art-v003.png",
+      "sha256": "2cab249bcc366c22b2753b482fb97208e2123f54f1705dc84055db5ae81df447"
+    }
+  ],
+  "selected_images": [
+    {
+      "path": "Productions/E034-the-stealth-games-begin/p01-bath-art-v003.png",
+      "sha256": "99cce0eff23831e4e46c3bbc96db441130c4b3784ef503aaf5540fa41e3317bf",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "variant": "primary",
+      "placement_after": "\u201cWe are warriors,\u201d Neet muttered. \u201cNot cuddle muffins.\u201d",
+      "alt_text": "Freshly bathed Neet and Buddy sit in towels, with the closed clippers hidden beneath Buddy.",
+      "status": "proposed_pending_independent_review"
+    },
+    {
+      "path": "Productions/E034-the-stealth-games-begin/p02-beanie-art-v003.png",
+      "sha256": "4041fd3f2bfb71b026d32b08ffa27f2ead66874cf986bd3609b0b6366df37a58",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "variant": "primary",
+      "placement_after": "\u201cYour position has a pom-pom.\u201d",
+      "alt_text": "Neet regards the spilled plant solemnly while Buddy admires his pom-pom disguise.",
+      "status": "proposed_pending_independent_review"
+    },
+    {
+      "path": "Productions/E034-the-stealth-games-begin/p03-todd-art-v004.png",
+      "sha256": "f6fff490dca37e5216115f61027b02a9b068d138164eeb3ed70c2c843bd2b772",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "variant": "primary",
+      "placement_after": "The hoodie settled between two very separate dogs.",
+      "alt_text": "The Todd disguise collapses at the doorway, exposing two startled dogs to the manager.",
+      "status": "proposed_pending_independent_review"
+    },
+    {
+      "path": "Productions/E034-the-stealth-games-begin/p04-ficus-art-v003.png",
+      "sha256": "8907ae0ec02495d43268cd1a3990c37a1c1810d13f9038d23b03a3cdfa9165c4",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "variant": "primary",
+      "placement_after": "Neet monitored it all from behind a ficus, wearing sunglasses and sipping beef broth like it was whiskey.",
+      "alt_text": "Neet shelters behind the ficus with his broth while Buddy conducts friendly public relations.",
+      "status": "proposed_pending_independent_review"
+    },
+    {
+      "path": "Productions/E034-the-stealth-games-begin/p05-stairs-art-v004.png",
+      "sha256": "e3b22eb4183074404266f24fd1036ead7690c640ad6e6f44a99fbe240bf6db21",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "variant": "primary",
+      "placement_after": "\u201cSame time tomorrow, Todd?\u201d he whispers.",
+      "alt_text": "Buddy meets Neet at the bottom of the stairs for their shared evening walk.",
+      "status": "proposed_pending_independent_review"
+    },
+    {
+      "path": "Productions/E034-the-stealth-games-begin/a01-diplomacy-art-v003.png",
+      "sha256": "cf30883c31f267089da9ed5698dcb32db97611ca95fbbef7e8b5a0c40ee2d94b",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "variant": "alternative",
+      "placement_after": "He intercepted Mr. Grubbs one afternoon near the mailboxes and executed a flawless sit-paw-smile combo.",
+      "alt_text": "In the alternative, Buddy offers the manager his best diplomatic paw beside the mailboxes.",
+      "status": "proposed_pending_independent_review"
+    },
+    {
+      "path": "Productions/E034-the-stealth-games-begin/a02-leaf-art-v004.png",
+      "sha256": "deb31f1cab5e225320392e8743a94633f21716391ad341b848d30c9bda82421c",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "variant": "alternative",
+      "placement_after": "Buddy barked: \u201cRUN!\u201d",
+      "alt_text": "In the alternative, a crunchy leaf betrays Neet as Buddy calls for escape.",
+      "status": "proposed_pending_independent_review"
+    }
+  ]
+}

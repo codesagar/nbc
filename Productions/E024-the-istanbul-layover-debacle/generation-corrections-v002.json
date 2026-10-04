@@ -1,0 +1,26 @@
+{
+  "olive4": {
+    "prompt": "STYLE TRANSFER / REQUIRED MATERIAL COAT CORRECTION. Image1 target. Image2 supplies BODY SURFACE FINISH ONLY. Make a visibly substantial local repaint: completely REMOVE ALL engraved individual hairs, curving repeated lines, fine hatch marks and curly patterns from BOTH dogs' necks, torsos, thighs and leg shafts. Replace these body areas with flat smooth gouache color planes like the tan dog's perfectly smooth torso in image2: broad tan/cream or charcoal color masses and gentle smooth shadows. The entire Neet neck/chest/body/legs must have ZERO drawn fur lines. Buddy dark torso/neck/upper legs must have ZERO fur lines. The only individual strands allowed are Buddy muzzle/beard/brows/hanging ears and small distal paw furnishings. Keep ALL anatomy, poses, proportions, four feet per dog, both faces/ears/tails, napkin with two olives on top cushion, furniture and airport exactly unchanged from image1. This is not a request for very subtle smoothing: replace the existing hair-rendering system fully on the specified body regions. Preserve regional Buddy facial identity and its furnishings. Do not import anything else from image2. No text.",
+    "referenced_image_paths": [
+      "/Users/sagar/Documents/ChatGPT/NBC/Productions/E024-the-istanbul-layover-debacle/olive-art-v003.png",
+      "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png"
+    ],
+    "transparent_background": false
+  },
+  "lounge3": {
+    "prompt": "Use case precise-object-edit. REQUIRED substantial coat rendering correction. Image1 edit target. Image2 smooth BODY FINISH ONLY calibration, no anatomy or setting transfer. Keep entire image composition/anatomy/poses/limbs/expressions/objects exactly. Completely remove ALL engraved repeated directional hair strokes and curls from Neet entire head/neck/chest/legs/tan body; paint broad smooth gouache planes matching the tan dog's body in image2, no hair lines. Also repaint Buddy charcoal torso, haunch and neck as perfectly smooth broad charcoal color planes, ZERO hatch marks or individual hairs. Keep Buddy regional moustache/beard/brows/ear furnishings and small paw tufts. Preserve his compact coherent curl, paws beneath muzzle, Neet's four fine grounded legs, nub and buffet gaze. Never change sofa, buffet, airport windows or furnishing texture. Do not shave Buddy face.",
+    "referenced_image_paths": [
+      "/Users/sagar/Documents/ChatGPT/NBC/Productions/E024-the-istanbul-layover-debacle/lounge-art-v002.png",
+      "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png"
+    ],
+    "transparent_background": false
+  },
+  "towel3": {
+    "prompt": "Use case precise-object-edit. REQUIRED substantial coat rendering correction. Image1 edit target. Image2 smooth BODY FINISH ONLY calibration, no anatomy or setting transfer. Keep entire image composition/anatomy/poses/limbs/expressions/objects exactly. Completely remove ALL engraved repeated directional hair strokes and curls from Neet entire head/neck/chest/legs/tan body; paint broad smooth gouache planes matching the tan dog's body in image2, no hair lines. Only Neet dog coat changes: face can retain minute whiskers but no cheek/chest neck hair hatch. Maintain huge broad triangular ears, projecting cream muzzle, full body hidden by towel, all four rooted legs with one forepaw beneath hanging cloth, woman's correct hand lifting fabric, white terry towel, her floral clothes and closed shower door. All human/cloth/background surfaces unchanged. Body-coat finish must visibly change from the fine fur strokes to smooth paint planes.",
+    "referenced_image_paths": [
+      "/Users/sagar/Documents/ChatGPT/NBC/Productions/E024-the-istanbul-layover-debacle/towel-art-v002.png",
+      "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png"
+    ],
+    "transparent_background": false
+  }
+}

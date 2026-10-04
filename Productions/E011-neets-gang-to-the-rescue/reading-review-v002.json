@@ -1,0 +1,70 @@
+{
+  "story_id": "S011",
+  "reviewer": "fresh complete-reading reviewer /root/coordinate009_016/reading011",
+  "review_date": "2026-10-04",
+  "status": "accepted",
+  "approval": "unapproved",
+  "publication": "not_published",
+  "story": {
+    "path": "Stories/S011-neets-gang-to-the-rescue.md",
+    "sha256": "f58e4a4a82fa9b4f66bdc26b40f27429fc636a9454b813b8bcf399a2a3063869"
+  },
+  "images": [
+    {
+      "path": "Productions/E011-neets-gang-to-the-rescue/bananas-art-v002.png",
+      "sha256": "4beabc11025a147d9c18e39d098572c673a5907ab1d8d22f5095fd37e9432338"
+    },
+    {
+      "path": "Productions/E011-neets-gang-to-the-rescue/comfort-art-v003.png",
+      "sha256": "dcef6ac617f44c29872971f0bd51b8e19a1ce3a5d59210c32cdadab3fadccbde"
+    },
+    {
+      "path": "Productions/E011-neets-gang-to-the-rescue/illustration-v002.png",
+      "sha256": "9b98bf67a992b4129ef5617c54fb371a01594babb02832fa7d78ebebbe33febb"
+    }
+  ],
+  "method": {
+    "url": "http://127.0.0.1:56824/Stories/S011-neets-gang-to-the-rescue.md",
+    "actual_rendered_inspection": "Read the entire local rendered page using Codex in-app browser, sequential overlapping viewport screenshots from title through both final provenance source pins. Read full accessibility text and checked all three actual embedded illustrations in sequence. No prose or artwork changes.",
+    "viewport_pixels": [
+      1280,
+      720
+    ],
+    "rendered_image_sizes": [
+      [
+        960,
+        640
+      ],
+      [
+        960,
+        640
+      ],
+      [
+        960,
+        720
+      ]
+    ],
+    "scope": "Complete primary, refinement record and provenance. No meaningful alternative is present; comedy-pass-v002 records both historical sources as narratively identical apart from acquisition heading.",
+    "independent_visual_record": {
+      "path": "Productions/E011-neets-gang-to-the-rescue/visual-review-v002.json",
+      "sha256": "eb9a21b36fe947a1af41846a39a0bba62b6fb45db12c2f65dfedcc524ce21a34"
+    }
+  },
+  "observations": {
+    "comedy_and_voices": "Buddy carefully fitting his hollow creates a quiet want before Neet immediately mobilizes. Neet demanding an answer from the empty post gives his competence an affectionate excess. Heather cuts through the ceremony with practical banana reassurance and the vegetable-at-door instruction. Shadow supplies the cabbage observation; Buddy converts flair into a practical question. Distinct voices remain clear.",
+    "cause_effect_and_payoff": "Cry causes rescue; separate monkey defenses cause retreat. Buddy actively redirects from pursuit to the unattended seller, stops one tomato and chooses comfort. Rewards follow rescue; Neet standing on cabbages motivates the leaf on his foot. Returning for the stick closes Buddy’s opening location and the stubborn leaf turns command into domestic comedy. The seller head-rub pays off his earlier decision without a joke overriding it.",
+    "image_placement": [
+      "Bananas image follows the final bark, after monkey departure: fallen fruit, empty post and Neet upward gaze agree exactly. The still solemn vigilance extends the comic pause.",
+      "Comfort image follows Buddy returning to the hand after nudging one tomato: seated smiling seller, hand contact, scattered tomatoes and tomato by her crate support the quiet counterpoint. No reward basket prematurely appears.",
+      "Reward image follows Shadow noticing cabbage, before Neet’s flair answer and dignified step. Leaf wraps the grounded paw, basket and Buddy biscuit belong to the reward state. The image forms an intentional visual pause between complete attributed dialogue paragraphs; attribution is not split and the later doorway payoff remains unspoiled."
+    ],
+    "complementary_contribution": "Three distinct functions: comic solitary vigilance, intimate chosen kindness, and shared physical callback. Setting and evening market continuity hold. Focused framing can omit Shadow, Chikki and Heather without removing them from the scene. The closing prose receives clear space after the last picture.",
+    "readability": "Readable centered prose with larger illustrations, all images loaded. Inspected full image extents over overlapping scrolls. No clipped text, missing illustration or prose/image ordering defect observed.",
+    "closed_findings": "Current story and all image hashes match the accepted independent visual review, whose material findings are empty. At reading size the selected images show smooth torso finish and distinct dogs. No new material issue found. This reading does not substitute for independent full-resolution visual review or owner approval."
+  },
+  "material_findings": [],
+  "open_findings": [],
+  "nonblocking_notes": [
+    "The dated refinement note still says expanded art awaits independent review. It accurately records the drafting stage but is now superseded by visual-review-v002 and this reading record; coordinator should represent current status in episode/master integration."
+  ]
+}

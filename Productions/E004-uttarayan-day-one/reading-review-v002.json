@@ -1,0 +1,92 @@
+{
+  "story_id": "S004",
+  "version": "v002",
+  "reviewer": "fresh complete-reading reviewer /root/reading004",
+  "reviewed_at_utc": "2026-10-04T04:51:38.239180+00:00",
+  "status": "accepted",
+  "story": {
+    "path": "Stories/S004-uttarayan-day-one.md",
+    "sha256": "d2c2f36db62efca3f6b62b71f4de18f5225adcaa2e2b0c1ec98d3ac19dd3b4f6"
+  },
+  "images": [
+    {
+      "path": "Productions/E004-uttarayan-day-one/sunbeam-art-v002.png",
+      "sha256": "ff75c8e6cccf4f16c8382b33829e49309b105997e29eb7190a5360e441636b6a"
+    },
+    {
+      "path": "Productions/E004-uttarayan-day-one/illustration-v008.png",
+      "sha256": "1e791fcdfeaff76b30ac038e6f2a5e5eff529b557f10679d8a6a74ba9a9d1d6a"
+    },
+    {
+      "path": "Productions/E004-uttarayan-day-one/cheer-art-v002.png",
+      "sha256": "b57683acd58c6ae161c0e54dfd460802ee70d4a512dac71efbf041eac33c6012"
+    }
+  ],
+  "method": {
+    "url": "http://127.0.0.1:56824/Stories/S004-uttarayan-day-one.md",
+    "actual_inspection": "Read full current Markdown and comedy/visual review records, then scrolled the complete rendered page from title through final provenance with overlapping browser screenshots. All three embedded images examined in sequence and in complete image views at intended reader size. Read full pre-refinement story from its pinned archive member for incident comparison.",
+    "viewport_px": [
+      1280,
+      720
+    ],
+    "rendered_image_width_px": 960,
+    "screenshots_inspected": 16,
+    "coverage": "Entire primary, all three pictures, ending and editorial/provenance notes. No meaningful alternative exists in this story.",
+    "limits": "Reading review, not a replacement native-resolution photographic anatomy audit; relies on separately completed visual review for that scope."
+  },
+  "guidance_read": [
+    "README.md",
+    "AGENTS.md",
+    "Productions/Library-Refinement/agent-assignment.md",
+    "Productions/Library-Refinement/expanded-commission.txt",
+    "Studio/Open-Questions.md",
+    "Studio/Writing.md",
+    "Studio/Production.md",
+    "Characters/Neet/README.md",
+    "Characters/Buddy/README.md"
+  ],
+  "comparison_source": {
+    "archive": "/Users/sagar/Documents/ChatGPT/NBC_Archives/NBC-before-refinement-2026-10-03_200659.tar.gz",
+    "member": "NBC/Stories/S004-uttarayan-day-one.md",
+    "sha256": "8410dffbecbe133ab7c878790c4dae93a1da74aebc5663e9c17c592d25bc596f"
+  },
+  "observations": {
+    "preserved_incidents": "Ahmedabad arrival, Meera terrace, scarf/no-biting warning, spool concealment, hopping coaching, falling kite and paper attack, Heather cutting the dominant golden kite, Neet victory claim and sunset food/leaning close remain. No competing version is merged and Sagar is not inserted into this historical household.",
+    "humor_and_timing": "Moving hiding-place gag gives Buddy an immediate physical error. Heather run-out-of-dog reply lands directly after higher hopping. The large peaceful sunbeam picture makes the immediately following intrusion funnier. Got it / Some of it stays brief and follows the visible bite. Trophy removal gently punctures Neet triumph without cruelty.",
+    "voices": "Neet claims aerial command and floor-level glory; Buddy notices practical inconveniences and speaks economically. Heather combines skilled spool work with affectionate restraint; Meera specifically notices Buddy unexpected participation. Dog dialogue remains distinct from human reactions.",
+    "buddy_agency": "Buddy chooses and checks his patch, loses it, physically pushes the kite away to recover it, then voluntarily leaves that comfort to cheer. His second bark is a chosen small reversal rather than another passive reaction.",
+    "causality_and_payoff": "Paper remains connected during the tug image, detaches in the following prose, is taken by Heather, and the remaining kite is moved by Buddy. Heather causes the aerial win. Buddy joining the cheer earns shared excitement; later both dogs obtain uncontentious space beside Heather. Sunbeam-with-roof closes his own problem and lets the warm scene breathe.",
+    "complementary_images": "Wide quiet setup, close physical predicament, then low joyful shared celebration supply distinct functions. The pictures vary framing and action; none repeats a portrait. The sunset ending remains uninterrupted.",
+    "finish_continuity": "v008 uses visibly flatter coat paint than the flanking watercolor pictures, but the same recognizable dogs, scarf, warm tiled terrace, planting and skyline make the sequence coherent at reading size. No material reading confusion or new texture regression observed."
+  },
+  "placement_checks": [
+    {
+      "image": "Productions/E004-uttarayan-day-one/sunbeam-art-v002.png",
+      "anchor": "After Perfect, before the stray kite arrives.",
+      "result": "Correct: Buddy checks empty sunny tiles, Neet surveys sky; no fallen kite spoils interruption."
+    },
+    {
+      "image": "Productions/E004-uttarayan-day-one/illustration-v008.png",
+      "anchor": "After Heather warns while Neet tugs, before he lifts the detached corner.",
+      "result": "Correct: mouth grips rising paper connected to the kite and forepaws brace it. Buddy watches from behind; no premature hand removal."
+    },
+    {
+      "image": "Productions/E004-uttarayan-day-one/cheer-art-v002.png",
+      "anchor": "After Just once more, before Neet starts strutting.",
+      "result": "Correct: both mouths open in shared cheer, golden kite loose above parapet; Neet still planted rather than strutting. Hand-held spool thread and golden kite loose filament remain separate."
+    }
+  ],
+  "closed_findings": [
+    {
+      "id": "S004-V002-COAT-01",
+      "status": "closed",
+      "evidence": "Visual review pins v008 and reports actual native-resolution reinspection; rendered story loads that exact replacement. At reading size the broad coats are smooth color planes, without the engraved loops described in the rejected v007."
+    }
+  ],
+  "material_findings_open": [],
+  "integration_notes": [
+    "comedy-pass-v002.json still records the previous story hash and illustration-v007 in selected_images; the current story embeds v008 and current visual review pins v008. Root should reconcile production metadata without changing accepted story/art bytes. Historical in-progress refinement wording is not treated as a current acceptance assertion."
+  ],
+  "approval": "unapproved",
+  "publication": "not_published"
+}

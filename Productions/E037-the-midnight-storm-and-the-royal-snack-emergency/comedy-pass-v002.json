@@ -1,0 +1,79 @@
+{
+  "episode": "E037-the-midnight-storm-and-the-royal-snack-emergency",
+  "date": "2026-10-04",
+  "status": "second_comedy_pass_complete_pending_independent_review",
+  "sources": [
+    {
+      "path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/E037-expanded/S037-the-midnight-storm-and-the-royal-snack-emergency.md",
+      "sha256": "ea0bfc351e5d425a33163e3a20ad262a7a678bf27db2aa313203db3fba353fe5",
+      "read_complete": true
+    },
+    {
+      "path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/s037-original-expanded.txt",
+      "sha256": "51ff6771a56c885d9188025ff02ffeff86489def4e7217f8a8ea343c03816816",
+      "read_complete": true
+    },
+    {
+      "path": "/Users/sagar/Documents/ChatGPT/NBC/Stories/S035-the-great-fire-noodles-chiku-shake-meltdown.md",
+      "sha256": "3efbf14799024db4a91261f2813535bae6642943813eac4a8607b0d46060767f",
+      "read_complete": true
+    },
+    {
+      "path": "/Users/sagar/Documents/ChatGPT/NBC/Stories/S036-the-royal-house-hunt-and-the-negotiation-of-dreams.md",
+      "sha256": "8491923cd668f262fe6667c982c05909ae906ab2ac86a085ce168cefdc2cb1ee",
+      "read_complete": true
+    }
+  ],
+  "current_story": {
+    "path": "Stories/S037-the-midnight-storm-and-the-royal-snack-emergency.md",
+    "sha256": "50aaaa103a6a1b8a23a1992296c88411dfa583b6790118a2fda483b312c11a60"
+  },
+  "central_comic_situation": "A storm sends both dogs searching for safety while Sagar treats the midnight disturbance as a snack opportunity. Shelter and appetite collide.",
+  "intended_feeling": "Happy affectionate panic settling into safety through ordinary company, with a physical-comedy payoff.",
+  "wants": {
+    "Neet": "Silence, contact with Sagar, and dignity despite frightened retreat.",
+    "Buddy": "Shelter without missing cheese, followed by a secure landing place.",
+    "Sagar": "Warm milk and dates while keeping everyone settled.",
+    "Heather": "Sleep, then company and shared amusement."
+  },
+  "preserved_incidents": [
+    "Interrupted insomnia recovery; dogs under bedding; warm milk and dates; bring cheese/bring silence exchange.",
+    "King of Midnight robe; following paws; cabinet attempt; Buddy chair jump; toppled recycling bin; presence-of-snacks line; cereal-box cover.",
+    "Star blanket, thunder vest, Chill Bunker cushion, silver tray; car alarms, Neet arm-cling, Buddy yowl; cheese and rejected date.",
+    "Buddy rear in date bowl, retrieved date set aside, Heather snort and midnight-delivery joke; squeak bark; chili-paneer callback.",
+    "Rain quiets; Buddy in Heather arms; Neet on Sagar legs/feet; sleep restored; tea and affectionate morning."
+  ],
+  "actual_changes": [
+    "Replace generic distant-thunder aside with Neet delegating first shift to sleeping Buddy.",
+    "Physical obstruction of Sagar knees and kitchen three-step footwork sharpen action rather than add catchphrases.",
+    "Bottle makes new noise after bin falls; Buddy refuses to concede chair height unnecessarily.",
+    "Blanket cheese pursuit gives Buddy a clear independent choice.",
+    "Bowl-checking develops from immediate tested landing to morning callback; squeak interpreted as warning followed by receding thunder.",
+    "Clarify cereal box at chair-side counter and tray moved down before bowl accident."
+  ],
+  "ending": "Warm thanks and touch remain; Buddy checks below himself before breakfast, a small learned consequence without loss of affection.",
+  "variant_decision": {
+    "meaningful_alternatives": 0,
+    "action": "No competing in-file alternative or alternative source is listed; no scene blending."
+  },
+  "complete_reread_comparison": {
+    "complete_primary_reread": true,
+    "compared_previous_working_and_original_in_full": true,
+    "lost_incidents": "None of the distinctive source incidents removed. Prior working changes to grandiose safety claims and retrieved-date handling retained.",
+    "voices": "Neet theatrical but scared, Buddy independently practical yet ridiculous, Sagar understated snack ritual, Heather exhausted and amused. Third-person voice and four-member new-house setting preserved.",
+    "pacing": "Seven sections retained; added short actions/pauses and callback, not a second subplot. Quiet return-to-slumber stays uninterrupted by a picture.",
+    "historical_choices": "Chapter 10, canon/chronology uncertainty and proper-name normalization preserved; literal impossible ear angle remains comic prose, not anatomy instruction.",
+    "image_assessment": "Five distinct moments warranted by seven-part progression: shelter, kitchen consequence, blanket snack pursuit, bowl payoff, morning callback. No picture interrupts dialogue attribution or precedes reveal.",
+    "independent_reading": "Pending; generator prose reread does not replace rendered complete-reading review."
+  },
+  "approval": {
+    "state": "unapproved",
+    "by": null,
+    "date": null,
+    "evidence": null
+  },
+  "publication": {
+    "state": "not_published",
+    "destination": null
+  }
+}

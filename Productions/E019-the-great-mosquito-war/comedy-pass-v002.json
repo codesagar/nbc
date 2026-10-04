@@ -1,0 +1,78 @@
+{
+  "story_id": "S019",
+  "status": "writer_pass_complete_pending_independent_review",
+  "previous_working": {
+    "path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S019-v002/story-before-v002.md",
+    "sha256": "bf410ce9e4525f196350d170f95ef9d5d373945a6565d403d71d1860739eadce"
+  },
+  "sources": [
+    {
+      "path": "02_Story_Library/Legacy_Chapters/20-the-great-mosquito-war.md",
+      "sha256": "ea8024da93aa1e68e8355f349c0fd57c3143c264605de22e694f3ac3b3c29552"
+    },
+    {
+      "path": "90_Archive/2026-10-03-elevenlabs-recovery/Raw_Exports/reader-51.txt",
+      "sha256": "b1c589b8d4cd7f8e540662cb11903dfc08dca3e0910d4816899b423a19981b1b"
+    }
+  ],
+  "connected_read": [
+    "S018 complete current edition",
+    "S020 complete current edition"
+  ],
+  "central_comic_situation": "Domestic mosquito nuisance interpreted as a grand military emergency; warm relief beneath disproportionate drama.",
+  "wants": {
+    "Neet": "Personally defend home and get credit.",
+    "Buddy": "Keep his nose unbitten and enjoy peace under a blanket.",
+    "collision": "Neet demands combat while Buddy invents a practical retreat that eventually accommodates both."
+  },
+  "preserved": [
+    "nose landing and scream",
+    "lightning powers",
+    "one hundred empty bites",
+    "too pretty to be bitten",
+    "dead battery",
+    "spray misfire followed by care",
+    "miss/miss/sneeze",
+    "accidental fan victory",
+    "air support",
+    "mosquito-net line"
+  ],
+  "changes": [
+    "Buddy protests that mosquito cheated at stillness",
+    "blanket paw-retrieval physical beat",
+    "silent failed button retry",
+    "Buddy moves shelter beneath fan; Neet accepts under inspection pretext"
+  ],
+  "ending": "Heather promises net; shared refuge earns warmth without relinquishing Neet theatrical dignity.",
+  "alternatives": {
+    "decision": "No separate meaningful alternative",
+    "reason": "Read both full archived texts; Reader repeats legacy incidents and ending, with formatting differences only. No variant conflation."
+  },
+  "complete_reread_comparison": {
+    "done": true,
+    "previous_working": "All original action retained; additional compact pauses and callback. Immediate care and charging interval from prior pass remain.",
+    "originals": "Historical Heather-and-dogs household preserved; no Sagar added; source narrative fan outcome retained as comic fiction. No breed, weight, chronology or canon resolved.",
+    "voice": "Neet retains dramatic military urgency, Buddy independently chooses shelter and final location, Heather participates through failed hardware and net promise.",
+    "loss_check": "No distinctive source incident removed. Prior air-support reduction retained rather than resurrecting victory speech.",
+    "illustrated_state_check": "Full final Markdown reread: nose after scream, showdown before attacks, shared refuge after Neet enters. No split attribution. Original fan outcome and mosquito net remain."
+  },
+  "illustration_plan": [
+    {
+      "file": "nose-art-v003.png",
+      "anchor": "Buddy screamed.",
+      "purpose": "The failed stillness reversal, close acting and full standing anatomy."
+    },
+    {
+      "file": "illustration-v002.png",
+      "anchor": "After a pause to charge the racket, Heather returned beneath the light. Neet crouched low, preparing to pounce. Buddy drew the blanket around himself again, leaving the corner open for Neet.",
+      "purpose": "Retained battle/refuge contrast; pending new review including smooth coat concern."
+    },
+    {
+      "file": "shelter-art-v003.png",
+      "anchor": "Buddy lifted the corner. This time, Neet went in.",
+      "purpose": "Warm closing callback, new shared shelter state."
+    }
+  ],
+  "image_count_rationale": "Three distinct states: failed defense, showdown, shared resolution. More would crowd this short story.",
+  "final_story_sha256": "741ee24f213310248abee2e577a95c193e29110b40844734bbfef7a7d4f15a69"
+}

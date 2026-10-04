@@ -1,0 +1,98 @@
+{
+  "episode": "E037-the-midnight-storm-and-the-royal-snack-emergency",
+  "date": "2026-10-04",
+  "reviewer": "fresh reader037; did not write prose, generate art, or conduct the independent visual review",
+  "status": "accepted",
+  "story": {
+    "path": "Stories/S037-the-midnight-storm-and-the-royal-snack-emergency.md",
+    "sha256": "50aaaa103a6a1b8a23a1992296c88411dfa583b6790118a2fda483b312c11a60"
+  },
+  "images": [
+    {
+      "path": "Productions/E037-the-midnight-storm-and-the-royal-snack-emergency/p01-bedroom-art-v001.png",
+      "sha256": "a54503df9a0a15ee46e25f0ea24de5337a80145c1ca5558852071a8f36d3465f",
+      "status": "accepted",
+      "reading_size_inspected": true,
+      "placement_and_contribution": "After Neet refuses to release Sagar knees, two anxious heads sheltered by duvet and pillow hold the bedroom pause; no later snack props reveal the kitchen development."
+    },
+    {
+      "path": "Productions/E037-the-midnight-storm-and-the-royal-snack-emergency/p02-kitchen-art-v003.png",
+      "sha256": "2a8b0c0be8a690e061306fc89e35cc65459cad196c83688730f31dcd49fafb8e",
+      "status": "accepted",
+      "reading_size_inspected": true,
+      "placement_and_contribution": "After chair landing, bin fall and rolling bottle, Buddy maintains the high position while Neet recoils on the floor. Rain, robe, milk and dates fit this kitchen instant before the cereal-box peek."
+    },
+    {
+      "path": "Productions/E037-the-midnight-storm-and-the-royal-snack-emergency/p03-blanket-art-v002.png",
+      "sha256": "ca995268061ef54fc6de3080da1ccd1fdd10467b0e8afb7bc04f69fbdb5a56a1",
+      "status": "accepted",
+      "reading_size_inspected": true,
+      "placement_and_contribution": "After the cheese changes hands, Buddy emerges toward the offered cheese while Neet sits between Sagar ankles watching the window. Tray remains on table, consistent with its later move down in section V."
+    },
+    {
+      "path": "Productions/E037-the-midnight-storm-and-the-royal-snack-emergency/p04-bowl-art-v003.png",
+      "sha256": "cad9e16da45acbd60ee3da4ba072d5965199ca47d443c624d912ec2a169307ec",
+      "status": "accepted",
+      "reading_size_inspected": true,
+      "placement_and_contribution": "Immediately after the misjudged leap, Buddy sits rear-first in the date bowl with forepaws outside, while Neet surveys him. This precedes Sagar lifting the bowl clear, preserving the gag and the exact object state."
+    },
+    {
+      "path": "Productions/E037-the-midnight-storm-and-the-royal-snack-emergency/p05-morning-art-v003.png",
+      "sha256": "f35e836d37dc42d408483a3060fb57e18de5201cb4f099ab7429c714044a3ee3",
+      "status": "accepted",
+      "reading_size_inspected": true,
+      "placement_and_contribution": "After the morning landing-check sentence, Buddy is still standing and inspecting the clear blanket while Neet watches the incoming metal breakfast bowl. Distant porcelain date bowl and daylight make the callback legible; this depicts the check before sitting."
+    }
+  ],
+  "inspection": {
+    "method": "Actual sequential rendered browser reading using cua_repl, screenshots at normal 1280x720 viewport with overlapping vertical scrolls; no zoom override. Complete text read from opening through final refinement record. All five images inspected across their full height in the rendered page; DOM text supplemented but did not replace screenshot inspection.",
+    "url": "http://127.0.0.1:56824/Stories/S037-the-midnight-storm-and-the-royal-snack-emergency.md",
+    "viewport": [
+      1280,
+      720
+    ],
+    "layout": "Centered approximately 760px text column and 960px illustrations on warm light background. Large serif body text remained readable; no clipping, missing images or broken dialogue attribution observed.",
+    "coverage": [
+      "Title and section I calm/setup",
+      "Section II complete storm dialogue and bedroom image",
+      "Section III complete kitchen action, image and following dialogue",
+      "Section IV full supplies list, blanket image, car alarms and comfort/snack list",
+      "Section V complete accident, bowl image, recovery, squeak-warning and chili-paneer callback",
+      "Section VI entire uninterrupted return to slumber",
+      "Section VII entire morning ending, fifth image and chronicles line",
+      "Complete provenance, historical source pin and refinement record at page bottom"
+    ],
+    "complete_primary_read": true,
+    "meaningful_alternatives": {
+      "count": 0,
+      "assessment": "No meaningful alternative present in rendered story or listed in comedy/generation decisions; no variant-specific illustration required."
+    }
+  },
+  "creative_observations": {
+    "humor_and_timing": "Neet delegating first sky shift to asleep Buddy prepares his immediate retreat. Bring cheese/bring silence creates a compact collision of appetite and safety. Three careful kitchen steps with no progress, Buddy refusing to concede the floor, and the moving cheese-nose give distinct physical beats rather than interchangeable banter. The date bowl is the largest mishap; a tested landing and then morning check develop a consequence. Buddy squeak followed by the farther rumble is given a pause, allowing his claimed warning to land.",
+    "voices_and_agency": "Neet remains theatrical but frightened, then resumes courage from safety. Buddy acts on his own wants: cheese pursuit, chair refuge, attempted lap jump and learned bowl check. Sagar calm snack ritual contrasts with Heather exhausted amusement and practical reassurance. All four participate without reducing Buddy to commentary.",
+    "cause_effect_pacing": "Storm interrupts anticipated sleep, dogs follow Sagar for comfort and food, kitchen misadventures lead to the blanket retreat, tray/bowl repositioning enables the accident, reassurance and receding thunder allow sleep. Seven sections retain that chain, and illustrations occur after completed action or dialogue blocks.",
+    "emotional_payoff": "Heather reassuring both dogs and Buddy leaning against her ground the comedy in safety. Section VI has uninterrupted breathing room, and morning thanks and touch earn the affectionate ending before Buddy small visual callback.",
+    "complementary_images": "Five images cover sheltered close-up, elevated kitchen predicament, hidden cheese pursuit, bowl payoff, and quiet daylight learning. Viewpoints and exposed/covered poses vary; none is merely a repeated portrait."
+  },
+  "closed_findings_check": {
+    "visual_review": {
+      "path": "Productions/E037-the-midnight-storm-and-the-royal-snack-emergency/visual-review-v002.json",
+      "sha256": "486da937f5546301c6e536608f04ad46f9748f6e112038307182d3e4ad2e128e"
+    },
+    "visual_review_status": "accepted",
+    "all_five_current_hashes_match_accepted_visual_review": true,
+    "material_findings_in_visual_review": [],
+    "observed_resolutions": "Smooth planar torso finish is visible on kitchen, bowl and morning art; dark tapering Buddy tails visible in kitchen/morning. Blanket cheese hand belongs to seated Sagar; tray/bowl continuity and distinct morning food bowl remain readable. No material finding reopened at reading size.",
+    "administrative_note": "Dated refinement text and generation record retain pending wording from creation; current visual/reading records establish completed review stages for coordinator integration. This historical stage wording does not alter story or image acceptance."
+  },
+  "material_findings": [],
+  "open_findings": [],
+  "limitations": "Reading acceptance for these exact files and intended rendered size; does not establish photographic anatomy independently, owner canon, style adoption, human likeness approval or publication. Independent full-resolution visual review remains its separate record.",
+  "approval": {
+    "state": "unapproved"
+  },
+  "publication": {
+    "state": "not_published"
+  }
+}

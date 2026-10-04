@@ -1,0 +1,115 @@
+{
+  "episode": "E060",
+  "finding_id": "S060-V002-01",
+  "status": "corrected_pending_independent_reinspection",
+  "review": "Productions/E060-the-barkgpt-protocol/visual-review-v002.json",
+  "tool": "image_gen.imagegen",
+  "arguments": {
+    "prompt": "Use case precise-object-edit. LOCAL anatomical correction in image1 only: Neet is the tan dog on the floor lower left. At far left of Neet's haunch around x123-163 y780-860 on the 1448x1086 canvas, DELETE the hanging tapered tan tail appendage. Replace it with smooth rug/background and continuous round haunch silhouette, with ONLY an extremely tiny near-flush nub at tail root, or conceal nub completely behind haunch. Original photo image2 N19 shows true tiny near-flush nub, NOT a short hanging tail. DO NOT touch Buddy's dark tail on couch. Preserve every other pixel relationship: both dogs exact poses, connected spine/neck/pelvis, paws/legs and support, faces/ears/gaze, Heather hand/feet/clothes, couch, rug, rain, lamp and composition. Preserve the accepted smooth short body coat painting, no new hair texture, no curls, etching, shag or tufts. Buddy regional muzzle/brows/ears remain furnished. This is a tiny local tail correction, not restyling. Photo2 is N19 original anatomy authority for visible tail only, uncalibrated no measurements; N35 excludes anatomy, B08 styling only unused, B25 unavailable, B30 supplemental rest unused. Human appearance/style provisional. No lettering.",
+    "referenced_image_paths": [
+      "/Users/sagar/Documents/ChatGPT/NBC/Productions/E060-the-barkgpt-protocol/storm-comfort-v003.png",
+      "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg"
+    ],
+    "transparent_background": false
+  },
+  "inputs": [
+    {
+      "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E060-the-barkgpt-protocol/storm-comfort-v003.png",
+      "sha256": "c4a702febeaff7934c9a51ededb7adc3578e84ae1c95ba5c2fb7c1ead35fee3b",
+      "role": "local edit target"
+    },
+    {
+      "id": "N19",
+      "character": "Neet",
+      "path": "Characters/Neet/Photos/neet-19.jpeg",
+      "filename": "neet-19.jpeg",
+      "sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+      "archived_source_path": "03_Asset_Library/Characters/Neet/neet-19.jpeg",
+      "same_exposure_group": null,
+      "use": "Primary body-level side standing and tail nub",
+      "approval_status": "unknown",
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "styling",
+          "standing_pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Primary standing body proportions, paws, hocks and stub silhouette; head is not a pure profile.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Head rotated; far limbs overlap; uncalibrated camera offers no measurements; room light subdued"
+        ],
+        "inspection_sha256": "b2c6db0a5af6a885d993cbd986cc2759b9461e693fbcabd8aa96bce1eb5ea901",
+        "source_sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N19.json"
+      },
+      "source_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose",
+          "resting_pose",
+          "styling"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Primary standing body proportions, paws, hocks and stub silhouette; head is not a pure profile.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state."
+        ],
+        "evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md"
+      },
+      "source_observation": {
+        "date": "2026-10-03",
+        "pose_view_camera": "Standing left-facing side with head toward camera; near body-level",
+        "visible_features": "Tiny short tan rump nub; near-square qualitative standing impression; long slender legs; full ribcage/thigh; moderate ventral rise; smooth short coat",
+        "limitations": "Head rotated; far limbs overlap; uncalibrated camera offers no measurements; room light subdued",
+        "recommended_uses": [
+          "standing_pose",
+          "visible_anatomy",
+          "styling"
+        ],
+        "full_restrictions": [
+          "Primary standing body proportions, paws, hocks and stub silhouette; head is not a pure profile.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Head rotated; far limbs overlap; uncalibrated camera offers no measurements; room light subdued"
+        ]
+      },
+      "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N19.json",
+      "inspection_sha256": "b2c6db0a5af6a885d993cbd986cc2759b9461e693fbcabd8aa96bce1eb5ea901",
+      "role": "original visible tiny nub anatomy authority"
+    }
+  ],
+  "output": {
+    "path": "Productions/E060-the-barkgpt-protocol/storm-comfort-v004.png",
+    "sha256": "2d833aa77f19c7ab54e3f50d43d91511cea2c5c2bc55fdfd2dc076c250be945b",
+    "dimensions": [
+      1448,
+      1086
+    ],
+    "format": "PNG",
+    "source_output_path": "/Users/sagar/.codex/generated_images/01a10773-34d3-7cc3-9d87-0eeb4dd21b47/exec-71f96109-5ec6-414d-92f7-661b48edad46.png"
+  },
+  "model": "unknown",
+  "seed": "unknown",
+  "superseded": {
+    "original_path": "Productions/E060-the-barkgpt-protocol/storm-comfort-v003.png",
+    "recovered_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/expanded-S060-storm-tail-correction-20261004/storm-comfort-v003.png",
+    "sha256": "c4a702febeaff7934c9a51ededb7adc3578e84ae1c95ba5c2fb7c1ead35fee3b"
+  },
+  "artist_whole_output_inspection": [
+    "Opened complete actual 1448x1086 replacement. Hanging tapered tail removed; tiny near-flush bump now behind left haunch.",
+    "Connected Neet torso/neck/haunch, extended owned forepaws and tucked rear leg remain supported on rug.",
+    "Buddy stays supported beside Heather on couch with connected head/neck/body/paws, local furnished face and short torso coat retained.",
+    "No visible material regression in human hand/feet, scene, lighting or short smooth coat silhouette. Independent judgment pending."
+  ],
+  "approval": "unapproved",
+  "publication": "not_published"
+}

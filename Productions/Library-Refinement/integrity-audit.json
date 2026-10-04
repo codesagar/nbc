@@ -1,0 +1,42 @@
+{
+  "stage": "source_and_frozen_export_integrity_verified",
+  "provenance_counts": {
+    "generation_documents": 223,
+    "path_hash_checks": 5994,
+    "current_exact": 5145,
+    "recorded_recovery": 849,
+    "calls": 803,
+    "argument_inputs": 3060,
+    "policy_checks": 1922,
+    "selected_generation_links": 241
+  },
+  "provenance_errors": [],
+  "cache_only_sources": [],
+  "provenance_full_report": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/root-provenance-001-070-final.json",
+  "failed_requests_preserved": 11,
+  "distinct_log_classification": "Exact duplicate request logs and three explicitly unexecuted preliminary plans are retained separately from actual pinned calls.",
+  "expected_change_counts": {
+    "added": 904,
+    "changed": 148,
+    "removed_to_verified_recovery": 111,
+    "protected_unchanged": 43
+  },
+  "change_inspection": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/final-source-change-inspection.json",
+  "links_and_photo_policies": "pass",
+  "utility_fixtures": "6 tests pass; tool unchanged",
+  "original_archive": "archive-check passes;6049 manifest entries",
+  "expanded_recovery_archive": "SHA-256 unchanged from verified snapshot",
+  "limits": "File integrity does not establish humor, visual quality, owner adoption or publication authority.",
+  "frozen_delivery": {
+    "manifest": "Productions/Library-Refinement/delivery-v001/manifest.json",
+    "archive_files_verified": 1391,
+    "export_review_record": "Productions/Library-Refinement/delivery-v001/export-review.json",
+    "all70_body_text_matches": true,
+    "unique_images": 241,
+    "image_instances": 246,
+    "desktop_screenshots_sampled": 15,
+    "material_export_findings_open": 0,
+    "disclosed_external_recovery_anchors": 35
+  },
+  "final_accounting_result": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/final-workspace-verification.json"
+}

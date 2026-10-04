@@ -1,0 +1,63 @@
+{
+  "story": "S055",
+  "status": "author_proposal_pending_independent_reviews",
+  "sources": [
+    {
+      "path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S055-expanded/previous-working.md",
+      "sha256": "908f74243c3e37c51f3ed666826c2ad7e572b301fbf1e8ffa9ad044e802a639f",
+      "bytes": 5924
+    },
+    {
+      "path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S055-expanded/original.txt",
+      "sha256": "1b3da9c6abd4621cbbe23300911730a7e0c5de7b4466916cbe76b2f21f162b28",
+      "bytes": 8991
+    },
+    {
+      "path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S055-expanded/connected-S054-read.md",
+      "sha256": "bd0f20974ac86c3e84166c86dc329c14d4f47c67b906c3fb47e9da26c1b96ccd",
+      "bytes": 6801
+    }
+  ],
+  "connected_read": {
+    "path": "Stories/S054-the-visarjan-protocol.md",
+    "sha256": "bd0f20974ac86c3e84166c86dc329c14d4f47c67b906c3fb47e9da26c1b96ccd",
+    "bytes": 6801
+  },
+  "snapshot": {
+    "path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S055-expanded/before-writer.tar.gz",
+    "sha256": "7a8e08ee0c86f7e44dc7aa614e4e49a849e42f70890e8c92f78908515b7f58d1",
+    "bytes": 9592146
+  },
+  "snapshot_verification": "All eight pre-change story/episode files re-read from tar and compared byte-for-byte before edits. Shared collection snapshot remains immutable.",
+  "central_situation": "The beloved festival guest has gone, yet the dogs discover his continuing guidance in every ordinary temptation. Buddy wants companionship and snacks; Neet wants composure and authority. Their sincere learning and self-serving interpretations supply affectionate comedy.",
+  "preserved": [
+    "Patel household, completed immersion, empty shrine, dried marigolds, folded crimson cloth and unlit lamp",
+    "Unseen voice, coffee-table wag, spiritual signal, magnolia walk, forever group chat",
+    "Heather rotis and Sagar spinach; Gravity Enforcement Officer; stomach announcement",
+    "Martha and Sally; Neet declines barking; invisible upgrade",
+    "Operation Sweet Tooth; keeping prasad warm in stomach; moderation; divine CCTV; Buddy obstacle joke",
+    "Quiet twilight ending and devotional presence without visual deity"
+  ],
+  "actual_changes": [
+    "Buddy takes lesson literally with tiny steps, making Heather stop and Neet wait; voluntary earnest action rather than another quip",
+    "Buddy shifts crumb-watching post six inches then returns; physical evidence of fruitless hunger",
+    "Heather independently echoes the unseen voice about first roti, prompting Buddy to infer coordination",
+    "Neet releases his prepared bark through his nose; ears turn back while body keeps walking; Buddy quietly follows instead of overexplaining restraint"
+  ],
+  "ending": "Kept entire emotional epilogue untouched. Night obstacle joke remains the final comic payoff before twilight.",
+  "variants": {
+    "meaningful_alternatives_present": false,
+    "assessment": "Complete joined original contains predecessor Chapter23 and this Chapter24, not competing S055 versions. No primary-only picture applied to a variant."
+  },
+  "illustration_decision": "Three distinct state contributions: daytime seated patience with humans, walking silence without humans, grounded caught-night raid. Opening and twilight remain text to protect unseen presence and quiet ending; extra pictures would repeat listening poses.",
+  "complete_reread_comparison": {
+    "performed": true,
+    "basis": "Complete previous primary, complete original joined Chapters23/24 and current S054 read before revision; complete revised story including unchanged provenance reread after all three embeds; exact unified diff inspected.",
+    "loss_check": "All existing incidents/dialogue and original narrative progression retained. Earlier pass changed Hunger-is-prayer and silence-strongest-bark into practical teachings and repaired inverted obstacle punchline; preserved those prior choices rather than restoring source wording silently.",
+    "voices": "Neet formal but learning restraint; Buddy sincere, hungry and independently active; Heather practical echo, Sagar remains preparing spinach.",
+    "scope": "Approximately 100 words added for three physical/comic beats. No new incident replaces source events, no canon/household/chronology resolution.",
+    "story_sha256": "73c74f2ced09f21d680687c4e2b926f810df69db848382b726e7ca6cecc0e0dd"
+  },
+  "approval": "unapproved",
+  "publication": "not_published"
+}

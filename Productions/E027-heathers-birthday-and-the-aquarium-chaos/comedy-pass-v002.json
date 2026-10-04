@@ -1,0 +1,95 @@
+{
+  "story_id": "S027",
+  "date": "2026-10-04",
+  "status": "writer_complete_reviews_pending",
+  "sources": [
+    {
+      "path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S027/reader-42-heathers-birthday-and-the-aquarium-chaos.txt",
+      "sha256": "f054a3d8437a6acc7b00c34ccf444553f9be09a5fb4c10ccd73482693b6c0a4b",
+      "read": "complete"
+    },
+    {
+      "path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S027/before-expanded.md",
+      "sha256": "6244d8ce11bd7a1766d554e182f0682e5f36b1dafccfff5536f011b7f7ed41d9",
+      "read": "complete"
+    },
+    {
+      "path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S027/28-heather-s-birthday-and-the-aquarium-chaos.md",
+      "sha256": "8e1d0d2bfc1ccd496fb13e07cf9c2f5174db3027e40f5e61518053889081b960",
+      "read": "complete"
+    },
+    {
+      "path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S027/reader-41.txt",
+      "sha256": "ab81efbecb8de41506d3a78d4c8312ebc73f06b35d34ef9392270150ee6b20dc",
+      "read": "complete"
+    }
+  ],
+  "connected_reads": [
+    {
+      "path": "Stories/S026-the-homecoming-blues.md",
+      "sha256": "ff553fe3a1a6cee4a363265f1a15e700525f8d0b6a8a8c19f915ea81f0057eb5",
+      "read": "complete"
+    },
+    {
+      "path": "Stories/S028-the-birthday-get-together-and-the-sheera-cake-saga.md",
+      "sha256": "810120708cd03009e4a8676bc0a33becc50a9f7321cb3682eb88c1c6543d90b5",
+      "read": "complete"
+    }
+  ],
+  "central_comic_situation": "Neet gives Heather a birthday experience organized around his own magnificence and increasingly finds himself outmatched by the exhibits.",
+  "intended_feeling": "Affectionate happy chaos with a birthday recipient who finally gets her turn.",
+  "wants": {
+    "Neet": "Deliver the most spectacular birthday and take credit for every encounter.",
+    "Buddy": "Give Heather a pleasant outing; he also becomes unable to resist watching the otters."
+  },
+  "preserved": [
+    "Underwater dog park misunderstanding",
+    "Birthday wake-up/spa suggestion",
+    "Jellyfish menaces",
+    "Shark shelter and glass-breaks-in-movies claim",
+    "Penguin adoption request",
+    "Touch-tank horseshoe crab reach, fall, paddling proclamation and dogfish toddler",
+    "Towel recovery",
+    "Otter thrown fish and stolen bread-roll retaliation prevented",
+    "Seafood menu connections joke",
+    "Birthday toast"
+  ],
+  "changes": [
+    "Neet lets Heather choose only the things he finds",
+    "Buddy begins the incident list and Neet cuts him off",
+    "Buddy physically follows jellyfish; Heather shares quiet moment; Neet suspects hypnosis",
+    "Penguin walks away before Buddy calls refusal mutual",
+    "Buddy secures Heather stingray turn and stands between Neet and water",
+    "Buddy chases otter along window and rationalizes his own distraction",
+    "Fish slides slowly down glass for comic pause",
+    "Return to surprise party earned callback, pool suggestion and Buddy hiding behind menu"
+  ],
+  "variant_decision": {
+    "shorter_source": "reader-42",
+    "distinct_omissions": [
+      "penguin exchange including new mutual-refusal beat",
+      "toddler dogfish",
+      "entire otter section including new Buddy chase and otter artwork"
+    ],
+    "shared_art": [
+      "jellyfish",
+      "shark"
+    ],
+    "independent_assessment": "No unique incident needs a separate image; shared setup and shark scenes belong to both routes. Pool callback does not depend on omitted exhibits; touch-tank fall remains."
+  },
+  "complete_reread_comparison": {
+    "method": "Read complete revised primary and abridgement route against preserved before-expanded text and all three recovered original sources.",
+    "findings": [
+      "All specific full-version exhibits and causal order preserved.",
+      "Historical Heather-and-dogs household remains; no Sagar insertion.",
+      "Buddy agency has successful consequence at stingray and ridiculous participation at otters.",
+      "Birthday dinner and later S028 party are not silently reordered.",
+      "No added historical claims; brief action beats sharpen timing without replacing memorable original lines."
+    ],
+    "status": "writer_comparison_complete"
+  },
+  "approval": "unapproved",
+  "publication": "not_published",
+  "final_story_sha256": "a4f5836ead946e4c9050f39d79f11d55033b96e9398333f47f48b48beabad4c0",
+  "continuity_clarification": "Ending remains seafood restaurant dinner and toast. Next-year surprise-party dialogue is a callback to Buddy original opening proposal, not import of S028 party incidents."
+}

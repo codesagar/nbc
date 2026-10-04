@@ -1,0 +1,84 @@
+{
+  "story": "S026",
+  "version": "comedy-pass-v002",
+  "status": "author_revised_pending_independent_reading",
+  "sources": [
+    {
+      "archive": "/Users/sagar/Documents/ChatGPT/NBC_Archives/NBC-before-reorganization-2026-10-03_182825.tar.gz",
+      "member": "NBC/02_Story_Library/Legacy_Chapters/27-the-homecoming-blues.md",
+      "sha256": "ff79829f6e58ec47c2c0e02f5a0bfc98d85908746663395ec167c191d6b430b7",
+      "read": "complete"
+    },
+    {
+      "archive": "/Users/sagar/Documents/ChatGPT/NBC_Archives/NBC-before-reorganization-2026-10-03_182825.tar.gz",
+      "member": "NBC/90_Archive/2026-10-03-elevenlabs-recovery/Raw_Exports/reader-43.txt",
+      "sha256": "cf86b32090f2751cf096b90bcbb93f22c55f7c2de7a6cf0075be00c88139f823",
+      "read": "complete"
+    },
+    {
+      "path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S026-expanded/story-before-v002.md",
+      "sha256": "0ce276a5477d5ba1d18ad6f3fc77db148f208d7ee5a839fb37888fcdc4fd01c4",
+      "read": "complete previous working version"
+    },
+    {
+      "path": "Stories/S025-the-return-to-the-u-s-immigration-madness.md",
+      "sha256": "18a10d4626016457c5551125f88e1dd7073bed28a4c5c6b42f907fa66f97bc2a",
+      "read": "complete connected episode including meaningful alternative when present"
+    },
+    {
+      "path": "Stories/S027-heathers-birthday-and-the-aquarium-chaos.md",
+      "sha256": "6244d8ce11bd7a1766d554e182f0682e5f36b1dafccfff5536f011b7f7ed41d9",
+      "read": "complete connected episode including meaningful alternative when present"
+    }
+  ],
+  "central_comic_situation": "Neet judges every familiar domestic thing against a remembered India; Buddy wants a pleasant workable day at home.",
+  "intended_feeling": "Happy affectionate homesickness, returning curiosity rather than denial of missing India.",
+  "wants": {
+    "Neet": "Recover the noise, food and liveliness of the trip; receive agreement about his grand disappointments.",
+    "Buddy": "Eat dinner, cross safely, share an activity and go sniff wet grass; he also misses the food.",
+    "Heather": "Unpack and rebuild daily pleasures, responding practically and playfully."
+  },
+  "preserved_incidents": [
+    "Quiet couch, no honking/vendors/cow parades",
+    "Missing garam masala; samosa chaat pani puri reminiscence",
+    "Rickshaws contrasted with minivans",
+    "Bollywood dance and potential local class",
+    "Homemade chai rejected, proper chaiwala demand",
+    "Rain wet versus alive, possible future monsoon visit, walk invitation"
+  ],
+  "actual_changes": [
+    "Refrigerator and bird versus Neet sighing: quiet putting up a fight.",
+    "Buddy noses salt forward as help; Neet calls two shakers the entire rescue party; discovery of cumin interrupts both critics.",
+    "Courteous minivan becomes failure of nerve to Neet; Buddy and Heather actually cross.",
+    "Dance correction switches which paw is right, giving Buddy a small comedy problem of his own.",
+    "Buddy tries politely sliding away chai and accidentally combines complaints; Heather welcomes less washing up.",
+    "Neet withholds condemnation while sniffing local grass, a modest reversal of opening wholesale complaint."
+  ],
+  "strong_existing_lines_retained": [
+    "I miss the chaos!",
+    "This is culinary blasphemy!",
+    "Is that the bit the actor did, or your contribution?",
+    "Here, it's just wet."
+  ],
+  "ending": "Buddy initiates walk; Neet investigates damp grass and cannot yet condemn it; Heather lets them take their time. Warm reunion with everyday home remains understated.",
+  "variant_assessment": {
+    "status": "complete",
+    "finding": "Legacy ch27 and Reader43 have same five scenes and closing reflection, differing punctuation and wrappers, no meaningful competing incident or ending. No separate variant artwork warranted."
+  },
+  "full_reread_comparison": {
+    "complete_current_primary": true,
+    "complete_previous_working": true,
+    "complete_originals": true,
+    "findings": [
+      "No primary incident removed or blended. Historical Heather-plus-dogs household retained, Sagar not retroactively inserted.",
+      "Prior removal of seizure insult retained; Buddy independent participation and final walk stay intact.",
+      "Older abstract adjustment paragraph remains embodied in completed walk as previous working version did.",
+      "Additions are short reaction chains rather than repetition of catchphrases; source rank/chronology untouched.",
+      "Three pictures precede next state transitions; rain image before Neet leaves window; dance before lifted paw is put down; spice before cumin diverts attention.",
+      "Author prose and visual inspection do not provide independent clearance."
+    ]
+  },
+  "story_sha256": "ff553fe3a1a6cee4a363265f1a15e700525f8d0b6a8a8c19f915ea81f0057eb5",
+  "approval": "unapproved",
+  "publication": "not_published"
+}

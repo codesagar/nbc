@@ -1,0 +1,69 @@
+{
+  "story": "S018",
+  "status": "revised_pending_independent_reviews",
+  "sources": [
+    {
+      "path": "Stories/S018-buddys-big-elocution-debacle.md",
+      "prior_snapshot": "/Users/sagar/Documents/ChatGPT/NBC_Archives/NBC-before-expanded-refinement-2026-10-04_035505Z.tar.gz",
+      "prior_sha256": "3227358615f37aff60682704089f50b0e805aea63967896410e33d609d54e1b8"
+    },
+    {
+      "original": "02_Story_Library/Legacy_Chapters/19-buddy-s-big-elocution-debacle.md",
+      "sha256": "aac995cb25faa63b5dedeccc58ddfae1612553d88682f7ac4b74d41285ca54ae"
+    },
+    {
+      "connected": "Stories/S017-bazaar-madness-a-practical-gujarati-lesson.md",
+      "sha256": "399929f7ef1decc5392aa2ea4ca3968baa09f2a702356abba07923c65ffe7c86"
+    },
+    {
+      "connected": "Stories/S019-the-great-mosquito-war.md",
+      "sha256": "bf410ce9e4525f196350d170f95ef9d5d373945a6565d403d71d1860739eadce"
+    }
+  ],
+  "complete_reads": "Full prior working story, full original legacy chapter, full connected S017 and S019 read before revision; no meaningful alternative is present in S018.",
+  "central_comic_situation": "Buddy wants a competent speech; familiar words desert their neighbors under public pressure.",
+  "intended_feeling": "Affectionate embarrassment, delight and earned pride in persisting.",
+  "wants": {
+    "Buddy": "Try his skills fairly, control rehearsal interruptions, finish the public speech.",
+    "Neet": "Enjoy the spectacle and offer reviews; discovers a moment worth keeping quiet for."
+  },
+  "preserved": [
+    "Top Man movie line",
+    "Every Gujarati phrase and supplied gloss unmodified",
+    "Mithu mango poem and Rani monsoon monologue",
+    "Motorcycle dhokla, loving sev, powerful mango juice",
+    "Jai Gujarat bow",
+    "Most Enthusiastic Speaker trophy",
+    "Historical Heather/Chirag household and Gujarati lesson context",
+    "Prior revision choice to let Buddy finish despite embarrassment"
+  ],
+  "changes": [
+    "Private-speaking-to-sleeper opening",
+    "Buddy turns blank practice page to Neet, demands silent audience rehearsal",
+    "Four-second silence physical pause",
+    "Buddy crosses mangoes off possible speech subjects after flawless parrot",
+    "Rani slow exit and too-high microphone courage beat",
+    "Words no longer stand beside correct neighbors",
+    "Buddy redirects trophy question to Neet; Heather calls speechless Neet second prize",
+    "Quiet shared trophy ending callbacks silent rehearsal without humiliating Buddy"
+  ],
+  "alternatives": {
+    "present": false,
+    "independent_assessment": "S018 working source and cited original contain one version, no separate meaningful alternative to illustrate."
+  },
+  "illustration_count_rationale": "Three distinct states span private attempt, public mistake and affectionate payoff; more would break short speech timing.",
+  "complete_reread_comparison": {
+    "performed": true,
+    "method": "Reread entire revised story including captions, compared all preserved phrase/incidents to complete prior and legacy original.",
+    "findings": [
+      "No speech error, competitor, prize, bow, principal participant or source household removed.",
+      "No translation correction claimed; language comedy preserved as historical draft.",
+      "Buddy acts in rehearsal and finishing; Neet quiet at close supplies reversal instead of prolonged taunting.",
+      "Added modest beats rather than expanding to arbitrary length.",
+      "Images occur after blank-page rehearsal, after motorcycle line before paw-biting, and after trophy placed/shared sit."
+    ]
+  },
+  "story_sha256": "f506c53c4f2013d0ecfa51f1f2bb3782d0cfeaadf3148398845cbacc6ab8f0f4",
+  "approval": "unapproved",
+  "image_correction_note": "Speech image link changed only from v004 to v006; narrative unchanged. Independent visual reinspection pending."
+}

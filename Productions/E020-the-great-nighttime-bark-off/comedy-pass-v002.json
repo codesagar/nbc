@@ -1,0 +1,87 @@
+{
+  "story_id": "S020",
+  "status": "second_comedy_pass_complete_pending_independent_reading",
+  "sources": [
+    {
+      "archive": "/Users/sagar/Documents/ChatGPT/NBC_Archives/NBC-before-reorganization-2026-10-03_182825.tar.gz",
+      "member": "NBC/02_Story_Library/Legacy_Chapters/21-the-great-nighttime-bark-off.md",
+      "sha256": "4f80677c99ece6f44e50ef9868cff0b92c3f6281339f24da861d7ae2ea5eba92",
+      "read": "complete"
+    },
+    {
+      "archive": "/Users/sagar/Documents/ChatGPT/NBC_Archives/NBC-before-reorganization-2026-10-03_182825.tar.gz",
+      "member": "NBC/90_Archive/2026-10-03-elevenlabs-recovery/Raw_Exports/reader-50.txt",
+      "sha256": "b9af0a6e2452e13475b7f9679a4cb4916d314a031eca17bf965a9fd0c90354a1",
+      "read": "complete"
+    },
+    {
+      "archive": "/Users/sagar/Documents/ChatGPT/NBC_Archives/NBC-before-expanded-refinement-2026-10-04_035505Z.tar.gz",
+      "member": "NBC/Stories/S020-the-great-nighttime-bark-off.md",
+      "sha256": "2aa28e0f4b39d32cc9ca848520bdc46584f211b8273eb3f51b32f9fa08885d1f",
+      "read": "complete prior working version"
+    }
+  ],
+  "connected_read": [
+    {
+      "path": "Stories/S019-the-great-mosquito-war.md",
+      "sha256": "fd94ae256fa7436748bdc6352ea42833df4aa72f9ff2fd97b5afee4dc803b775"
+    },
+    {
+      "path": "Stories/S021-the-bittersweet-goodbye.md",
+      "sha256": "6b7176909078a6ead40a366e383434c09b67de968c23b8d7f1ef550caf0e312c"
+    }
+  ],
+  "comic_situation": "Artistic barking is an impressive achievement to dogs and nuisance to neighbors. Quiet Buddy catches the competitive excitement.",
+  "intended_feeling": "Affectionate noisy triumph",
+  "wants": {
+    "Neet": "Win the competition and use the entire week of bragging rights",
+    "Buddy": "Get Neet home and preserve quiet; fails through his own enthusiasm",
+    "Heather": "Enjoy their antics then restore a quiet household with treats"
+  },
+  "preserved": [
+    "All three rounds and competitors Bruno Shadow Pierre",
+    "Bruno Volume by one bark",
+    "Symphony of Chaos and unanimous Creativity",
+    "Six echoes and Echo Potential win",
+    "Week of rights, approving wag, Chikki and Bruno congratulations",
+    "Heather followed from porch, human shout, disavowal and treat ending"
+  ],
+  "changes": [
+    "Quiet-category offer makes Buddy participant with a goal.",
+    "Tree acoustic shelter fails when Neet seeks his attention.",
+    "Pierre three-part bark split across pauses for Buddy premature applause and targeted finale.",
+    "Buddy involuntary Six echoes his own enthusiasm, followed by retreat to quiet.",
+    "Porch-first closing gives Buddy a quiet success without replacing treat payoff."
+  ],
+  "alternatives": {
+    "assessment": "Both complete original sources compared: equivalent narrative; formatting emphasis/dashes only. No distinct variant warrants separate art.",
+    "decision": "No blended or invented alternative."
+  },
+  "ending": "Neet gets treats; Buddy gets home and finally stops commenting.",
+  "reread_comparison": {
+    "complete": true,
+    "observations": [
+      "Reread full revised story against entire prior working and both historical source texts. No contest or result deleted.",
+      "Corrected a draft temporal duplication by breaking Pierre exact three-part bark into ordered pauses before Buddy reacts.",
+      "Historical Heather-only India sequence retained, not padded with Sagar. Shelf chronology not asserted.",
+      "Tail wag and tiny-body narrative claims remain source voice; pictures use original photo anatomy.",
+      "Three pictures depict setup, reversal and end; echo image inserted at open-mouth Six before mouth closes.",
+      "Final independent rendered full-story reading remains pending."
+    ]
+  },
+  "final_story": {
+    "path": "Stories/S020-the-great-nighttime-bark-off.md",
+    "sha256": "af624721e3a2fc787ea0eccd411994ec7ce144787f420cc69fddaae6a36d3a2d"
+  },
+  "illustration_count_reason": "Three distinct acts in short contest story; extra portraits would repeat performance reactions.",
+  "approval": {
+    "state": "unapproved",
+    "by": null,
+    "date": null,
+    "evidence": null
+  },
+  "publication": {
+    "state": "not_published",
+    "destination": null
+  }
+}

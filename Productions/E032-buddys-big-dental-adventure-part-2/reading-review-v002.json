@@ -1,0 +1,105 @@
+{
+  "story_id": "S032",
+  "review_stage": "fresh_complete_illustrated_reading",
+  "reviewed_at": "2026-10-04T09:31:32.211045+00:00",
+  "reviewer": "fresh-reader-S032",
+  "status": "accepted",
+  "story": {
+    "path": "Stories/S032-buddys-big-dental-adventure-part-2.md",
+    "sha256": "b82190fe128ea0ffb2ceeb5025843b741681f231d0733e5f85bcf6ca6c1da6d4"
+  },
+  "images": [
+    {
+      "path": "Productions/E032-buddys-big-dental-adventure-part-2/recovery-art-v003.png",
+      "sha256": "234fd50f9c01198161fd9b44d11039f515d687f1cebe9ced312aff979889709f"
+    },
+    {
+      "path": "Productions/E032-buddys-big-dental-adventure-part-2/pickup-art-v003.png",
+      "sha256": "73cb4b42cabd925107aebbfa702c00d425b72c9c0582016e9735cd677c5b41ac"
+    },
+    {
+      "path": "Productions/E032-buddys-big-dental-adventure-part-2/bush-art-v003.png",
+      "sha256": "d423cd0d52db23c5c01e30280a7582f35e79bd460d1d9979eb86d1b4c4243bff"
+    },
+    {
+      "path": "Productions/E032-buddys-big-dental-adventure-part-2/gold-art-v006.png",
+      "sha256": "b22983e4079e7d648a4c420e0b0cfd01972151bdb11eaabd93306cfe9d3ec20e"
+    }
+  ],
+  "method": {
+    "url": "http://127.0.0.1:56824/Stories/S032-buddys-big-dental-adventure-part-2.md",
+    "surface": "Cua in-app browser, normal 1280x720 viewport",
+    "inspection": "Read the complete rendered primary from title through final joke, refinement record and provenance. Progressed with overlapping viewport screenshots throughout; inspected all four embedded images at their actual 960px reading width. Read complete accessible page text as a cross-check. DOM confirmed all four images loaded and the selected final image is gold-art-v006.png.",
+    "rendered_image_sizes": [
+      [
+        960,
+        640
+      ],
+      [
+        960,
+        640
+      ],
+      [
+        960,
+        640
+      ],
+      [
+        960,
+        720
+      ]
+    ],
+    "scope": "Fresh reading review, separate from prior full-resolution independent visual review. No prose or artwork generated or changed."
+  },
+  "records_consulted": [
+    {
+      "path": "Productions/E032-buddys-big-dental-adventure-part-2/comedy-pass-v002.json",
+      "sha256": "3adf4918f97b3a1ac537c4599ba9637b10a50b4d36fbac52af58960f9ecf9ec5"
+    },
+    {
+      "path": "Productions/E032-buddys-big-dental-adventure-part-2/visual-review-v002.json",
+      "sha256": "337b0d2e0f1346de694daf59e1166db52c4379c1b01b60ef692139a05376ff82"
+    }
+  ],
+  "meaningful_alternatives": {
+    "present": false,
+    "evidence": "Entire rendered entry proceeds from single primary to refinement/provenance; comedy-pass source comparison also records no meaningful alternative."
+  },
+  "reading_findings": {
+    "humor_and_voices": "Buddy drives the story: first he tries to sit importantly, then coordinates two apparent Neets, chooses to go indoors, and finally exploits his gold-tooth rank. Neet shifts from instructions and bush commentary to a disguised half-bow and competitive promise. Heather combines patient practical support with the dry monster line. The basset supplies a distinct sleepy correction. The jokes are concrete and do not depend on repetitive catchphrases.",
+    "pacing_and_causality": "Recovery-room disorientation leads to supported pickup, then garden confusion, rest, mirror rediscovery and confident reversal. The explicit hour of rest separates the unsteady patient from the later trot. Images follow completed beats without splitting attribution. The garden image pauses before the ground response and bathroom difficulty, keeping its light leaf gag separate from the more vulnerable moment.",
+    "affection_and_payoff": "Neet stops laughing when Buddy becomes upset; Heather steadies him and Buddy chooses the door. This protects affection before the rank reversal. Heather tucking the blanket combines comfort with exasperation; the final light-was-no-better line lets the rivalry persist softly after Buddy closes his eyes.",
+    "complementarity": "Four images show an ensemble resting setup, supported movement beside the car, a garden object gag and a warm indoor victory. The two resting images have different casts, compositions and functions, so they do not repeat the same portrait."
+  },
+  "image_state_checks": [
+    {
+      "path": "Productions/E032-buddys-big-dental-adventure-part-2/recovery-art-v003.png",
+      "result": "accepted",
+      "evidence": "Image follows Buddy deciding lying-down importance is best: chin rests on blanket between paws, with basset, pug, scruffy terrier and Labrador nurse in clinic. It does not depict the earlier attempted upright sit."
+    },
+    {
+      "path": "Productions/E032-buddys-big-dental-adventure-part-2/pickup-art-v003.png",
+      "result": "accepted",
+      "evidence": "Buddy leans beside Heather leg with her supporting hand and a hesitant raised paw; closed-mouth Neet stands nearby beside the car and clinic. This preserves the ongoing wobbly pickup state and does not literalize the two-Neets hallucination."
+    },
+    {
+      "path": "Productions/E032-buddys-big-dental-adventure-part-2/bush-art-v003.png",
+      "result": "accepted",
+      "evidence": "Buddy is out at the shrub edge with a leaf at his brow, Neet remains standing and Heather is behind them. Placement precedes the bathroom posture and Neet later sitting; no later action is prematurely depicted."
+    },
+    {
+      "path": "Productions/E032-buddys-big-dental-adventure-part-2/gold-art-v006.png",
+      "result": "accepted",
+      "evidence": "Buddy reclines on his blanket with eyes open, one visibly gold lower tooth and ivory other teeth; Heather grips the blanket and Neet sits with a deflated expression. It is correctly before Buddy closes his eyes and Neet crosses the room. The image supports the single-tooth joke rather than the rejected multiple-gold-teeth reading."
+    }
+  ],
+  "material_findings": [
+    {
+      "id": "S032-V002-01",
+      "status": "closed",
+      "evidence": "Read prior independent rejection and replacement inspection. Current embedded gold-art-v006.png hash exactly matches accepted replacement; at intended reading size its one gold tooth is legible and other exposed teeth read pale ivory. No replacement anatomy, coat or scene issue appeared in complete reading."
+    }
+  ],
+  "open_findings": [],
+  "approval": "unapproved",
+  "publication": "not_published"
+}

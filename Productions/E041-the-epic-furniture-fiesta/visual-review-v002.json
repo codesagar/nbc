@@ -1,0 +1,388 @@
+{
+  "story_id": "S041",
+  "episode_id": "E041",
+  "review_version": "v002",
+  "date": "2026-10-04",
+  "reviewer": "fresh independent visual041",
+  "independent_of_generation": true,
+  "status": "accepted",
+  "story": {
+    "path": "Stories/S041-the-epic-furniture-fiesta.md",
+    "sha256": "de0daa43cf9b06e985ad6b6fffe212140b05af77ed1ceb33c35e617b3e4ab556"
+  },
+  "complete_story_read": true,
+  "meaningful_alternatives": "No separate meaningful alternative in current story file.",
+  "inspection_method": "Read entire revised story and project/commission/assignment/Studio/character guidance. Opened all five selected original photo files, inspected provisional model, and opened every proposed final PNG at native resolution. Original photo tool previews were scaled; no claim of native-resolution photo pixel inspection. Finished panels were shown at their native dimensions.",
+  "original_references_opened": [
+    {
+      "id": "N19",
+      "path": "Characters/Neet/Photos/neet-19.jpeg",
+      "sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+      "same_exposure_group": null,
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "styling",
+          "standing_pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Primary standing body proportions, paws, hocks and stub silhouette; head is not a pure profile.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Head rotated; far limbs overlap; uncalibrated camera offers no measurements; room light subdued"
+        ],
+        "inspection_sha256": "b2c6db0a5af6a885d993cbd986cc2759b9461e693fbcabd8aa96bce1eb5ea901",
+        "source_sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N19.json"
+      }
+    },
+    {
+      "id": "N25",
+      "path": "Characters/Neet/Photos/neet-25.jpeg",
+      "sha256": "67530c2ebc1baa412f76a825a7bd2369cebf72a101e7f45836fefa0fcae90ca4",
+      "same_exposure_group": null,
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose",
+          "resting_pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Excellent prone posture and forward paws; useful lateral ear spread.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Hindfeet and tail concealed; plush partly covers toes; cannot supply standing leg/trunk ratios"
+        ],
+        "inspection_sha256": "0e493b84294cbe31f8e7e484b1ce100d8bd7370e2de36f46b35f73b2eab5f99e",
+        "source_sha256": "67530c2ebc1baa412f76a825a7bd2369cebf72a101e7f45836fefa0fcae90ca4",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N25.json"
+      }
+    },
+    {
+      "id": "B04",
+      "path": "Characters/Buddy/Photos/buddy-4.jpg",
+      "sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+      "same_exposure_group": "B04-B24",
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "styling",
+          "standing_pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Excellent front-leg clearance, chest pattern and groomed face; useful standing stance. Same photographic exposure as B24 for evidence counting.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Tail partly cropped at left; grass hides toes; perspective foreshortens torso; B24 same exposure in separate encoding"
+        ],
+        "inspection_sha256": "dd7da906a0e61eb4cdbd84eac3c97fea3318813d5a874c4e6cd4d8d3ba890797",
+        "source_sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B04.json"
+      }
+    },
+    {
+      "id": "B19",
+      "path": "Characters/Buddy/Photos/buddy-19.jpg",
+      "sha256": "201ec36498d5aaa85ef6e44a9176c333587d95797279a689237ccb49090ee521",
+      "same_exposure_group": null,
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "resting_pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Excellent low face, ear-root tufts, muzzle sweep and head-between-paws reference; poor global proportions.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Nearest face enlarged by perspective; rear blurred; limbs folded; no neutral head/body proportions"
+        ],
+        "inspection_sha256": "6686639617369f80387a581720cb9d28a2f0f5cf940da025eadf8b420095dfd2",
+        "source_sha256": "201ec36498d5aaa85ef6e44a9176c333587d95797279a689237ccb49090ee521",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B19.json"
+      }
+    },
+    {
+      "id": "B29",
+      "path": "Characters/Buddy/Photos/buddy-29.jpeg",
+      "sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+      "same_exposure_group": null,
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Best available lateral body-length, tail-length/carriage and walking-pose reference; weak fine landmarks because blurred and not neutral standing.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Motion blur and lifted legs; cannot establish neutral back slope, exact leg ratios or gait timing from still"
+        ],
+        "inspection_sha256": "c671664ca5e4e2e07bfd3049ea641c3a1645742fb8290494e67a17f7ed213ea9",
+        "source_sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B29.json"
+      }
+    }
+  ],
+  "model_opened": {
+    "path": "Productions/Library-Refinement/model-finish-calibration-v004.png",
+    "sha256": "193dc8f81770a87933c6c599fce5a04f3c51cfbe21898459be2b511e989910a3",
+    "dimensions": [
+      1448,
+      1086
+    ]
+  },
+  "authority": "Original eligible photographs control identity. Model is provisional interpretation; its body texture is not authority. E001 max-art-v005 is body-finish-only guidance, not anatomical evidence.",
+  "restrictions": [
+    "N35 excludes anatomy.",
+    "B08 styling only.",
+    "B25 unavailable.",
+    "B30 supplemental resting evidence only; unused.",
+    "B04/B24 count as one exposure.",
+    "Human likeness and style provisional."
+  ],
+  "images": [
+    {
+      "path": "Productions/E041-the-epic-furniture-fiesta/showroom-art-v006.png",
+      "sha256": "6861709d755102ceac381078159a8a3c6314e7dc68bb0fc93597b4f54325e45a",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "status": "accepted",
+      "inspection": "Entire actual replacement opened at native 1536x1024 with view_image(detail=original), not merely the repaired face.",
+      "findings": [
+        "Neet has a continuous full narrow torso, fine supported legs, broad ears and tiny nub; head lowered to cushion communicates inspection. Buddy has a continuous elongated reclining trunk and intelligible folded rear leg, with head and forepaws supported by cushion.",
+        "Body coats are restrained smooth tonal fills, without engraved strands, curly interior marks or raised shag contours. Sofa/showroom perspective and pillow placement are coherent. Closed eyes versus active Neet supplies the intended comic contrast at the embedded state.",
+        "Buddy now has visible irregular cream moustache hairs extending outward/down from nose and lip edges, with short compressed chin furnishing where the head rests on forepaws. The former smooth lobes are broken up without a large goatee or enlarged skull. Closed eyes, lowered head, forepaw support and continuous reclining torso remain. Neet and the showroom retain the prior supported geometry and comic contrast. Both body surfaces stay smooth; no new torso engraving, curls or raised shag detected."
+      ],
+      "material_findings": [],
+      "resolved_finding": "Previously oversmoothed Buddy moustache/beard restored; whole replacement inspected and no new material defect found."
+    },
+    {
+      "path": "Productions/E041-the-epic-furniture-fiesta/curtain-art-v004.png",
+      "sha256": "bf0e9da210aad8f3ecace10c540b25526d1b2494b63f2b097ea7fa0607429f90",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "status": "accepted",
+      "inspection": "Opened original PNG at native 1536x1024 resolution using view_image(detail=original).",
+      "findings": [
+        "Buddy has a continuous moderately elongated torso, neck, four separately rooted limbs and four mattress-supported paws. Clearance and substantial legs remain visible. Neet visible trunk/hindquarters are continuous, supported behind the top rail; hidden head and ears are deliberate curtain occlusion, not missing anatomy.",
+        "Blue/orange fabric is continuous, taut at Buddy mouth, and hides Neet entire view before ears reappear. Bunk construction and side ladder establish stable space. The hidden inspector gag is immediately legible.",
+        "Both body coats are smooth. Buddy has hanging ear furnishing, brow tufts and a small irregular chin/muzzle edge in profile; this closer grooming remains readable here. Tail is slender with modest fringe. No material finish or scene defect found."
+      ],
+      "material_findings": [],
+      "unchanged_pin_reverified": true
+    },
+    {
+      "path": "Productions/E041-the-epic-furniture-fiesta/captain-art-v005.png",
+      "sha256": "7706ca64f223ce71513d61b5ab76d715655940618010a3b2d59effc0262ae229",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "status": "accepted",
+      "inspection": "Entire actual replacement opened at native 1536x1024 with view_image(detail=original), not merely the repaired face.",
+      "findings": [
+        "Captain and Buddy have grounded chin-down poses with owned forepaws and continuous resting bodies; Neet stands between them with four supported fine legs and real clearance. Captain is appropriately larger. Wood furniture and rug establish a distinct artisan store.",
+        "The mirrored resting poses clearly communicate Buddy copying Captain, while Neet watches skeptically. Current embedding matches both chins lowered. Neet and Buddy torso coats are smooth; Captain longer coat belongs to the golden retriever.",
+        "Buddy now has a pale irregular moustache sweeping outward/down and a short soft chin fringe resting at rug level. This is regional facial furnishing, not an enlarged skull or dangling goatee. His head remains down between owned forepaws, torso continuous and rear limb grounded. Captain and Neet retain their poses, proportions and support. All three still read as the copied-security gag; Buddy and Neet body coats remain smooth without new hair texture."
+      ],
+      "material_findings": [],
+      "resolved_finding": "Previously oversmoothed Buddy moustache/beard restored; whole replacement inspected and no new material defect found."
+    },
+    {
+      "path": "Productions/E041-the-epic-furniture-fiesta/desk-art-v005.png",
+      "sha256": "01ff199520d3fbb2d02c22e4f0ef18685aa1054a795102d73aeb313a939182b3",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "status": "accepted",
+      "inspection": "Entire actual replacement opened at native 1536x1024 with view_image(detail=original), not merely the repaired face.",
+      "findings": [
+        "Neet stands with four supported paws on the desk, full narrow connected trunk, fine legs, broad ears and tiny nub. Buddy has a connected elongated trunk, visible neck, substantial owned limbs and clearance. Desk legs/control panel and human hand establish the mechanism; Heather phone and assembly boxes match scene.",
+        "Buddy looks up from floor while Neet faces outward on the tabletop. Height contrast and human reactions carry the payload joke; human likeness remains provisional. The body coats are smooth and free of curly or engraved strokes.",
+        "Buddy now has an irregular forward/downward moustache and restrained short chin beard around the open mouth, restoring furnished muzzle identity while preserving visible jaw opening, upward gaze and head size. Beard does not descend into a long goatee. Neck, continuous torso, substantial four supported legs and lowered tail remain coherent. Neet retains four supported tabletop paws, fine limbs and nub; human control-button/phone actions and assembly setting remain. Both dog torso coats stay smooth, without new curly or engraved texture."
+      ],
+      "material_findings": [],
+      "resolved_finding": "Previously oversmoothed Buddy moustache/beard restored; whole replacement inspected and no new material defect found."
+    },
+    {
+      "path": "Productions/E041-the-epic-furniture-fiesta/shrine-art-v005.png",
+      "sha256": "096f0d7926a70b6fe7ab3723726679ebad73c96d99993c2c6e35a4be708a0627",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "status": "accepted",
+      "inspection": "Opened original PNG at native 1536x1024 resolution using view_image(detail=original).",
+      "findings": [
+        "Dogs sit on the floor at the threshold with continuous backs, pelvises, visible forelimbs and grounded rear quarters. Neet has a tiny rounded nub; Buddy has a separate dark tail resting on floor. Rear/side head views legitimately limit muzzle evidence; visible ear/brow/muzzle fringes remain regional.",
+        "Humans are arranging garlands/flowers, and screwdriver lies on floor away from sacred objects. Visible lamp bowls and stands have no flames; glowing points belong to the fairy-light wire. This correctly precedes the later lighting of the diya.",
+        "Smooth torso coats do not contain long, curled or engraved fur. Shelf, floor and human kneeling support are coherent. Quiet coordinated attention provides a useful emotional change after comedy. No material visual defect found; human appearances provisional."
+      ],
+      "material_findings": [],
+      "unchanged_pin_reverified": true
+    }
+  ],
+  "material_findings": [],
+  "open_findings": [],
+  "approval": "unapproved",
+  "publication": "not_published",
+  "review_history": [
+    {
+      "date": "2026-10-04",
+      "status": "needs_rework",
+      "story": {
+        "path": "Stories/S041-the-epic-furniture-fiesta.md",
+        "sha256": "2fb17b5c1f43e93701bcb5e2ce7d2cd19300e10b250e974a3b38d6da7e3be66a"
+      },
+      "images": [
+        {
+          "path": "Productions/E041-the-epic-furniture-fiesta/showroom-art-v005.png",
+          "sha256": "4afa776671dcaf21ece041d1250ccf46bcd314258d82080615c788acda6c9512",
+          "dimensions": [
+            1536,
+            1024
+          ],
+          "status": "needs_rework",
+          "inspection": "Opened original PNG at native 1536x1024 resolution using view_image(detail=original).",
+          "findings": [
+            "Neet has a continuous full narrow torso, fine supported legs, broad ears and tiny nub; head lowered to cushion communicates inspection. Buddy has a continuous elongated reclining trunk and intelligible folded rear leg, with head and forepaws supported by cushion.",
+            "Body coats are restrained smooth tonal fills, without engraved strands, curly interior marks or raised shag contours. Sofa/showroom perspective and pillow placement are coherent. Closed eyes versus active Neet supplies the intended comic contrast at the embedded state.",
+            "Buddy retains furnished ears and pale brows, but the muzzle is two smooth rounded pale lobes with almost no outward/downward irregular moustache and no readable modest beard beneath the chin. The silhouette reads like a smooth-faced puppy rather than the regional muzzle furnishing visible in B04/B19. Restore limited facial furnishing while retaining current smooth torso."
+          ],
+          "material_findings": [
+            "Buddy retains furnished ears and pale brows, but the muzzle is two smooth rounded pale lobes with almost no outward/downward irregular moustache and no readable modest beard beneath the chin. The silhouette reads like a smooth-faced puppy rather than the regional muzzle furnishing visible in B04/B19. Restore limited facial furnishing while retaining current smooth torso."
+          ]
+        },
+        {
+          "path": "Productions/E041-the-epic-furniture-fiesta/curtain-art-v004.png",
+          "sha256": "bf0e9da210aad8f3ecace10c540b25526d1b2494b63f2b097ea7fa0607429f90",
+          "dimensions": [
+            1536,
+            1024
+          ],
+          "status": "accepted",
+          "inspection": "Opened original PNG at native 1536x1024 resolution using view_image(detail=original).",
+          "findings": [
+            "Buddy has a continuous moderately elongated torso, neck, four separately rooted limbs and four mattress-supported paws. Clearance and substantial legs remain visible. Neet visible trunk/hindquarters are continuous, supported behind the top rail; hidden head and ears are deliberate curtain occlusion, not missing anatomy.",
+            "Blue/orange fabric is continuous, taut at Buddy mouth, and hides Neet entire view before ears reappear. Bunk construction and side ladder establish stable space. The hidden inspector gag is immediately legible.",
+            "Both body coats are smooth. Buddy has hanging ear furnishing, brow tufts and a small irregular chin/muzzle edge in profile; this closer grooming remains readable here. Tail is slender with modest fringe. No material finish or scene defect found."
+          ],
+          "material_findings": []
+        },
+        {
+          "path": "Productions/E041-the-epic-furniture-fiesta/captain-art-v004.png",
+          "sha256": "7b2a3ebf14ff1629b790b1a0f4091eb15797c9d1e6193ac8371aa2cfc3e73f8e",
+          "dimensions": [
+            1536,
+            1024
+          ],
+          "status": "needs_rework",
+          "inspection": "Opened original PNG at native 1536x1024 resolution using view_image(detail=original).",
+          "findings": [
+            "Captain and Buddy have grounded chin-down poses with owned forepaws and continuous resting bodies; Neet stands between them with four supported fine legs and real clearance. Captain is appropriately larger. Wood furniture and rug establish a distinct artisan store.",
+            "The mirrored resting poses clearly communicate Buddy copying Captain, while Neet watches skeptically. Current embedding matches both chins lowered. Neet and Buddy torso coats are smooth; Captain longer coat belongs to the golden retriever.",
+            "Buddy muzzle has been reduced to smooth rounded pale pads and the lower face has virtually no irregular moustache sweep or modest beard. Ear strands remain but cannot substitute for muzzle identity. Restore sparse forward/outward/downward pale moustache and modest chin furnishing against B19/B04; preserve face size, resting support and smooth body."
+          ],
+          "material_findings": [
+            "Buddy muzzle has been reduced to smooth rounded pale pads and the lower face has virtually no irregular moustache sweep or modest beard. Ear strands remain but cannot substitute for muzzle identity. Restore sparse forward/outward/downward pale moustache and modest chin furnishing against B19/B04; preserve face size, resting support and smooth body."
+          ]
+        },
+        {
+          "path": "Productions/E041-the-epic-furniture-fiesta/desk-art-v004.png",
+          "sha256": "6a4f18ba924fb79d8015933997f72ee2eef19c39142d3742eef47a6079efde09",
+          "dimensions": [
+            1536,
+            1024
+          ],
+          "status": "needs_rework",
+          "inspection": "Opened original PNG at native 1536x1024 resolution using view_image(detail=original).",
+          "findings": [
+            "Neet stands with four supported paws on the desk, full narrow connected trunk, fine legs, broad ears and tiny nub. Buddy has a connected elongated trunk, visible neck, substantial owned limbs and clearance. Desk legs/control panel and human hand establish the mechanism; Heather phone and assembly boxes match scene.",
+            "Buddy looks up from floor while Neet faces outward on the tabletop. Height contrast and human reactions carry the payload joke; human likeness remains provisional. The body coats are smooth and free of curly or engraved strokes.",
+            "Buddy face is materially oversmoothed: long pale muzzle is a clean pointed wedge, cheek/moustache boundary is smooth, and open mouth underside has almost no modest beard. The result trends toward a generic smooth black-and-tan dog despite furnished ears and small brows. Restore restrained irregular muzzle/chin furnishing from B04/B19 without changing anatomy, pose, or body finish."
+          ],
+          "material_findings": [
+            "Buddy face is materially oversmoothed: long pale muzzle is a clean pointed wedge, cheek/moustache boundary is smooth, and open mouth underside has almost no modest beard. The result trends toward a generic smooth black-and-tan dog despite furnished ears and small brows. Restore restrained irregular muzzle/chin furnishing from B04/B19 without changing anatomy, pose, or body finish."
+          ]
+        },
+        {
+          "path": "Productions/E041-the-epic-furniture-fiesta/shrine-art-v005.png",
+          "sha256": "096f0d7926a70b6fe7ab3723726679ebad73c96d99993c2c6e35a4be708a0627",
+          "dimensions": [
+            1536,
+            1024
+          ],
+          "status": "accepted",
+          "inspection": "Opened original PNG at native 1536x1024 resolution using view_image(detail=original).",
+          "findings": [
+            "Dogs sit on the floor at the threshold with continuous backs, pelvises, visible forelimbs and grounded rear quarters. Neet has a tiny rounded nub; Buddy has a separate dark tail resting on floor. Rear/side head views legitimately limit muzzle evidence; visible ear/brow/muzzle fringes remain regional.",
+            "Humans are arranging garlands/flowers, and screwdriver lies on floor away from sacred objects. Visible lamp bowls and stands have no flames; glowing points belong to the fairy-light wire. This correctly precedes the later lighting of the diya.",
+            "Smooth torso coats do not contain long, curled or engraved fur. Shelf, floor and human kneeling support are coherent. Quiet coordinated attention provides a useful emotional change after comedy. No material visual defect found; human appearances provisional."
+          ],
+          "material_findings": []
+        }
+      ],
+      "material_findings": [
+        {
+          "image": "Productions/E041-the-epic-furniture-fiesta/showroom-art-v005.png",
+          "finding": "Buddy retains furnished ears and pale brows, but the muzzle is two smooth rounded pale lobes with almost no outward/downward irregular moustache and no readable modest beard beneath the chin. The silhouette reads like a smooth-faced puppy rather than the regional muzzle furnishing visible in B04/B19. Restore limited facial furnishing while retaining current smooth torso."
+        },
+        {
+          "image": "Productions/E041-the-epic-furniture-fiesta/captain-art-v004.png",
+          "finding": "Buddy muzzle has been reduced to smooth rounded pale pads and the lower face has virtually no irregular moustache sweep or modest beard. Ear strands remain but cannot substitute for muzzle identity. Restore sparse forward/outward/downward pale moustache and modest chin furnishing against B19/B04; preserve face size, resting support and smooth body."
+        },
+        {
+          "image": "Productions/E041-the-epic-furniture-fiesta/desk-art-v004.png",
+          "finding": "Buddy face is materially oversmoothed: long pale muzzle is a clean pointed wedge, cheek/moustache boundary is smooth, and open mouth underside has almost no modest beard. The result trends toward a generic smooth black-and-tan dog despite furnished ears and small brows. Restore restrained irregular muzzle/chin furnishing from B04/B19 without changing anatomy, pose, or body finish."
+        }
+      ],
+      "open_findings": [
+        "Restore Buddy regional moustache and modest beard in showroom-art-v005, captain-art-v004 and desk-art-v004; preserve successful smooth body finish and staging. Reinspect complete actual replacements.",
+        "Fresh complete rendered reading remains a separate gate after visual corrections."
+      ]
+    }
+  ],
+  "separate_pending_gate": "Fresh complete rendered-reading review remains required; this visual acceptance is not that reading gate or owner approval.",
+  "replacement_reinspection": {
+    "date": "2026-10-04",
+    "whole_images_inspected": true,
+    "provenance_record": "Productions/E041-the-epic-furniture-fiesta/muzzle-repair-v003.json",
+    "provenance_output_hashes_verified": true,
+    "retained_accepted_hashes_verified": [
+      "curtain-art-v004.png",
+      "shrine-art-v005.png"
+    ],
+    "current_story_reread_complete": true,
+    "closure": "All three original material facial-grooming findings closed on actual replacements. No additional material anatomy, finish, support, identity or state findings."
+  }
+}

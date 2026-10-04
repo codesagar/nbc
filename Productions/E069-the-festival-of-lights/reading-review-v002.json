@@ -1,0 +1,85 @@
+{
+  "story_id": "S069",
+  "episode_id": "E069",
+  "review_version": "v002",
+  "date": "2026-10-04",
+  "reviewer": "fresh independent reader069",
+  "independent_of_writing_and_generation": true,
+  "status": "accepted",
+  "story": {
+    "path": "Stories/S069-the-festival-of-lights.md",
+    "sha256": "352f2340a0b894f1b58ef00c8c5c02723af607f026f5ecf6256eb43bd0553430"
+  },
+  "complete_primary_read": true,
+  "meaningful_alternatives": {
+    "decision": "No separate meaningful alternative in current working file.",
+    "evidence": "Read full current primary and recovered original; same shopping, preparations, fireworks and home sequence. Original is source evidence, not a competing ending requiring an added illustrated branch."
+  },
+  "source_read": {
+    "path": "../NBC_Archives/refinement-work/S069-original-recovered.md",
+    "sha256": "1d949ba90d8301f8176373db3a3c467972fec5cb705883646222aa4c20e34546"
+  },
+  "rendered_inspection": {
+    "url": "http://127.0.0.1:56824/Stories/S069-the-festival-of-lights.md",
+    "method": "Opened actual browser reader and scrolled sequentially from title through THE END and all provenance/refinement notes, inspecting viewport screenshots at every step with overlapping content. Read complete rendered accessibility text as well. No prose or artwork edited.",
+    "viewport_css_pixels": [
+      1280,
+      720
+    ],
+    "body_font_css_pixels": 20,
+    "images_css_width": 960,
+    "images_css_height_approx": 354,
+    "all_three_images_loaded": true,
+    "observations": [
+      "Readable dark serif text on warm pale background; separate dialogue paragraphs preserve pauses. Section breaks mark shopping, preparations, fireworks and quiet aftermath.",
+      "Shop picture occupies its own wide row immediately after Buddy compares his quiet purchase and before loading the fireworks cart.",
+      "Door picture follows the two-paw attempt and precedes Neet recovering into attack mode; it holds the fearful beat without spoiling the respect-your-authority punchline.",
+      "Home picture follows the established rug/cushion seating and kulfi/chai paragraph, before Heather scratches ears and Buddy moves toward her knee. Closing dialogue and final flower callback remain continuous below it."
+    ]
+  },
+  "images": [
+    {
+      "path": "Productions/E069-the-festival-of-lights/scene01-shop-v005.png",
+      "sha256": "a00d64bd07597f99a588bb61c686160ea4ca5a17be9cc6dbb9da9bada77f4904",
+      "status": "accepted",
+      "exact_state": "Neet stands confidently at boxed fireworks; Buddy turns toward the offscreen cart/flower pot. Cart has already received marigold; no loose duplicate twin-flower prop or premature firework.",
+      "contribution": "Daytime confident purchase establishes visual contrast with the later frightened crouch."
+    },
+    {
+      "path": "Productions/E069-the-festival-of-lights/scene02-door-v005.png",
+      "sha256": "2046cc131df60c9dd6cd9ae48717aad458fb7cd923fca7786a178d65e1e170a5",
+      "status": "accepted",
+      "exact_state": "Buddy has one paw on the closed door; Neet crouches beside him, watching the offscreen noise. Night setting and closed barrier agree with the failed escape beat.",
+      "contribution": "Turns Buddy from commentator into an urgently acting participant; lowered Neet reverses the shop stance."
+    },
+    {
+      "path": "Productions/E069-the-festival-of-lights/scene03-home-v002.png",
+      "sha256": "315cb1f26e61e30cb375f93ed83c679ad054b98c7baebead8354fbf7e60ef07c",
+      "status": "accepted",
+      "exact_state": "Neet on rug, Buddy on separate cushion; Heather holds kulfi and Sagar chai. Neither dog has yet moved for the later ear scratching.",
+      "contribution": "Quiet horizontal domestic composition supplies visible safety and recovery after the door confrontation."
+    }
+  ],
+  "creative_assessment": {
+    "humor_and_timing": "Leaf relocation fails to satisfy Neet, Buddy follows the moving kulfi, blanket tug physically moves the self-appointed helper, and the second paw tries seniority at an indifferent door. These concrete actions complement preserved tactical-rest and respect-your-authority lines. The Kothi reversal is set up by Neet selecting precisely the loud item.",
+    "voices": "Neet is grandiose then abruptly deferential to noise; Buddy is dry but also hungry, comfort-seeking and frightened. His marigold selection becomes his own small victory. Heather is enthusiastic about sweets/lights and laughs in relief; Sagar anticipates practical purchases and supplies the deadpan General response.",
+    "cause_effect": "Morning preparation leads to two shopping stops, household setup, gradual firework escalation, sudden noise, failed door attempt, cessation and relieved return inside. Kulfi enters cart once and moves with it; the flower pot reaches the porch before its final callback.",
+    "earned_ending": "The separate quiet flower pot links Buddy\u2019s store choice, porch sniff and final non-exploding victory. The home image lets the calm arrive before the final exchange. Warmth is earned through the shared scare, without inserting a final picture after the prose landing.",
+    "complementary_images": "Three different narrative functions: confident selection, frightened retreat, domestic rest. Different postures, day/night settings and human participation prevent repetition."
+  },
+  "visual_review": {
+    "path": "Productions/E069-the-festival-of-lights/visual-review-v002.json",
+    "sha256": "269e893ad8f5b70af230d6e585921fde99606b9c64aa869fdab0b992481e2af6"
+  },
+  "material_closure": {
+    "prior_finding": "S069-V002-01",
+    "status": "resolved",
+    "evidence": "Independent visual review accepts actual door-v005 and all current images. At rendered reading size the mat behind Neet\u2019s near hindleg is clear, with upper rump nub and no additional ground-level tan tail. Current three image hashes match the accepted visual record.",
+    "story_pin_note": "Visual record cites earlier story hash f76e0ff2eefcb691cdc70a65762286b21bb29775500d19f23dd326bee9161f38. This reading review pins the actual current file and explicitly inspected its current v005 image embeds."
+  },
+  "findings": [],
+  "open_material_findings": [],
+  "approval": "unapproved",
+  "publication": "not_published",
+  "scope_limit": "Complete illustrated reading acceptance; not new owner approval or independent native-resolution anatomical clearance."
+}

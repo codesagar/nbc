@@ -1,0 +1,86 @@
+{
+  "story_id": "S067",
+  "episode_id": "E067-the-scandal-of-sweet-kulfi",
+  "version": "v002",
+  "reviewed_at": "2026-10-04T16:40:15.209226+00:00",
+  "reviewer": "fresh complete-reading reviewer /root/coordinate065_070/reader067",
+  "independence": "No story writing, image generation, visual-review authorship, or integration performed by this reviewer. Only this reading record authored.",
+  "status": "accepted",
+  "story": {
+    "path": "Stories/S067-the-scandal-of-sweet-kulfi.md",
+    "sha256": "e6c4d3e91fd4862f29d23f731b0c5d532fc652240dc1758892ead1d5d49acf14"
+  },
+  "images": [
+    {
+      "path": "Productions/E067-the-scandal-of-sweet-kulfi/scene01-v003.png",
+      "sha256": "9810e2ea7f286be7be89b1431c0d6bd7786e8d96104d2762e4d25441146dbf22",
+      "status": "accepted",
+      "anchor_after": "Neet’s ears shot up like radar dishes locking onto an incoming missile. Buddy, mid-snore, woke with a startled snort and skidded across the hardwood floor like a malfunctioning Roomba.",
+      "rendered_observation": "First image shows Neet looking up at keys and Buddy braced wide on the sunlit hardwood. No bones are prematurely present. It holds the alarm after the skid and before reassurance/blockade, establishing contrasting reactions.",
+      "display_width_css_px": 960
+    },
+    {
+      "path": "Productions/E067-the-scandal-of-sweet-kulfi/scene02-v003.png",
+      "sha256": "02da3ed0ae365d54aa6d083aa7f8ecf1159ae8753cfdd0b54740e0de7be909b0",
+      "status": "accepted",
+      "anchor_after": "Sagar shifted his weight. Neet followed the sock. Sagar stopped moving.",
+      "rendered_observation": "Second image lowers the view to the sock with Neet nose-down and Buddy calmly watching behind. It sits before the gasp and roll, making the investigation a deliberate pause without showing the later protest early.",
+      "display_width_css_px": 960
+    },
+    {
+      "path": "Productions/E067-the-scandal-of-sweet-kulfi/scene03-v003.png",
+      "sha256": "31c07c4e25ab6f34cb3466a02d3ea2182f1e5a929a000396b0370274d4455a25",
+      "status": "accepted",
+      "anchor_after": "He gave a deep, dramatic sigh, followed by a final, drawn-out hmph. Then he forgave them.",
+      "rendered_observation": "Third image shows eyes-closed Neet accepting the ear scratch on the evening path; Sagar kneels and the separate red/blue leads reach the respective dogs. Buddy is upright after his grass experiment. Warm outdoor composition resolves the tense indoor inspection and leaves the lap/feet and Buddy ending uninterrupted.",
+      "display_width_css_px": 960
+    }
+  ],
+  "rendered_inspection": {
+    "url": "http://127.0.0.1:56824/Stories/S067-the-scandal-of-sweet-kulfi.md",
+    "method": "Opened local rendered reader in background Codex browser using cua. Read complete DOM text and inspected 15 sequential overlapping viewport screenshots from heading to final refinement note, scrolling 0.65–0.85 pages at a time. Inspected each entire embedded image across overlapping views and its adjacent paragraphs. Read complete Markdown and original source separately.",
+    "viewport_css_px": [
+      1280,
+      720
+    ],
+    "body_font_css_px": 20,
+    "line_height_css_px": 34,
+    "image_width_css_px": 960,
+    "all_three_images_loaded": true,
+    "coverage": "Entire primary, all three illustrations, provenance and refinement notes; no meaningful alternative exists. No alternate was inferred from historical source wording.",
+    "layout": "Readable paragraph spacing and dialogue pauses; illustrations follow complete beats without splitting attribution. Wide images remain within reader margins; image02 spans a viewport but overlapping views expose all of it."
+  },
+  "observations": {
+    "humor_timing": "Bone distraction now visibly defeats Neet’s own blockade; Buddy stops sneezing before landing. Peanut-butter correction and lip lick puncture investigative certainty. Heather’s feet question pays off Kulfi’s nap. Buddy’s Go on without me follows a concrete belly-rub reward; trying another patch after three steps carries that discovery forward. The last line pays off his effort-saving preference.",
+    "voices_agency": "Neet’s official protocols and grievance conceal a recognizable need for reassurance. Buddy chooses pantry, tests protest, then learns attention need not require collapse. Heather participates through distraction, dry feet remark, window patience and walking limit. Sagar stays restrained and resolves through familiar touch.",
+    "cause_effect": "Keys cause alarm, bones allow departure, Kulfi marks socks, socks trigger investigation and rolling protest, Heather rewards Buddy’s imitation, and that reward motivates outdoor retesting. Neet chooses to return his head when the scratch stops; forgiveness precedes lap return.",
+    "emotion": "The ear kept toward Heather punctures the sulk tenderly. There’s still room for you affirms belonging without excluding other dogs. Home lap and Buddy’s ordinary chest rub earn distinct warm endings; suspicious feet glance preserves Neet’s theatricality.",
+    "complementary_art": "Setup alarm, close floor-level evidence inspection and open-air reassurance vary viewpoint, object focus, lighting and emotional role. All three match exact current action states; none repeats the same portrait or spoils a later incident.",
+    "source_comparison": "Original key/skid, blockade/bones, pantry, Kulfi feet nap/three turns, scent protest, window sulk, walk collapses, ear scratch, lap and final foot suspicion survive. Current Buddy agency replaces original dim-observer framing coherently; source remains recoverable. No competing primary or meaningful alternative found."
+  },
+  "evidence_read": [
+    {
+      "path": "Productions/E067-the-scandal-of-sweet-kulfi/comedy-pass-v002.json",
+      "sha256": "157a50395bec675f3f1a07f85d2dedd0d2c9b58c42ef0aaaec38642fd9f2e03e"
+    },
+    {
+      "path": "Productions/E067-the-scandal-of-sweet-kulfi/visual-review-v002.json",
+      "sha256": "ffe299f857b9a449edf7c9d7f6f7c89cb84cbafa3edd3f12d4a657b18ea1cae5"
+    },
+    {
+      "path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S067-original.txt",
+      "sha256": "f68a2b4404e86871caadf988ac851725e49bd38c7fef97648c735696d14fa21b"
+    }
+  ],
+  "material_finding_closure": {
+    "visual_review_status": "accepted",
+    "reviewed_image_hashes_match_current_files": true,
+    "story_hash_matches_visual_review": true,
+    "observed": "Current v003 bodies show smooth coat fields at reading size; scene03 has connected scratching arm/hand and separate coherent leads. Visual record reports prior finish/leash construction corrected; no contradiction or new material problem appeared in complete reading.",
+    "open_material_findings": []
+  },
+  "material_findings": [],
+  "approval": "unapproved",
+  "publication": "not_published",
+  "limitations": "Reading acceptance is independent creative review, not owner approval. Human likeness and generated style remain provisional; native-resolution photographic inspection belongs to the separate visual review."
+}

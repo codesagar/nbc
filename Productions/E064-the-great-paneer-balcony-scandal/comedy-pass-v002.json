@@ -1,0 +1,86 @@
+{
+  "story": "Stories/S064-the-great-paneer-balcony-scandal.md",
+  "previous_working": {
+    "path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S064-expanded-source/S064-the-great-paneer-balcony-scandal.md",
+    "sha256": "e1206c1f4346670056dd5fd3f7b4c5c6653d14fd937ae69806df274f6171f0d1"
+  },
+  "sources": [
+    {
+      "archive": "/Users/sagar/Documents/ChatGPT/NBC_Archives/NBC-before-reorganization-2026-10-03_182825.tar.gz",
+      "member": "NBC/02_Story_Library/ElevenLabs_Imports/reader-32-the-great-paneer-balcony-scandal.txt",
+      "sha256": "481aef09a0cc2328248cbd9f3493b1f9c78459cb2686a25e7869645f50911e3f",
+      "read_complete": true
+    }
+  ],
+  "connected_readings": [
+    "Stories/S063-the-field-trip-to-love-high-and-the-gospel-of-good-ass-prana.md",
+    "Stories/S065-the-winged-menace.md"
+  ],
+  "central_situation": "Dogs excluded from family balcony dinner negotiate cheese, then misunderstand an edible fist-bump puzzle.",
+  "wants": {
+    "Neet": "Dinner rights and reunion, attempts theatrical protest then physical fist-opening.",
+    "Buddy": "Food through good manners then practical licking, copies learning and chooses affection after rewards are gone."
+  },
+  "preserved": [
+    "17th-floor apartment sunset; signature paneer/culinary anarchy; cabinet bump; glass nose fog; pawing/collapse/whimper stages; cheddar truce and renewed protest; garlic naan training; licking, two-paw grip, nose-elbow error; POW demonstration; Neet breakthrough; Buddy repeated slap; shared reward; quiet closing fist bump."
+  ],
+  "changes": [
+    "Concrete opening expectation; cabinet disappointment instead of generic shark simile.",
+    "Buddy competes for visible good-manners position behind Neet fog.",
+    "Neet checks audience during collapse; Heather premature everybody-happy line stages truce reversal.",
+    "Buddy rationally backs second complaint after first produces cheese.",
+    "Bread exchange motivates Buddy cooperation, thumb licking creates specific failed attempt.",
+    "Heather dismantling-you line and Buddy extra-bump insurance sharpen escalation."
+  ],
+  "ending": "Preserved warm wordless empty-hand bump; no added punchline after earned affection.",
+  "variant_decisions": "No meaningful alternative present in current story or original source. None invented.",
+  "complete_reread_comparison": {
+    "complete": true,
+    "against": [
+      "previous complete working version",
+      "complete reader-32 original"
+    ],
+    "incidents_preserved": true,
+    "voice": "Third-person household narrative preserved, distinct practical Buddy and theatrical Neet.",
+    "chronology": "Connected balcony recurrence read as context only, no chronology inferred.",
+    "meaning": "Food and training historic incidents unchanged; affection and learning retained."
+  },
+  "illustration_plan": [
+    {
+      "path": "Productions/E064-the-great-paneer-balcony-scandal/balcony-v003.png",
+      "sha256": "1f56bd1fcb0fcf92f77259b179bf1cda0f93967a42abbc73c0cdd29191a00a1a",
+      "dimensions": [
+        1774,
+        887
+      ],
+      "placement_after": "\u201cWould you mind?\u201d Buddy asked. \u201cI\u2019m being good here.\u201d",
+      "alt_text": "Neet watches dinner through the closed glass while Buddy sits politely beside him.",
+      "status": "pending_independent_visual_review"
+    },
+    {
+      "path": "Productions/E064-the-great-paneer-balcony-scandal/training-v003.png",
+      "sha256": "0967d78d35b4bbd1aded49e74719a55b0025e613e354f83b5301ed4bb60f9429",
+      "dimensions": [
+        1448,
+        1086
+      ],
+      "placement_after": "\u201cNow they\u2019re dismantling you,\u201d Heather said, keeping the camera steady with both hands.",
+      "alt_text": "Neet braces both paws on Sagar\u2019s fist while Buddy noses his elbow.",
+      "status": "pending_independent_visual_review"
+    },
+    {
+      "path": "Productions/E064-the-great-paneer-balcony-scandal/payoff-v003.png",
+      "sha256": "58be2db01ea050c1efac20f685bd08ba3c64cbb5a84eef3e94c976a2c9c4b0ec",
+      "dimensions": [
+        1774,
+        887
+      ],
+      "placement_after": "Buddy\u2019s paw touched Sagar\u2019s closed hand. There was no naan left in it, but Sagar bumped him back.",
+      "alt_text": "Buddy rests on the rug and gently touches Sagar\u2019s empty fist with one paw.",
+      "status": "pending_independent_visual_review"
+    }
+  ],
+  "story_sha256": "198413a49287f88206290c5e8ad4e5fec277e7e62a56ca6e087c320fdcb191c8",
+  "approval": "unapproved",
+  "publication": "not_published"
+}

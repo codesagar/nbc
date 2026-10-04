@@ -1,0 +1,84 @@
+{
+  "story_id": "S026",
+  "version": "reading-review-v002",
+  "reviewer": "fresh complete-reading reviewer reader026; did not write prose or generate artwork",
+  "reviewed_at": "2026-10-04T08:24:00.809383+00:00",
+  "status": "accepted",
+  "story": {
+    "path": "Stories/S026-the-homecoming-blues.md",
+    "sha256": "ff553fe3a1a6cee4a363265f1a15e700525f8d0b6a8a8c19f915ea81f0057eb5"
+  },
+  "images": [
+    {
+      "path": "Productions/E026-the-homecoming-blues/spice-art-v002.png",
+      "sha256": "ea5ed5239a10eb47e1e6bf14118bf053b448e987a5bc051b477deb2e905c6763"
+    },
+    {
+      "path": "Productions/E026-the-homecoming-blues/dance-art-v004.png",
+      "sha256": "175f2a74c6e27d324e001d27438e27d2391c9d9e621a45a5fd1ee24437a34ed6"
+    },
+    {
+      "path": "Productions/E026-the-homecoming-blues/rain-art-v002.png",
+      "sha256": "b2ce5153d657650cbbba658f25eac48d2217e6ff764f1eb77c2be925e1977c40"
+    }
+  ],
+  "method": {
+    "url": "http://127.0.0.1:56824/Stories/S026-the-homecoming-blues.md",
+    "surface": "Codex in-app browser, cua; sequential overlapping viewport screenshots and full accessibility text",
+    "viewport": {
+      "width": 1280,
+      "height": 720
+    },
+    "body_font_px": 20,
+    "image_display_width_px": 960,
+    "image_display_heights_px": [
+      640,
+      720,
+      640
+    ],
+    "coverage": "Read entire rendered opening, all five titled scenes, all three embedded illustrations, complete ending, refinement record and both provenance entries. All images visibly loaded. No meaningful alternative is embedded; comedy record identifies source differences as wrappers/punctuation only.",
+    "evidence": "Observed opening at top, spice setup and image across consecutive views, entire crossing vignette, dance setup/full picture/paw-switch, complete chai exchange, complete monsoon setup/full rain picture, outdoor ending and provenance bottom. No prose or artwork edits."
+  },
+  "reviewed_records": [
+    {
+      "path": "Productions/E026-the-homecoming-blues/comedy-pass-v002.json",
+      "sha256": "5c3c6e81f9cfd2db6ef9c08a528974fb0d3ff4debf05e74940737c4d3e369d57"
+    },
+    {
+      "path": "Productions/E026-the-homecoming-blues/visual-review-v002.json",
+      "sha256": "452b59f7603e10cb817d163f7c82afb7c863b617acfcd42e83b9416c98b76237"
+    }
+  ],
+  "observations": {
+    "humor_and_timing": [
+      "The refrigerator/bird pause gives Neet\u2019s louder sigh room before Buddy\u2019s quiet putting up a fight response.",
+      "Salt-and-pepper rescue party is specific physical comedy; the picture holds the inadequate offering before cumin instantly wins both dogs.",
+      "The polite minivan reverses Neet\u2019s traffic nostalgia, while Heather\u2019s Accept graciously lands as an economical human response.",
+      "Buddy voluntarily joins the dance, and the pictured first raised paw makes the subsequent wrong-paw reversal readable.",
+      "The chai cup collision creates Buddy\u2019s own mistake and a shared complaint; Heather\u2019s less washing up keeps the exasperation affectionate."
+    ],
+    "voices_and_causality": "Neet treats ordinary home life as disappointment and then as a judging mission; Buddy wants workable pleasures and initiates food help, safe crossing, dance and the final walk. Heather is practical and playful. Vignettes progress from comparison through shared participation to actual curiosity; the historic Heather-and-dogs household remains intact.",
+    "image_states": [
+      {
+        "path": "Productions/E026-the-homecoming-blues/spice-art-v002.png",
+        "finding": "Two upright shakers remain on the floor, Buddy noses toward them, Neet looks skeptically, Heather searches cabinet. Correct before cumin discovery; no later state spoiler."
+      },
+      {
+        "path": "Productions/E026-the-homecoming-blues/dance-art-v004.png",
+        "finding": "Both dogs have lifted forepaws, Neet faces Buddy in correction, TV dancers establish the activity. Placed after Buddy joins and before he changes paws; Heather is not shown already seated before the next text says she sits."
+      },
+      {
+        "path": "Productions/E026-the-homecoming-blues/rain-art-v002.png",
+        "finding": "Neet remains at window, Buddy waits at closed door, Heather holds unattached leashes. Correct before Neet joins him and before outside sniffing."
+      }
+    ],
+    "enrichment": "Kitchen low view supplies the small-object gag; living-room full-body staging supplies a physical exchange; the window/door composition separates longing from invitation. These are three distinct narrative functions, not repeated portraits.",
+    "payoff": "Too early to condemn it carries Neet\u2019s judgmental voice into a genuine willingness to sniff local grass. Buddy\u2019s action earns this modest change; Heather letting them take their time preserves warmth without overexplaining. The image precedes the outdoor closing beat, leaving the final joke uninterrupted.",
+    "closure": "Independent visual review accepts these exact three hashes with no open material findings. At reading size no contradictory state, missing image, unreadable text, disrupted attribution or new material visual/story finding appeared."
+  },
+  "material_findings": [],
+  "open_findings": [],
+  "limits": "Complete illustrated reading acceptance applies to pinned bytes, distinct from owner approval or publication. Human likeness and generated style remain provisional. Native-resolution photographic anatomy review is recorded separately in visual-review-v002.json.",
+  "approval": "unapproved",
+  "publication": "not_published"
+}

@@ -1,0 +1,60 @@
+{
+  "story_id": "S022",
+  "previous_working_sha256": "cd42d4fe4c142b46efa4cf0b3466aaf963c8595f258cb9cf46d8517859d8de47",
+  "archive": "/Users/sagar/Documents/ChatGPT/NBC_Archives/NBC-before-expanded-refinement-2026-10-04_035505Z.tar.gz",
+  "source_comparison": [
+    "Read complete legacy-ch23 and reader-47; same events, acquisition formatting differences only. No distinct meaningful alternative.",
+    "Read connected S021 and S023 in full; preserve S021 return-before-transit contradiction and Heather-only travelling household."
+  ],
+  "wants": {
+    "Neet": "Exploit unlimited food and establish status",
+    "Buddy": "Make a comfortable uninterrupted nap possible"
+  },
+  "preserved": [
+    "part of me now samosa",
+    "recliner accidental button",
+    "wedged chairs and Heather rescue",
+    "AI-317 two-hour delay and define raid",
+    "shiny watch confrontation",
+    "stolen breadstick surrendered at aircraft door"
+  ],
+  "changes": [
+    "Buddy explicitly positions away from buffet then chooses to face Neet at ending",
+    "Buddy claims the accidental recline and removes paw from buttons",
+    "Neet half-step concealment fails because evidence follows mouth",
+    "Cuff hides watch but exposes cufflinks when espresso lifts",
+    "Resolved original about-to-snatch versus already-mid-bite timing into bites-then-freezes."
+  ],
+  "ending": "Affectionate practical adaptation to travelling with Neet, no ban invented",
+  "full_reread_comparison": "Complete primary reread after edits against previous working and both originals: all incidents remain in order; brief additions sharpen physical reaction and callback without changing destination or source choices. Previous reduction of cruel laughter retained.",
+  "variant_decisions": "No meaningful alternative in S022; connected S021 lounge omitted alternative belongs there.",
+  "art_plan": [
+    {
+      "scene": "samosa",
+      "anchor": "The samosa came with him.",
+      "contribution": "Caught mouth-level evidence versus attempted sidestep"
+    },
+    {
+      "scene": "recliner",
+      "anchor": "quiet snort.",
+      "contribution": "Retain existing predicament composition with material coat correction"
+    },
+    {
+      "scene": "watch",
+      "anchor": "Neet discovered the cufflinks.",
+      "contribution": "Status contest becomes renewed fixation on second shiny object"
+    }
+  ],
+  "approval": "unapproved",
+  "story_sha256": "a62e7f353864191dfe29020915ef6e89e6852a59ebd74645675b067ade6bc782",
+  "sources": [
+    {
+      "id": "legacy-ch23",
+      "sha256": "399d4c0ae926ddfd2980b95f5cd6204855dd1e92b37ef6f91686ea2b45c6a01e"
+    },
+    {
+      "id": "elevenlabs-reader-47",
+      "sha256": "2507a2e0e883958707cb9ed2225c9e2aab23b4debba1eb698c2a7aad4c9a63a1"
+    }
+  ]
+}

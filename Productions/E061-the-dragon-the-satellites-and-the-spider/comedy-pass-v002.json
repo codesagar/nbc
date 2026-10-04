@@ -1,0 +1,67 @@
+{
+  "story": "S061",
+  "version": "v002",
+  "status": "revised_pending_independent_reviews",
+  "source_read_in_full": true,
+  "sources": [
+    {
+      "path": "Stories/S061-the-dragon-the-satellites-and-the-spider.md",
+      "prior_sha256": "e6e3055c8fe7c94576e8d33431f70b62700ac644e44cfffc50a8ffd518d5ce99"
+    },
+    {
+      "path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S061-original-expanded.txt",
+      "sha256": "330b839cd9ac63d133689f321f5e945b300f17ea9f5acee444b8b4ee67c0d657"
+    },
+    {
+      "path": "Stories/S035-the-great-fire-noodles-chiku-shake-meltdown.md",
+      "sha256": "3efbf14799024db4a91261f2813535bae6642943813eac4a8607b0d46060767f"
+    },
+    {
+      "path": "Stories/S060-the-barkgpt-protocol.md",
+      "sha256": "fd2c643cc9650aac40638c9687c04eba53e9cc5da172a56d675cf73635b2ef28"
+    }
+  ],
+  "comic_situation": "Neet predicts every movement of the household but is defeated by lunch and then joy; Buddy wants food and safe passage and makes one disastrous curious approach.",
+  "wants": {
+    "Neet": "Command shopping intelligence, inspect food, monopolize spider.",
+    "Buddy": "Enjoy dosa, keep a ball, satisfy curiosity, then preserve tail and obtain safe passage and dinner."
+  },
+  "preserved": [
+    "Mission control bone, remote and tennis balls; Satellite Omega-9, Target and fifteen minute ETA.",
+    "Temple dosa, onion uttapam, vada, coconut and green chutney. Literal cartoon fire NOT imagination.",
+    "Buddy approaches fascinated, is singed on fur tips, races calling FLAMING JUSTICE; Heather water and Sagar assistance; priest jug.",
+    "Six-legged plush spider, squeakers, fifteen-minute multiroom chase, refused hall block and fire-pit line.",
+    "Uttapam/yogurt peace, spider supremacy toast, quiet joyful household."
+  ],
+  "changes": [
+    "Buddy removes Houston ball and lies on it; Neet adjusts ineffective bone dish.",
+    "Makes Buddy curiosity explicit to motivate his mistake.",
+    "Sagar accepts extra water without arguing about order size.",
+    "Buddy accepts treat but declines interception; Heather participates.",
+    "Squeak delays Buddy crossing; he gets across independently.",
+    "Buddy now checks both portions; Neet waits, earning a small affectionate reconciliation."
+  ],
+  "ending": "Original singed but joyful sleep and reachable water jug retained.",
+  "alternatives": {
+    "found": false,
+    "assessment": "Complete original reader text has no meaningful competing scene or ending. Trailing acquisition question is source wrapper, not a variant."
+  },
+  "adaptation_choices": [
+    "Fire remains literal cartoon fantasy, with small flame illustration before singe; photographic dog anatomy is preserved and no wings/scales added.",
+    "Historical four-person household and temple setting retained; chronology not asserted.",
+    "Short smooth coats use broad washes; prior image composition preserved through coat-only replacement. Generated models are interpretation, not anatomy authority.",
+    "Human likeness provisional."
+  ],
+  "complete_reread_comparison": {
+    "status": "complete_artist_reread_after_embedding",
+    "findings": [
+      "All four sections compared to original and prior working edition; named foods, six legs, fire and fifteen-minute chase retained.",
+      "New short physical pauses replace no source incident; no imported Sage dialogue or chili-noodle scenario.",
+      "No variants combined or physical contradictions silently normalized.",
+      "Three images placed after actual states: map-ball rest before roll, first flame before closer approach/singe, spider passing before collapse. Whole prose reread; ending unobstructed. Fresh independent rendered reading pending."
+    ]
+  },
+  "approval": "unapproved",
+  "publication": "not_published",
+  "final_story_sha256": "e3c168192042e9e05d0b4183cef5b1b78fcbaf1be0de22d387f30202e8f69f69"
+}

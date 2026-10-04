@@ -1,0 +1,104 @@
+{
+  "story_id": "S041",
+  "episode_id": "E041",
+  "review_version": "v002",
+  "date": "2026-10-04",
+  "reviewer": "fresh complete-reading reader041",
+  "independent_of_story_and_art_generation": true,
+  "status": "accepted",
+  "story": {
+    "path": "Stories/S041-the-epic-furniture-fiesta.md",
+    "sha256": "de0daa43cf9b06e985ad6b6fffe212140b05af77ed1ceb33c35e617b3e4ab556"
+  },
+  "images": [
+    {
+      "path": "Productions/E041-the-epic-furniture-fiesta/showroom-art-v006.png",
+      "sha256": "6861709d755102ceac381078159a8a3c6314e7dc68bb0fc93597b4f54325e45a"
+    },
+    {
+      "path": "Productions/E041-the-epic-furniture-fiesta/curtain-art-v004.png",
+      "sha256": "bf0e9da210aad8f3ecace10c540b25526d1b2494b63f2b097ea7fa0607429f90"
+    },
+    {
+      "path": "Productions/E041-the-epic-furniture-fiesta/captain-art-v005.png",
+      "sha256": "7706ca64f223ce71513d61b5ab76d715655940618010a3b2d59effc0262ae229"
+    },
+    {
+      "path": "Productions/E041-the-epic-furniture-fiesta/desk-art-v005.png",
+      "sha256": "01ff199520d3fbb2d02c22e4f0ef18685aa1054a795102d73aeb313a939182b3"
+    },
+    {
+      "path": "Productions/E041-the-epic-furniture-fiesta/shrine-art-v005.png",
+      "sha256": "096f0d7926a70b6fe7ab3723726679ebad73c96d99993c2c6e35a4be708a0627"
+    }
+  ],
+  "complete_primary_read": true,
+  "meaningful_alternatives": {
+    "present": false,
+    "assessment": "No separately labeled meaningful alternative appears in the complete rendered story; all nine acts, ending, provenance and refinement record read."
+  },
+  "rendered_inspection": {
+    "url": "http://127.0.0.1:56824/Stories/S041-the-epic-furniture-fiesta.md",
+    "method": "Codex in-app browser, normal 1280x720 viewport. Read full accessibility text and then scrolled continuously from title through final refinement paragraph using overlapping viewport screenshots. Inspected all five embedded illustrations at intended 960px display width, including image bottoms and adjacent state anchors. No browser zoom or viewport override.",
+    "coverage": "Acts I-IX, all five images, ending, source SHA/provenance, refinement record.",
+    "not_claimed": "This is complete illustrated reading-size review; independent native-resolution anatomy review is separately pinned below."
+  },
+  "observations": [
+    {
+      "area": "Comedy and voices",
+      "evidence": "The empty-room paw echo turns Buddy dancing into Neet suspecting a follower. Neet converts cushions, bunks and a standing desk into official duties; Buddy chooses comfort, cheese-colored curtains, Captain's nap training and dinner delivery. The repeated inspection language is motivated by changing objects rather than an unrelated catchphrase.",
+      "judgment": "Distinct wants and voices remain clear; physical reversals carry comedy between dialogue."
+    },
+    {
+      "area": "Timing and human participation",
+      "evidence": "Heather lifts the pillow before Buddy shuts his eyes to pass as a cushion; the image waits until Neet rises. Curtain occlusion lands after Visibility compromised and before Buddy releases the fabric. Sagar's Separately reminder pays off the abandoned bunk claim; Heather's screwdriver has just turned the corner line makes her a participant.",
+      "judgment": "Readable pauses and causally placed pictures preserve the jokes."
+    },
+    {
+      "area": "Cause, pacing and emotional payoff",
+      "evidence": "Empty home leads to shop testing, dissatisfaction leads to local shop, selection leads to assembly, and the stolen screwdriver returns at the quiet office threshold. The puja is given space without a picture interrupting it. Final sofa rest reverses Heather's earlier need to remove Buddy from the showroom: this time she leaves him. Neither inspector submitted a report closes the official-work pretense.",
+      "judgment": "Earned happy homecoming; quiet ending and humor coexist."
+    }
+  ],
+  "image_state_checks": [
+    {
+      "path": "Productions/E041-the-epic-furniture-fiesta/showroom-art-v006.png",
+      "state": "After Buddy shuts his eyes and Neet rises to test next cushion.",
+      "observed": "Buddy reclines eyes closed among cushions; Neet stands on adjacent cushion. No later home state is introduced. Closed eyelids and stillness sell cushion camouflage; furnished muzzle is readable."
+    },
+    {
+      "path": "Productions/E041-the-epic-furniture-fiesta/curtain-art-v004.png",
+      "state": "Before Buddy lets go and Neet ears reappear.",
+      "observed": "Buddy grips orange hem from lower mattress; blue curtain conceals Neet entire head on upper bunk. Visible rear half gives the visual joke a clear cause without showing the release too early."
+    },
+    {
+      "path": "Productions/E041-the-epic-furniture-fiesta/captain-art-v005.png",
+      "state": "After both Captain and Buddy lower their chins.",
+      "observed": "Large golden Captain and Buddy mirror chin-down rug postures, with standing skeptical Neet between them. It enriches the security-method contrast rather than repeating showroom sleep."
+    },
+    {
+      "path": "Productions/E041-the-epic-furniture-fiesta/desk-art-v005.png",
+      "state": "After Buddy waits through another desk rise and fall.",
+      "observed": "Neet stands on desk; Buddy looks upward from floor; Sagar operates control and Heather holds phone. Assembly boxes establish setting and height difference makes the proposed dinner elevator funny."
+    },
+    {
+      "path": "Productions/E041-the-epic-furniture-fiesta/shrine-art-v005.png",
+      "state": "After Buddy puts screwdriver down at doorway, before Sagar sets it aside and before Act VIII lights diya.",
+      "observed": "Tool lies by threshold, dogs sit, humans arrange shrine, fairy-light points glow but lamp bowls show no flame. Rear-view quiet composition changes tempo and resolves tool subplot without premature puja."
+    }
+  ],
+  "complementary_contributions": "Five scenes span comfort strategy, physical occlusion, social imitation, mechanical height gag and quiet family participation. Settings, poses and compositions vary; last two prose acts retain room for blessing, meal and couch payoff.",
+  "visual_findings_closure": {
+    "review_path": "Productions/E041-the-epic-furniture-fiesta/visual-review-v002.json",
+    "review_sha256": "c41f3b08f00864ce04b808158dcc92adb1ed4d4b7bcdd56c0dbfa795c2d47b95",
+    "status": "accepted",
+    "image_pins_match": true,
+    "evidence": "Current showroom v006, captain v005 and desk v005 show regional pale muzzle furnishing at reading size, alongside smooth dark body coats. Curtain v004 and shrine v005 remain current accepted pins. Independent review records whole-replacement closure of former oversmoothed Buddy face findings; this reading found no recurrence or state contradiction."
+  },
+  "material_findings": [],
+  "open_findings": [],
+  "nonblocking_integration_note": "The historical refinement paragraph still says proposed illustrations await reviews. Once integration is complete, coordinator may update delivery/status wording; this is not an unresolved narrative or visual defect and does not alter current review pins.",
+  "approval": "unapproved",
+  "publication": "not_published",
+  "style_and_human_likeness": "provisional"
+}

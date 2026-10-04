@@ -1,0 +1,15 @@
+{
+  "id": "stairs-art-v003",
+  "arguments": {
+    "prompt": "Use case: precise-object-edit. Image1 stair target. Preserve entire composition and the new perfectly SMOOTH FLAT BODY COATS unchanged. Correct Buddy's FACE ONLY to match original Buddy photo images2-3: he needs pale irregular projecting moustache with a small beard hanging below chin, light curved brows, and modest localized strands at pendant ear edges. Current target mistakenly erased his beard and now looks like a smooth-faced hound. Restore the photographed facial furnishing without enlarging his skull. Keep nose pointing at leaf, all neck/torso/legs positions. Also make his tail predominantly DARK charcoal slender taper with only modest dark fringe; remove large pale underside tail fringe. No other change. Neet completely unchanged. No fur texture in torso/neck/legs. No long coat or curls. Original Buddy29 and Buddy4 are sole authority within photographic limits; one exposure each, B04/B24 same exposure. N35 anatomy excluded, B08 styling unused, B25 unavailable, B30 rest unused. No letters.",
+    "referenced_image_paths": [
+      "/Users/sagar/Documents/ChatGPT/NBC/Productions/E042-the-day-the-bark-stood-still/stairs-art-v002.png",
+      "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+      "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg"
+    ],
+    "transparent_background": false
+  },
+  "output_hint": "Generated images are saved to /Users/sagar/.codex/generated_images/01a106ae-28b6-7823-abb8-5c08fed53cca as /Users/sagar/.codex/generated_images/01a106ae-28b6-7823-abb8-5c08fed53cca/exec-17b492e0-ff6a-4baa-8b0e-7013bb0c9490.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+  "model": "unknown",
+  "seed": "unknown"
+}

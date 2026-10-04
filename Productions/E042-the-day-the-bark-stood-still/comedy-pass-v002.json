@@ -1,0 +1,128 @@
+{
+  "story_id": "S042",
+  "status": "second_comedy_pass_complete_pending_independent_reading",
+  "sources": [
+    {
+      "path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S042/original.txt",
+      "sha256": "ff7f6a9a6ebc764faaea1f69f9bc6dc42876b89ee8f6c1f3a775e84765a00330",
+      "read_complete": true
+    },
+    {
+      "path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S042/pre-first-refinement-story.md",
+      "sha256": "73db1d8e9c28e6c82f0dbbd0692b115a50274afba1a2dc57ef57fd582d7e613b",
+      "read_complete": true
+    },
+    {
+      "path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S042/pre-expanded-story.md",
+      "sha256": "336efb9ac5b00069a1bdd3ef1855c3f9aebd7af6bb744132ffb60c43249bed62",
+      "read_complete": true
+    },
+    {
+      "path": "/Users/sagar/Documents/ChatGPT/NBC/Stories/S041-the-epic-furniture-fiesta.md",
+      "sha256": "c387c215d14558f9a5388362ebb0686fdd96ae3c866ef67f3eb7c2d594079a7a",
+      "read_complete": true
+    },
+    {
+      "path": "/Users/sagar/Documents/ChatGPT/NBC/Stories/S043-the-great-laundry-day-uprising.md",
+      "sha256": "649d8dc7d3a5ae9a0e39e41e071fc9170ce2d6a7ab9a23adf32971fc4f9af595",
+      "read_complete": true
+    }
+  ],
+  "current_story": {
+    "path": "Stories/S042-the-day-the-bark-stood-still.md",
+    "sha256": "96fc2d22e34bac7a08e9ee7dbeeece0219a437f507e7e58f3d70b79162d6eea5"
+  },
+  "central_situation": "Neet practices selective quiet for one Austin family day while Buddy feels obliged to fill the barking vacancy.",
+  "intended_feeling": "Happy affectionate comedy followed by earned shared rest.",
+  "wants": {
+    "Neet": "Remain the general while exercising his new calm; retain pleasure and selective exceptions.",
+    "Buddy": "Answer unanswered neighbors, catch dropped food, and climb at his own pace; eventually choose rest."
+  },
+  "preserved": [
+    "4.75-star rank and missing Santa quarter-star, not normalized to 4.9",
+    "Center Mode month, breakfast trio, Martha/Sally bark pressure",
+    "Acorn inspection and supportive low woof; retreat to patio",
+    "Dal/okra and family nap; stone stairs, leaf pauses, Colorado River sunset and retriever shoulder sniff",
+    "Pav bhaji preparation, napkin deputy, counter viewing and smell of joy",
+    "Squirrel/vacuum/mailman exceptions and quiet final eye-close"
+  ],
+  "actual_changes": [
+    "Buddy sleeping through Santa adds an economical contrasting tactical choice; new authorial embellishment, not historical claim.",
+    "Heather lowers glass with comic care; Buddy declares nearly finished just as neighbors restart and accelerates retreat.",
+    "Clarified arguing alone means his side of fence, avoiding contradiction with noisy sisters.",
+    "Added caught-okra disappointment, contrasting Neet's effortless composure at safe distance.",
+    "Dramatized existing leaf pauses as Buddy's deliberate breathing break.",
+    "Heather corrects napkin stack after deputy promotion, quietly puncturing Neet's triumph.",
+    "Removed tail-level phrasing unsupported by tiny nub, retaining serene posture. Deferred patio movement until after supportive woof to make acorn illustration state exact."
+  ],
+  "original_to_prior_comparison": [
+    "Original acorn chewing was already changed to nosing in first refinement; preserved that explicit editorial choice rather than silently claiming original action.",
+    "Original long little-brother sermon became concise acorn callback in first refinement; retained working brevity and original three exceptions.",
+    "Original declarative Zen-master ending became observed Buddy eye-close in first refinement; retained stronger shared choice with squirrel coda.",
+    "No distinct alternate narrative: original trailing offer to expand is acquisition/generation wrapper, not a story alternative."
+  ],
+  "variants": {
+    "meaningful_alternatives": [],
+    "separate_art_required": false,
+    "reason": "Single captured primary; no competing incident/pronoun/notice/ending version in working story."
+  },
+  "connected_context": "S041 full furniture acquisition/assembly explains first weekend without assembly here; S043 maintains new Austin home and comfort priorities. Shelf ordering is not verified chronology.",
+  "complete_reread": {
+    "done": true,
+    "scope": "Entire final primary including three image anchors and provenance, compared with entire previous working, pre-first-refinement and original captured narrative.",
+    "findings": [
+      "All seven acts and historical four-person household preserved.",
+      "No consequential original incident lost beyond documented earlier acorn treatment; no variant blend.",
+      "Added brief beats rather than large expansion; nap/sunset/evening emotional breathing room retained.",
+      "Morning image before supportive woof, midday image while okra still held, stair image before summit; evening unchanged except napkin repair beat."
+    ],
+    "independent_reading": "pending"
+  },
+  "image_plan": [
+    {
+      "path": "morning-art-v004.png",
+      "contribution": "Calm acorn versus barking contrast",
+      "anchor": "After Buddy counter-attack and before Neet supportive woof"
+    },
+    {
+      "path": "kitchen-art-v003.png",
+      "contribution": "Caught-okra disappointment and distant calm",
+      "anchor": "After doorway Center Mode observation before lunch nap"
+    },
+    {
+      "path": "stairs-art-v006.png",
+      "contribution": "Leaf inspection as deliberate breathing break",
+      "anchor": "After Still a leaf before summit"
+    }
+  ],
+  "approval": "unapproved",
+  "publication": "not_published",
+  "supplemental_connected_reread": {
+    "records": [
+      {
+        "path": "Stories/S041-the-epic-furniture-fiesta.md",
+        "sha256": "2fb17b5c1f43e93701bcb5e2ce7d2cd19300e10b250e974a3b38d6da7e3be66a",
+        "exact_read_bytes": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S042/supplemental-2fb17b5c1f43-S041-the-epic-furniture-fiesta.md",
+        "timestamp_utc": "2026-10-04T11:47:33.378337+00:00",
+        "read_complete": true
+      },
+      {
+        "path": "Stories/S043-the-great-laundry-day-uprising.md",
+        "sha256": "649d8dc7d3a5ae9a0e39e41e071fc9170ce2d6a7ab9a23adf32971fc4f9af595",
+        "exact_read_bytes": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S042/supplemental-649d8dc7d3a5-S043-the-great-laundry-day-uprising.md",
+        "timestamp_utc": "2026-10-04T11:47:33.378795+00:00",
+        "read_complete": true
+      }
+    ],
+    "initial_pin_caveat": "Initial connected-story source pins were computed after the original readings during concurrent edits; the initially read S041 byte hash is unknown. These explicit supplemental rereads do not retroactively establish it.",
+    "result": "Current S041 retains furniture assembly, four-member household, new sofa and quiet shared completion; compatible with S042 first free weekend. S043 remains laundry comfort comedy, consistent with household.",
+    "S043_previous_pin_matches": true
+  },
+  "post_review_art_repair": {
+    "date": "2026-10-04T11:52:33.772341+00:00",
+    "prose_unchanged": true,
+    "story_hash_change": "Two embedded image version paths only.",
+    "visual_reinspection": "pending",
+    "complete_reading": "pending"
+  }
+}

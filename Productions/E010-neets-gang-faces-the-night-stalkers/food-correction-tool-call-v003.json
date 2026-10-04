@@ -1,0 +1,11 @@
+{
+  "arguments": {
+    "prompt": "Use case: precise-object-edit. Image1 is EDIT TARGET; image2 is PROP CONTINUITY reference ONLY. In image1 replace ONLY foreground food pile on cloth with exactly the type shown in image2: one prominent pale cream cheese-like block with a few small holes and round brown food pieces clustered around its base. Remove every pale bone-shaped biscuit and irregular kibble piece. Match image2 cheese block plus round brown pieces to image1 warm light/perspective. Preserve image1 cloth and every other pixel/compositional feature as closely as possible: all three dogs, exact poses and four-foot support, faces, continuous anatomy, smooth flat coats, Buddy furnished muzzle/brows/ears/paws, stone, tree, moonless sky and streetlamp. Do not restyle or add texture, especially no curled/engraved strands on smooth Neet or Buddy torso. No text or extra objects. Do not copy any dogs or scene from image2. This is a small local food correction only.",
+    "referenced_image_paths": [
+      "/Users/sagar/Documents/ChatGPT/NBC/Productions/E010-neets-gang-faces-the-night-stalkers/illustration-v002.png",
+      "/Users/sagar/Documents/ChatGPT/NBC/Productions/E010-neets-gang-faces-the-night-stalkers/inspection-art-v002.png"
+    ],
+    "transparent_background": false
+  },
+  "output_hint": "Generated images are saved to /Users/sagar/.codex/generated_images/01a10553-54f0-7971-8a9d-1703f5c5d9b4 as /Users/sagar/.codex/generated_images/01a10553-54f0-7971-8a9d-1703f5c5d9b4/exec-41f78553-f26b-4802-80c3-335ba7d6576e.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+}

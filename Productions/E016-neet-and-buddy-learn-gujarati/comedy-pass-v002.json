@@ -1,0 +1,77 @@
+{
+  "story_id": "S016",
+  "status": "written_pending_independent_reading",
+  "sources": [
+    {
+      "path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S016-expanded-input/story-before-v002.md",
+      "sha256": "93cfc7e8a5ad4464cd14d05ba5aecbf0079aa57c3d6ac57382c9dd9d8072a653",
+      "role": "complete immediately prior working story"
+    },
+    {
+      "archive": "/Users/sagar/Documents/ChatGPT/NBC_Archives/NBC-before-reorganization-2026-10-03_182825.tar.gz",
+      "member": "NBC/02_Story_Library/Legacy_Chapters/17-neet-and-buddy-learn-gujarati.md",
+      "sha256": "c53115db8952b42effb34fcca033f70c8e29799a6673cd08d17dd6db83a292db",
+      "role": "complete original"
+    },
+    {
+      "path": "Stories/S015-the-dazzling-dog-fashion-show.md",
+      "sha256": "874b753398fda7c8cb0de21b3136a624b4d0fd2167eaffe035e393eb279a66de",
+      "role": "complete connected preceding fashion show read"
+    }
+  ],
+  "central_comic_situation": "Neet hears a food order in every lesson; even earnest Buddy cannot entirely ignore the crumbs.",
+  "intended_feeling": "Affectionate cheerful persistence, language mistakes located in Neet rather than mocking Gujarati.",
+  "wants": {
+    "Neet": "Obtain food by mastering the useful words",
+    "Buddy": "Learn one greeting, enjoy the morning and earn quiet attention"
+  },
+  "preserved_jokes_incidents": [
+    "Fashion-show opening and Heather historical household",
+    "Chirag multilingual for food, bench and samosa",
+    "Kem cheeese then kimchi",
+    "Mango ko rock joy chair",
+    "Babu Sharif invented person",
+    "Cheese toast mock-test and report to Heather",
+    "Buddy chin-down laughter and successful greeting",
+    "Mango reappears on walk home"
+  ],
+  "actual_changes": [
+    "Neet tracks samosa paw as evidence teacher gets results",
+    "Food lesson prompts one careful step toward bench",
+    "Buddy stands for test but crumb distraction nearly makes him say cheese; recovers without flattening competence",
+    "Heather rewards Buddy with ear scratch after lesson",
+    "Neet claims smaller mango demonstrates improvement",
+    "Replaced unsupported temple rubbing with paw placement"
+  ],
+  "ending": "Smaller mango callback preserves determination rather than instant fluency.",
+  "variant_decisions": {
+    "meaningful_alternatives": [],
+    "decision": "Only sole legacy Chapter17 primary identified; no competing alternative merged."
+  },
+  "full_comparison": {
+    "complete_current_original_connected_read": true,
+    "complete_revision_reread": true,
+    "observations": [
+      "Every original food-word error remains in original order and original Gujarati strings/glosses unchanged; no newly certified language instruction claimed.",
+      "Original repeated hysterics and close enough remain historical prior-pass decisions: current Buddy competence retained and tested by his own near-error.",
+      "No new household member or fashion-show chronology asserted.",
+      "Short story stays short; two distinct images selected to avoid crowding roughly 600-word narrative. Middle lesson image and final human comfort are complementary; a second bench-class image would repeat staging.",
+      "Original eager tail language remains prose voice; artwork obeys photographic nub.",
+      "Quiet affectionate scratch supports Buddy independent reward; final spoken joke remains Neet."
+    ]
+  },
+  "illustration_plan": [
+    {
+      "path": "lesson-art-v003.png",
+      "anchor": "After Try it without imagining the menu.",
+      "state": "Buddy chin down between paws, Neet still answering Chirag on bench; preserve existing composition with body finish repair."
+    },
+    {
+      "path": "closing-art-v002.png",
+      "anchor": "After one usable greeting and a scratch seemed a respectable morning\u2019s work.",
+      "state": "Heather stopped to scratch Buddy; both dogs standing on path before Neet next attempt."
+    }
+  ],
+  "approval": "unapproved",
+  "story_sha256": "011a67329c00d6b04fb39495bf044a78864312412f63343283b9d98ca573a954"
+}

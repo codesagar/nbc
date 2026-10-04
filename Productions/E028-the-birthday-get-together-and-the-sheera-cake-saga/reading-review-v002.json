@@ -1,0 +1,117 @@
+{
+  "story_id": "S028",
+  "review_version": "v002",
+  "reviewer": "fresh_reader028",
+  "date": "2026-10-04",
+  "status": "accepted",
+  "independent_of_writing_and_generation": true,
+  "story": {
+    "path": "Stories/S028-the-birthday-get-together-and-the-sheera-cake-saga.md",
+    "sha256": "9b7c53b899e8990fb3336be4ccb07f28b3ee8e61455c705e804ecd84366d9d69"
+  },
+  "images": [
+    {
+      "path": "Productions/E028-the-birthday-get-together-and-the-sheera-cake-saga/setup-v004.png",
+      "sha256": "e79df6041b6d5bb20438b7fc93b92fe4920b159b1a5c82271435cfcbf2e88a7a"
+    },
+    {
+      "path": "Productions/E028-the-birthday-get-together-and-the-sheera-cake-saga/ankle-v003.png",
+      "sha256": "42d580d4dc04e3e41a45e3b9f053993f0ec0b1c676d7bde3801ff3365b83f278"
+    },
+    {
+      "path": "Productions/E028-the-birthday-get-together-and-the-sheera-cake-saga/cake-v002.png",
+      "sha256": "af259cea1e2b3d05407232aba5c04bf1a29b119a6bcb9785cff40ce87a3deb45"
+    }
+  ],
+  "method": {
+    "reader_url": "http://127.0.0.1:56824/Stories/S028-the-birthday-get-together-and-the-sheera-cake-saga.md",
+    "inspection": "Cua in-app browser complete rendered reading with sequential overlapping viewport screenshots from title through every prose paragraph, all three complete embedded images, ending, refinement record and final provenance source pins. Full accessibility text cross-check; DOM loaded-image and intended-size check. No prose or image edits.",
+    "viewport": [
+      1280,
+      720
+    ],
+    "body_font_px": 20,
+    "rendered_images": [
+      {
+        "file": "setup-v004.png",
+        "size": [
+          960,
+          640
+        ]
+      },
+      {
+        "file": "ankle-v003.png",
+        "size": [
+          960,
+          640
+        ]
+      },
+      {
+        "file": "cake-v002.png",
+        "size": [
+          960,
+          720
+        ]
+      }
+    ],
+    "all_images_loaded": true,
+    "records_read": [
+      "README.md",
+      "AGENTS.md",
+      "Studio/Open-Questions.md",
+      "Studio/Writing.md",
+      "Studio/Production.md",
+      "Productions/Library-Refinement/expanded-commission.txt",
+      "Productions/Library-Refinement/agent-assignment.md",
+      "Productions/E028-the-birthday-get-together-and-the-sheera-cake-saga/comedy-pass-v002.json",
+      "Productions/E028-the-birthday-get-together-and-the-sheera-cake-saga/visual-review-v002.json"
+    ]
+  },
+  "coverage": {
+    "primary": "complete",
+    "meaningful_alternatives": "None present; refinement record and comedy-pass identify two complete witnesses without distinct narrative alternatives.",
+    "ending_and_provenance": "complete"
+  },
+  "concrete_findings": [
+    {
+      "area": "humor_and_voices",
+      "finding": "Neet mistakes quarantine, restraint, and Priya pulling away for indignity or admiration; the exaggerated floor protest, Shakespeare response, friendship line and bonded interpretation build the same comic misconception. Buddy has a distinct quiet goal: an ear scratch. His deliberate separate introduction and respectful distance succeed before his nose leaves the conversation. Heather has nervous practical intervention, Priya bodily recoil, and Arjun amused pride."
+    },
+    {
+      "area": "cause_effect_and_pacing",
+      "finding": "The promised introduction follows isolation; Buddy succeeds by waiting; Neet sees this and tries to improve on sitting, causing the ankle incident and pickup. Cake smell redirects both dogs, Neet distracts the guest, and Buddy uses that opening. The isolated trustworthy-one sentence gives his quiet theft a useful pause. No picture interrupts attribution or discloses a later action prematurely."
+    },
+    {
+      "area": "setup_picture",
+      "finding": "Rendered setup-v004 follows the floor protest and precedes Neet following Buddy. Entire image inspected across overlapping viewports: supine theatrical Neet outside the doorway versus grounded waiting Buddy inside supplies the spatial joke. Buddy has smooth torso/chest and restrained slender dark tail; no conspicuous pale plume from the rejected setup remains at reading size."
+    },
+    {
+      "area": "ankle_picture",
+      "finding": "Rendered ankle-v003 follows Priya lifting both feet and precedes Heather scooping Neet. Both feet are on couch, Neet remains grounded and looks up eagerly, and Buddy is separate behind him. It depicts the misread reaction, not another lick or a later held-dog state."
+    },
+    {
+      "area": "cake_picture",
+      "finding": "Rendered cake-v002 follows Buddy climbing onto the chair and quietly taking a plate piece. Neet stands on the table with crumb muzzle beside the missing cake wedge, while Buddy has hindfeet on chair and forepaws on tabletop near his own slice. Cake remains on table before the later counter relocation. The different theft methods are visible and complementary to the earlier social scenes."
+    },
+    {
+      "area": "payoff",
+      "finding": "Arjun moving the cake is a consequence without cruel punishment. Buddy resumes the earned ear scratch despite visible guilt; the guest notices and accepts him. Neet claims step three and Buddy chooses step one, returning to their different goals. The final uninterrupted text gives this warm callback space; no redundant fourth picture dilutes it."
+    },
+    {
+      "area": "reading_finish",
+      "finding": "20px text at 1280x720 is legible, paragraph spacing supports dialogue timing, and all three pictures load at 960px width. Full images and prose were inspected by overlapping scroll; the 720px cake picture requires a scroll but has no clipping. Provenance remains distinct from story and explicitly unapproved."
+    }
+  ],
+  "closed_findings": [
+    {
+      "id": "S028-V002-01",
+      "status": "resolved",
+      "evidence": "Independent visual record accepts setup-v004 with hash matching the embedded file and reports full native-resolution reinspection; fresh rendered reading confirms corrected restrained tail/chest impression and preserved floor-protest staging."
+    }
+  ],
+  "material_findings": [],
+  "open_findings": [],
+  "approval": "unapproved",
+  "publication": "not_published",
+  "limits": "Complete rendered reading acceptance is separate from owner approval. Original photograph/native-resolution anatomical comparison remains the independent visual review stage."
+}

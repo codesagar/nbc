@@ -1,0 +1,5 @@
+# Productions
+
+The expanded collection commission is complete: 70 primary stories and meaningful alternatives, 241 unique selected illustrations, independent native visual review and fresh full illustrated readings. See the [collection brief](Library-Refinement/brief.md), [progress and evidence](Library-Refinement/progress.json), and [integrity audit](Library-Refinement/collection-audit.json). The [story library](../Stories/README.md) remains the sole story listing. Style and human likeness remain provisional; owner approval is unapproved and publication not_published.
+
+Night Shift remains **needs_rework** and unapproved. The owner identified an underdeveloped story, disconnected Buddy resting construction and drift in body proportions. Rendered character-model and drawn-storyboard stages were skipped; the earlier quality clearance was withdrawn. All artwork, scripts, feedback, editable lettering and frozen delivery evidence are preserved in the verified archive at `04_Productions/NBC-X001-night-shift/`; use [Recovery](../Studio/Recovery.md). Keeping this concise warning avoids treating the failed images as a model for future work.

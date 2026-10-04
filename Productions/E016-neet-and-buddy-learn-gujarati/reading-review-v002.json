@@ -1,0 +1,50 @@
+{
+  "story_id": "S016",
+  "review_type": "fresh_complete_illustrated_reading",
+  "version": 2,
+  "status": "accepted",
+  "reviewed_at": "2026-10-04T06:24:51.124596+00:00",
+  "story": {
+    "path": "Stories/S016-neet-and-buddy-learn-gujarati.md",
+    "sha256": "011a67329c00d6b04fb39495bf044a78864312412f63343283b9d98ca573a954"
+  },
+  "images": [
+    {
+      "path": "Productions/E016-neet-and-buddy-learn-gujarati/lesson-art-v003.png",
+      "sha256": "bdebba2aa7aa06c0bfe90f9f7279515417c389b556d71dd740161c4ca8b75eae"
+    },
+    {
+      "path": "Productions/E016-neet-and-buddy-learn-gujarati/closing-art-v002.png",
+      "sha256": "9b044a2a7167bb22eebc1958a5a865bccd94f6109f31655e0aa37b269216b93e"
+    }
+  ],
+  "actual_method": {
+    "url": "http://127.0.0.1:56824/Stories/S016-neet-and-buddy-learn-gujarati.md",
+    "browser": "Codex in-app browser via cua_repl",
+    "viewport": "1280 x 720",
+    "inspection": "Read rendered DOM for complete text; then visually read the entire rendered document in eleven overlapping viewport screenshots from opening through final provenance bullet. Both full illustrations inspected across overlapping viewports at their normal reading width; no zoom reduction or contact-sheet substitution.",
+    "scope": "Sole primary, both embedded illustrations, refinement record and complete provenance. No meaningful alternative present; comedy-pass-v002 explicitly records sole legacy Chapter 17 primary.",
+    "independence": "Fresh reading reviewer; no prose or artwork generated or edited. Separate visual-review-v002 consulted for image findings and hash correspondence."
+  },
+  "observations": [
+    "Opening immediately gives Heather initiative, Buddy resistance and Neet curiosity. Chirag samosa paw establishes the food motive that drives all subsequent mistakes.",
+    "The escalation from Kem cheeese to Kimchi, mango-chair and Babu Sharif is legible in separate dialogue paragraphs. Chirag impatience and Buddy dry menu line punctuate rather than explain the jokes.",
+    "Buddy has his own goal of one usable greeting. The crumbs tempt him into Chee-, then his pause and I recovered allow competence and fallibility together. Neet noticing the slip reverses their usual roles without cruelty.",
+    "Gujarati phrases and glosses are distinguishable from Neet explicitly mistaken sound-alikes; the joke targets his appetite and confidence. This is narrative meaning review, not independent linguistic certification. No revised or newly authoritative translation is claimed.",
+    "Lesson image follows Buddy lowering his chin between his paws and precedes his standing test. Neet addresses reclining Chirag, crumbs remain on the bench, and Buddy lies with chin down. The image preserves the exact state and does not interrupt a speech attribution.",
+    "Closing image follows Heather stopping for the scratch and precedes Neet next attempt. Buddy closed-eyed enjoyment, Heather hand contact and separately waiting Neet carry the earned affectionate reward; no food or bench-class action is mistakenly carried into the walk.",
+    "The two pictures provide different contributions: public lesson misunderstanding with three canine reactions, then private human affection and Buddy reward. Their common sunny park setting and recognizable markings maintain continuity. Two are sufficient for this short single-lesson story; another bench view would repeat the central staging.",
+    "The final smaller-mango callback comes after the closing image, preserves Neet persistent self-confidence and ends on a specific joke. Buddy success and Heather warmth make the outcome positive without turning Neet instantly fluent.",
+    "All prose and provenance remained legible at the supplied reader size. Large images require ordinary scrolling but neither clips source content nor breaks dialogue attribution. The sole source and historical chapter numbering remain explicit; no alternative ending or household was silently blended.",
+    "Independent visual-review-v002 accepts both exact images with no material open findings. Their hashes match this reading; no additional material text-image or reading-scale issue observed."
+  ],
+  "illustration_sufficiency": {
+    "count": 2,
+    "sufficient": true,
+    "reason": "Short continuous lesson plus walk-home payoff; distinct ensemble misunderstanding and affectionate reward, with final verbal callback unobscured."
+  },
+  "material_findings": [],
+  "open_findings": [],
+  "approval": "unapproved",
+  "publication": "not_published"
+}

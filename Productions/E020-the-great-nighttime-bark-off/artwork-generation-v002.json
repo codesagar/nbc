@@ -1,0 +1,800 @@
+{
+  "story_id": "S020",
+  "status": "proposed_pending_independent_review",
+  "tool": "image_gen.imagegen",
+  "model": "unknown",
+  "seed": "unknown",
+  "story": {
+    "path": "Stories/S020-the-great-nighttime-bark-off.md",
+    "sha256": "af624721e3a2fc787ea0eccd411994ec7ce144787f420cc69fddaae6a36d3a2d"
+  },
+  "references": [
+    {
+      "id": "N19",
+      "character": "Neet",
+      "path": "Characters/Neet/Photos/neet-19.jpeg",
+      "filename": "neet-19.jpeg",
+      "sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+      "archived_source_path": "03_Asset_Library/Characters/Neet/neet-19.jpeg",
+      "same_exposure_group": null,
+      "use": "Primary body-level side standing and tail nub",
+      "approval_status": "unknown",
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "styling",
+          "standing_pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Primary standing body proportions, paws, hocks and stub silhouette; head is not a pure profile.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Head rotated; far limbs overlap; uncalibrated camera offers no measurements; room light subdued"
+        ],
+        "inspection_sha256": "b2c6db0a5af6a885d993cbd986cc2759b9461e693fbcabd8aa96bce1eb5ea901",
+        "source_sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N19.json"
+      },
+      "source_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose",
+          "resting_pose",
+          "styling"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Primary standing body proportions, paws, hocks and stub silhouette; head is not a pure profile.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state."
+        ],
+        "evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md"
+      },
+      "source_observation": {
+        "date": "2026-10-03",
+        "pose_view_camera": "Standing left-facing side with head toward camera; near body-level",
+        "visible_features": "Tiny short tan rump nub; near-square qualitative standing impression; long slender legs; full ribcage/thigh; moderate ventral rise; smooth short coat",
+        "limitations": "Head rotated; far limbs overlap; uncalibrated camera offers no measurements; room light subdued",
+        "recommended_uses": [
+          "standing_pose",
+          "visible_anatomy",
+          "styling"
+        ],
+        "full_restrictions": [
+          "Primary standing body proportions, paws, hocks and stub silhouette; head is not a pure profile.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Head rotated; far limbs overlap; uncalibrated camera offers no measurements; room light subdued"
+        ]
+      },
+      "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N19.json",
+      "inspection_sha256": "b2c6db0a5af6a885d993cbd986cc2759b9461e693fbcabd8aa96bce1eb5ea901"
+    },
+    {
+      "id": "N29",
+      "character": "Neet",
+      "path": "Characters/Neet/Photos/neet-29.jpeg",
+      "filename": "neet-29.jpeg",
+      "sha256": "dedcc7d8bcbc5da7e2441352200025606fc971644d0cbacd24e8465db8dcdc16",
+      "archived_source_path": "03_Asset_Library/Characters/Neet/neet-29.jpeg",
+      "same_exposure_group": null,
+      "use": "Frontal standing chest and leg clearance",
+      "approval_status": "unknown",
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "styling",
+          "standing_pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Primary frontal standing proportions, leg slenderness, head/body scale and chest markings.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Body depth foreshortened; tail hidden; light/shadow affect colors; exact ratios unknown"
+        ],
+        "inspection_sha256": "af30873f7f392d2503a668667ed619b8d183d685403e25977ce3fe23d9359802",
+        "source_sha256": "dedcc7d8bcbc5da7e2441352200025606fc971644d0cbacd24e8465db8dcdc16",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N29.json"
+      },
+      "source_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose",
+          "resting_pose",
+          "styling"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Primary frontal standing proportions, leg slenderness, head/body scale and chest markings.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state."
+        ],
+        "evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md"
+      },
+      "source_observation": {
+        "date": "2026-10-03",
+        "pose_view_camera": "Frontal standing outdoors; near chest-height with slight elevation",
+        "visible_features": "Long thin foreleg columns; narrow front; small compact dark-clawed paws; large ears; pale throat and central bib; tan torso",
+        "limitations": "Body depth foreshortened; tail hidden; light/shadow affect colors; exact ratios unknown",
+        "recommended_uses": [
+          "standing_pose",
+          "visible_anatomy",
+          "styling"
+        ],
+        "full_restrictions": [
+          "Primary frontal standing proportions, leg slenderness, head/body scale and chest markings.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Body depth foreshortened; tail hidden; light/shadow affect colors; exact ratios unknown"
+        ]
+      },
+      "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N29.json",
+      "inspection_sha256": "af30873f7f392d2503a668667ed619b8d183d685403e25977ce3fe23d9359802"
+    },
+    {
+      "id": "B04",
+      "character": "Buddy",
+      "path": "Characters/Buddy/Photos/buddy-4.jpg",
+      "filename": "buddy-4.jpg",
+      "sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+      "archived_source_path": "03_Asset_Library/Characters/Buddy/buddy-4.jpg",
+      "same_exposure_group": "B04-B24",
+      "use": "Primary frontal standing and groomed facial pattern",
+      "approval_status": "unknown",
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "styling",
+          "standing_pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Excellent front-leg clearance, chest pattern and groomed face; useful standing stance. Same photographic exposure as B24 for evidence counting.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Tail partly cropped at left; grass hides toes; perspective foreshortens torso; B24 same exposure in separate encoding"
+        ],
+        "inspection_sha256": "dd7da906a0e61eb4cdbd84eac3c97fea3318813d5a874c4e6cd4d8d3ba890797",
+        "source_sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B04.json"
+      },
+      "source_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose",
+          "resting_pose",
+          "styling"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Excellent front-leg clearance, chest pattern and groomed face; useful standing stance. Same photographic exposure as B24 for evidence counting.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state."
+        ],
+        "evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+        "same_exposure_group": "B04-B24"
+      },
+      "source_observation": {
+        "date": "2026-10-03",
+        "pose_view_camera": "Standing front three-quarter outdoors; approximately chest-level",
+        "visible_features": "Deep chest; substantial leg shafts; pale lower legs and splaying foot hair; dark torso; pale chest sides/dark throat; long pendant ear fringe; pale muzzle/brows",
+        "limitations": "Tail partly cropped at left; grass hides toes; perspective foreshortens torso; B24 same exposure in separate encoding",
+        "recommended_uses": [
+          "standing_pose",
+          "visible_anatomy",
+          "styling"
+        ],
+        "full_restrictions": [
+          "Excellent front-leg clearance, chest pattern and groomed face; useful standing stance. Same photographic exposure as B24 for evidence counting.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Tail partly cropped at left; grass hides toes; perspective foreshortens torso; B24 same exposure in separate encoding"
+        ]
+      },
+      "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B04.json",
+      "inspection_sha256": "dd7da906a0e61eb4cdbd84eac3c97fea3318813d5a874c4e6cd4d8d3ba890797"
+    },
+    {
+      "id": "B29",
+      "character": "Buddy",
+      "path": "Characters/Buddy/Photos/buddy-29.jpeg",
+      "filename": "buddy-29.jpeg",
+      "sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+      "archived_source_path": "03_Asset_Library/Characters/Buddy/buddy-29.jpeg",
+      "same_exposure_group": null,
+      "use": "Side stride, torso length, leg clearance and tail curve",
+      "approval_status": "unknown",
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Best available lateral body-length, tail-length/carriage and walking-pose reference; weak fine landmarks because blurred and not neutral standing.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Motion blur and lifted legs; cannot establish neutral back slope, exact leg ratios or gait timing from still"
+        ],
+        "inspection_sha256": "c671664ca5e4e2e07bfd3049ea641c3a1645742fb8290494e67a17f7ed213ea9",
+        "source_sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B29.json"
+      },
+      "source_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose",
+          "resting_pose",
+          "styling"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Best available lateral body-length, tail-length/carriage and walking-pose reference; weak fine landmarks because blurred and not neutral standing.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state."
+        ],
+        "evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md"
+      },
+      "source_observation": {
+        "date": "2026-10-03",
+        "pose_view_camera": "Left-facing walking side view indoors; near body-level",
+        "visible_features": "Elongated dark trunk; projecting muzzle/pendant ears; pale lower legs; dark tapering tail held low with gentle curve; underside hair fringe",
+        "limitations": "Motion blur and lifted legs; cannot establish neutral back slope, exact leg ratios or gait timing from still",
+        "recommended_uses": [
+          "pose",
+          "visible_anatomy"
+        ],
+        "full_restrictions": [
+          "Best available lateral body-length, tail-length/carriage and walking-pose reference; weak fine landmarks because blurred and not neutral standing.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Motion blur and lifted legs; cannot establish neutral back slope, exact leg ratios or gait timing from still"
+        ]
+      },
+      "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B29.json",
+      "inspection_sha256": "c671664ca5e4e2e07bfd3049ea641c3a1645742fb8290494e67a17f7ed213ea9"
+    }
+  ],
+  "exposure_groups": [
+    "N19",
+    "N29",
+    "B04-B24",
+    "B29"
+  ],
+  "restrictions": [
+    "N35 excludes anatomy",
+    "B08 styling only",
+    "B25 unavailable",
+    "B30 supplemental resting only",
+    "One exposure counts once",
+    "All humans and style provisional"
+  ],
+  "models_inspected": [
+    {
+      "path": "Productions/Library-Refinement/model-standing-v002.png",
+      "sha256": "c4c6b607727759b347f93ccef664b0ac4b9a8ade512908343748fb9e2a96e9b6",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG"
+    },
+    {
+      "path": "Productions/Library-Refinement/model-rest-action-v002.png",
+      "sha256": "c990ae5c598523ff864446e32995d110e6f38298cf87eae3d12bfd9792b4eb3e",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG"
+    }
+  ],
+  "staging": {
+    "path": "Productions/E020-the-great-nighttime-bark-off/staging-v002.png",
+    "sha256": "6f959da3e6905aeebe113e9cc054d0941b8c0d03bb7a2cd5d49cb4559d44ffa1",
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "format": "PNG",
+    "inspection": "Actually drawn top gathering and bottom echo construction opened before finished calls. Ground support and connected limbs read clearly; instructed final to remove oversized tail fringe and body hatching, and avoid temple landmarks. Final howl uses inspected earlier staging/composition."
+  },
+  "generations": [
+    {
+      "id": "staging",
+      "args": {
+        "prompt": "Use case illustration-story. Draw an actual pencil construction storyboard in TWO horizontally stacked wide panels for a comic dog story in Gujarat at night. References 1-2 Neet original anatomy; 3-4 Buddy anatomy and regional furnished ears/muzzle/paws. No text. Top panel: beneath huge banyan trunk, Neet stands proudly at left, full narrow tan torso fine long legs large triangle ears tiny nub. Buddy at right seated with full torso and connected forelegs, rueful expression wanting quiet. Behind at raised rock is Chirag a medium sandy Indian street dog judge; two distant spectator dogs subordinate. Bottom panel: narrow plaster masonry alley at night, Neet small standing full body left facing into alley after tiny yip, mouth CLOSED satisfied. Buddy foreground right standing full body leaning forward slightly with mouth OPEN enthusiastically calling SIX; anatomically continuous neck elongated full trunk substantial legs visible clearance, four feet grounded. Audience only two small distant separate silhouettes at rear edge. Show support planes, owned limbs, clean silhouettes, no costumes, no speech bubbles. These are staging studies not finished art. No paw counting or fingers.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-29.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg"
+        ],
+        "transparent_background": false
+      },
+      "output_hint": "Generated images are saved to /Users/sagar/.codex/generated_images/01a105b2-b8df-7963-a7cf-7bfc237f09e1 as /Users/sagar/.codex/generated_images/01a105b2-b8df-7963-a7cf-7bfc237f09e1/exec-629cfd51-5f36-4292-8ab6-d1c734dc6e6d.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "tool": "image_gen.imagegen",
+      "model": "unknown",
+      "seed": "unknown",
+      "inputs": [
+        {
+          "path": "Characters/Neet/Photos/neet-19.jpeg",
+          "sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+          "role": "original likeness authority",
+          "reference_policy_id": "N19"
+        },
+        {
+          "path": "Characters/Neet/Photos/neet-29.jpeg",
+          "sha256": "dedcc7d8bcbc5da7e2441352200025606fc971644d0cbacd24e8465db8dcdc16",
+          "role": "original likeness authority",
+          "reference_policy_id": "N29"
+        },
+        {
+          "path": "Characters/Buddy/Photos/buddy-4.jpg",
+          "sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+          "role": "original likeness authority",
+          "reference_policy_id": "B04"
+        },
+        {
+          "path": "Characters/Buddy/Photos/buddy-29.jpeg",
+          "sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+          "role": "original likeness authority",
+          "reference_policy_id": "B29"
+        }
+      ],
+      "output": {
+        "path": "Productions/E020-the-great-nighttime-bark-off/staging-v002.png",
+        "sha256": "6f959da3e6905aeebe113e9cc054d0941b8c0d03bb7a2cd5d49cb4559d44ffa1",
+        "dimensions": [
+          1536,
+          1024
+        ],
+        "format": "PNG"
+      },
+      "native_output_path": "/Users/sagar/.codex/generated_images/01a105b2-b8df-7963-a7cf-7bfc237f09e1/exec-629cfd51-5f36-4292-8ab6-d1c734dc6e6d.png"
+    },
+    {
+      "id": "setup",
+      "args": {
+        "prompt": "Use case illustration-story. Create ONE finished wide storybook illustration based on TOP PANEL of last input storyboard only: quiet wish at banyan nighttime gathering in Gujarat. Neet stands left proud, Buddy seated right ruefully glancing toward judge Chirag standing on low rock behind, two modest background spectator dogs including Chikki near Buddy but clearly separated. Keep foreground dogs anatomically grounded. Reference inputs 1-3 ORIGINAL PHOTOGRAPHS control dog likeness and regional grooming. Input 4 is BODY FINISH ONLY secondary style: smooth simple color planes and washes, not anatomy/characters/scene. Input 5 storyboard composition only, not fur texture. Neet tan full narrow torso fine long legs broad triangular ears near-flush nub; Buddy continuous moderately elongated full charcoal torso, substantial legs real clearance, pale furnished projecting muzzle curved brows pendant ears and light distal legs, modest head. Smooth clean close body coat, absolutely NO etched curls or strokes or shag on either torso. Original Buddy facial/ear/paw regional strands remain. Moonlit blue and warm village light, banyan roots and hanging roots, plain distant masonry, avoid ornate landmark temples. Charming expressive comic stillness, detailed environment, NO text, no frames, no symbols, no costume, no visible humans. Final illustration full scene not storyboard sheet.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E020-the-great-nighttime-bark-off/staging-v002.png"
+        ],
+        "transparent_background": false
+      },
+      "output_hint": "Generated images are saved to /Users/sagar/.codex/generated_images/01a105b2-b8df-7963-a7cf-7bfc237f09e1 as /Users/sagar/.codex/generated_images/01a105b2-b8df-7963-a7cf-7bfc237f09e1/exec-ee6cb546-ec95-445f-a52f-6450b8d0f294.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "tool": "image_gen.imagegen",
+      "model": "unknown",
+      "seed": "unknown",
+      "inputs": [
+        {
+          "path": "Characters/Neet/Photos/neet-19.jpeg",
+          "sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+          "role": "original likeness authority",
+          "reference_policy_id": "N19"
+        },
+        {
+          "path": "Characters/Buddy/Photos/buddy-4.jpg",
+          "sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+          "role": "original likeness authority",
+          "reference_policy_id": "B04"
+        },
+        {
+          "path": "Characters/Buddy/Photos/buddy-29.jpeg",
+          "sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+          "role": "original likeness authority",
+          "reference_policy_id": "B29"
+        },
+        {
+          "path": "Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "sha256": "19be9a85760177405bbedd26644a7e0eb9c7945709e43825d201ff2fa91742b9",
+          "dimensions": [
+            1536,
+            1024
+          ],
+          "format": "PNG",
+          "role": "smooth BODY FINISH only; never anatomy or scene",
+          "reference_policy_id": null
+        },
+        {
+          "path": "Productions/E020-the-great-nighttime-bark-off/staging-v002.png",
+          "sha256": "6f959da3e6905aeebe113e9cc054d0941b8c0d03bb7a2cd5d49cb4559d44ffa1",
+          "dimensions": [
+            1536,
+            1024
+          ],
+          "format": "PNG",
+          "role": "drawn composition only",
+          "reference_policy_id": null
+        }
+      ],
+      "output": {
+        "path": "Productions/E020-the-great-nighttime-bark-off/gathering-art-v001.png",
+        "sha256": "ad7500cfd983fb6c92c1c8b99020baa729d48286f3ca6f1051649f44081b042c",
+        "dimensions": [
+          1672,
+          941
+        ],
+        "format": "PNG"
+      },
+      "native_output_path": "/Users/sagar/.codex/generated_images/01a105b2-b8df-7963-a7cf-7bfc237f09e1/exec-ee6cb546-ec95-445f-a52f-6450b8d0f294.png"
+    },
+    {
+      "id": "setupFix",
+      "args": {
+        "prompt": "Edit first image to polished illustrated color-plane finish, keep ALL geometry scene poses identity proportions background and faces. Remove the individually rendered fur across Neet entire neck body legs and Buddy dark torso/chest/thigh/leg shafts: flat smooth softly shaded contiguous tan or charcoal color shapes with CLEAN contours. No strands, etching, curls, short hatch marks anywhere on those coat regions. Preserve real Buddy furnished ears pale eyebrows moustache and paw tips from original third reference photograph. Make Buddy tail slender smooth tapered with only modest terminal fringe, not bushy plume. Second image BODY FINISH TECHNIQUE ONLY: emulate its smooth graphic dog body color planes, absolutely not anatomy or scene. No new characters or text. This is a precise coat-finish correction, maintain every posture/foot contact and the banyan composition.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E020-the-great-nighttime-bark-off/gathering-art-v001.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg"
+        ],
+        "transparent_background": false
+      },
+      "output_hint": "Generated images are saved to /Users/sagar/.codex/generated_images/01a105b2-b8df-7963-a7cf-7bfc237f09e1 as /Users/sagar/.codex/generated_images/01a105b2-b8df-7963-a7cf-7bfc237f09e1/exec-d43f6dc7-6eb3-40d0-8788-9c840933910c.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "tool": "image_gen.imagegen",
+      "model": "unknown",
+      "seed": "unknown",
+      "inputs": [
+        {
+          "path": "Productions/E020-the-great-nighttime-bark-off/gathering-art-v001.png",
+          "sha256": "ad7500cfd983fb6c92c1c8b99020baa729d48286f3ca6f1051649f44081b042c",
+          "dimensions": [
+            1672,
+            941
+          ],
+          "format": "PNG",
+          "role": "edit target",
+          "reference_policy_id": null
+        },
+        {
+          "path": "Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "sha256": "19be9a85760177405bbedd26644a7e0eb9c7945709e43825d201ff2fa91742b9",
+          "dimensions": [
+            1536,
+            1024
+          ],
+          "format": "PNG",
+          "role": "smooth BODY FINISH only; never anatomy or scene",
+          "reference_policy_id": null
+        },
+        {
+          "path": "Characters/Buddy/Photos/buddy-4.jpg",
+          "sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+          "role": "original likeness authority",
+          "reference_policy_id": "B04"
+        }
+      ],
+      "output": {
+        "path": "Productions/E020-the-great-nighttime-bark-off/gathering-art-v002.png",
+        "sha256": "d37b27e3dbbc4d87cd5e8f44787478b4e1707e165e50dc27a454db669335c3c8",
+        "dimensions": [
+          1672,
+          941
+        ],
+        "format": "PNG"
+      },
+      "native_output_path": "/Users/sagar/.codex/generated_images/01a105b2-b8df-7963-a7cf-7bfc237f09e1/exec-d43f6dc7-6eb3-40d0-8788-9c840933910c.png"
+    },
+    {
+      "id": "echo",
+      "args": {
+        "prompt": "Use case illustration-story. ONE wide final illustration from BOTTOM panel staging (input 5): moonlit Gujarat plain plaster masonry alley. Neet small full body at left facing into alley satisfied CLOSED mouth after his yip. Buddy foreground right full body leaning a little forward excited OPEN mouth calling Six, four individually owned grounded feet, no human hands; both anatomically continuous real neck and full trunks, Buddy moderately elongated with real clearance. Two background separate spectator dogs distant, no others. First three inputs original photos Neet / Buddy front / Buddy side are likeness authority. Input4 BODY FINISH ONLY use smooth graphic color planes for dogs, not anatomy or scene; original photos retain Buddy regional pale muzzle/brows, hanging ear furnishings and paw tips. Input5 composition only NOT its fur texture or bushy tail. Buddy tail must be slender tapering low gentle curve, modest fringe only; Neet tiny near-flush nub. Bright readable moonlight warm window accents. Crucial finish: smooth softly shaded solid dog torsos with clean contours, NO strands/etched curls/hatching/raised shag on Neet body neck legs or Buddy dark torso and leg shafts. No captions, symbols, lettering, borders or sound waves. Humour in the quiet companion becoming overexcited, not snarling.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E020-the-great-nighttime-bark-off/staging-v002.png"
+        ],
+        "transparent_background": false
+      },
+      "output_hint": "Generated images are saved to /Users/sagar/.codex/generated_images/01a105b2-b8df-7963-a7cf-7bfc237f09e1 as /Users/sagar/.codex/generated_images/01a105b2-b8df-7963-a7cf-7bfc237f09e1/exec-6ca998b3-ecd8-4777-a322-2e957847b41e.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "tool": "image_gen.imagegen",
+      "model": "unknown",
+      "seed": "unknown",
+      "inputs": [
+        {
+          "path": "Characters/Neet/Photos/neet-19.jpeg",
+          "sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+          "role": "original likeness authority",
+          "reference_policy_id": "N19"
+        },
+        {
+          "path": "Characters/Buddy/Photos/buddy-4.jpg",
+          "sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+          "role": "original likeness authority",
+          "reference_policy_id": "B04"
+        },
+        {
+          "path": "Characters/Buddy/Photos/buddy-29.jpeg",
+          "sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+          "role": "original likeness authority",
+          "reference_policy_id": "B29"
+        },
+        {
+          "path": "Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "sha256": "19be9a85760177405bbedd26644a7e0eb9c7945709e43825d201ff2fa91742b9",
+          "dimensions": [
+            1536,
+            1024
+          ],
+          "format": "PNG",
+          "role": "smooth BODY FINISH only; never anatomy or scene",
+          "reference_policy_id": null
+        },
+        {
+          "path": "Productions/E020-the-great-nighttime-bark-off/staging-v002.png",
+          "sha256": "6f959da3e6905aeebe113e9cc054d0941b8c0d03bb7a2cd5d49cb4559d44ffa1",
+          "dimensions": [
+            1536,
+            1024
+          ],
+          "format": "PNG",
+          "role": "drawn composition only",
+          "reference_policy_id": null
+        }
+      ],
+      "output": {
+        "path": "Productions/E020-the-great-nighttime-bark-off/echo-art-v001.png",
+        "sha256": "d3e8df3d9702a7196492c59f940cf361c57f5a18c553eb7254d8ea3464fc2d97",
+        "dimensions": [
+          1536,
+          1024
+        ],
+        "format": "PNG"
+      },
+      "native_output_path": "/Users/sagar/.codex/generated_images/01a105b2-b8df-7963-a7cf-7bfc237f09e1/exec-6ca998b3-ecd8-4777-a322-2e957847b41e.png"
+    },
+    {
+      "id": "echoFix",
+      "args": {
+        "prompt": "Precise finish edit. First image edit target, second BODY FINISH style only, third original Buddy regional grooming authority. Preserve composition, ALL anatomy proportions paws support scene facial expressions and open Buddy mouth, closed Neet mouth. Change only dog body rendering to smooth graphic color planes like second reference: NO visible individual hairs, no hatching or curls, clean painted contours on Neet entire body/neck/legs and Buddy charcoal trunk and upper legs. Retain Buddy real furnished eyebrows, pale projecting moustache and pendant ear fringes, small paw-tip furnishings. Keep slender dark tail modest fringe. Remove small distant temple spire replace with plain flat masonry roof only. No text. Clean elegant drawn storybook finish, not photographic fur.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E020-the-great-nighttime-bark-off/echo-art-v001.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg"
+        ],
+        "transparent_background": false
+      },
+      "output_hint": "Generated images are saved to /Users/sagar/.codex/generated_images/01a105b2-b8df-7963-a7cf-7bfc237f09e1 as /Users/sagar/.codex/generated_images/01a105b2-b8df-7963-a7cf-7bfc237f09e1/exec-73e6e1e2-015a-4957-82e5-7f713bd13c7c.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "tool": "image_gen.imagegen",
+      "model": "unknown",
+      "seed": "unknown",
+      "inputs": [
+        {
+          "path": "Productions/E020-the-great-nighttime-bark-off/echo-art-v001.png",
+          "sha256": "d3e8df3d9702a7196492c59f940cf361c57f5a18c553eb7254d8ea3464fc2d97",
+          "dimensions": [
+            1536,
+            1024
+          ],
+          "format": "PNG",
+          "role": "edit target",
+          "reference_policy_id": null
+        },
+        {
+          "path": "Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "sha256": "19be9a85760177405bbedd26644a7e0eb9c7945709e43825d201ff2fa91742b9",
+          "dimensions": [
+            1536,
+            1024
+          ],
+          "format": "PNG",
+          "role": "smooth BODY FINISH only; never anatomy or scene",
+          "reference_policy_id": null
+        },
+        {
+          "path": "Characters/Buddy/Photos/buddy-4.jpg",
+          "sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+          "role": "original likeness authority",
+          "reference_policy_id": "B04"
+        }
+      ],
+      "output": {
+        "path": "Productions/E020-the-great-nighttime-bark-off/echo-art-v002.png",
+        "sha256": "10808b22491feb650572221b6be799bd34afaa8ab8443e261c41acca1cf072e3",
+        "dimensions": [
+          1536,
+          1024
+        ],
+        "format": "PNG"
+      },
+      "native_output_path": "/Users/sagar/.codex/generated_images/01a105b2-b8df-7963-a7cf-7bfc237f09e1/exec-73e6e1e2-015a-4957-82e5-7f713bd13c7c.png"
+    },
+    {
+      "id": "howl",
+      "args": {
+        "prompt": "Precise illustration finish edit of first input. Preserve entire nighttime Gujarat masonry lane, human cropped legs, Neet howling upward, Buddy sidelong looking away, all four dog feet and every silhouette/body proportion. Replace ONLY etched body texture with smooth softly shaded graphic color planes like second input (BODY FINISH ONLY, no anatomy/scene transfer). Neet entire neck body legs smooth short fawn coat no fur strokes or curls. Buddy dark charcoal torso clean smooth close coat, maintain documented pale muzzle beard and eyebrow furnishings and hanging ear fringes from third original photograph. No enlarged shag anywhere, no curls or engraved squiggles. Small regional paw-tip furnishings okay. Preserve moon warm window precise acting and composition. No text.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E020-the-great-nighttime-bark-off/illustration-v003.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg"
+        ],
+        "transparent_background": false
+      },
+      "output_hint": "Generated images are saved to /Users/sagar/.codex/generated_images/01a105b2-b8df-7963-a7cf-7bfc237f09e1 as /Users/sagar/.codex/generated_images/01a105b2-b8df-7963-a7cf-7bfc237f09e1/exec-6d00e55d-c133-4ccc-82d7-15ebc2f9a940.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "tool": "image_gen.imagegen",
+      "model": "unknown",
+      "seed": "unknown",
+      "inputs": [
+        {
+          "path": "Productions/E020-the-great-nighttime-bark-off/illustration-v003.png",
+          "sha256": "ea8dfde34c844dd2a4cf3a1176048752cd54569a1e349290a55e55c900daa5b0",
+          "dimensions": [
+            1448,
+            1086
+          ],
+          "format": "PNG",
+          "role": "edit target",
+          "reference_policy_id": null
+        },
+        {
+          "path": "Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "sha256": "19be9a85760177405bbedd26644a7e0eb9c7945709e43825d201ff2fa91742b9",
+          "dimensions": [
+            1536,
+            1024
+          ],
+          "format": "PNG",
+          "role": "smooth BODY FINISH only; never anatomy or scene",
+          "reference_policy_id": null
+        },
+        {
+          "path": "Characters/Buddy/Photos/buddy-4.jpg",
+          "sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+          "role": "original likeness authority",
+          "reference_policy_id": "B04"
+        }
+      ],
+      "output": {
+        "path": "Productions/E020-the-great-nighttime-bark-off/illustration-v004.png",
+        "sha256": "14a6e41f3cbdee08f299ce55f5caf0fbc2fca5ae3713382a740888dec3c549e2",
+        "dimensions": [
+          1448,
+          1086
+        ],
+        "format": "PNG"
+      },
+      "native_output_path": "/Users/sagar/.codex/generated_images/01a105b2-b8df-7963-a7cf-7bfc237f09e1/exec-6d00e55d-c133-4ccc-82d7-15ebc2f9a940.png"
+    }
+  ],
+  "selected_images": [
+    {
+      "path": "Productions/E020-the-great-nighttime-bark-off/gathering-art-v002.png",
+      "sha256": "d37b27e3dbbc4d87cd5e8f44787478b4e1707e165e50dc27a454db669335c3c8",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "format": "PNG",
+      "variant": "primary",
+      "placement_after": "Buddy had been ready to win that one.",
+      "purpose": "Setup: quiet ambition versus competitive pride; before Volume.",
+      "review_status": "pending"
+    },
+    {
+      "path": "Productions/E020-the-great-nighttime-bark-off/echo-art-v002.png",
+      "sha256": "10808b22491feb650572221b6be799bd34afaa8ab8443e261c41acca1cf072e3",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "variant": "primary",
+      "placement_after": "\u201cSix!\u201d he announced, louder than the original yip.",
+      "purpose": "Reversal: Buddy open mouth at announcement, Neet closed mouth after yip; before Buddy shuts mouth.",
+      "review_status": "pending"
+    },
+    {
+      "path": "Productions/E020-the-great-nighttime-bark-off/illustration-v004.png",
+      "sha256": "14a6e41f3cbdee08f299ce55f5caf0fbc2fca5ae3713382a740888dec3c549e2",
+      "dimensions": [
+        1448,
+        1086
+      ],
+      "format": "PNG",
+      "variant": "primary",
+      "placement_after": "Buddy sighed. \u201cI\u2019m pretending I don\u2019t know him.\u201d",
+      "purpose": "Retained final howl composition with corrected body finish; before treat invitation.",
+      "review_status": "pending"
+    }
+  ],
+  "self_inspection": [
+    "Gathering v001 rejected for excessive whole-body hair, corrected v002 smooth torsos while retaining Buddy ear/muzzle furnishings. All support feet and seated joint layout inspected.",
+    "Echo v001 body strokes corrected v002; plain roof replaces unnecessary temple. Buddy open call and Neet closed mouth distinct; eight owned ground contacts.",
+    "Retained howl v003 texture corrected v004; all original staging, historical masonry and cropped provisional human preserved. No self acceptance; every proposed image awaits independent review."
+  ],
+  "archive_mappings": [
+    {
+      "prior_path": "Productions/E020-the-great-nighttime-bark-off/gathering-art-v001.png",
+      "path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S020-expanded-2026-10-04/gathering-art-v001.png",
+      "sha256": "ad7500cfd983fb6c92c1c8b99020baa729d48286f3ca6f1051649f44081b042c",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "format": "PNG",
+      "reason": "Superseded body finish; composition retained where useful."
+    },
+    {
+      "prior_path": "Productions/E020-the-great-nighttime-bark-off/echo-art-v001.png",
+      "path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S020-expanded-2026-10-04/echo-art-v001.png",
+      "sha256": "d3e8df3d9702a7196492c59f940cf361c57f5a18c553eb7254d8ea3464fc2d97",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "reason": "Superseded body finish; composition retained where useful."
+    },
+    {
+      "prior_path": "Productions/E020-the-great-nighttime-bark-off/illustration-v001.png",
+      "path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S020-expanded-2026-10-04/illustration-v001.png",
+      "sha256": "b13c87c37255852667bc6e4a966badfb96a4ecc1bfa89f15165bd04c6f092680",
+      "dimensions": [
+        1448,
+        1086
+      ],
+      "format": "PNG",
+      "reason": "Superseded body finish; composition retained where useful."
+    },
+    {
+      "prior_path": "Productions/E020-the-great-nighttime-bark-off/illustration-v002.png",
+      "path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S020-expanded-2026-10-04/illustration-v002.png",
+      "sha256": "1d2a0718cb7dbf53172bdc311dc31991ef7c17be0bef2de3005ef2b49533c530",
+      "dimensions": [
+        1448,
+        1086
+      ],
+      "format": "PNG",
+      "reason": "Superseded body finish; composition retained where useful."
+    },
+    {
+      "prior_path": "Productions/E020-the-great-nighttime-bark-off/illustration-v003.png",
+      "path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S020-expanded-2026-10-04/illustration-v003.png",
+      "sha256": "ea8dfde34c844dd2a4cf3a1176048752cd54569a1e349290a55e55c900daa5b0",
+      "dimensions": [
+        1448,
+        1086
+      ],
+      "format": "PNG",
+      "reason": "Superseded body finish; composition retained where useful."
+    }
+  ],
+  "approval": {
+    "state": "unapproved",
+    "by": null,
+    "date": null,
+    "evidence": null
+  },
+  "publication": {
+    "state": "not_published",
+    "destination": null
+  }
+}

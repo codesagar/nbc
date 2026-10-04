@@ -1,0 +1,87 @@
+{
+  "story": "S068",
+  "agent": "writer068",
+  "sources": [
+    {
+      "path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/E068-expanded/story-before-v002.md",
+      "sha256": "9ae12df175742b78c7e2b61f30d4912c82d4d11a36d317f842489e2822c21b22"
+    },
+    {
+      "archive": "NBC-before-reorganization-2026-10-03_182825.tar.gz",
+      "member_suffix": "reader-36-untitled-piedmont-park-wedding-story.txt",
+      "sha256": "0eebae35cadb70f1d1f8a6fc71ac9dafd3bcfdeae2de1bd2a69c555e1f8551a3"
+    },
+    {
+      "path": "Stories/S057-the-tunnel-to-india-or-faith-vs-physics.md",
+      "sha256": "c2056b688f4b53c76ef590a15eee482bc2ea10cf0dce038e433d1b75e3d7969b"
+    }
+  ],
+  "complete_original_and_prior_read": true,
+  "comic_situation": "Two self-important wedding dogs must briefly surrender top billing to their humans.",
+  "wants": {
+    "Neet": "Top billing without compromising his ring duty",
+    "Buddy": "Perform duty elegantly, get macarons, and enjoy a dance"
+  },
+  "preserved": [
+    "Tuxes and monograms",
+    "Guest dog cast",
+    "Cupcake knight",
+    "Basil spill and butterfly",
+    "Boutique original and eternal",
+    "Lantern spin",
+    "Flower girl ascent",
+    "Golden-hour family picnic"
+  ],
+  "changes": [
+    "Macaron desire pays off at aerial vantage",
+    "Basket throne threatens to open, Buddy steadies it",
+    "Literal beneath-us water pause",
+    "Buddy keeps Neet seated for vows",
+    "Sagar catches lantern within dance; Heather plays along",
+    "Ring pillow closing callback"
+  ],
+  "ending": "Warm family togetherness with pillow finally serving sleepy Buddy",
+  "variant_decision": "No meaningful in-file alternatives; India wedding relationship explicitly unresolved, no chronology invented",
+  "reread_comparison": {
+    "complete": true,
+    "against_prior_and_original": true,
+    "lost_incidents": [],
+    "voice": "Shared theatrical pride retained; Buddy gains appetite, choices, physical help and his own ridiculous triumph",
+    "expansion": "Brief local comic beats only; original section order and emotional destination retained",
+    "seam_repairs": [
+      "Repeated Buddy waited removed",
+      "Final pillow state remains under Buddy chin after he moves it"
+    ]
+  },
+  "illustration_plan": [
+    {
+      "scene": "rings",
+      "anchor": "Heather giggled mid-ceremony.",
+      "contribution": "Stillness against commotion; butterfly nose and pillow duty"
+    },
+    {
+      "scene": "dance",
+      "anchor": "\u201cApparently.\u201d",
+      "contribution": "Human physical participation and lantern consequence"
+    },
+    {
+      "scene": "picnic",
+      "anchor": "\u201cWe\u2019ll keep your story weird and wonderful.\u201d",
+      "contribution": "Warm closing scale and family relation; pillow still beside dogs"
+    }
+  ],
+  "illustration_opportunities_assessed": {
+    "arrival": "Useful costume setup but repeats ring-scene dog silhouettes; not selected",
+    "rings": "Selected duty and butterfly stillness",
+    "basket": "Good small gag, prose carries it without fourth picture",
+    "dance": "Selected dynamic human consequence",
+    "flower_girl": "Preserved in prose; avoiding redundant adjacent dance illustration",
+    "picnic": "Selected quiet change of scale and family payoff"
+  },
+  "illustrated_author_reread": {
+    "complete": true,
+    "scope": "Complete primary, all three exact image anchors and provenance re-read after embedding; no alternative exists",
+    "story_sha256": "1f9c7d867e743d31bdf4cd65b61d11a207470158c2dd665fab704c0e5c06ef2a",
+    "note": "Independent rendered reading remains pending."
+  }
+}

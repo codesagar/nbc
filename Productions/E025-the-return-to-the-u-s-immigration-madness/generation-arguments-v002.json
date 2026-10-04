@@ -1,0 +1,56 @@
+{
+  "stage": {
+    "prompt": "Use case: illustration-story. Draw a two-cell horizontal gray ink STORYBOARD with complete grounded dogs and actual airport environments, no labels. Photos1-2 Neet authority; photos3-4 Buddy authority. Neet golden fawn smooth very short coat, cream muzzle throat irregular bib, large broad triangular ears, fine long legs, full narrow torso, modest head, tiny near-flush nub. Buddy moderately elongated continuous full charcoal torso, visible neck, substantial legs and actual floor clearance, modest head, pale muzzle beard/brows and pendant ear furnishings, light lower legs; short SMOOTH body coat and slender dark tail. No engraved curl strokes or shag contours. Original photos authority for visible regions only, no calibrated sizes. N35 excludes anatomy; B08 styling only; B25 unavailable; B30 supplemental rest unused; B04/B24 one exposure. Humans provisional. No lettering. LEFT scene checkpoint: low eye level toward two dogs at Heather’s trousered ankles, Neet stands stiffly with tiny canvas bag on floor tucked behind his forelegs, staring upward; Buddy stands close beside Heather’s ankle staring fiercely straight ahead, avoiding the bag. Counter and passport hand above establish immigration. No food visible. RIGHT scene detection at baggage claim: small tricolor beagle in plain working vest noses Neet’s canvas bag on tile floor. Neet stands beside bag caught and wide-eyed; Buddy a pace farther away freezes guiltily with all paws grounded. Carousel background, Heather lower body/hand above, official lower trouser legs opposite. NO olives yet visible. Stage all limb roots/support/connectivity clearly, avoid overlap tangles. Two distinct complete scenes.",
+    "referenced_image_paths": [
+      "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+      "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-29.jpeg",
+      "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+      "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg"
+    ],
+    "transparent_background": false
+  },
+  "checkpoint": {
+    "prompt": "Use case: sketch-to-render. Create one finished warm watercolor/gouache story illustration. IMAGE1 drawn staging composition only. IMAGE2 BODY FINISH ONLY: use broad smooth short-coat washes, zero engraved curls/hair strokes or raised shag on either torso or Neet neck; do not import Max or garden. Photos3-5 sole visible anatomy authority. Neet golden fawn smooth very short coat, cream muzzle throat irregular bib, large broad triangular ears, fine long legs, full narrow torso, modest head, tiny near-flush nub. Buddy moderately elongated continuous full charcoal torso, visible neck, substantial legs and actual floor clearance, modest head, pale muzzle beard/brows and pendant ear furnishings, light lower legs; short SMOOTH body coat and slender dark tail. No engraved curl strokes or shag contours. Original photos authority for visible regions only, no calibrated sizes. N35 excludes anatomy; B08 styling only; B25 unavailable; B30 supplemental rest unused; B04/B24 one exposure. Humans provisional. No lettering. Render LEFT CELL ONLY of image1 as standalone wide landscape airport immigration picture. Preserve dogs planted and Neet small bag behind forelegs, Heather ankles and passport/counter. Buddy full moderately elongated torso, neck and substantial leg clearance, not squat. Keep comic fixed stares. Reduce Neet white eyebrow markings to photo identity; cream muzzle/chest only. No border, no second cell, no beagle. Flat smooth coat fields like image2.",
+    "referenced_image_paths": [
+      "/Users/sagar/Documents/ChatGPT/NBC/Productions/E025-the-return-to-the-u-s-immigration-madness/staging-v002.png",
+      "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+      "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+      "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+      "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg"
+    ],
+    "transparent_background": false
+  },
+  "checkpointfix": {
+    "prompt": "Use case: precise-object-edit. Image1 airport checkpoint illustration is exact target. Image2 smooth flat coat finish ONLY. Photos3-5 anatomy authority. Preserve all participants, bag behind Neet forelegs, counter/passport, floor contacts, poses. CRITICAL REPAIR: simplify both dogs body coats to uniform smooth color planes with clean outer contours, like the dogs in image2. Eliminate Neet chest/throat pointed shag completely; replace with smooth cream bib. Eliminate Buddy dark neck ruff, all torso hair marks, remove all projecting fur from foreleg contours. Keep only regional muzzle/brows/ears/toe furnishings on Buddy. No brushstroke flecks inside torso; these are close short coats. Anatomical shaded planes, not clumps of hair. Neet golden fawn smooth very short coat, cream muzzle throat irregular bib, large broad triangular ears, fine long legs, full narrow torso, modest head, tiny near-flush nub. Buddy moderately elongated continuous full charcoal torso, visible neck, substantial legs and actual floor clearance, modest head, pale muzzle beard/brows and pendant ear furnishings, light lower legs; short SMOOTH body coat and slender dark tail. No engraved curl strokes or shag contours. Original photos authority for visible regions only, no calibrated sizes. N35 excludes anatomy; B08 styling only; B25 unavailable; B30 supplemental rest unused; B04/B24 one exposure. Humans provisional. No lettering.",
+    "referenced_image_paths": [
+      "/Users/sagar/.codex/generated_images/01a105f0-93d7-7393-9187-d238f417874a/exec-d8d8a30f-ba94-4470-bc59-27ab50e50f56.png",
+      "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+      "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+      "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+      "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg"
+    ],
+    "transparent_background": false
+  },
+  "carousel": {
+    "prompt": "Use case: precise-object-edit. Image1 is exact edit target baggage illustration. Image2 STYLE ONLY smooth coat paint finish. Photos3-5 original anatomy authority. Keep all composition, grounded paws, carousel suitcase human hand and story unchanged. Replace ALL textured fur rendering on Neet body/neck/chest and Buddy torso/neck/legs with clean broad FLAT COLOR PLANES, smooth simple unbroken outer contours, as in image2 dogs. No engraved strokes, curls, shag, fluff, brush marks within body. Buddy may retain hair ONLY moustache/brows/ear flaps/toe fringes. Neet tail a tiny smooth nub, no tuft. Maintain connected existing anatomy and body volume, do not change poses. Neet golden fawn smooth very short coat, cream muzzle throat irregular bib, large broad triangular ears, fine long legs, full narrow torso, modest head, tiny near-flush nub. Buddy moderately elongated continuous full charcoal torso, visible neck, substantial legs and actual floor clearance, modest head, pale muzzle beard/brows and pendant ear furnishings, light lower legs; short SMOOTH body coat and slender dark tail. No engraved curl strokes or shag contours. Original photos authority for visible regions only, no calibrated sizes. N35 excludes anatomy; B08 styling only; B25 unavailable; B30 supplemental rest unused; B04/B24 one exposure. Humans provisional. No lettering.",
+    "referenced_image_paths": [
+      "/Users/sagar/Documents/ChatGPT/NBC/Productions/E025-the-return-to-the-u-s-immigration-madness/illustration-v001.png",
+      "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+      "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+      "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+      "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg"
+    ],
+    "transparent_background": false
+  },
+  "detection": {
+    "prompt": "Use case: sketch-to-render. Create one finished warm watercolor/gouache story illustration. IMAGE1 drawn staging composition only. IMAGE2 BODY FINISH ONLY: use broad smooth short-coat washes, zero engraved curls/hair strokes or raised shag on either torso or Neet neck; do not import Max or garden. Photos3-5 sole visible anatomy authority. Neet golden fawn smooth very short coat, cream muzzle throat irregular bib, large broad triangular ears, fine long legs, full narrow torso, modest head, tiny near-flush nub. Buddy moderately elongated continuous full charcoal torso, visible neck, substantial legs and actual floor clearance, modest head, pale muzzle beard/brows and pendant ear furnishings, light lower legs; short SMOOTH body coat and slender dark tail. No engraved curl strokes or shag contours. Original photos authority for visible regions only, no calibrated sizes. N35 excludes anatomy; B08 styling only; B25 unavailable; B30 supplemental rest unused; B04/B24 one exposure. Humans provisional. No lettering. Render RIGHT CELL ONLY of image1 as a standalone wide landscape finished picture. Detection at baggage claim: beagle noses canvas bag still zipped on floor, Neet surprised beside it, Buddy frozen one step farther away. All four paws each grounded and owned, continuous full torsos; retain low viewpoint and airport carousel. No food visible yet; no second panel or text. Smooth broad flat short-coat washes absolutely no hair marks across body. Buddy furnishings only regional muzzle brows ears/paws.",
+    "referenced_image_paths": [
+      "/Users/sagar/Documents/ChatGPT/NBC/Productions/E025-the-return-to-the-u-s-immigration-madness/staging-v002.png",
+      "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+      "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+      "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+      "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg"
+    ],
+    "transparent_background": false
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "episode": "E048-the-fall-of-a-quarter-star",
+  "story_id": "S048",
+  "review_type": "fresh_complete_rendered_reading",
+  "reviewer": "reader048",
+  "date": "2026-10-04",
+  "status": "accepted",
+  "independence": "Fresh reading reviewer did not write the story, generate images or perform the independent native visual review. Owns only this record.",
+  "story": {
+    "path": "Stories/S048-the-fall-of-a-quarter-star.md",
+    "sha256": "987dd74fba9528ce07d03264b06bbf0fb45e39538692f0d780e012512a53611d",
+    "read_complete": true,
+    "meaningful_alternatives": "No alternative text present; complete primary and all provenance/refinement notes read."
+  },
+  "rendered_inspection": {
+    "url": "http://127.0.0.1:56824/Stories/S048-the-fall-of-a-quarter-star.md",
+    "method": "Actual in-app browser; opening screenshot followed by overlapping sequential scrolls and screenshots through every act, every image, ending, provenance and final refinement note. Accessibility text also read in full. No zoom or viewport override.",
+    "viewport": [
+      1280,
+      720
+    ],
+    "images_loaded": 3,
+    "images_rendered_size": [
+      960,
+      640
+    ],
+    "complete": true,
+    "observed_sections": [
+      "The Chief on Edge",
+      "The Bark-Off",
+      "The Night of the Roach",
+      "The Improvised Arsenal",
+      "The Interrogation of the General",
+      "The Demotion",
+      "Epilogue: A Kingdom in Question",
+      "Provenance and editorial notes",
+      "Refinement record"
+    ],
+    "rendering": "Clear serif text and generous readable paragraph spacing. All three images fully loaded without distortion; each entire image examined across overlapping viewport captures."
+  },
+  "images": [
+    {
+      "path": "Productions/E048-the-fall-of-a-quarter-star/fence-art-v003.png",
+      "sha256": "5a8b0c8a1da4576391d64d606663c0bfb76534a52ccf5b48b59689af69140a45",
+      "status": "accepted",
+      "rendered_size": [
+        960,
+        640
+      ],
+      "observation": "Placed after the Great Suburban Bark Opera and before Sagar crosses the patio: both dogs face the opaque fence with open mouths. Their simultaneous participation gives Buddy agency and makes the opera readable without inventing visible neighbors. Daylight, plants and string lights fit the setup.",
+      "material_findings": [],
+      "open_findings": []
+    },
+    {
+      "path": "Productions/E048-the-fall-of-a-quarter-star/closet-art-v003.png",
+      "sha256": "6ba5b39d44e2cce1af57bc02a2e5840beb5418ce003ded0c9b84f4e5049e6c68",
+      "status": "accepted",
+      "rendered_size": [
+        960,
+        640
+      ],
+      "observation": "Placed after the witness-for-the-defense hope and before Buddy adds that the roach was quiet. Neet looks up at Buddy from the closet bed; this is the correct state before he stops looking. Buddy remains outside the bed, and the absent roach agrees with its prior disposal. The image creates a useful hopeful pause before the verbal reversal.",
+      "material_findings": [],
+      "open_findings": []
+    },
+    {
+      "path": "Productions/E048-the-fall-of-a-quarter-star/snack-art-v003.png",
+      "sha256": "81fa6e8d9f8a614685d253ef87d49b06cc0e1046cf1e51e43267c042c2849a76",
+      "status": "accepted",
+      "rendered_size": [
+        960,
+        640
+      ],
+      "observation": "Placed immediately after Buddy sets off with consolation snacks and before both disappear and he sits. Buddy is still approaching with a biscuit in his mouth and falling crumbs; Neet has closed eyes beneath the window. The appetite-versus-serenity contrast advances the joke and leaves the final making-room gesture to prose.",
+      "material_findings": [],
+      "open_findings": []
+    }
+  ],
+  "creative_findings": [
+    "Opening stolen-treat evidence establishes Buddy appetite early, which returns in the consolation-snack ending. Neet waiting for silent dogs to correct their lack of provocation gives the bark war an unmistakably self-created cause.",
+    "Buddy chooses to abandon the failed chicken investigation, joins the uproar, offers a talent-show excuse, then undermines it with an encore. His later silence at the tribunal pays that incident off; he is a participant with consequences rather than a commentator.",
+    "Heather transitions from frightened summons to practical cleanup; her species question punctures Sagar's excessive tactical confidence. Sagar's solemn security tribunal and Neet's rank protest remain distinct voices.",
+    "The evening insect episode follows the daytime noise and exposes Neet's mismatch between public militancy and private retreat. The closet image pauses before the helpful defense becomes an accidental accusation, with no dialogue attribution split.",
+    "Demotion leads to quiet Sunday consolation. Buddy fails at food delivery but succeeds by sitting beside Neet, and Neet making room provides affection without erasing his theatrical plan for redemption.",
+    "The three pictures progress from shared outdoor action to an interior defensive retreat to a sunlit approach. Their staging and emotional purpose are complementary rather than repeated portraits."
+  ],
+  "visual_findings_closure": {
+    "record": "Productions/E048-the-fall-of-a-quarter-star/visual-review-v002.json",
+    "sha256": "962fc9967dd02391bffa015867b223d1c8fff8af0bbea0af8ec4fedce63e9e4b",
+    "status": "accepted",
+    "all_selected_hashes_match": true,
+    "material_findings": [],
+    "open_findings": [],
+    "observation": "Independent native review accepts the exact three v003 images with no open findings. In this rendered read the smooth body contours, connected supports, closet gaze before the reversal, and biscuit still in transit remain legible; no new material reading-size fault found."
+  },
+  "continuity": {
+    "unresolved_source_choices": [
+      "Quarter-star wording and 0.25-star sentence coexist with 4.75 to 4.25 arithmetic; the primary and explicit provenance retain the inconsistency.",
+      "Later redemption rank wording and chronology remain unresolved source matters; this reading does not normalize them or infer approved chronology."
+    ],
+    "image_numbers": "No numeric rank or demotion information appears in the three inspected images.",
+    "treatment": "Source choices are preserved, not material defects requiring unauthorized rewriting."
+  },
+  "integration_note": "The final refinement note still says illustrations await review. That is a pre-integration status statement rather than a narrative defect; root can update delivery accounting using this completed record. No story bytes were changed by this reviewer.",
+  "material_findings": [],
+  "open_findings": [],
+  "approval": "unapproved",
+  "publication": "not_published"
+}

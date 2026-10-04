@@ -1,0 +1,171 @@
+{
+  "episode": "E029-winter-woes-and-the-battle-of-the-backyard",
+  "reviewer": "editor_early independent visual reviewer",
+  "independence": "Reviewer did not generate or edit images.",
+  "status": "ready_for_integration",
+  "story": {
+    "path": "Stories/S029-winter-woes-and-the-battle-of-the-backyard.md",
+    "sha256": "97b53ca99c6c10fa8b9b0538329f5bd62d98a5110f4777d55a8328b0dfd9990d",
+    "complete_revised_text_read": true
+  },
+  "images": [
+    {
+      "path": "Productions/E029-winter-woes-and-the-battle-of-the-backyard/staging-v001.png",
+      "sha256": "79b29209fbc68d131e67d6a591d61b8e632db001f0a1c1392810511ec6e722b8",
+      "dimensions": [
+        1448,
+        1086
+      ],
+      "kind": "rough",
+      "inspection": "Actual complete output opened at native dimensions; both full bodies, props, source beat and photo correspondence reviewed.",
+      "decision": "staging_reviewed_with_finish_correction",
+      "findings": [
+        "Neet visible neck/two forepaws connect beneath credible low blanket body volume; no floating head. Buddy full resting trunk/extended forepaws and folded hindfeet separately grounded; snow outside and ordinary heater frame cold-vs-comfort joke.",
+        "Finish must close Buddy foreleg/chest fringe, preserve B19 local face/ear furnishing."
+      ]
+    },
+    {
+      "path": "Productions/E029-winter-woes-and-the-battle-of-the-backyard/illustration-v002.png",
+      "sha256": "c64ffd7126a5a9e82373aae97a151c99f766e847435669314be8fb340e4515ad",
+      "dimensions": [
+        1448,
+        1086
+      ],
+      "kind": "finished",
+      "inspection": "Complete actual native output independently opened; source beat and original-photo features compared.",
+      "decision": "ready_for_integration",
+      "findings": [
+        "Buddy foreleg/chest margins now close and continuous, no long feathering. Regional face/hanging-ear furnishings retained; longer torso and folded hindfeet belong to same supported resting body.",
+        "Neet neck and two forepaws connect to low blanket-covered body volume, naturally partly covered ears; snowy exterior and ordinary heater preserve independent cold-weather wants. Fine low-relief wash acceptable."
+      ]
+    }
+  ],
+  "reference_evidence": [
+    {
+      "id": "N25",
+      "path": "Characters/Neet/Photos/neet-25.jpeg",
+      "sha256": "67530c2ebc1baa412f76a825a7bd2369cebf72a101e7f45836fefa0fcae90ca4",
+      "same_exposure_group": null,
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose",
+          "resting_pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Excellent prone posture and forward paws; useful lateral ear spread.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Hindfeet and tail concealed; plush partly covers toes; cannot supply standing leg/trunk ratios"
+        ],
+        "inspection_sha256": "0e493b84294cbe31f8e7e484b1ce100d8bd7370e2de36f46b35f73b2eab5f99e",
+        "source_sha256": "67530c2ebc1baa412f76a825a7bd2369cebf72a101e7f45836fefa0fcae90ca4",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N25.json"
+      },
+      "role": "Sternal rest with extended fine forelegs"
+    },
+    {
+      "id": "N19",
+      "path": "Characters/Neet/Photos/neet-19.jpeg",
+      "sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+      "same_exposure_group": null,
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "styling",
+          "standing_pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Primary standing body proportions, paws, hocks and stub silhouette; head is not a pure profile.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Head rotated; far limbs overlap; uncalibrated camera offers no measurements; room light subdued"
+        ],
+        "inspection_sha256": "b2c6db0a5af6a885d993cbd986cc2759b9461e693fbcabd8aa96bce1eb5ea901",
+        "source_sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N19.json"
+      },
+      "role": "Primary body-level side standing and tail nub"
+    },
+    {
+      "id": "B19",
+      "path": "Characters/Buddy/Photos/buddy-19.jpg",
+      "sha256": "201ec36498d5aaa85ef6e44a9176c333587d95797279a689237ccb49090ee521",
+      "same_exposure_group": null,
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "resting_pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Excellent low face, ear-root tufts, muzzle sweep and head-between-paws reference; poor global proportions.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Nearest face enlarged by perspective; rear blurred; limbs folded; no neutral head/body proportions"
+        ],
+        "inspection_sha256": "6686639617369f80387a581720cb9d28a2f0f5cf940da025eadf8b420095dfd2",
+        "source_sha256": "201ec36498d5aaa85ef6e44a9176c333587d95797279a689237ccb49090ee521",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B19.json"
+      },
+      "role": "Chin-down resting with messy facial furnishings"
+    },
+    {
+      "id": "B29",
+      "path": "Characters/Buddy/Photos/buddy-29.jpeg",
+      "sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+      "same_exposure_group": null,
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Best available lateral body-length, tail-length/carriage and walking-pose reference; weak fine landmarks because blurred and not neutral standing.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Motion blur and lifted legs; cannot establish neutral back slope, exact leg ratios or gait timing from still"
+        ],
+        "inspection_sha256": "c671664ca5e4e2e07bfd3049ea641c3a1645742fb8290494e67a17f7ed213ea9",
+        "source_sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B29.json"
+      },
+      "role": "Side stride, torso length, leg clearance and tail curve"
+    }
+  ],
+  "reference_inspection": "Selected original photos and full effective policies independently inspected previously; current session reopened native N19/N25/B19/B29/B04 and B15 details as applicable. B15 tidier grooming is photographed styling, no breed claim. Model finish interpretation only; no measurement or hidden anatomy claims.",
+  "placement": {
+    "after": "Neet peeked out from his blanket fortress. \"We’ll see.\""
+  },
+  "unresolved_findings": [],
+  "limitations": [
+    "Staging verdict only; final identity markings, body coat and color remain to inspect.",
+    "No exact measurement, weight, breed, human likeness or timing claim from uncalibrated photographs."
+  ],
+  "complete_illustrated_reading": {
+    "status": "pending_integration",
+    "owner": "root",
+    "observations": []
+  },
+  "approval": "unapproved",
+  "publication": "not_published"
+}

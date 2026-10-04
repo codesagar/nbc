@@ -1,0 +1,389 @@
+{
+  "id": "E042-the-day-the-bark-stood-still",
+  "status": "reviewed_unapproved",
+  "stage": "complete_reading",
+  "next_action": "Included in expanded delivery-v001; owner adoption and publication remain separate, ungranted decisions.",
+  "source": {
+    "path": "Stories/S042-the-day-the-bark-stood-still.md",
+    "sha256": "96fc2d22e34bac7a08e9ee7dbeeece0219a437f507e7e58f3d70b79162d6eea5",
+    "passages": [],
+    "interpretation": "Calm is practiced rather than completed: Neet wants composure and rank, Buddy wants to answer the fence and later chooses to follow him back. Retained Santa rank backstory, acorn, supportive woof, food/nap, sunset stairs, retriever encounter, pav bhaji and squirrel exceptions. Changed acorn chewing to nosing explicitly as an editorial care choice; no training advice claimed. Illustration: Neet investigates acorn as Buddy loses patience at fence.",
+    "editorial_sha256": "125096d12bca33ad1dd1524200bcb9e0861f60a072b8a29d8a0ba51f9c7fbd13",
+    "revision_sha256": "96fc2d22e34bac7a08e9ee7dbeeece0219a437f507e7e58f3d70b79162d6eea5"
+  },
+  "references": [
+    {
+      "id": "N19",
+      "path": "Characters/Neet/Photos/neet-19.jpeg",
+      "sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+      "same_exposure_group": null,
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "styling",
+          "standing_pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Primary standing body proportions, paws, hocks and stub silhouette; head is not a pure profile.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Head rotated; far limbs overlap; uncalibrated camera offers no measurements; room light subdued"
+        ],
+        "inspection_sha256": "b2c6db0a5af6a885d993cbd986cc2759b9461e693fbcabd8aa96bce1eb5ea901",
+        "source_sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N19.json"
+      },
+      "role": "Neet side body, fine legs, full trunk, near-flush nub; head turned/far legs overlap."
+    },
+    {
+      "id": "N29",
+      "path": "Characters/Neet/Photos/neet-29.jpeg",
+      "sha256": "dedcc7d8bcbc5da7e2441352200025606fc971644d0cbacd24e8465db8dcdc16",
+      "same_exposure_group": null,
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "styling",
+          "standing_pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Primary frontal standing proportions, leg slenderness, head/body scale and chest markings.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Body depth foreshortened; tail hidden; light/shadow affect colors; exact ratios unknown"
+        ],
+        "inspection_sha256": "af30873f7f392d2503a668667ed619b8d183d685403e25977ce3fe23d9359802",
+        "source_sha256": "dedcc7d8bcbc5da7e2441352200025606fc971644d0cbacd24e8465db8dcdc16",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N29.json"
+      },
+      "role": "Neet frontal standing chest and legs; foreshortened body, tail hidden."
+    },
+    {
+      "id": "B29",
+      "path": "Characters/Buddy/Photos/buddy-29.jpeg",
+      "sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+      "same_exposure_group": null,
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Best available lateral body-length, tail-length/carriage and walking-pose reference; weak fine landmarks because blurred and not neutral standing.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Motion blur and lifted legs; cannot establish neutral back slope, exact leg ratios or gait timing from still"
+        ],
+        "inspection_sha256": "c671664ca5e4e2e07bfd3049ea641c3a1645742fb8290494e67a17f7ed213ea9",
+        "source_sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B29.json"
+      },
+      "role": "Buddy lateral torso and tail, blurred stride; no neutral ratios/timing."
+    },
+    {
+      "id": "B04",
+      "path": "Characters/Buddy/Photos/buddy-4.jpg",
+      "sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+      "same_exposure_group": "B04-B24",
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "styling",
+          "standing_pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Excellent front-leg clearance, chest pattern and groomed face; useful standing stance. Same photographic exposure as B24 for evidence counting.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Tail partly cropped at left; grass hides toes; perspective foreshortens torso; B24 same exposure in separate encoding"
+        ],
+        "inspection_sha256": "dd7da906a0e61eb4cdbd84eac3c97fea3318813d5a874c4e6cd4d8d3ba890797",
+        "source_sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B04.json"
+      },
+      "role": "Buddy tidy photographed face/ears, chest and substantial legs; grass hides toes, torso foreshortened."
+    }
+  ],
+  "artwork": [
+    {
+      "path": "Productions/E042-the-day-the-bark-stood-still/morning-art-v004.png",
+      "sha256": "77c21c7db4a6581a47d31df167dd852fcc9ff61d9828f0c6d067e1a35a4c41fe",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "reviewed_version": "Productions/E042-the-day-the-bark-stood-still/morning-art-v004.png",
+      "generation_record": "Productions/E042-the-day-the-bark-stood-still/artwork-generation-v002.json",
+      "review_record": "Productions/E042-the-day-the-bark-stood-still/visual-review-v002.json",
+      "status": "accepted_independent_review"
+    },
+    {
+      "path": "Productions/E042-the-day-the-bark-stood-still/kitchen-art-v003.png",
+      "sha256": "1e9a41df3aa3111f6cbd031c7190281424fbfea91fb8acbf34921f916c758cf6",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "reviewed_version": "Productions/E042-the-day-the-bark-stood-still/kitchen-art-v003.png",
+      "generation_record": "Productions/E042-the-day-the-bark-stood-still/artwork-generation-v002.json",
+      "review_record": "Productions/E042-the-day-the-bark-stood-still/visual-review-v002.json",
+      "status": "proposed_pending_independent_reinspection"
+    },
+    {
+      "path": "Productions/E042-the-day-the-bark-stood-still/stairs-art-v006.png",
+      "sha256": "9640937add3fbf9089d5b6a804dad2075abdb01969a280efcbc962c35aaed242",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "reviewed_version": "Productions/E042-the-day-the-bark-stood-still/stairs-art-v006.png",
+      "generation_record": "Productions/E042-the-day-the-bark-stood-still/artwork-generation-v002.json",
+      "review_record": "Productions/E042-the-day-the-bark-stood-still/visual-review-v002.json",
+      "status": "proposed_pending_independent_reinspection"
+    }
+  ],
+  "quality": {
+    "story": {
+      "status": "writer_reread_complete",
+      "evidence": [
+        "Productions/E042-the-day-the-bark-stood-still/comedy-pass-v002.json"
+      ],
+      "expanded_review": {
+        "status": "reviewed",
+        "evidence": [
+          "Productions/E042-the-day-the-bark-stood-still/comedy-pass-v002.json",
+          "Productions/E042-the-day-the-bark-stood-still/reading-review-v002.json"
+        ]
+      }
+    },
+    "character_model": {
+      "status": "reviewed_provisional",
+      "evidence": [
+        "Productions/Library-Refinement/model-independent-review.json"
+      ],
+      "observations": [
+        "Independent reviewer opened all three current sheets at native resolution, originals and native detail crops; no material findings. Qualitative scale and grooming states remain provisional."
+      ]
+    },
+    "drawn_storyboard": {
+      "status": "generator_inspected",
+      "evidence": [
+        "Productions/E042-the-day-the-bark-stood-still/storyboard-v002.png",
+        "Productions/E042-the-day-the-bark-stood-still/rough-v001.png"
+      ]
+    },
+    "panel_comparison": {
+      "status": "independently_reviewed",
+      "evidence": [
+        "Productions/E042-the-day-the-bark-stood-still/visual-review-v002.json"
+      ],
+      "observations": [
+        "Every current finished image opened at full resolution against original photos; concrete findings recorded per image."
+      ]
+    },
+    "complete_reading": {
+      "status": "reviewed",
+      "story_sha256": "96fc2d22e34bac7a08e9ee7dbeeece0219a437f507e7e58f3d70b79162d6eea5",
+      "evidence": [
+        "Productions/E042-the-day-the-bark-stood-still/reading-review-v002.json"
+      ],
+      "inspection": {
+        "url": "http://127.0.0.1:56824/Stories/S042-the-day-the-bark-stood-still.md",
+        "method": "Codex in-app browser via cua_repl; complete accessibility text read and sequential overlapping scroll screenshots inspected from title to page bottom. No full-page thumbnail substituted for reading.",
+        "viewport": [
+          1280,
+          720
+        ],
+        "observed_image_display_size": [
+          960,
+          640
+        ],
+        "coverage": "All seven acts, all three complete embedded illustrations, final squirrel sentence, provenance including Chapter 15 and source hash, and refinement record. No meaningful alternatives present.",
+        "sequence": [
+          "Title, Act I opening, Santa defeat and Buddy tactical sleep",
+          "Center Mode training and breakfast list",
+          "Bark Sisters arrival and acorn discovery",
+          "Heather glass reaction, Buddy decision, image entrance",
+          "Complete morning image",
+          "Buddy retreat payoff and Act III",
+          "Caught okra, disappointment, kitchen image entrance",
+          "Complete kitchen image",
+          "Nap and Act IV ascent",
+          "Leaf dialogue and stairs image entrance",
+          "Complete stairs image",
+          "Summit and Act V dinner list",
+          "Napkin correction, Gravity Enforcement Officer and bhaji",
+          "Act VI exceptions and Act VII quiet",
+          "Squirrel ending and provenance",
+          "Complete refinement record and page bottom"
+        ]
+      },
+      "observations": {
+        "humor_and_timing": "The missing quarter-star Santa incident and Buddy sleeping through it establish contrasting comic instincts. Heather lowering the smoothie carefully adds a small physical joke. Buddy taking over the bark dispute then accelerating his dignified retreat provides an actual reversal; the first image delays that exit just enough to let the contrast register. Okra disappointment and the elongated leaf inspection diversify the comedy without turning every quiet passage into banter.",
+        "voices_and_agency": "Neet remains theatrically self-important even in calm: exceptions to serenity and the unquestioned Table Setting Deputy promotion retain his identity. Buddy independently chooses to answer the neighbors, stake out falling food, prolong a leaf inspection and finally let the evening bark pass. Sagar supplies confident training and practical dinner action; Heather reacts physically, catches food and quietly straightens napkins.",
+        "cause_effect_and_pacing": "Training establishes the unexpected acorn choice. Buddy covers the abandoned barking job, discovers its futility and later adopts quiet himself. Lunch/nap, afternoon climb and dinner maintain clear time progression. The illustrations sit after complete dialogue beats and before subsequent state changes; act breaks preserve the day-in-the-life structure.",
+        "emotional_payoff": "The last faint bark gives Buddy a choice rather than a sermon-only resolution. His closing eye shows a shared relaxed home; the squirrel qualification preserves the dogs comic priorities. Nothing interrupts the final quiet scene or its last joke.",
+        "complementary_contributions": "Morning is a wide spatial contrast between calm acorn inspection and noisy fence duty. Kitchen changes to an interior vertical stare at withheld food with distant composed Neet. Stairs uses depth, broad landing and Neet far above to extend Buddy delaying tactic. These are distinct narrative jobs rather than repeated portraits.",
+        "provenance_and_alternatives": "Read through source and refinement notes. Chapter 15 remains a historical independent captured sequence, not inferred chronology or approval. No alternative narrative appears in this edition."
+      }
+    }
+  },
+  "unresolved_findings": [],
+  "current_files": {
+    "story": "Stories/S042-the-day-the-bark-stood-still.md",
+    "story_sha256": "96fc2d22e34bac7a08e9ee7dbeeece0219a437f507e7e58f3d70b79162d6eea5",
+    "comedy_pass": "Productions/E042-the-day-the-bark-stood-still/comedy-pass-v002.json",
+    "artwork_generation": "Productions/E042-the-day-the-bark-stood-still/artwork-generation-v002.json",
+    "drawn_storyboard": "Productions/E042-the-day-the-bark-stood-still/storyboard-v002.png",
+    "illustrations": [
+      "Productions/E042-the-day-the-bark-stood-still/morning-art-v004.png",
+      "Productions/E042-the-day-the-bark-stood-still/kitchen-art-v003.png",
+      "Productions/E042-the-day-the-bark-stood-still/stairs-art-v006.png"
+    ]
+  },
+  "approval": {
+    "state": "unapproved",
+    "by": null,
+    "date": null,
+    "evidence": null
+  },
+  "publication": {
+    "state": "not_published",
+    "destination": null
+  },
+  "recovery": {
+    "archive": "/Users/sagar/Documents/ChatGPT/NBC_Archives/NBC-before-refinement-2026-10-03_200659.tar.gz",
+    "member": "NBC/Stories/S042-the-day-the-bark-stood-still.md"
+  },
+  "editorial_review": {
+    "reviewer": "editor_late",
+    "source_read_complete": true,
+    "alternatives_read_complete": true,
+    "all_collection_reading_gate": "cleared by root after S001-S070 reading",
+    "revision_note": "Calm is practiced rather than completed: Neet wants composure and rank, Buddy wants to answer the fence and later chooses to follow him back. Retained Santa rank backstory, acorn, supportive woof, food/nap, sunset stairs, retriever encounter, pav bhaji and squirrel exceptions. Changed acorn chewing to nosing explicitly as an editorial care choice; no training advice claimed. Illustration: Neet investigates acorn as Buddy loses patience at fence.",
+    "comparison_status": "complete",
+    "changes": 5,
+    "complete_revised_reading": true,
+    "original_provenance_unchanged": true,
+    "alternative_sections_preserved": 0,
+    "line_comparison": {
+      "unchanged": 112,
+      "removed_or_replaced": 6,
+      "new_or_replaced": 6
+    },
+    "second_pass_seam_repairs": 1
+  },
+  "expanded_pass": {
+    "story": "comedy-pass-v002.json",
+    "artwork": "artwork-generation-v002.json",
+    "status": "complete",
+    "visual_review": "pending_independent_reinspection",
+    "complete_reading": "pending",
+    "integration_note": "Independent visual and fresh full rendered reading accepted current story/images. Historical author-stage pending labels retained as stage history; this episode records current state."
+  },
+  "historical_quality": {
+    "pre_expanded_pass": {
+      "story": {
+        "status": "reviewed",
+        "evidence": [
+          "Stories/S042-the-day-the-bark-stood-still.md",
+          "/Users/sagar/Documents/ChatGPT/NBC_Archives/NBC-before-refinement-2026-10-03_200659.tar.gz"
+        ],
+        "observations": [
+          "Calm is practiced rather than completed: Neet wants composure and rank, Buddy wants to answer the fence and later chooses to follow him back. Retained Santa rank backstory, acorn, supportive woof, food/nap, sunset stairs, retriever encounter, pav bhaji and squirrel exceptions. Changed acorn chewing to nosing explicitly as an editorial care choice; no training advice claimed. Illustration: Neet investigates acorn as Buddy loses patience at fence.",
+          "Complete revised primary and every in-file alternative reread by editor_late; compared with complete source from verified snapshot. Distinct incidents, emotional destination, historical household/voice and known contradictions checked; local transition repetitions repaired on the second pass. This is editorial review, not owner approval or illustration clearance."
+        ]
+      },
+      "character_model": {
+        "status": "reviewed_provisional",
+        "evidence": [
+          "Productions/Library-Refinement/model-independent-review.json"
+        ],
+        "observations": [
+          "Independent reviewer opened all three current sheets at native resolution, originals and native detail crops; no material findings. Qualitative scale and grooming states remain provisional."
+        ]
+      },
+      "drawn_storyboard": {
+        "status": "reviewed",
+        "evidence": [
+          "Productions/E042-the-day-the-bark-stood-still/rough-v001.png",
+          "Productions/E042-the-day-the-bark-stood-still/visual-review.json"
+        ],
+        "observations": [
+          "Complete drawn yard/fence/patio staging inspected. Both dogs connected and supported; gesture contrast clear. Body hatching must be smoothed in finish."
+        ]
+      },
+      "panel_comparison": {
+        "status": "independently_reviewed",
+        "evidence": [
+          "Productions/E042-the-day-the-bark-stood-still/illustration-v002.png",
+          "Productions/E042-the-day-the-bark-stood-still/visual-review.json"
+        ],
+        "observations": [
+          "After direct native comparison with accepted E001v002 and E037v002, remaining low-relief looped pattern is nondirectional wash/paper texture shared by scene surfaces, not a material longer-coat silhouette or strand field. The conspicuous directional body bands of v001 are reduced; smooth close-body interpretation is adequate.",
+          "Existing staging/body support and story-specific acting remain intact. Regional Buddy face/ear furnishings retained; no new geometry defect.",
+          "Buddy neck bands now read broad tonal form with close contour rather than long swept hairs; Neet lowered neck and acorn stance retain smooth outline, full trunk and four supports. Calm versus barking reversal remains visible."
+        ]
+      },
+      "complete_reading": {
+        "status": "reviewed",
+        "story_sha256": "336efb9ac5b00069a1bdd3ef1855c3f9aebd7af6bb744132ffb60c43249bed62",
+        "evidence": [
+          "Stories/S042-the-day-the-bark-stood-still.md",
+          "http://127.0.0.1:53761/Stories/S042-the-day-the-bark-stood-still.md",
+          "Productions/E042-the-day-the-bark-stood-still/visual-review.json"
+        ],
+        "inspection": "Read complete rendered story text and inspected actual embedded image at approximately960 px width in independent reader tab.",
+        "observations": [
+          "Complete rendered story read from Center Mode training through acorn/barking reversal, meal/nap, sunset stairs, pav bhaji and final quiet response. Image follows Buddy counter-attack and precedes Neet low supportive woof.",
+          "At approximately 960 px width acorn and separated attentions remain readable; quiet Neet foreground and Buddy answering neighbors carry the specific reversal, echoed by closing refusal to answer another bark."
+        ]
+      }
+    }
+  },
+  "historical_artwork": {
+    "pre_expanded_pass": [
+      {
+        "path": "Productions/E042-the-day-the-bark-stood-still/illustration-v002.png",
+        "sha256": "9f1bc4d3fef0f89a0257b4c3d457b594cd2131c83b97782e9d53e66341a9e558",
+        "dimensions": [
+          1536,
+          1024
+        ],
+        "format": "PNG",
+        "reviewed_version": "Productions/E042-the-day-the-bark-stood-still/illustration-v002.png",
+        "generation_record": "Productions/E042-the-day-the-bark-stood-still/artwork-generation.json",
+        "review_record": "Productions/E042-the-day-the-bark-stood-still/visual-review.json"
+      }
+    ]
+  },
+  "delivery": {
+    "version": "delivery-v001",
+    "collection_record": "Productions/Library-Refinement/progress.json",
+    "reviewed_story_sha256": "96fc2d22e34bac7a08e9ee7dbeeece0219a437f507e7e58f3d70b79162d6eea5",
+    "source_and_export_manifest": "Productions/Library-Refinement/delivery-v001/manifest.json"
+  }
+}

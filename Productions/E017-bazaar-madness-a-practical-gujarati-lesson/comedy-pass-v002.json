@@ -1,0 +1,99 @@
+{
+  "story": "S017",
+  "status": "writer_pass_complete_independent_reviews_pending",
+  "sources": [
+    {
+      "archive": "NBC-before-reorganization-2026-10-03_182825.tar.gz",
+      "member": "NBC/02_Story_Library/Legacy_Chapters/18-bazaar-madness-a-practical-gujarati-lesson.md",
+      "sha256": "bdf3b5a360d3ac687427257df7c119499e9452e1e262419a89a7764b463c191d",
+      "read_in_full": true
+    },
+    {
+      "archive": "NBC-before-expanded-refinement-2026-10-04_035505Z.tar.gz",
+      "member": "NBC/Stories/S017-bazaar-madness-a-practical-gujarati-lesson.md",
+      "sha256": "76bd9dfc5f1cea081b81dbbdc57a609d961e13efa2c2584cd16c76dd7f13bd98",
+      "read_in_full": true
+    },
+    {
+      "archive": "NBC-before-refinement-2026-10-03_200659.tar.gz",
+      "member": "NBC/Stories/S017-bazaar-madness-a-practical-gujarati-lesson.md",
+      "sha256": "5209f8321a98990d1e375ca70d3f2750e6c4ed42cc2754c8dcd3fe19669439db",
+      "read_in_full": true
+    },
+    {
+      "path": "Stories/S006-the-bazaar-adventure.md",
+      "sha256": "a1f15f834fbf8595d72300239bcdfd064ba48741095c7db1714a34403bcf2d8d",
+      "read_in_full": true
+    },
+    {
+      "path": "Stories/S016-neet-and-buddy-learn-gujarati.md",
+      "sha256": "011a67329c00d6b04fb39495bf044a78864312412f63343283b9d98ca573a954",
+      "read_in_full": true
+    },
+    {
+      "path": "Stories/S018-buddys-big-elocution-debacle.md",
+      "sha256": "b044d1d4e1d7790143afc6ba96642e46b59f3ca4a422138868c00004dcf2437c",
+      "read_in_full": true
+    }
+  ],
+  "central_comic_situation": "Neet measures language learning in food received; Buddy succeeds correctly and receives only information.",
+  "intended_feeling": "Affectionate bustling farce ending in quiet submission to a cow.",
+  "wants": {
+    "Neet": "Use Gujarati to obtain food and admiration",
+    "Buddy": "Get one sensible answer and keep the group together",
+    "Chirag": "Advance his students while enjoying vendor attention",
+    "Heather": "Supervise practical learning without a public incident"
+  },
+  "preserved": [
+    "Cheeseburger paisa and vendor head pat",
+    "very mango and banana reward",
+    "chapati theft, shouting vendor, rolling pins and chase",
+    "cow stare, snort, dropped chapati",
+    "apology and payment",
+    "historical Heather-led household; no added Sagar"
+  ],
+  "changes": [
+    "Buddy opening measurable goal",
+    "same question/different words head-pat extension",
+    "price versus banana reversal",
+    "Heather tutor raise/lie-down response",
+    "dropped leash clarifies chase causality",
+    "Buddy teach him STOP intervention",
+    "quiet cow chew pause",
+    "procession response and teacher callback replace generic closing banter"
+  ],
+  "ending": "Buddy nominates silent cow as tutor; Neet retreats affectionately toward Heather and endorses current staff.",
+  "variants": {
+    "meaningful_alternatives": [],
+    "assessment": "Complete working story, pre-refinement reading copy and original legacy-ch18 have one narrative; no competing alternate incident or ending is imported. Original daydream ending remains archived; working cow ending developed."
+  },
+  "comparison": {
+    "full_reread": true,
+    "all_original_distinct_incidents_preserved": true,
+    "transliterations": "Historical wording retained verbatim; not asserted as language instruction.",
+    "length": "Modest expansion for cause/effect and character comedy, no padding toward generic word target.",
+    "voices": "Neet keeps confident misreading; Buddy acts and judges outcomes; Heather participates practically."
+  },
+  "illustration_plan": [
+    {
+      "file": "jalebi-art-v005.png",
+      "state": "Vendor pats Neet after cheeseburger error; before Neet turns toward Chirag."
+    },
+    {
+      "file": "price-art-v004.png",
+      "state": "Vendor holds two fingers; Buddy proud; before banana tossed."
+    },
+    {
+      "file": "cow-art-v003.png",
+      "state": "Chapati still at Neet mouth during silent cow stare, before drop."
+    }
+  ],
+  "approval": {
+    "state": "unapproved"
+  },
+  "publication": {
+    "state": "not_published"
+  },
+  "final_story_sha256": "10dca946d66c709e1ea4e4b8dcbc18b13e5120b6b5d0a8d42ba9d368657a6aa5",
+  "retained_composition": "Existing cow-stop composition retained through narrow leash and coat corrections; original recoverably archived and preserved as generation source."
+}

@@ -1,0 +1,259 @@
+{
+  "story_id": "S061",
+  "episode_id": "E061-the-dragon-the-satellites-and-the-spider",
+  "reviewer": "independent_visual061",
+  "date": "2026-10-04T15:49:27.689615+00:00",
+  "status": "accepted",
+  "independent_of_generation": true,
+  "scope": "Independent visual review of every selected replacement; no generation, story editing or episode-status integration performed. Complete illustrated reading remains a separate gate.",
+  "story": {
+    "path": "Stories/S061-the-dragon-the-satellites-and-the-spider.md",
+    "sha256": "e3c168192042e9e05d0b4183cef5b1b78fcbaf1be0de22d387f30202e8f69f69"
+  },
+  "complete_primary_read": true,
+  "meaningful_alternatives": "None in current story.",
+  "inspection_method": "Opened all five selected original photographs; opened all three provisional model sheets and drawn staging; opened every finished PNG with detail original at native 1536x1024. Whole image review, not thumbnails or prompts.",
+  "references": [
+    {
+      "id": "N19",
+      "path": "Characters/Neet/Photos/neet-19.jpeg",
+      "sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+      "same_exposure_group": null,
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "styling",
+          "standing_pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Primary standing body proportions, paws, hocks and stub silhouette; head is not a pure profile.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Head rotated; far limbs overlap; uncalibrated camera offers no measurements; room light subdued"
+        ],
+        "inspection_sha256": "b2c6db0a5af6a885d993cbd986cc2759b9461e693fbcabd8aa96bce1eb5ea901",
+        "source_sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N19.json"
+      },
+      "opened_original": true
+    },
+    {
+      "id": "N29",
+      "path": "Characters/Neet/Photos/neet-29.jpeg",
+      "sha256": "dedcc7d8bcbc5da7e2441352200025606fc971644d0cbacd24e8465db8dcdc16",
+      "same_exposure_group": null,
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "styling",
+          "standing_pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Primary frontal standing proportions, leg slenderness, head/body scale and chest markings.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Body depth foreshortened; tail hidden; light/shadow affect colors; exact ratios unknown"
+        ],
+        "inspection_sha256": "af30873f7f392d2503a668667ed619b8d183d685403e25977ce3fe23d9359802",
+        "source_sha256": "dedcc7d8bcbc5da7e2441352200025606fc971644d0cbacd24e8465db8dcdc16",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N29.json"
+      },
+      "opened_original": true
+    },
+    {
+      "id": "B15",
+      "path": "Characters/Buddy/Photos/buddy-15.jpg",
+      "sha256": "947aca933769ac618dd657fd6a8491a8c67ff6997c289d76f87ec0167b07a923",
+      "same_exposure_group": null,
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "styling"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Excellent uncostumed upright sit and folded rear-thigh shape; useful underlying facial taper.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Bed rim hides front feet; perspective compresses torso; no standing ratios"
+        ],
+        "inspection_sha256": "4aff983a24dc33e82ba89c8c2806a346fe68f7f659414aadd57e15d2ea8deaf5",
+        "source_sha256": "947aca933769ac618dd657fd6a8491a8c67ff6997c289d76f87ec0167b07a923",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B15.json"
+      },
+      "opened_original": true
+    },
+    {
+      "id": "B19",
+      "path": "Characters/Buddy/Photos/buddy-19.jpg",
+      "sha256": "201ec36498d5aaa85ef6e44a9176c333587d95797279a689237ccb49090ee521",
+      "same_exposure_group": null,
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "resting_pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Excellent low face, ear-root tufts, muzzle sweep and head-between-paws reference; poor global proportions.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Nearest face enlarged by perspective; rear blurred; limbs folded; no neutral head/body proportions"
+        ],
+        "inspection_sha256": "6686639617369f80387a581720cb9d28a2f0f5cf940da025eadf8b420095dfd2",
+        "source_sha256": "201ec36498d5aaa85ef6e44a9176c333587d95797279a689237ccb49090ee521",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B19.json"
+      },
+      "opened_original": true
+    },
+    {
+      "id": "B29",
+      "path": "Characters/Buddy/Photos/buddy-29.jpeg",
+      "sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+      "same_exposure_group": null,
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Best available lateral body-length, tail-length/carriage and walking-pose reference; weak fine landmarks because blurred and not neutral standing.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Motion blur and lifted legs; cannot establish neutral back slope, exact leg ratios or gait timing from still"
+        ],
+        "inspection_sha256": "c671664ca5e4e2e07bfd3049ea641c3a1645742fb8290494e67a17f7ed213ea9",
+        "source_sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B29.json"
+      },
+      "opened_original": true
+    }
+  ],
+  "reference_restrictions": [
+    "N35 excluded from anatomy and not used.",
+    "B08 styling only and not used.",
+    "B25 unavailable and not used.",
+    "B30 supplemental resting evidence only and not used.",
+    "One exposure counts once; the five selected references have no shared-exposure duplicates.",
+    "Original photographs remain anatomy authority; generated models and staging are interpretation. Human likeness remains provisional; no humans depicted."
+  ],
+  "models": [
+    {
+      "path": "Productions/Library-Refinement/model-standing-v002.png",
+      "sha256": "c4c6b607727759b347f93ccef664b0ac4b9a8ade512908343748fb9e2a96e9b6",
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "path": "Productions/Library-Refinement/model-rest-action-v002.png",
+      "sha256": "c990ae5c598523ff864446e32995d110e6f38298cf87eae3d12bfd9792b4eb3e",
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "path": "Productions/Library-Refinement/model-finish-calibration-v004.png",
+      "sha256": "193dc8f81770a87933c6c599fce5a04f3c51cfbe21898459be2b511e989910a3",
+      "dimensions": [
+        1448,
+        1086
+      ]
+    }
+  ],
+  "model_comparison": "Models supply provisional design/construction only. Their engraved or curled torso finish was not treated as authority; actual replacements were evaluated against the short photographic coats.",
+  "staging": {
+    "path": "Productions/E061-the-dragon-the-satellites-and-the-spider/staging-v002.png",
+    "sha256": "5459b187756f00a7d71946eb16f55d4573972ce72c59ebeb183ef3ce58232f88",
+    "dimensions": [
+      1536,
+      1024
+    ]
+  },
+  "images": [
+    {
+      "image": {
+        "path": "Productions/E061-the-dragon-the-satellites-and-the-spider/setup-v004.png",
+        "sha256": "35e0d01a2166d2f32886999319546a7d35bb17fed4e9daed9e6a69e771c74c84",
+        "dimensions": [
+          1536,
+          1024
+        ]
+      },
+      "status": "accepted",
+      "findings": [
+        "Neet has broad triangular ears, projecting pale muzzle, fine supporting forelegs, full narrow seated trunk and a small rump nub; the coat reads smooth rather than engraved or shaggy.",
+        "Buddy has a continuous reclining trunk from neck through ribcage to folded haunch; paired forepaws bracket the ball and the rear paw belongs to the visible folded hind leg. Pale brows/muzzle, hanging ear flaps and dark torso retain identity in a close-groomed interpretation supported by B15.",
+        "Bone, remote and scattered balls make the imagined mission control readable. Buddy holds the removed ball at the sunny end of the rug; the contrasting upright commander and relaxed ball owner carry the joke.",
+        "Rug contact and cast shadows ground both animals. Furniture and floor perspective are coherent. No material anatomy, coat, support or finish defect found at native resolution."
+      ],
+      "material_findings": []
+    },
+    {
+      "image": {
+        "path": "Productions/E061-the-dragon-the-satellites-and-the-spider/fire-v005.png",
+        "sha256": "7f7ab421360025a80011223e545a53ed1036313ccd6b34933720e64b36929b3d",
+        "dimensions": [
+          1536,
+          1024
+        ]
+      },
+      "status": "accepted",
+      "findings": [
+        "Neet retains fine legs, connected full torso, large triangular ears and tiny nub. Four legs have legible ownership and floor contact; far-side overlap does not add limbs.",
+        "Buddy retains moderate torso elongation, neck, deep chest and substantial legs with clear abdominal clearance. Pale muzzle/brows and regional ear hair contrast with a close charcoal torso; fine wash variation does not create curls or raised shag.",
+        "The small flame narrows to the front lip at the open mouth below the black nose; the lowered jaw and visible oral opening establish mouth emission. It is intentional literal cartoon fire, as expressly stated in the story, not a photographic anatomy claim.",
+        "Buddy stands behind and watches open-mouthed, with an intact unsinged tail: this is the first flame before he edges closer. Green chutney cup, dosa and steel tableware supply the lunch context. The tight dining view omits other diners but does not contradict their off-frame presence.",
+        "Support shadows, continuous backs and floor perspective are coherent. The simplified close grooming is consistent across the selected images. No material visual defect found."
+      ],
+      "material_findings": []
+    },
+    {
+      "image": {
+        "path": "Productions/E061-the-dragon-the-satellites-and-the-spider/spider-v006.png",
+        "sha256": "b15b724d4205d6c4a57e8fedfe6941b7ea136f7ffdae44ce9cbbd78093bdcaa3",
+        "dimensions": [
+          1536,
+          1024
+        ]
+      },
+      "status": "accepted",
+      "findings": [
+        "The toy has one round black plush body and six distinct dangling legs, three to each side. Neet grips its top edge with his mouth; the toy is neither floating nor confused with a dog limb.",
+        "Neet has four traceable legs in a moving stride, continuous neck/ribcage/pelvis, fine distal limbs and a tiny nub. Toy overlap is restricted to the muzzle and chest area. His smooth fawn coat has no etched curls or enlarged shag.",
+        "Buddy sits with two forepaws, two folded hind paws, supported haunches and an attached dark tapered tail. The close-groomed muzzle, pale brow arcs and hanging ears correspond to B15; the head remains connected to a substantial neck and chest.",
+        "Buddy is safely beside the doorway while Neet carries the oversized toy through the open lane. Their opposed activity levels carry the refusal-to-block-the-hall joke; the image is placed before the final collapse, so a walking/running carry is the correct state.",
+        "Floor contacts and shallow movement shadows are consistent with the stride. The hallway perspective connects to the home living area. No material identity, ownership, grooming or finish defect found."
+      ],
+      "material_findings": []
+    }
+  ],
+  "unresolved_findings": [],
+  "approval": "unapproved",
+  "publication": "not_published"
+}

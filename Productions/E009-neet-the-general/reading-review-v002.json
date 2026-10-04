@@ -1,0 +1,77 @@
+{
+  "version": "v002",
+  "story_id": "S009",
+  "reviewer": "/root/coordinate009_016/reading009; fresh complete illustrated reading reviewer",
+  "date": "2026-10-04",
+  "status": "accepted",
+  "approval": "unapproved",
+  "publication": "not_published",
+  "story": {
+    "path": "Stories/S009-neet-the-general.md",
+    "sha256": "b48245aa0de3afe8599b5dba82712e94bcdc0bffa958ff758684ce4129b1875a"
+  },
+  "images": [
+    {
+      "path": "Productions/E009-neet-the-general/command-art-v001.png",
+      "sha256": "4d617543dfdd07cece799f7f9cb95afc2c0d5e5cea78d3a2b7d67446b3ac60c3"
+    },
+    {
+      "path": "Productions/E009-neet-the-general/diplomacy-art-v005.png",
+      "sha256": "91e05d40b778606ddeab33fdb635eac6da2704d368784cbb086e8c6671f84f92"
+    },
+    {
+      "path": "Productions/E009-neet-the-general/rest-art-v003.png",
+      "sha256": "0cf6fe69bc46ab6bb6c7c4f0dfe3e3d94a452084f24e4a990090cd93242d8196"
+    }
+  ],
+  "reading_method": {
+    "url": "http://127.0.0.1:56824/Stories/S009-neet-the-general.md",
+    "surface": "Codex in-app browser, background tab",
+    "viewport": [
+      1280,
+      720
+    ],
+    "method": "Read full rendered primary from title to final provenance source pins through 14 overlapping viewport screenshots at normal reader size. Inspected all three actual embedded pictures across their entire displayed areas, the intervening prose, closing lines, refinement record and variant/provenance notes. Accessibility text supported exact wording; screenshots supplied actual layout and picture inspection. No prose or image edits.",
+    "coverage": "Complete primary and all end matter; no distinct meaningful narrative alternative is present. Reversed Chapter 10 is documented as a paragraph-order duplicate, not a competing ending or extra scene.",
+    "display": "Comfortable serif text column approximately 760 pixels wide; artwork approximately 960 pixels wide. No broken images, clipped text or interrupted dialogue attribution observed."
+  },
+  "observations": {
+    "humor_and_timing": "The invader rolling over immediately punctures the military alarm. Heather crossing only the street measures the disproportion without explaining it. Buddy choosing the brown dog and promising to be easy to find prepares the returning white patrol; the first image follows that completed physical joke. The final permission to rest lands on its own line before the picture confirms everyone already resting.",
+    "distinct_wants_and_voices": "Neet wants authority and orderly territory but also the shade he has declared war on. Buddy wants shade, friendly company and peaceful food access; he acts by approaching the brown dog, attempting and correcting a food queue, and greeting the retriever. His practical dry reply differs from Neet commands. Heather combines leash management with weary affectionate understatement.",
+    "cause_effect_pacing": "Leash escape triggers the mistaken battle, harmless bravado produces the gang invitation, and successful belonging becomes the opportunity for command. Buddy food-queue mistake and correction give the days-passing passage a concrete event. The apparent outsider tests the two approaches and earns their coexistence in the closing rest.",
+    "emotional_payoff": "Shadow first disarms Neet and finally makes room for him. Neet can retain his dignity while joining the rest. Buddy continues his own stick-chewing pleasure; warmth does not require a speech or a forced sentimental change.",
+    "exact_state_placements": [
+      {
+        "image": "Productions/E009-neet-the-general/command-art-v001.png",
+        "observation": "Neet stands on bricks; Buddy and brown dog lie together; lanky white dog is back. It follows the failed north-wall patrol and precedes Heather reaction. Off-crop gang members do not imply a smaller historical gang."
+      },
+      {
+        "image": "Productions/E009-neet-the-general/diplomacy-art-v005.png",
+        "observation": "Buddy and shaggy golden retriever meet nose-to-nose, while Neet has stopped charging and holds a stern look. Placed after the greeting/stand-down beat, without showing the earlier protective line or preempting the resolution."
+      },
+      {
+        "image": "Productions/E009-neet-the-general/rest-art-v003.png",
+        "observation": "Rock is empty, Neet lies beside torn-ear Shadow, Buddy retains the stick in his mouth between his forepaws, and sunset matches the final paragraph. Appears after Nobody had to move, so it supports rather than spoils the last line."
+      }
+    ],
+    "complementary_pictures": "Command is a raised horizontal group composition with idle listeners, diplomacy concentrates on standing nose contact and the sidelined general, and sunset rest lowers everyone to ground level. Distinct actions and lighting carry the progression despite a coherent banyan location.",
+    "finish_at_reading_size": "Retained command picture is more textured than the replacement body washes, but shared palette, setting, recognizable faces and proportions maintain continuity. Smooth diplomacy/rest trunks show no recurring curled short-coat engraving at intended reading size. This reading assessment complements the independent native-resolution review."
+  },
+  "independent_visual_review": {
+    "path": "Productions/E009-neet-the-general/visual-review-v002.json",
+    "sha256": "d21aca587a1cef8bc878b0cb49a03a7ea3346fbe918e3d78db51fc0ac58bb188",
+    "status": "accepted",
+    "selected_hashes_match": true,
+    "closed_findings": [
+      "S009-V002-D1",
+      "S009-V002-R1"
+    ],
+    "observation": "Current record closes D1/R1 after actual replacement inspection; current embedded paths and bytes match all three accepted selections. Reading-size inspection also shows corrected smooth torso areas, preserved greeting and stick contact."
+  },
+  "material_findings": [],
+  "open_findings": [],
+  "limitations": [
+    "Review acceptance is editorial and does not confer owner approval, publication, final style canon or human likeness approval.",
+    "The dated refinement note describes the artwork as proposed pending separate reviews; it is historical process wording rather than a claim of missing art. Integration/delivery status belongs to the coordinator."
+  ]
+}

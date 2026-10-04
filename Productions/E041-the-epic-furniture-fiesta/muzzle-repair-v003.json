@@ -1,0 +1,425 @@
+{
+  "calls": [
+    {
+      "id": "showroomMuzzle",
+      "arguments": {
+        "prompt": "Use case identity-preserve localized facial furnishing repair. IMAGE1 is edit target. Images2 B04 and3 B19 are original Buddy photo reference for MUZZLE HAIR ONLY; no pose/proportion transfer. Buddy left dog eyes closed, chin down on sofa cushion. Independent review requests Buddy's smooth rounded pale muzzle regain his recognizable IRREGULAR MOUSTACHE AND MODEST CHIN BEARD. Add restrained distinct pale cream hairs sweeping FORWARD/OUTWARD/DOWN from sides of nose and lips, ragged non-round muzzle edge, a small visible beard immediately UNDER THE CHIN. Like the photographs, not two smooth pale puppy cheek lobes. Resting scenes: hairs flatten naturally against support but remain readable. Do not enlarge skull or create bushy giant beard. MODIFY ONLY Buddy muzzle/chin hair within a small local area. Preserve brows, ear hair, eye states, mouth state, head direction, anatomy, every limb and support, all other dogs/humans/props/scene and exact framing. CRITICAL: retain successful SMOOTH FLAT body paint on BOTH dogs everywhere: no torso/neck/leg fur strokes, curls, engraving or shag. No added texture outside Buddy muzzle/chin. Photo2 B04 foreshortened, grass hides toes, B04/B24 one exposure; photo3 B19 close face perspective and compressed rest not global body proportions. No calibrated ratios. N35 anatomy excluded; B08 styling only; B25 unavailable; B30 rest-only unused. No text.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E041-the-epic-furniture-fiesta/showroom-art-v005.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-19.jpg"
+        ],
+        "transparent_background": false
+      },
+      "output_hint": "Generated images are saved to /Users/sagar/.codex/generated_images/01a106ad-b1aa-7d22-b436-313033c273be as /Users/sagar/.codex/generated_images/01a106ad-b1aa-7d22-b436-313033c273be/exec-3bc9d611-113f-49d2-99a8-39a59505fecc.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "source_output_path": "/Users/sagar/.codex/generated_images/01a106ad-b1aa-7d22-b436-313033c273be/exec-3bc9d611-113f-49d2-99a8-39a59505fecc.png",
+      "output_path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E041-the-epic-furniture-fiesta/showroom-art-v006.png",
+      "output_sha256": "6861709d755102ceac381078159a8a3c6314e7dc68bb0fc93597b4f54325e45a",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "model": "unknown",
+      "seed": "unknown",
+      "status": "proposed_pending_independent_reinspection",
+      "inputs": [
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E041-the-epic-furniture-fiesta/showroom-art-v005.png",
+          "sha256": "4afa776671dcaf21ece041d1250ccf46bcd314258d82080615c788acda6c9512",
+          "role": "edit_target",
+          "effective_use_policy": null,
+          "same_exposure_group": null
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+          "sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+          "role": "original_photo_muzzle_furnishing_only",
+          "effective_use_policy": {
+            "allowed_uses": [
+              "visible_anatomy",
+              "styling",
+              "standing_pose"
+            ],
+            "provenance": "cataloged_photo",
+            "limitations": [
+              "Excellent front-leg clearance, chest pattern and groomed face; useful standing stance. Same photographic exposure as B24 for evidence counting.",
+              "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+              "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+              "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+              "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+              "Tail partly cropped at left; grass hides toes; perspective foreshortens torso; B24 same exposure in separate encoding"
+            ],
+            "inspection_sha256": "dd7da906a0e61eb4cdbd84eac3c97fea3318813d5a874c4e6cd4d8d3ba890797",
+            "source_sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+            "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+            "archived_evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+            "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B04.json"
+          },
+          "same_exposure_group": "B04-B24"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-19.jpg",
+          "sha256": "201ec36498d5aaa85ef6e44a9176c333587d95797279a689237ccb49090ee521",
+          "role": "original_photo_muzzle_furnishing_only",
+          "effective_use_policy": {
+            "allowed_uses": [
+              "visible_anatomy",
+              "resting_pose"
+            ],
+            "provenance": "cataloged_photo",
+            "limitations": [
+              "Excellent low face, ear-root tufts, muzzle sweep and head-between-paws reference; poor global proportions.",
+              "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+              "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+              "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+              "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+              "Nearest face enlarged by perspective; rear blurred; limbs folded; no neutral head/body proportions"
+            ],
+            "inspection_sha256": "6686639617369f80387a581720cb9d28a2f0f5cf940da025eadf8b420095dfd2",
+            "source_sha256": "201ec36498d5aaa85ef6e44a9176c333587d95797279a689237ccb49090ee521",
+            "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+            "archived_evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+            "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B19.json"
+          },
+          "same_exposure_group": null
+        }
+      ],
+      "whole_replacement_inspection": "Opened entire actual PNG at native 1536x1024. Irregular pale moustache and modest chin fringe now visible. Smooth torso surfaces, all other characters, supports, poses, eyes and narrative state retained. Writer proposal only; independent reviewer must decide."
+    },
+    {
+      "id": "captainMuzzle",
+      "arguments": {
+        "prompt": "Use case identity-preserve localized facial furnishing repair. IMAGE1 is edit target. Images2 B04 and3 B19 are original Buddy photo reference for MUZZLE HAIR ONLY; no pose/proportion transfer. Buddy RIGHT smaller dark dog chin down between forepaws; golden retriever left and Neet center unchanged. Independent review requests Buddy's smooth rounded pale muzzle regain his recognizable IRREGULAR MOUSTACHE AND MODEST CHIN BEARD. Add restrained distinct pale cream hairs sweeping FORWARD/OUTWARD/DOWN from sides of nose and lips, ragged non-round muzzle edge, a small visible beard immediately UNDER THE CHIN. Like the photographs, not two smooth pale puppy cheek lobes. Resting scenes: hairs flatten naturally against support but remain readable. Do not enlarge skull or create bushy giant beard. MODIFY ONLY Buddy muzzle/chin hair within a small local area. Preserve brows, ear hair, eye states, mouth state, head direction, anatomy, every limb and support, all other dogs/humans/props/scene and exact framing. CRITICAL: retain successful SMOOTH FLAT body paint on BOTH dogs everywhere: no torso/neck/leg fur strokes, curls, engraving or shag. No added texture outside Buddy muzzle/chin. Photo2 B04 foreshortened, grass hides toes, B04/B24 one exposure; photo3 B19 close face perspective and compressed rest not global body proportions. No calibrated ratios. N35 anatomy excluded; B08 styling only; B25 unavailable; B30 rest-only unused. No text.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E041-the-epic-furniture-fiesta/captain-art-v004.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-19.jpg"
+        ],
+        "transparent_background": false
+      },
+      "output_hint": "Generated images are saved to /Users/sagar/.codex/generated_images/01a106ad-b1aa-7d22-b436-313033c273be as /Users/sagar/.codex/generated_images/01a106ad-b1aa-7d22-b436-313033c273be/exec-98c475a7-e754-401f-be09-576fe35ac0e5.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "source_output_path": "/Users/sagar/.codex/generated_images/01a106ad-b1aa-7d22-b436-313033c273be/exec-98c475a7-e754-401f-be09-576fe35ac0e5.png",
+      "output_path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E041-the-epic-furniture-fiesta/captain-art-v005.png",
+      "output_sha256": "7706ca64f223ce71513d61b5ab76d715655940618010a3b2d59effc0262ae229",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "model": "unknown",
+      "seed": "unknown",
+      "status": "proposed_pending_independent_reinspection",
+      "inputs": [
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E041-the-epic-furniture-fiesta/captain-art-v004.png",
+          "sha256": "7b2a3ebf14ff1629b790b1a0f4091eb15797c9d1e6193ac8371aa2cfc3e73f8e",
+          "role": "edit_target",
+          "effective_use_policy": null,
+          "same_exposure_group": null
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+          "sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+          "role": "original_photo_muzzle_furnishing_only",
+          "effective_use_policy": {
+            "allowed_uses": [
+              "visible_anatomy",
+              "styling",
+              "standing_pose"
+            ],
+            "provenance": "cataloged_photo",
+            "limitations": [
+              "Excellent front-leg clearance, chest pattern and groomed face; useful standing stance. Same photographic exposure as B24 for evidence counting.",
+              "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+              "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+              "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+              "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+              "Tail partly cropped at left; grass hides toes; perspective foreshortens torso; B24 same exposure in separate encoding"
+            ],
+            "inspection_sha256": "dd7da906a0e61eb4cdbd84eac3c97fea3318813d5a874c4e6cd4d8d3ba890797",
+            "source_sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+            "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+            "archived_evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+            "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B04.json"
+          },
+          "same_exposure_group": "B04-B24"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-19.jpg",
+          "sha256": "201ec36498d5aaa85ef6e44a9176c333587d95797279a689237ccb49090ee521",
+          "role": "original_photo_muzzle_furnishing_only",
+          "effective_use_policy": {
+            "allowed_uses": [
+              "visible_anatomy",
+              "resting_pose"
+            ],
+            "provenance": "cataloged_photo",
+            "limitations": [
+              "Excellent low face, ear-root tufts, muzzle sweep and head-between-paws reference; poor global proportions.",
+              "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+              "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+              "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+              "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+              "Nearest face enlarged by perspective; rear blurred; limbs folded; no neutral head/body proportions"
+            ],
+            "inspection_sha256": "6686639617369f80387a581720cb9d28a2f0f5cf940da025eadf8b420095dfd2",
+            "source_sha256": "201ec36498d5aaa85ef6e44a9176c333587d95797279a689237ccb49090ee521",
+            "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+            "archived_evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+            "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B19.json"
+          },
+          "same_exposure_group": null
+        }
+      ],
+      "whole_replacement_inspection": "Opened entire actual PNG at native 1536x1024. Irregular pale moustache and modest chin fringe now visible. Smooth torso surfaces, all other characters, supports, poses, eyes and narrative state retained. Writer proposal only; independent reviewer must decide."
+    },
+    {
+      "id": "deskMuzzle",
+      "arguments": {
+        "prompt": "Use case identity-preserve localized facial furnishing repair. IMAGE1 is edit target. Images2 B04 and3 B19 are original Buddy photo reference for MUZZLE HAIR ONLY; no pose/proportion transfer. Buddy lower-right dark dog looks upward mouth open; do not change mouth expression or muzzle projection. Independent review requests Buddy's smooth rounded pale muzzle regain his recognizable IRREGULAR MOUSTACHE AND MODEST CHIN BEARD. Add restrained distinct pale cream hairs sweeping FORWARD/OUTWARD/DOWN from sides of nose and lips, ragged non-round muzzle edge, a small visible beard immediately UNDER THE CHIN. Like the photographs, not two smooth pale puppy cheek lobes. Resting scenes: hairs flatten naturally against support but remain readable. Do not enlarge skull or create bushy giant beard. MODIFY ONLY Buddy muzzle/chin hair within a small local area. Preserve brows, ear hair, eye states, mouth state, head direction, anatomy, every limb and support, all other dogs/humans/props/scene and exact framing. CRITICAL: retain successful SMOOTH FLAT body paint on BOTH dogs everywhere: no torso/neck/leg fur strokes, curls, engraving or shag. No added texture outside Buddy muzzle/chin. Photo2 B04 foreshortened, grass hides toes, B04/B24 one exposure; photo3 B19 close face perspective and compressed rest not global body proportions. No calibrated ratios. N35 anatomy excluded; B08 styling only; B25 unavailable; B30 rest-only unused. No text.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E041-the-epic-furniture-fiesta/desk-art-v004.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-19.jpg"
+        ],
+        "transparent_background": false
+      },
+      "output_hint": "Generated images are saved to /Users/sagar/.codex/generated_images/01a106ad-b1aa-7d22-b436-313033c273be as /Users/sagar/.codex/generated_images/01a106ad-b1aa-7d22-b436-313033c273be/exec-916d181e-d8a5-458e-a21d-522295e3bc2d.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "source_output_path": "/Users/sagar/.codex/generated_images/01a106ad-b1aa-7d22-b436-313033c273be/exec-916d181e-d8a5-458e-a21d-522295e3bc2d.png",
+      "output_path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E041-the-epic-furniture-fiesta/desk-art-v005.png",
+      "output_sha256": "01ff199520d3fbb2d02c22e4f0ef18685aa1054a795102d73aeb313a939182b3",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "model": "unknown",
+      "seed": "unknown",
+      "status": "proposed_pending_independent_reinspection",
+      "inputs": [
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E041-the-epic-furniture-fiesta/desk-art-v004.png",
+          "sha256": "6a4f18ba924fb79d8015933997f72ee2eef19c39142d3742eef47a6079efde09",
+          "role": "edit_target",
+          "effective_use_policy": null,
+          "same_exposure_group": null
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+          "sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+          "role": "original_photo_muzzle_furnishing_only",
+          "effective_use_policy": {
+            "allowed_uses": [
+              "visible_anatomy",
+              "styling",
+              "standing_pose"
+            ],
+            "provenance": "cataloged_photo",
+            "limitations": [
+              "Excellent front-leg clearance, chest pattern and groomed face; useful standing stance. Same photographic exposure as B24 for evidence counting.",
+              "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+              "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+              "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+              "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+              "Tail partly cropped at left; grass hides toes; perspective foreshortens torso; B24 same exposure in separate encoding"
+            ],
+            "inspection_sha256": "dd7da906a0e61eb4cdbd84eac3c97fea3318813d5a874c4e6cd4d8d3ba890797",
+            "source_sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+            "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+            "archived_evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+            "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B04.json"
+          },
+          "same_exposure_group": "B04-B24"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-19.jpg",
+          "sha256": "201ec36498d5aaa85ef6e44a9176c333587d95797279a689237ccb49090ee521",
+          "role": "original_photo_muzzle_furnishing_only",
+          "effective_use_policy": {
+            "allowed_uses": [
+              "visible_anatomy",
+              "resting_pose"
+            ],
+            "provenance": "cataloged_photo",
+            "limitations": [
+              "Excellent low face, ear-root tufts, muzzle sweep and head-between-paws reference; poor global proportions.",
+              "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+              "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+              "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+              "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+              "Nearest face enlarged by perspective; rear blurred; limbs folded; no neutral head/body proportions"
+            ],
+            "inspection_sha256": "6686639617369f80387a581720cb9d28a2f0f5cf940da025eadf8b420095dfd2",
+            "source_sha256": "201ec36498d5aaa85ef6e44a9176c333587d95797279a689237ccb49090ee521",
+            "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+            "archived_evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+            "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B19.json"
+          },
+          "same_exposure_group": null
+        }
+      ],
+      "whole_replacement_inspection": "Opened entire actual PNG at native 1536x1024. Irregular pale moustache and modest chin fringe now visible. Smooth torso surfaces, all other characters, supports, poses, eyes and narrative state retained. Writer proposal only; independent reviewer must decide."
+    }
+  ],
+  "references": [
+    {
+      "id": "B04",
+      "character": "Buddy",
+      "path": "Characters/Buddy/Photos/buddy-4.jpg",
+      "filename": "buddy-4.jpg",
+      "sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+      "archived_source_path": "03_Asset_Library/Characters/Buddy/buddy-4.jpg",
+      "same_exposure_group": "B04-B24",
+      "use": "Primary frontal standing and groomed facial pattern",
+      "approval_status": "unknown",
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "styling",
+          "standing_pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Excellent front-leg clearance, chest pattern and groomed face; useful standing stance. Same photographic exposure as B24 for evidence counting.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Tail partly cropped at left; grass hides toes; perspective foreshortens torso; B24 same exposure in separate encoding"
+        ],
+        "inspection_sha256": "dd7da906a0e61eb4cdbd84eac3c97fea3318813d5a874c4e6cd4d8d3ba890797",
+        "source_sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B04.json"
+      },
+      "source_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose",
+          "resting_pose",
+          "styling"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Excellent front-leg clearance, chest pattern and groomed face; useful standing stance. Same photographic exposure as B24 for evidence counting.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state."
+        ],
+        "evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+        "same_exposure_group": "B04-B24"
+      },
+      "source_observation": {
+        "date": "2026-10-03",
+        "pose_view_camera": "Standing front three-quarter outdoors; approximately chest-level",
+        "visible_features": "Deep chest; substantial leg shafts; pale lower legs and splaying foot hair; dark torso; pale chest sides/dark throat; long pendant ear fringe; pale muzzle/brows",
+        "limitations": "Tail partly cropped at left; grass hides toes; perspective foreshortens torso; B24 same exposure in separate encoding",
+        "recommended_uses": [
+          "standing_pose",
+          "visible_anatomy",
+          "styling"
+        ],
+        "full_restrictions": [
+          "Excellent front-leg clearance, chest pattern and groomed face; useful standing stance. Same photographic exposure as B24 for evidence counting.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Tail partly cropped at left; grass hides toes; perspective foreshortens torso; B24 same exposure in separate encoding"
+        ]
+      },
+      "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B04.json",
+      "inspection_sha256": "dd7da906a0e61eb4cdbd84eac3c97fea3318813d5a874c4e6cd4d8d3ba890797"
+    },
+    {
+      "id": "B19",
+      "character": "Buddy",
+      "path": "Characters/Buddy/Photos/buddy-19.jpg",
+      "filename": "buddy-19.jpg",
+      "sha256": "201ec36498d5aaa85ef6e44a9176c333587d95797279a689237ccb49090ee521",
+      "archived_source_path": "03_Asset_Library/Characters/Buddy/buddy-19.jpg",
+      "same_exposure_group": null,
+      "use": "Chin-down resting with messy facial furnishings",
+      "approval_status": "unknown",
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "resting_pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Excellent low face, ear-root tufts, muzzle sweep and head-between-paws reference; poor global proportions.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Nearest face enlarged by perspective; rear blurred; limbs folded; no neutral head/body proportions"
+        ],
+        "inspection_sha256": "6686639617369f80387a581720cb9d28a2f0f5cf940da025eadf8b420095dfd2",
+        "source_sha256": "201ec36498d5aaa85ef6e44a9176c333587d95797279a689237ccb49090ee521",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B19.json"
+      },
+      "source_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose",
+          "resting_pose",
+          "styling"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Excellent low face, ear-root tufts, muzzle sweep and head-between-paws reference; poor global proportions.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state."
+        ],
+        "evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md"
+      },
+      "source_observation": {
+        "date": "2026-10-03",
+        "pose_view_camera": "Chin down on forepaws; very low frontal close view",
+        "visible_features": "Pale muzzle strands/beard compressed; warm pale paws; paired brow arcs; dark eye surrounds; long hanging ear fringe; upward wispy roots",
+        "limitations": "Nearest face enlarged by perspective; rear blurred; limbs folded; no neutral head/body proportions",
+        "recommended_uses": [
+          "resting_pose",
+          "visible_anatomy",
+          "facial_expression"
+        ],
+        "full_restrictions": [
+          "Excellent low face, ear-root tufts, muzzle sweep and head-between-paws reference; poor global proportions.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Nearest face enlarged by perspective; rear blurred; limbs folded; no neutral head/body proportions"
+        ]
+      },
+      "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B19.json",
+      "inspection_sha256": "6686639617369f80387a581720cb9d28a2f0f5cf940da025eadf8b420095dfd2"
+    }
+  ],
+  "exposure_groups": [
+    "B04-B24",
+    "B19"
+  ],
+  "reason": "Independent visual-review-v002 requires irregular moustache and modest beard restored in three images; body coat/staging passed.",
+  "review_record_sha256": "fe12cc56fb93a44443a00ea42a4a67863cbc477ce3048b772868be605e1508b9",
+  "approval": "unapproved",
+  "publication": "not_published",
+  "model": "unknown",
+  "seed": "unknown",
+  "archive_mappings": [
+    {
+      "previous_path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E041-the-epic-furniture-fiesta/showroom-art-v005.png",
+      "archive_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S041-expanded/showroom-art-v005.png",
+      "sha256": "4afa776671dcaf21ece041d1250ccf46bcd314258d82080615c788acda6c9512"
+    },
+    {
+      "previous_path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E041-the-epic-furniture-fiesta/captain-art-v004.png",
+      "archive_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S041-expanded/captain-art-v004.png",
+      "sha256": "7b2a3ebf14ff1629b790b1a0f4091eb15797c9d1e6193ac8371aa2cfc3e73f8e"
+    },
+    {
+      "previous_path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E041-the-epic-furniture-fiesta/desk-art-v004.png",
+      "archive_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S041-expanded/desk-art-v004.png",
+      "sha256": "6a4f18ba924fb79d8015933997f72ee2eef19c39142d3742eef47a6079efde09"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "story_id": "S029",
+  "status": "revised_pending_independent_reading",
+  "previous_working_sha256": "09f281f6ad9577df6b743a309a7a48c616e0d3a06a84630a32fb43c930cb418c",
+  "sources_read_in_full": [
+    "Stories/S029-winter-woes-and-the-battle-of-the-backyard.md",
+    "legacy-ch30",
+    "elevenlabs-reader-39",
+    "Stories/S028-the-birthday-get-together-and-the-sheera-cake-saga.md",
+    "Stories/S030-the-temple-visit-and-the-great-gujarati-thali-feast.md"
+  ],
+  "central_comic_situation": "Neet treats a short toilet outing as a survival operation; his thorough preparations prevent its completion.",
+  "wants": {
+    "Neet": "Avoid cold while claiming control of the outing.",
+    "Buddy": "Complete his business and regain his warm spot; tries helping, then protects his own comfort.",
+    "Heather": "Get both dogs finished and return indoors."
+  },
+  "preserved": [
+    "6:30 alarm",
+    "hold until spring",
+    "Buddy completes his business",
+    "five-pound source dialogue remains unresolved",
+    "tested patch",
+    "seventeen circles",
+    "predator-drone check",
+    "gust abort",
+    "waste absorption",
+    "carpet cleaner warning",
+    "blanket victory",
+    "tomorrow earlier"
+  ],
+  "changes": [
+    "Buddy put his nose against the door. His plan was to be back by the heater before the warm spot forgot him.\n\n\u201cSpring can come. I\u2019m going now.\u201d",
+    "\u201cSee? Not so bad,\u201d Buddy said. \u201cNow your turn.\u201d\n\nHe stood beside the door, ready for it to open. It didn\u2019t. He looked at Heather, then at Neet, then at the door again.",
+    "He wanted them both indoors before his paws went cold again. He had completed his morning and somehow been assigned another one.",
+    "His face contorted in absolute betrayal. He lifted one front paw, put it down to lift the other, then looked offended by the available number of legs.",
+    "Neet turned in seventeen circles. Buddy followed the first two, thinking they were looking for somewhere better. On the third he stopped.\n\n\u201cSame spot,\u201d he said as Neet passed him again.\n\nHeather pulled her sleeves over her gloves. By the seventeenth circle, Buddy had tucked himself behind her boots to borrow the windbreak.\n\nNeet checked the wind, inspected the sky for predator drones, and then\u2014",
+    "Heather groaned. \u201cNEET!\u201d\n\nBuddy emerged from behind her boots. All that inspection, and Neet had chosen the porch.",
+    "Buddy went straight to the heater and lowered himself into the warm spot. He put both front paws in it before Neet could propose sharing.\n\n\u201cYou\u2019re so dramatic,\u201d he muttered.",
+    "Buddy stretched his paws toward the heater. Neet tucked his nose beneath the blanket.\n\n\u201cIf I need to go later\u2014\u201d Neet began.\n\n\u201cYou know the route,\u201d said Buddy, and closed his eyes."
+  ],
+  "variant_assessment": "Both complete archived witnesses match narrative, differing formatting and thenA transcription join; no meaningful alternative requires separate art.",
+  "ending": "Buddy earns the warm spot and declines another escort using the already-established route. Neet still has unfinished business.",
+  "complete_reread_comparison": {
+    "status": "performed",
+    "findings": [
+      "No central incident removed or outcome reversed.",
+      "Buddy now makes a mistaken helpful attempt and chooses shelter rather than merely sighing.",
+      "Heather stays bundled, weary and affectionate; Sagar is not inserted into historical household.",
+      "Added physical timing replaces repetitive sighs, not the best source lines.",
+      "Prose remains short; no invented successful toilet trip."
+    ]
+  },
+  "approval": "unapproved",
+  "revised_story_sha256": "3c054dfd26a11acc2ddc631331209936d0dd409d912470d5115f8a39c84b0943",
+  "source_pins": [
+    {
+      "archive_member": "NBC/02_Story_Library/Legacy_Chapters/30-winter-woes-and-the-battle-of-the-backyard.md",
+      "sha256": "cb5c9b1b1c5f338552e4cbc27730fbd186f1a036ef947b410b995a4302f793a0"
+    },
+    {
+      "archive_member": "NBC/02_Story_Library/ElevenLabs_Imports/reader-39-winter-woes-and-the-battle-of-the-backyard.txt",
+      "sha256": "5e46210822723b41548d2df380b4753157c975e4f9865483759508e6c2dceb51"
+    }
+  ],
+  "connected_story_pins": [
+    {
+      "path": "Stories/S028-the-birthday-get-together-and-the-sheera-cake-saga.md",
+      "sha256": "9b7c53b899e8990fb3336be4ccb07f28b3ee8e61455c705e804ecd84366d9d69"
+    },
+    {
+      "path": "Stories/S030-the-temple-visit-and-the-great-gujarati-thali-feast.md",
+      "sha256": "83cb413a3ed4eb9d5290c7e80703bbc53573ecfdd1a7e2a79dcb60d23823b857"
+    }
+  ],
+  "illustration_plan": [
+    {
+      "path": "snow-art-v003.png",
+      "anchor_after": "I HATE THIS! I HATE EVERYTHING!",
+      "purpose": "Cold-paw physical reaction versus Buddy willingness."
+    },
+    {
+      "path": "circles-art-v003.png",
+      "anchor_after": "Neet checked the wind and inspected the sky for predator drones.",
+      "purpose": "Circular wasted effort versus Buddy sensible shelter."
+    },
+    {
+      "path": "warm-art-v004.png",
+      "anchor_after": "We\u2019ll see.",
+      "purpose": "Warm indoor anticlimax before final earned callback."
+    }
+  ]
+}

@@ -1,0 +1,828 @@
+{
+  "status": "verified",
+  "archive": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/finalization-preservation-2026-10-04_172128Z/sources.tar.gz",
+  "archive_sha256": "2eb6fdcf5222be90030d482aa218874f5dcfba0b6f1818ca3b726d0217bdbac3",
+  "reason": "Unselected historical finished versions preserved outside the active library. Current selected images and reviewed story bytes unchanged. No new creative verdict is implied. Navigation/control sources snapshotted before final completion edits.",
+  "files": [
+    {
+      "path": "Productions/E046-the-rainbow-drill/illustration-v001.png",
+      "sha256": "69ed3994d78ab15ea63474a5730eb0a10e3924dc7f3d48b3e23f2fba1e104d03",
+      "bytes": 3155793,
+      "disposition": "move_superseded_finish_to_preserved",
+      "former_path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E046-the-rainbow-drill/illustration-v001.png",
+      "external_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/finalization-preservation-2026-10-04_172128Z/preserved/Productions/E046-the-rainbow-drill/illustration-v001.png"
+    },
+    {
+      "path": "Productions/E046-the-rainbow-drill/illustration-v002.png",
+      "sha256": "57297f8fa33e88a7bc8db8d2a929416b8fc14a3f2b527e8de8a580c261ccd93b",
+      "bytes": 2909302,
+      "disposition": "move_superseded_finish_to_preserved",
+      "former_path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E046-the-rainbow-drill/illustration-v002.png",
+      "external_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/finalization-preservation-2026-10-04_172128Z/preserved/Productions/E046-the-rainbow-drill/illustration-v002.png"
+    },
+    {
+      "path": "Productions/E053-the-midnight-counsel-of-ganesha/illustration-v001.png",
+      "sha256": "82c227ad6edf7a6202bf4c25593ffa3e2526a49f9e29bc6591eb9930c3beaa49",
+      "bytes": 2508077,
+      "disposition": "move_superseded_finish_to_preserved",
+      "former_path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E053-the-midnight-counsel-of-ganesha/illustration-v001.png",
+      "external_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/finalization-preservation-2026-10-04_172128Z/preserved/Productions/E053-the-midnight-counsel-of-ganesha/illustration-v001.png"
+    },
+    {
+      "path": "Productions/E053-the-midnight-counsel-of-ganesha/illustration-v002.png",
+      "sha256": "e0a68f8947b741e92d009ec3161071a8da63dcd501c409c41afcdd0dab358634",
+      "bytes": 2422884,
+      "disposition": "move_superseded_finish_to_preserved",
+      "former_path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E053-the-midnight-counsel-of-ganesha/illustration-v002.png",
+      "external_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/finalization-preservation-2026-10-04_172128Z/preserved/Productions/E053-the-midnight-counsel-of-ganesha/illustration-v002.png"
+    },
+    {
+      "path": "Productions/E043-the-great-laundry-day-uprising/illustration-v001.png",
+      "sha256": "1bd888c6ecacffe64434a1f388d7efd12caaf459e43a34b23259ce292c2260c4",
+      "bytes": 3013197,
+      "disposition": "move_superseded_finish_to_preserved",
+      "former_path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E043-the-great-laundry-day-uprising/illustration-v001.png",
+      "external_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/finalization-preservation-2026-10-04_172128Z/preserved/Productions/E043-the-great-laundry-day-uprising/illustration-v001.png"
+    },
+    {
+      "path": "Productions/E043-the-great-laundry-day-uprising/illustration-v002.png",
+      "sha256": "ab2acfa42dc529b9b34c85797142ea296c1e0a94801b0c3baa5f9f5fc3ddc18a",
+      "bytes": 2780105,
+      "disposition": "move_superseded_finish_to_preserved",
+      "former_path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E043-the-great-laundry-day-uprising/illustration-v002.png",
+      "external_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/finalization-preservation-2026-10-04_172128Z/preserved/Productions/E043-the-great-laundry-day-uprising/illustration-v002.png"
+    },
+    {
+      "path": "Productions/E017-bazaar-madness-a-practical-gujarati-lesson/illustration-v001.png",
+      "sha256": "c230407a795b0b6c812499f7394ad05d33e991a31e4f61d6ced2a85b655880ec",
+      "bytes": 2604305,
+      "disposition": "move_superseded_finish_to_preserved",
+      "former_path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E017-bazaar-madness-a-practical-gujarati-lesson/illustration-v001.png",
+      "external_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/finalization-preservation-2026-10-04_172128Z/preserved/Productions/E017-bazaar-madness-a-practical-gujarati-lesson/illustration-v001.png"
+    },
+    {
+      "path": "Productions/E017-bazaar-madness-a-practical-gujarati-lesson/jalebi-art-v004.png",
+      "sha256": "cd64c11f4a341e348fc7f82deb96f37874b679de0e7e9a931a9a3467c8748da2",
+      "bytes": 2349152,
+      "disposition": "move_superseded_finish_to_preserved",
+      "former_path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E017-bazaar-madness-a-practical-gujarati-lesson/jalebi-art-v004.png",
+      "external_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/finalization-preservation-2026-10-04_172128Z/preserved/Productions/E017-bazaar-madness-a-practical-gujarati-lesson/jalebi-art-v004.png"
+    },
+    {
+      "path": "Productions/E054-the-visarjan-protocol/illustration-v001.png",
+      "sha256": "f26ecf58430e0e6a519ca71e6bd4524462411ac5d4575f19f389a938033cb883",
+      "bytes": 2595083,
+      "disposition": "move_superseded_finish_to_preserved",
+      "former_path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E054-the-visarjan-protocol/illustration-v001.png",
+      "external_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/finalization-preservation-2026-10-04_172128Z/preserved/Productions/E054-the-visarjan-protocol/illustration-v001.png"
+    },
+    {
+      "path": "Productions/E054-the-visarjan-protocol/illustration-v002.png",
+      "sha256": "f77d3f6016cdd991636e349f6756b0548f781583ded92d11720e820464e375b9",
+      "bytes": 2500338,
+      "disposition": "move_superseded_finish_to_preserved",
+      "former_path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E054-the-visarjan-protocol/illustration-v002.png",
+      "external_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/finalization-preservation-2026-10-04_172128Z/preserved/Productions/E054-the-visarjan-protocol/illustration-v002.png"
+    },
+    {
+      "path": "Productions/E058-the-era-of-the-cool-ball/illustration-v001.png",
+      "sha256": "412baff4a5f4f81b838c52501c0db10f27aa9772cdc7b54d9d2a20130664c910",
+      "bytes": 2727904,
+      "disposition": "move_superseded_finish_to_preserved",
+      "former_path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E058-the-era-of-the-cool-ball/illustration-v001.png",
+      "external_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/finalization-preservation-2026-10-04_172128Z/preserved/Productions/E058-the-era-of-the-cool-ball/illustration-v001.png"
+    },
+    {
+      "path": "Productions/E058-the-era-of-the-cool-ball/illustration-v002.png",
+      "sha256": "bf661378916a3096911a61d6ce8c0562cd408377cb97bd43dfdaffe6c0f26a2a",
+      "bytes": 2568687,
+      "disposition": "move_superseded_finish_to_preserved",
+      "former_path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E058-the-era-of-the-cool-ball/illustration-v002.png",
+      "external_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/finalization-preservation-2026-10-04_172128Z/preserved/Productions/E058-the-era-of-the-cool-ball/illustration-v002.png"
+    },
+    {
+      "path": "Productions/E018-buddys-big-elocution-debacle/illustration-v001.png",
+      "sha256": "990debd3af866d63be0d100b479ee1b92d2889922bdfba0102707962d6e7c3a2",
+      "bytes": 2664232,
+      "disposition": "move_superseded_finish_to_preserved",
+      "former_path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E018-buddys-big-elocution-debacle/illustration-v001.png",
+      "external_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/finalization-preservation-2026-10-04_172128Z/preserved/Productions/E018-buddys-big-elocution-debacle/illustration-v001.png"
+    },
+    {
+      "path": "Productions/E018-buddys-big-elocution-debacle/illustration-v002.png",
+      "sha256": "f3e5452a167a5a1ee2815c13888b4b61938b75ce9611c0bdc93f004122a274be",
+      "bytes": 2462619,
+      "disposition": "move_superseded_finish_to_preserved",
+      "former_path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E018-buddys-big-elocution-debacle/illustration-v002.png",
+      "external_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/finalization-preservation-2026-10-04_172128Z/preserved/Productions/E018-buddys-big-elocution-debacle/illustration-v002.png"
+    },
+    {
+      "path": "Productions/E018-buddys-big-elocution-debacle/illustration-v003.png",
+      "sha256": "db6ea99842c5268b1b8be296ad33c16e2b8a460fd9efce46919a43cff411fc23",
+      "bytes": 2431756,
+      "disposition": "move_superseded_finish_to_preserved",
+      "former_path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E018-buddys-big-elocution-debacle/illustration-v003.png",
+      "external_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/finalization-preservation-2026-10-04_172128Z/preserved/Productions/E018-buddys-big-elocution-debacle/illustration-v003.png"
+    },
+    {
+      "path": "Productions/E033-buddy-and-the-golden-glory/illustration-v001.png",
+      "sha256": "affb0ca4452d0fb6ddcc92e2e884da8ab9bacdf020123e6320bb6310eb231867",
+      "bytes": 2713784,
+      "disposition": "move_superseded_finish_to_preserved",
+      "former_path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E033-buddy-and-the-golden-glory/illustration-v001.png",
+      "external_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/finalization-preservation-2026-10-04_172128Z/preserved/Productions/E033-buddy-and-the-golden-glory/illustration-v001.png"
+    },
+    {
+      "path": "Productions/E033-buddy-and-the-golden-glory/fork-art-v002.png",
+      "sha256": "29442e00c09dbfe91ca655cc473c9422ace3a55653bb08e429291bcb0b0a3f0f",
+      "bytes": 2533306,
+      "disposition": "move_superseded_finish_to_preserved",
+      "former_path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E033-buddy-and-the-golden-glory/fork-art-v002.png",
+      "external_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/finalization-preservation-2026-10-04_172128Z/preserved/Productions/E033-buddy-and-the-golden-glory/fork-art-v002.png"
+    },
+    {
+      "path": "Productions/E033-buddy-and-the-golden-glory/crowd-art-v003.png",
+      "sha256": "35300b8996555d8f490ead7fc394ef7f5b1c4083fd8d47f9f1407cb71801ee0e",
+      "bytes": 2234606,
+      "disposition": "move_superseded_finish_to_preserved",
+      "former_path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E033-buddy-and-the-golden-glory/crowd-art-v003.png",
+      "external_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/finalization-preservation-2026-10-04_172128Z/preserved/Productions/E033-buddy-and-the-golden-glory/crowd-art-v003.png"
+    },
+    {
+      "path": "Productions/E033-buddy-and-the-golden-glory/crowd-art-v002.png",
+      "sha256": "b084e3ddab20be13e10b4eaca4c07f44e9358b056989abe728375e3d5d415bba",
+      "bytes": 2496848,
+      "disposition": "move_superseded_finish_to_preserved",
+      "former_path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E033-buddy-and-the-golden-glory/crowd-art-v002.png",
+      "external_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/finalization-preservation-2026-10-04_172128Z/preserved/Productions/E033-buddy-and-the-golden-glory/crowd-art-v002.png"
+    },
+    {
+      "path": "Productions/E033-buddy-and-the-golden-glory/opening-art-v002.png",
+      "sha256": "29d3db2ea94341cab5e2ab07cb8013a0bf25a7da313d017f9ff83dd42af4358d",
+      "bytes": 2548453,
+      "disposition": "move_superseded_finish_to_preserved",
+      "former_path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E033-buddy-and-the-golden-glory/opening-art-v002.png",
+      "external_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/finalization-preservation-2026-10-04_172128Z/preserved/Productions/E033-buddy-and-the-golden-glory/opening-art-v002.png"
+    },
+    {
+      "path": "Productions/E063-the-field-trip-to-love-high-and-the-gospel-of-good-ass-prana/illustration-v001.png",
+      "sha256": "bf789d062303fe0f77b216786f835d87b5a3abc7c287082c3688deb55d040417",
+      "bytes": 3019263,
+      "disposition": "move_superseded_finish_to_preserved",
+      "former_path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E063-the-field-trip-to-love-high-and-the-gospel-of-good-ass-prana/illustration-v001.png",
+      "external_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/finalization-preservation-2026-10-04_172128Z/preserved/Productions/E063-the-field-trip-to-love-high-and-the-gospel-of-good-ass-prana/illustration-v001.png"
+    },
+    {
+      "path": "Productions/E063-the-field-trip-to-love-high-and-the-gospel-of-good-ass-prana/illustration-v002.png",
+      "sha256": "c91709dca6e1f4813a45a6e77db2c7da7a757c00dd92fa56ae7d814d5e5547d4",
+      "bytes": 2771728,
+      "disposition": "move_superseded_finish_to_preserved",
+      "former_path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E063-the-field-trip-to-love-high-and-the-gospel-of-good-ass-prana/illustration-v002.png",
+      "external_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/finalization-preservation-2026-10-04_172128Z/preserved/Productions/E063-the-field-trip-to-love-high-and-the-gospel-of-good-ass-prana/illustration-v002.png"
+    },
+    {
+      "path": "Productions/E012-the-great-neighborhood-dog-games/illustration-v001.png",
+      "sha256": "8b2e0d184400dad0917c65eef49419972ffe998e39961ef4ff653d2ad33ddebf",
+      "bytes": 2889165,
+      "disposition": "move_superseded_finish_to_preserved",
+      "former_path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E012-the-great-neighborhood-dog-games/illustration-v001.png",
+      "external_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/finalization-preservation-2026-10-04_172128Z/preserved/Productions/E012-the-great-neighborhood-dog-games/illustration-v001.png"
+    },
+    {
+      "path": "Productions/E049-the-great-vet-escapade/illustration-v001.png",
+      "sha256": "74a09364c78cfe35feceb9611eca9eed37c055cf12218fd7b3ed94b51c3c4080",
+      "bytes": 2338990,
+      "disposition": "move_superseded_finish_to_preserved",
+      "former_path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E049-the-great-vet-escapade/illustration-v001.png",
+      "external_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/finalization-preservation-2026-10-04_172128Z/preserved/Productions/E049-the-great-vet-escapade/illustration-v001.png"
+    },
+    {
+      "path": "Productions/E049-the-great-vet-escapade/cookie-paw-art-v002.png",
+      "sha256": "296a1224fcb9e2710829c76226fbc93568cb64071fd7a471e2c1db696cfbb03b",
+      "bytes": 2002114,
+      "disposition": "move_superseded_finish_to_preserved",
+      "former_path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E049-the-great-vet-escapade/cookie-paw-art-v002.png",
+      "external_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/finalization-preservation-2026-10-04_172128Z/preserved/Productions/E049-the-great-vet-escapade/cookie-paw-art-v002.png"
+    },
+    {
+      "path": "Productions/E049-the-great-vet-escapade/illustration-v002.png",
+      "sha256": "c8699541bce80eebf5595aa1fc172128362b72de313a1a5f918928f15f40e26d",
+      "bytes": 2218083,
+      "disposition": "move_superseded_finish_to_preserved",
+      "former_path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E049-the-great-vet-escapade/illustration-v002.png",
+      "external_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/finalization-preservation-2026-10-04_172128Z/preserved/Productions/E049-the-great-vet-escapade/illustration-v002.png"
+    },
+    {
+      "path": "Productions/E049-the-great-vet-escapade/doorway-art-v004.png",
+      "sha256": "b8726690f08431f4c980f75a92a7b4197b999875f3dd130c69bddd08e85a655e",
+      "bytes": 1963401,
+      "disposition": "move_superseded_finish_to_preserved",
+      "former_path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E049-the-great-vet-escapade/doorway-art-v004.png",
+      "external_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/finalization-preservation-2026-10-04_172128Z/preserved/Productions/E049-the-great-vet-escapade/doorway-art-v004.png"
+    },
+    {
+      "path": "Productions/E028-the-birthday-get-together-and-the-sheera-cake-saga/illustration-v001.png",
+      "sha256": "e229e267b94cb759e2edba1db7cdf7c065830f42385cf31c559923ab2d732230",
+      "bytes": 2379078,
+      "disposition": "move_superseded_finish_to_preserved",
+      "former_path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E028-the-birthday-get-together-and-the-sheera-cake-saga/illustration-v001.png",
+      "external_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/finalization-preservation-2026-10-04_172128Z/preserved/Productions/E028-the-birthday-get-together-and-the-sheera-cake-saga/illustration-v001.png"
+    },
+    {
+      "path": "Productions/E025-the-return-to-the-u-s-immigration-madness/illustration-v001.png",
+      "sha256": "cacdff5711e7cc8e94114187a7e3a23d728ebcc0faac8ff85874a94d2fd0746f",
+      "bytes": 2383853,
+      "disposition": "move_superseded_finish_to_preserved",
+      "former_path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E025-the-return-to-the-u-s-immigration-madness/illustration-v001.png",
+      "external_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/finalization-preservation-2026-10-04_172128Z/preserved/Productions/E025-the-return-to-the-u-s-immigration-madness/illustration-v001.png"
+    },
+    {
+      "path": "Productions/E044-the-vacuum-wars/illustration-v001.png",
+      "sha256": "7c33dfda5761533a431efeeab6f4c1df6ca0b96dbc35e8f3b2e4b72a40b65da0",
+      "bytes": 2605911,
+      "disposition": "move_superseded_finish_to_preserved",
+      "former_path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E044-the-vacuum-wars/illustration-v001.png",
+      "external_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/finalization-preservation-2026-10-04_172128Z/preserved/Productions/E044-the-vacuum-wars/illustration-v001.png"
+    },
+    {
+      "path": "Productions/E052-the-arrival-of-ganesha/illustration-v001.png",
+      "sha256": "f64214ebea63463701c942c3ecbd379880c723f472f10fc8b14da797686b09d3",
+      "bytes": 2705344,
+      "disposition": "move_superseded_finish_to_preserved",
+      "former_path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E052-the-arrival-of-ganesha/illustration-v001.png",
+      "external_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/finalization-preservation-2026-10-04_172128Z/preserved/Productions/E052-the-arrival-of-ganesha/illustration-v001.png"
+    },
+    {
+      "path": "Productions/E052-the-arrival-of-ganesha/illustration-v002.png",
+      "sha256": "751ab6a77f0cdbe7eae3b44abbf2e09ebacd1dba8b29b6c099839f2d48f12606",
+      "bytes": 2646225,
+      "disposition": "move_superseded_finish_to_preserved",
+      "former_path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E052-the-arrival-of-ganesha/illustration-v002.png",
+      "external_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/finalization-preservation-2026-10-04_172128Z/preserved/Productions/E052-the-arrival-of-ganesha/illustration-v002.png"
+    },
+    {
+      "path": "Productions/E051-the-redemption-of-the-star/illustration-v001.png",
+      "sha256": "920f9b5127267d013ea7dbcf6aab1609e205e6764e8cf4a154887560e616a7d3",
+      "bytes": 3019071,
+      "disposition": "move_superseded_finish_to_preserved",
+      "former_path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E051-the-redemption-of-the-star/illustration-v001.png",
+      "external_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/finalization-preservation-2026-10-04_172128Z/preserved/Productions/E051-the-redemption-of-the-star/illustration-v001.png"
+    },
+    {
+      "path": "Productions/E051-the-redemption-of-the-star/illustration-v002.png",
+      "sha256": "8b5295ed3aaa0a548fa0a5e9b5ccce5ba30e5dcf878b9af02eb66db2451c9798",
+      "bytes": 2807109,
+      "disposition": "move_superseded_finish_to_preserved",
+      "former_path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E051-the-redemption-of-the-star/illustration-v002.png",
+      "external_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/finalization-preservation-2026-10-04_172128Z/preserved/Productions/E051-the-redemption-of-the-star/illustration-v002.png"
+    },
+    {
+      "path": "Productions/E037-the-midnight-storm-and-the-royal-snack-emergency/illustration-v001.png",
+      "sha256": "a0ab28e69589d88497339578989d8dae50dd49e453ef5eef4ec36f624bdddf45",
+      "bytes": 3723088,
+      "disposition": "move_superseded_finish_to_preserved",
+      "former_path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E037-the-midnight-storm-and-the-royal-snack-emergency/illustration-v001.png",
+      "external_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/finalization-preservation-2026-10-04_172128Z/preserved/Productions/E037-the-midnight-storm-and-the-royal-snack-emergency/illustration-v001.png"
+    },
+    {
+      "path": "Productions/E037-the-midnight-storm-and-the-royal-snack-emergency/illustration-v002.png",
+      "sha256": "e68078a101e7626d0e22345d86d63b85a069f0eacbef09feeb67e2e4441c77df",
+      "bytes": 3486875,
+      "disposition": "move_superseded_finish_to_preserved",
+      "former_path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E037-the-midnight-storm-and-the-royal-snack-emergency/illustration-v002.png",
+      "external_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/finalization-preservation-2026-10-04_172128Z/preserved/Productions/E037-the-midnight-storm-and-the-royal-snack-emergency/illustration-v002.png"
+    },
+    {
+      "path": "Productions/E031-buddys-big-dental-adventure-part-1/illustration-v001.png",
+      "sha256": "aee28f662ebc18a653ccd2913adc714be4c67dff565c8b23e87432c649d0af24",
+      "bytes": 2432955,
+      "disposition": "move_superseded_finish_to_preserved",
+      "former_path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E031-buddys-big-dental-adventure-part-1/illustration-v001.png",
+      "external_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/finalization-preservation-2026-10-04_172128Z/preserved/Productions/E031-buddys-big-dental-adventure-part-1/illustration-v001.png"
+    },
+    {
+      "path": "Productions/E010-neets-gang-faces-the-night-stalkers/illustration-v001.png",
+      "sha256": "4e5e14bd38898aff54a64f75d32354fd7183a1381fb7ce197ddb70d77a4711c5",
+      "bytes": 2986810,
+      "disposition": "move_superseded_finish_to_preserved",
+      "former_path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E010-neets-gang-faces-the-night-stalkers/illustration-v001.png",
+      "external_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/finalization-preservation-2026-10-04_172128Z/preserved/Productions/E010-neets-gang-faces-the-night-stalkers/illustration-v001.png"
+    },
+    {
+      "path": "Productions/E057-the-tunnel-to-india-or-faith-vs-physics/illustration-v001.png",
+      "sha256": "100597d14df20892406030b65183b0b3ba7ec6950d99f449c56162bb17c2f9fa",
+      "bytes": 3215630,
+      "disposition": "move_superseded_finish_to_preserved",
+      "former_path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E057-the-tunnel-to-india-or-faith-vs-physics/illustration-v001.png",
+      "external_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/finalization-preservation-2026-10-04_172128Z/preserved/Productions/E057-the-tunnel-to-india-or-faith-vs-physics/illustration-v001.png"
+    },
+    {
+      "path": "Productions/E026-the-homecoming-blues/illustration-v002.png",
+      "sha256": "4e7a0f3b6c5cd77864d95f172602ec65d4d70637fe126c5fe6fbea2fb597b54f",
+      "bytes": 2392434,
+      "disposition": "move_superseded_finish_to_preserved",
+      "former_path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E026-the-homecoming-blues/illustration-v002.png",
+      "external_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/finalization-preservation-2026-10-04_172128Z/preserved/Productions/E026-the-homecoming-blues/illustration-v002.png"
+    },
+    {
+      "path": "Productions/E050-the-redemption-crusade-of-the-4-25-star-general/illustration-v001.png",
+      "sha256": "c99d747897f94c0375d3803dc30bebbdd982eebde054302e908cfbe0a6475026",
+      "bytes": 2783089,
+      "disposition": "move_superseded_finish_to_preserved",
+      "former_path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E050-the-redemption-crusade-of-the-4-25-star-general/illustration-v001.png",
+      "external_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/finalization-preservation-2026-10-04_172128Z/preserved/Productions/E050-the-redemption-crusade-of-the-4-25-star-general/illustration-v001.png"
+    },
+    {
+      "path": "Productions/E050-the-redemption-crusade-of-the-4-25-star-general/illustration-v002.png",
+      "sha256": "b2b87fbda6402b093376c6394a5edee248fedca76cc98fe318bd503bac5af441",
+      "bytes": 2638661,
+      "disposition": "move_superseded_finish_to_preserved",
+      "former_path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E050-the-redemption-crusade-of-the-4-25-star-general/illustration-v002.png",
+      "external_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/finalization-preservation-2026-10-04_172128Z/preserved/Productions/E050-the-redemption-crusade-of-the-4-25-star-general/illustration-v002.png"
+    },
+    {
+      "path": "Productions/E055-the-invisible-mentor/illustration-v001.png",
+      "sha256": "d92dc7004680c1e2d3d302eb1e079a40fb7573a7ee756eebde58649f5c3dc0cd",
+      "bytes": 2345123,
+      "disposition": "move_superseded_finish_to_preserved",
+      "former_path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E055-the-invisible-mentor/illustration-v001.png",
+      "external_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/finalization-preservation-2026-10-04_172128Z/preserved/Productions/E055-the-invisible-mentor/illustration-v001.png"
+    },
+    {
+      "path": "Productions/E055-the-invisible-mentor/illustration-v002.png",
+      "sha256": "30b4d67f149e39267a83b23310ebe359811256e1d57fb453566494de1650c160",
+      "bytes": 2173229,
+      "disposition": "move_superseded_finish_to_preserved",
+      "former_path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E055-the-invisible-mentor/illustration-v002.png",
+      "external_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/finalization-preservation-2026-10-04_172128Z/preserved/Productions/E055-the-invisible-mentor/illustration-v002.png"
+    },
+    {
+      "path": "README.md",
+      "sha256": "df1f39b2a8449657078250726bd452c109884a513076381e11db87e79150448d",
+      "bytes": 2569,
+      "disposition": "snapshot_before_navigation_completion"
+    },
+    {
+      "path": "Stories/README.md",
+      "sha256": "1e004ffe7599b5a9e7ab2244082bbee9b9bd32bc5b03a574afee1607b02a43d0",
+      "bytes": 20712,
+      "disposition": "snapshot_before_navigation_completion"
+    },
+    {
+      "path": "Productions/README.md",
+      "sha256": "243676eb999d06e0837a69c3658f875573096eea7a33eca7a9cd9fecd37ce963",
+      "bytes": 1051,
+      "disposition": "snapshot_before_navigation_completion"
+    },
+    {
+      "path": "Productions/Library-Refinement/brief.md",
+      "sha256": "5e1dfef72128ebc33d0953b90186d4c1889ff1e6c48a0319c54745ad5c0b2205",
+      "bytes": 3238,
+      "disposition": "snapshot_before_navigation_completion"
+    },
+    {
+      "path": "Productions/Library-Refinement/progress.json",
+      "sha256": "b6d2b829aac421d161ddb1830d171bb14ed864433f67f639c1483d318e7e7c8d",
+      "bytes": 91421,
+      "disposition": "snapshot_before_navigation_completion"
+    },
+    {
+      "path": "Studio/Recovery.md",
+      "sha256": "d5c2ce6088aa35fc61ffa0ce4e4e222e42aecaf269027c7895b5c5b2833305a3",
+      "bytes": 5157,
+      "disposition": "snapshot_before_navigation_completion"
+    },
+    {
+      "path": "Studio/migration-map.json",
+      "sha256": "6e8b7a180725d3a744af3ac52df933b075877629a1d5d33f6c1a8da70ed6005f",
+      "bytes": 70426,
+      "disposition": "snapshot_before_navigation_completion"
+    },
+    {
+      "path": "Studio/collection.json",
+      "sha256": "72c7738db636d1deaceb7f35db371ee2bdf9277509d3f9432cfc6940d89b7ec9",
+      "bytes": 19865,
+      "disposition": "snapshot_before_navigation_completion"
+    },
+    {
+      "path": "Productions/E001-meet-neet-and-buddy/episode.json",
+      "sha256": "eb3993864cc6b4dad9fe4f8ddf41b22650e3eb9f7d99edbc2981241a5dd877a9",
+      "bytes": 28233,
+      "disposition": "snapshot_before_navigation_completion"
+    },
+    {
+      "path": "Productions/E002-the-flight-to-india/episode.json",
+      "sha256": "4e76e543ae3d96ad92e2739ac0d893f05415a7df6b427d2e81b245c686e96a0c",
+      "bytes": 32756,
+      "disposition": "snapshot_before_navigation_completion"
+    },
+    {
+      "path": "Productions/E003-arrival-in-india/episode.json",
+      "sha256": "a39c43a00d106100ee06c3633c58ce1cafa70ec80ef35e8c95d1857dc6f3602a",
+      "bytes": 27631,
+      "disposition": "snapshot_before_navigation_completion"
+    },
+    {
+      "path": "Productions/E004-uttarayan-day-one/episode.json",
+      "sha256": "e16fe619d19e0989c5900a5f1f745692bec53806ae0bd2c1c3b68a53e6ab03ec",
+      "bytes": 32976,
+      "disposition": "snapshot_before_navigation_completion"
+    },
+    {
+      "path": "Productions/E005-uttarayan-night-magic/episode.json",
+      "sha256": "487eeb3716aa952b21e76fed7284ce81a1cbd3414f746fc4529f9da694e3bbd6",
+      "bytes": 37734,
+      "disposition": "snapshot_before_navigation_completion"
+    },
+    {
+      "path": "Productions/E006-the-bazaar-adventure/episode.json",
+      "sha256": "31069c8f3a181d4ff410f2d3f158a951759364e5905c4a54cfb4292d8c27bec2",
+      "bytes": 30115,
+      "disposition": "snapshot_before_navigation_completion"
+    },
+    {
+      "path": "Productions/E007-the-monkey-menace/episode.json",
+      "sha256": "dcdabd0231c562a6a08c0369bb4b97880142e76ae22020f642fcb317027bea2f",
+      "bytes": 29967,
+      "disposition": "snapshot_before_navigation_completion"
+    },
+    {
+      "path": "Productions/E008-garden-rebirth-with-chaos/episode.json",
+      "sha256": "661a01c1faf3171e519793c2ac12ca82d5d2744b6d0627d66f43c7902a39ff6b",
+      "bytes": 28313,
+      "disposition": "snapshot_before_navigation_completion"
+    },
+    {
+      "path": "Productions/E009-neet-the-general/episode.json",
+      "sha256": "6c47ca751b8f95bc2fd4a48dabf464cae2d13c95cbf7f95f1f48ee9bd8c451ca",
+      "bytes": 40021,
+      "disposition": "snapshot_before_navigation_completion"
+    },
+    {
+      "path": "Productions/E010-neets-gang-faces-the-night-stalkers/episode.json",
+      "sha256": "47efab189cba502bed0889c88b3dcae1aec556b786593cef85f21010325eb04d",
+      "bytes": 32108,
+      "disposition": "snapshot_before_navigation_completion"
+    },
+    {
+      "path": "Productions/E011-neets-gang-to-the-rescue/episode.json",
+      "sha256": "5723e3cb4fd600f36277c117af67ddf9e401ecd411733927fb24f5679ae55dbb",
+      "bytes": 29235,
+      "disposition": "snapshot_before_navigation_completion"
+    },
+    {
+      "path": "Productions/E012-the-great-neighborhood-dog-games/episode.json",
+      "sha256": "66bbf120733bc71609ade57db375d031342a080e1c6ceabdc7b70a627f202b5b",
+      "bytes": 32471,
+      "disposition": "snapshot_before_navigation_completion"
+    },
+    {
+      "path": "Productions/E013-lights-camera-neet/episode.json",
+      "sha256": "2139d4f6ffeaeddc77614639e54803c2e04f3073a024172b719d19d6f451564a",
+      "bytes": 27298,
+      "disposition": "snapshot_before_navigation_completion"
+    },
+    {
+      "path": "Productions/E014-neet-and-buddys-barber-battle/episode.json",
+      "sha256": "63df515ba47572dc9886899d7a86aebe66c67979b0580afb329c7b1d23a1286c",
+      "bytes": 29503,
+      "disposition": "snapshot_before_navigation_completion"
+    },
+    {
+      "path": "Productions/E015-the-dazzling-dog-fashion-show/episode.json",
+      "sha256": "7b0344a7b3327edea53881f01d55195fe2c9fc77b63e875d6a6c27ff2f25de31",
+      "bytes": 28602,
+      "disposition": "snapshot_before_navigation_completion"
+    },
+    {
+      "path": "Productions/E016-neet-and-buddy-learn-gujarati/episode.json",
+      "sha256": "7e758fa5d9f501da8f8815068e68003aba6e2c812b6166e34a5bc9407e09c6bb",
+      "bytes": 24621,
+      "disposition": "snapshot_before_navigation_completion"
+    },
+    {
+      "path": "Productions/E017-bazaar-madness-a-practical-gujarati-lesson/episode.json",
+      "sha256": "68e937fffa2a3a6aed1c92e38f8f8c6ded8d6d825e77df99f7096265f59fb51f",
+      "bytes": 28892,
+      "disposition": "snapshot_before_navigation_completion"
+    },
+    {
+      "path": "Productions/E018-buddys-big-elocution-debacle/episode.json",
+      "sha256": "1abab26f34be40c9a5f04634d316e18cb364de1833de65b903bad09afd68ec56",
+      "bytes": 30687,
+      "disposition": "snapshot_before_navigation_completion"
+    },
+    {
+      "path": "Productions/E019-the-great-mosquito-war/episode.json",
+      "sha256": "95d28fb45bb76c9fdc5abe51c25977fb9d5feb8ba9f4578803d4415ed83c58ce",
+      "bytes": 26688,
+      "disposition": "snapshot_before_navigation_completion"
+    },
+    {
+      "path": "Productions/E020-the-great-nighttime-bark-off/episode.json",
+      "sha256": "eebfb2439c302536f4a10106954e9481600830b7b7046c6b4927062a09310509",
+      "bytes": 24998,
+      "disposition": "snapshot_before_navigation_completion"
+    },
+    {
+      "path": "Productions/E021-the-bittersweet-goodbye/episode.json",
+      "sha256": "ff64c517be834c21a6c8313fa9c2f1ee41064eb08ab4937b513ca438ecfd1252",
+      "bytes": 21205,
+      "disposition": "snapshot_before_navigation_completion"
+    },
+    {
+      "path": "Productions/E022-the-lounge-and-airport-madness/episode.json",
+      "sha256": "2c3da23c807f66ec29130b9a41df2a4974d7d725a1fc290f80cbca51539a4e3d",
+      "bytes": 31913,
+      "disposition": "snapshot_before_navigation_completion"
+    },
+    {
+      "path": "Productions/E023-the-business-class-upgrade-disaster/episode.json",
+      "sha256": "1d9383e7b187c43087960cbf1f5d33a8a99ef6b62ee4aaa2d37bba1359be2f0e",
+      "bytes": 25969,
+      "disposition": "snapshot_before_navigation_completion"
+    },
+    {
+      "path": "Productions/E024-the-istanbul-layover-debacle/episode.json",
+      "sha256": "171d94ba49a951b8623a5197e87dd211810d0b10118b3ce0e57f0a38eea87ff5",
+      "bytes": 31795,
+      "disposition": "snapshot_before_navigation_completion"
+    },
+    {
+      "path": "Productions/E025-the-return-to-the-u-s-immigration-madness/episode.json",
+      "sha256": "37e7b5f0ef5d236a515ba1aa76d9b374fd01394c97e8d1d868663b75a64be79a",
+      "bytes": 31330,
+      "disposition": "snapshot_before_navigation_completion"
+    },
+    {
+      "path": "Productions/E026-the-homecoming-blues/episode.json",
+      "sha256": "d8a8dab186ee4aa4c6ebfbc40aa1e8040949dd9be5f590af1d7e6c4e59321e0a",
+      "bytes": 36271,
+      "disposition": "snapshot_before_navigation_completion"
+    },
+    {
+      "path": "Productions/E027-heathers-birthday-and-the-aquarium-chaos/episode.json",
+      "sha256": "2913da81906a9f7745b3b3e10b42b4eacdd4ef3068424d0cd59b7d85493bc880",
+      "bytes": 42739,
+      "disposition": "snapshot_before_navigation_completion"
+    },
+    {
+      "path": "Productions/E028-the-birthday-get-together-and-the-sheera-cake-saga/episode.json",
+      "sha256": "f81796e4973f29927b314c3cb1cb0e5a43e63828114e0ae8064901914ff68bb7",
+      "bytes": 32156,
+      "disposition": "snapshot_before_navigation_completion"
+    },
+    {
+      "path": "Productions/E029-winter-woes-and-the-battle-of-the-backyard/episode.json",
+      "sha256": "36886c74977ff4afd981983f806a88afe7a3f09988100f4c0095ae6cf4e3070d",
+      "bytes": 17921,
+      "disposition": "snapshot_before_navigation_completion"
+    },
+    {
+      "path": "Productions/E030-the-temple-visit-and-the-great-gujarati-thali-feast/episode.json",
+      "sha256": "5ca2a821e23815830cc51876073774db761aabcbb2f07456071a80f5995666b3",
+      "bytes": 41809,
+      "disposition": "snapshot_before_navigation_completion"
+    },
+    {
+      "path": "Productions/E031-buddys-big-dental-adventure-part-1/episode.json",
+      "sha256": "a484e48ca44e5cee9dacf116c1dcc8981a83226f0d19b39bd6d144eb5b27d886",
+      "bytes": 28558,
+      "disposition": "snapshot_before_navigation_completion"
+    },
+    {
+      "path": "Productions/E032-buddys-big-dental-adventure-part-2/episode.json",
+      "sha256": "01553bde4e23509e8efe6e212915a5a9347446f8f8a3d1f43d5baaf9e1f81aef",
+      "bytes": 26707,
+      "disposition": "snapshot_before_navigation_completion"
+    },
+    {
+      "path": "Productions/E033-buddy-and-the-golden-glory/episode.json",
+      "sha256": "6f2174c0f33d40eeda88871c88e06af45583d7bbb92373b4f8091828cc5244e3",
+      "bytes": 28404,
+      "disposition": "snapshot_before_navigation_completion"
+    },
+    {
+      "path": "Productions/E034-the-stealth-games-begin/episode.json",
+      "sha256": "6174444048465af5d896d973a2b7e1b5d0d67e577ed86b5caab40df71cffb121",
+      "bytes": 39351,
+      "disposition": "snapshot_before_navigation_completion"
+    },
+    {
+      "path": "Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/episode.json",
+      "sha256": "d88850fe2c18a816fee9be75c4596cefe86c528a0d91224b72781d7dfb467ecb",
+      "bytes": 36794,
+      "disposition": "snapshot_before_navigation_completion"
+    },
+    {
+      "path": "Productions/E036-the-royal-house-hunt-and-the-negotiation-of-dreams/episode.json",
+      "sha256": "093e0dfcc9719ac6a2e7f5caa3ed6e34fde053e8c2a0a307f949a766bf5d633c",
+      "bytes": 34750,
+      "disposition": "snapshot_before_navigation_completion"
+    },
+    {
+      "path": "Productions/E037-the-midnight-storm-and-the-royal-snack-emergency/episode.json",
+      "sha256": "d8a92a7e0063dba7f09ea02c7ecb9f7e3df06e6e55de6266679f9098c3634525",
+      "bytes": 28675,
+      "disposition": "snapshot_before_navigation_completion"
+    },
+    {
+      "path": "Productions/E038-the-smoky-mountain-escapade/episode.json",
+      "sha256": "5c77d373bf3a643b11dc32a2ef98c7f9482a7c0bd96ffa0a1710876191191cef",
+      "bytes": 41887,
+      "disposition": "snapshot_before_navigation_completion"
+    },
+    {
+      "path": "Productions/E039-welcome-to-austin-the-great-inspection/episode.json",
+      "sha256": "271b6621e13eeb797ee894178c28c726eb750bbfa1333e3956656b761d727d9c",
+      "bytes": 31074,
+      "disposition": "snapshot_before_navigation_completion"
+    },
+    {
+      "path": "Productions/E040-the-first-neighborhood-expedition/episode.json",
+      "sha256": "fece51920c009099098ba9c7d97cba7a23f8e21d92ca8d111b3755d11f33893f",
+      "bytes": 27171,
+      "disposition": "snapshot_before_navigation_completion"
+    },
+    {
+      "path": "Productions/E041-the-epic-furniture-fiesta/episode.json",
+      "sha256": "7c58235cced03bdda210eee27a36764b4a2671e2f0e87f8fcc7e540a6b934789",
+      "bytes": 33866,
+      "disposition": "snapshot_before_navigation_completion"
+    },
+    {
+      "path": "Productions/E042-the-day-the-bark-stood-still/episode.json",
+      "sha256": "0909a912ee3446737f2e839e899bc832c90bbb376337608a01fb0fe2e1df9ffc",
+      "bytes": 23129,
+      "disposition": "snapshot_before_navigation_completion"
+    },
+    {
+      "path": "Productions/E043-the-great-laundry-day-uprising/episode.json",
+      "sha256": "a837e86141bf2cedfd04a3ff42f0185f998e67b691fb82982a0d776cae114719",
+      "bytes": 19447,
+      "disposition": "snapshot_before_navigation_completion"
+    },
+    {
+      "path": "Productions/E044-the-vacuum-wars/episode.json",
+      "sha256": "0248a861b6205edffb40c7794505666b704a93d27d3bba405484eb60f9f678b6",
+      "bytes": 21323,
+      "disposition": "snapshot_before_navigation_completion"
+    },
+    {
+      "path": "Productions/E045-the-robot-vacuum-coup/episode.json",
+      "sha256": "f7416f4e035736135342b5292bc49fa8c3f5b7198fb6f873d160ff70a917e6aa",
+      "bytes": 41310,
+      "disposition": "snapshot_before_navigation_completion"
+    },
+    {
+      "path": "Productions/E046-the-rainbow-drill/episode.json",
+      "sha256": "ed104dc5ee6a4e042bd53ced0d5a1eeed6c3c901ad0595924de877946b144c87",
+      "bytes": 18461,
+      "disposition": "snapshot_before_navigation_completion"
+    },
+    {
+      "path": "Productions/E047-the-kings-birthday/episode.json",
+      "sha256": "8cfa6a3cb0977d76d118f62bbaa647c6db6b03550623bf313e26616784075b66",
+      "bytes": 16741,
+      "disposition": "snapshot_before_navigation_completion"
+    },
+    {
+      "path": "Productions/E048-the-fall-of-a-quarter-star/episode.json",
+      "sha256": "5b0d83d7f81144f0dba295e393cd1f21d487daa51702e327829b8148cca0ca13",
+      "bytes": 24843,
+      "disposition": "snapshot_before_navigation_completion"
+    },
+    {
+      "path": "Productions/E049-the-great-vet-escapade/episode.json",
+      "sha256": "b4c27c18bc5c164f3c74f2d09257d037c331c4fd8c2a8c7f151d4bfe3680f6be",
+      "bytes": 22742,
+      "disposition": "snapshot_before_navigation_completion"
+    },
+    {
+      "path": "Productions/E050-the-redemption-crusade-of-the-4-25-star-general/episode.json",
+      "sha256": "9f5edc1b3e904b2ea7021f18754559b454051026c2f70bdcf440224b71635509",
+      "bytes": 22754,
+      "disposition": "snapshot_before_navigation_completion"
+    },
+    {
+      "path": "Productions/E051-the-redemption-of-the-star/episode.json",
+      "sha256": "bde03dda589b8e9e0a8a90a1872a0144a36b1d317419fb4a31dc1c34e0011fb1",
+      "bytes": 18770,
+      "disposition": "snapshot_before_navigation_completion"
+    },
+    {
+      "path": "Productions/E052-the-arrival-of-ganesha/episode.json",
+      "sha256": "9269ec9e33a9133d963ed6548031f68057b4999a36e613e3d46dde5f1d8e4d77",
+      "bytes": 22219,
+      "disposition": "snapshot_before_navigation_completion"
+    },
+    {
+      "path": "Productions/E053-the-midnight-counsel-of-ganesha/episode.json",
+      "sha256": "e78634760fbab527d29cd3560eaba59e83ce1df2d128f3920d4f0cda5143c16d",
+      "bytes": 20274,
+      "disposition": "snapshot_before_navigation_completion"
+    },
+    {
+      "path": "Productions/E054-the-visarjan-protocol/episode.json",
+      "sha256": "6079b32346abc874e3f2a00bb9738e16d8122739d0eadc2cfd86582346a286df",
+      "bytes": 18473,
+      "disposition": "snapshot_before_navigation_completion"
+    },
+    {
+      "path": "Productions/E055-the-invisible-mentor/episode.json",
+      "sha256": "9dad69f3e2aaf0dbc35c5ac31a0ff2e9aae4370914cfac7ee5924de2d1431b24",
+      "bytes": 17771,
+      "disposition": "snapshot_before_navigation_completion"
+    },
+    {
+      "path": "Productions/E056-the-day-trip-to-pedernales-falls/episode.json",
+      "sha256": "31013e301517f308d9ce48f2e5184ff2140437099b8de35006fbc4134ff8b82b",
+      "bytes": 41801,
+      "disposition": "snapshot_before_navigation_completion"
+    },
+    {
+      "path": "Productions/E057-the-tunnel-to-india-or-faith-vs-physics/episode.json",
+      "sha256": "78ac5e80eac49eacc4fa9e45e99cbe9ec7e445398ea10140ccb4a27b89152936",
+      "bytes": 34108,
+      "disposition": "snapshot_before_navigation_completion"
+    },
+    {
+      "path": "Productions/E058-the-era-of-the-cool-ball/episode.json",
+      "sha256": "0ff0345e2f7a5830737857f9e45ea52fca3ee776d1637e473f7615a0487cdde1",
+      "bytes": 32366,
+      "disposition": "snapshot_before_navigation_completion"
+    },
+    {
+      "path": "Productions/E059-the-fire-conspiracy/episode.json",
+      "sha256": "30c506408a7856fbb9b1e4f3dc0e6df3899158d42c8fbe712a5f6b14f5edf85d",
+      "bytes": 30406,
+      "disposition": "snapshot_before_navigation_completion"
+    },
+    {
+      "path": "Productions/E060-the-barkgpt-protocol/episode.json",
+      "sha256": "2cd382daa99c58073b3ab7200e3145dc850528a18a38d8226393c5e62dca3999",
+      "bytes": 20589,
+      "disposition": "snapshot_before_navigation_completion"
+    },
+    {
+      "path": "Productions/E061-the-dragon-the-satellites-and-the-spider/episode.json",
+      "sha256": "8d277bbe53aafb9b0441af5ab83d3e3370dc1bc2f70e6c2f0739e466c00bd462",
+      "bytes": 33219,
+      "disposition": "snapshot_before_navigation_completion"
+    },
+    {
+      "path": "Productions/E062-tooth-rituals-leaf-wars-and-balcony-betrayals-as-told-by-neet-defender-of-the-realm-drama-enthusiast/episode.json",
+      "sha256": "17ca1591370ce7e2c83a1e8ce157e6e722cc1e4d6e7f0712a95c752d4d43945a",
+      "bytes": 41394,
+      "disposition": "snapshot_before_navigation_completion"
+    },
+    {
+      "path": "Productions/E063-the-field-trip-to-love-high-and-the-gospel-of-good-ass-prana/episode.json",
+      "sha256": "1d7678c84bb5e5a82dc921c5c53ff031d2eb8964c5aac7167c9a3b09f1527f63",
+      "bytes": 27888,
+      "disposition": "snapshot_before_navigation_completion"
+    },
+    {
+      "path": "Productions/E064-the-great-paneer-balcony-scandal/episode.json",
+      "sha256": "70aa0002c2cc6cdb5f33703d36eb8fb45470233aa565e0c295b8824fd4854a92",
+      "bytes": 31304,
+      "disposition": "snapshot_before_navigation_completion"
+    },
+    {
+      "path": "Productions/E065-the-winged-menace/episode.json",
+      "sha256": "93402f0973435b202eccedaa51648f5560acb18615b84ac3f807d3b4e7c50a48",
+      "bytes": 29862,
+      "disposition": "snapshot_before_navigation_completion"
+    },
+    {
+      "path": "Productions/E066-the-psychic-roti-and-the-ball-of-destiny/episode.json",
+      "sha256": "92d8ecbc71e7ec7eaf7a30adee824b20390d0a73c7dfb9f16abf45bd6f72a861",
+      "bytes": 25897,
+      "disposition": "snapshot_before_navigation_completion"
+    },
+    {
+      "path": "Productions/E067-the-scandal-of-sweet-kulfi/episode.json",
+      "sha256": "d196442ea0fef5417a4f81fe7c937d5c237a8aec715bff46cf3b71ae29236b90",
+      "bytes": 27352,
+      "disposition": "snapshot_before_navigation_completion"
+    },
+    {
+      "path": "Productions/E068-the-piedmont-park-wedding/episode.json",
+      "sha256": "0e9ead9633c1565ff5d176e1607f711b07f226377d05245878396da0403f59ed",
+      "bytes": 26662,
+      "disposition": "snapshot_before_navigation_completion"
+    },
+    {
+      "path": "Productions/E069-the-festival-of-lights/episode.json",
+      "sha256": "418005846c13059a60de15f61ab43f578003db83df5149080b04fe06e8f95577",
+      "bytes": 26553,
+      "disposition": "snapshot_before_navigation_completion"
+    },
+    {
+      "path": "Productions/E070-the-great-houston-expedition/episode.json",
+      "sha256": "7fd8f965ed2a99052db507b5b7d21d28cc2d489d17309843a310e19a8c127fd1",
+      "bytes": 34575,
+      "disposition": "snapshot_before_navigation_completion"
+    }
+  ]
+}

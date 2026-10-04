@@ -1,0 +1,82 @@
+{
+  "story_id": "S024",
+  "episode_id": "E024",
+  "status": "accepted",
+  "reviewer": "fresh independent reader024; no prose or artwork generation for this story",
+  "review_date": "2026-10-04",
+  "story": {
+    "path": "Stories/S024-the-istanbul-layover-debacle.md",
+    "sha256": "7a3b62757a239dc9712547e6b93c3d2db7a8192d51427c40197c2a1c4c42952c"
+  },
+  "images": [
+    {
+      "path": "Productions/E024-the-istanbul-layover-debacle/lounge-art-v003.png",
+      "sha256": "fb1fd35b2bb20b672e4bcfeef35cfd58615b1c08ba8577e4cfed89a4654ffb99"
+    },
+    {
+      "path": "Productions/E024-the-istanbul-layover-debacle/towel-art-v003.png",
+      "sha256": "73bf73679e890b69595f4d5f6e178501ddf5b55d947defc6e9bc04053b172fc7"
+    },
+    {
+      "path": "Productions/E024-the-istanbul-layover-debacle/olive-art-v004.png",
+      "sha256": "f24325a48ed949e96a16a07e897480a77b73c28cb977516ce73deedfb5f11cb9"
+    }
+  ],
+  "material_findings": [],
+  "open_findings": [],
+  "rendered_inspection": {
+    "performed": true,
+    "url": "http://127.0.0.1:56824/Stories/S024-the-istanbul-layover-debacle.md",
+    "method": "Opened with cua in-app browser and inspected successive overlapping viewport screenshots, reading every paragraph from title through final provenance; accessibility tree additionally verified entire document and all three image anchors. Actual rendered screenshots, not markdown alone.",
+    "viewport": [
+      1280,
+      720
+    ],
+    "display": "Default reader at native viewport; approximately 760px prose column and 960px embedded images; no zoom change.",
+    "coverage": [
+      "Title and five-hour layover opening",
+      "Lost in Translation in full",
+      "Turkish Lounge setup, complete lounge image and following shower transition",
+      "The Shower Fiasco in full, complete towel image and towel return",
+      "The Olive Heist in full, complete olive image, bag transfer and final Talent",
+      "Entire refinement record and provenance through legacy-ch25 SHA-256 at page bottom"
+    ],
+    "meaningful_alternatives": "None present; one primary, consistent with comedy-pass-v002 record."
+  },
+  "findings": {
+    "humor_and_timing": "The opening footrest response establishes the opposing wants quickly. Heather correcting volume-as-language targets Neet's bluster. The pause between Neet lifting then lowering his chin makes the towel reversal legible, and the illustration arrives only after Luxury has got you. Pillow/accomplice then haunt-you/Talent close the olive sequence without an extra explanatory tag.",
+    "voices_and_agency": "Neet actively demands directions, invades the shower boundary, appropriates a towel and hides olives. Buddy chooses the seat facing away from food, remains awake to make Neet back away, offers the other chair with a delayed silence condition, then attempts another nap. His comfort motive and decisions therefore affect action rather than merely supply commentary. Heather removes Neet from the counter, enforces the closed outer door, frees his paw and returns the towel; her practical affection remains distinct. Historical Heather-and-two-dogs household is retained.",
+    "cause_effect_and_payoff": "Directions lead to lounge, lounge amenities split their priorities, interrupted rest motivates Buddy's redirection and second nap, that nap enables concealment, and the boarding announcement causes the reveal before the explicit bag transfer. The group reaches departure together and the final boast pays off Neet's opening confidence; later travel consequences are not falsely resolved here.",
+    "image_states": [
+      {
+        "path": "Productions/E024-the-istanbul-layover-debacle/lounge-art-v003.png",
+        "observation": "Buddy visibly curls chin-down on cushion facing away from the buffet; Neet stands beside the chair aiming upward at food. Placed after both nose positions and before Heather leaves; aircraft and buffet establish place. Opposed posture adds visual comedy."
+      },
+      {
+        "path": "Productions/E024-the-istanbul-layover-debacle/towel-art-v003.png",
+        "observation": "Fully dressed Heather crouches gripping towel hem beside the covered forepaw while Neet stands very still; closed shower door and towel shelving locate the aftermath. Appears during paw rescue before towel return, not during private shower."
+      },
+      {
+        "path": "Productions/E024-the-istanbul-layover-debacle/olive-art-v004.png",
+        "observation": "Buddy stands on padded seat, exposed napkin and olives still on top of cushion, Neet on floor looking toward them. Appears immediately after stand/reveal and before scoop into bag; does not prematurely depict completed packing."
+      }
+    ],
+    "complementarity_and_readability": "Three images contribute opposed appetites, physical defeat of dignity and exposed contraband. First and third both use airport chairs but change pose, camera distance, prop focus and narrative function. Images do not split attribution or reveal olives before prose. All rendered fully with readable spacing; last dialogue is uninterrupted after image.",
+    "closure": "Current story and all three image hashes exactly match accepted visual-review-v002.json; its unresolved_findings and each image material_findings are empty. Smooth torso finish and readable support are visible at reading size; no contradictory image state or new material reading fault found. This reading does not independently claim native-resolution/photo comparison."
+  },
+  "reviewed_records": [
+    {
+      "path": "Productions/E024-the-istanbul-layover-debacle/comedy-pass-v002.json",
+      "sha256": "bb57aeb0dbcaff16d0f3984f5165f3490676e042f9d57d75fcf513b78889d210"
+    },
+    {
+      "path": "Productions/E024-the-istanbul-layover-debacle/visual-review-v002.json",
+      "sha256": "e66f26b3e075768af224a2ab5c7bdc8742de30674af0528ef1fd37af4854345b"
+    }
+  ],
+  "style": "provisional",
+  "human_likeness": "provisional",
+  "chronology": "unknown",
+  "approval": "unapproved",
+  "publication": "not_published"
+}

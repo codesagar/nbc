@@ -1,0 +1,85 @@
+{
+  "story_id": "S047",
+  "episode_id": "E047-the-kings-birthday",
+  "version": "v002",
+  "reviewer": "fresh complete-reading reviewer reader047",
+  "independent_of_writing_and_generation": true,
+  "date": "2026-10-04",
+  "status": "accepted",
+  "story": {
+    "path": "Stories/S047-the-kings-birthday.md",
+    "sha256": "bed1e2380048147f0e226e91e09820e790fdbc337bd4b9389c21225a154ac71c"
+  },
+  "images": [
+    {
+      "path": "Productions/E047-the-kings-birthday/dawn-art-v002.png",
+      "sha256": "6ad1ae5a64a5fce848cd82957416737f3dfc1919261392e4da68f2ec60a554c3",
+      "status": "accepted",
+      "rendered_observations": "Wide closed-door predawn image follows the complete Not that end exchange and precedes the door opening. Sock remains visibly in Buddy’s mouth and his tail reaches the wall; Neet’s sidelong severe expression contrasts with the eager gift bearer. Both dogs are fully readable in the 960-pixel-wide rendering.",
+      "material_findings": [],
+      "open_findings": []
+    },
+    {
+      "path": "Productions/E047-the-kings-birthday/hats-art-v003.png",
+      "sha256": "c337c286e487e57203a1771d1946ecaf29cb9134bdef34a7365b4080e520c49d",
+      "status": "accepted",
+      "rendered_observations": "Mid-distance hat picture follows FABULOUS and precedes the shake/prance/hat-adjustment sequence. Neet sits rigid with a cone between his ears; Buddy smiles with one eye hidden and a paw lifted. Cake candles visibly have bare unlit tips, consistent with Heather lighting them later. The complete tall picture was inspected across overlapping scroll views, including paws, rug and furniture.",
+      "material_findings": [],
+      "open_findings": []
+    },
+    {
+      "path": "Productions/E047-the-kings-birthday/sock-art-v002.png",
+      "sha256": "e361ab7c704451beda4f6f382e73fcd9b42ee5110f11b4b01348bf0ac9fbe179",
+      "status": "accepted",
+      "rendered_observations": "Low close gift picture follows Buddy lifted his head and precedes Sagar putting the sock beside him. Buddy is awake with raised head, Sagar’s cropped hand still holds the sock above the cushion, and warm lamplight/backyard lights match the ending. The image supports a pause before the final three sentences without revealing the final sleep early.",
+      "material_findings": [],
+      "open_findings": []
+    }
+  ],
+  "rendered_inspection": {
+    "url": "http://127.0.0.1:56824/Stories/S047-the-kings-birthday.md",
+    "method": "Opened local rendered reader in Codex in-app browser and visually inspected opening plus 18 successive overlapping scroll screenshots to the document bottom; read the full accessibility text as cross-check. Normal unchanged viewport and zoom, 1280 by 720 screenshot pixels; prose about 760 pixels wide and images about 960 pixels wide.",
+    "complete_primary_read": true,
+    "all_images_seen": true,
+    "ending_and_provenance_read": true,
+    "coverage": [
+      "Opening 11:47 plan",
+      "Early Morning Ambush",
+      "Arrival of the Hats",
+      "The Day Unfolds",
+      "Royal Preparations",
+      "The Royal Feast",
+      "The Feast",
+      "The Royal Benediction",
+      "Provenance and editorial notes",
+      "Refinement record"
+    ],
+    "layout": "Readable serif paragraphs, differentiated headings and generous image spacing. No broken images, clipping of story text, lost dialogue attribution, or prose interrupted within a speaker’s statement. Large hat image exceeds one viewport but remains coherent under normal scrolling."
+  },
+  "alternatives": {
+    "count": 0,
+    "finding": "No meaningful alternative in complete working story; comedy-pass record independently reports no alternate source. No primary-only picture inserted into an alternative."
+  },
+  "creative_findings": [
+    "Comic collision is specific: Neet wants dignified protocol, Buddy wants cake and delivery of his selected sock. The seven-second collapse, pickup-yawn-pickup equipment check, isolated tail thump and Not that end reply form a clear escalation with a pause before the reply.",
+    "Buddy’s independent gift attempt fails at dawn when a pat substitutes for acceptance; his choice to retain and later place the sock in Sagar’s seat leads directly to the final discovery. The ending is earned through observable actions rather than a new explanatory speech.",
+    "Neet’s theatrical orders and meditation excuse stay distinct from Buddy’s enthusiastic food/fashion responses. His six-inch retreat after the screw closes that small gag economically. Heather’s damp-edge hat rescue and choosing loophole give her active humor; Sagar’s dry Really and one-each observation give him a different rhythm.",
+    "Birthday episodes progress through waking, arrival, errands, preparation, hats, feast and rest without a causal break. The humans-only errand is explicit; the dogs’ wished-for reactions are conditional rather than accidentally present in the city.",
+    "Three pictures have complementary jobs and scales: wide failed ceremony, mid-distance physical hat farce, close successful gift. None is a repeated portrait. Prose retains room for the humans and meal between images; final quiet sleep follows the image and concludes the gift thread.",
+    "Historical royal vocabulary, 4.75-star wording and menu remain source-specific choices identified in the comedy record; this review makes no new canon or feeding depiction. Closing provenance visibly retains original Chapter 19 and source hash."
+  ],
+  "visual_findings_closure": {
+    "record": "Productions/E047-the-kings-birthday/visual-review-v002.json",
+    "sha256": "59bea2a6939a9ec0621ce14fb20e7c25a02853b26face36e3ce8f490a0cd6610",
+    "all_three_accepted_hashes_match_current_files": true,
+    "material_findings": [],
+    "open_findings": [],
+    "rendered_confirmation": "Smooth torso planes and distinct supported silhouettes remain clear at reading size. Hats replacement shows unlit candles before the later lighting action; dawn sock ownership and closing hand-held sock are consistent. No new reading-size defect found. Full-resolution anatomical review remains the independently recorded visual review, not inferred from this browser pass."
+  },
+  "material_findings": [],
+  "open_findings": [],
+  "next_action": "Coordinator may integrate complete-reading acceptance and delivery accounting for these exact hashes.",
+  "approval": "unapproved",
+  "publication": "not_published",
+  "style_and_human_likeness": "provisional"
+}

@@ -1,0 +1,870 @@
+{
+  "story_id": "S008",
+  "variant": "primary",
+  "tool": "image_gen.imagegen",
+  "model": "unknown",
+  "seed": "unknown",
+  "approval": "unapproved",
+  "publication": "not_published",
+  "status": "proposed_pending_independent_visual_and_reading_review",
+  "reference_policy_source": "Characters/reference-policy.json",
+  "generations": [
+    {
+      "id": "gnome-staging-v002",
+      "stage": "drawn_storyboard",
+      "arguments": {
+        "prompt": "Use case: illustration-story. Draw ONE complete grayscale pencil staging illustration, no labels or text, landscape. Ahmedabad bungalow ROOFTOP garden terrace with low cream parapet, a few terracotta flower pots. Mid-story BEFORE gnome attack. Neet in left foreground standing in three-quarter side profile, all paws planted, head lowered slightly to stare intensely at a small ceramic smiling garden gnome in center right. Gnome conical hat about Neet shoulder height, old-fashioned smiling face, ceramic statue clearly inanimate. Neet has sidestepped and gnome still smiles. Buddy behind Neet at right stands on bare tiles and gives empty flower pots a resigned sidelong glance after sniffing gnome hat. Quiet absurd confrontation, NOT chase or bite. Dogs separate enough to trace whole silhouettes. Human absent. Pots not overlapping paws. Draw structural volumes, spine/ribcage/pelvis, all limb roots, weight and support; actual setting and expressions, not diagram. Avoid coat hatching; smooth grayscale planes. Originals N19,N29,B04,B29 are visible-likeness authorities only, no calibrated ratios/weight/breed/timing. Neet small tan smooth very short coat, full narrow trunk, fine long legs, real projecting muzzle, big broad-rooted triangular ears, cream muzzle and irregular bib, tiny flush nub tail. Buddy moderately elongated full charcoal torso, visible neck, substantial legs and clearance, cream moustache and pale brows, pendant ears with regional fringe, pale lower legs, slender low dark tapered tail. Four limbs each with coherent joints and contact; no giant head, sausage body, disconnection. N35 excludes anatomy; B08 styling only; B25 unavailable; B30 rest-only not used; B04/B24 one exposure. No human likeness established.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-29.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg"
+        ],
+        "transparent_background": false
+      },
+      "source_output_path": "/Users/sagar/.codex/generated_images/01a1053d-ece3-7e91-83fb-81ed1a1b339d/exec-d1204d43-298b-4950-abbd-be37e2c6112a.png",
+      "output_path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E008-garden-rebirth-with-chaos/gnome-staging-v002.png",
+      "generator_inspection": {
+        "independent_acceptance": false,
+        "decision": "construction_usable_for_finish",
+        "findings": [
+          "Neet four planted limbs, real continuous trunk and tiny nub; lowered gaze meets inanimate smiling gnome.",
+          "Buddy three obvious paws plus occluded far rear traced to body; stands beyond gnome with gaze toward empty pots.",
+          "Grayscale pencil fur texture is NOT suitable for finished coats; final must use smooth plain color fields and clean outlines."
+        ]
+      },
+      "output_sha256": "cd8b7333d8325ee733e3f58c4dbe79313667e6356eed75a3980720e30945bca3",
+      "dimensions": [
+        1448,
+        1086
+      ],
+      "format": "PNG",
+      "model": "unknown",
+      "seed": "unknown",
+      "inputs": [
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+          "dimensions": null,
+          "role": "original_photo",
+          "limitations": "Original visible regions only under copied full effective policy"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-29.jpeg",
+          "sha256": "dedcc7d8bcbc5da7e2441352200025606fc971644d0cbacd24e8465db8dcdc16",
+          "dimensions": null,
+          "role": "original_photo",
+          "limitations": "Original visible regions only under copied full effective policy"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+          "sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+          "dimensions": null,
+          "role": "original_photo",
+          "limitations": "Original visible regions only under copied full effective policy"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+          "sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+          "dimensions": null,
+          "role": "original_photo",
+          "limitations": "Original visible regions only under copied full effective policy"
+        }
+      ]
+    },
+    {
+      "id": "hose-staging-v002",
+      "stage": "drawn_storyboard",
+      "arguments": {
+        "prompt": "Use case: illustration-story. Draw ONE complete grayscale pencil storyboard scene, no lettering, landscape. Low dog-height viewpoint in an Ahmedabad bungalow rooftop garden. Neet alone in foreground full side/three-quarter body, standing proudly on all FOUR paws on wet terrace tile, gazing intensely at a garden hose nozzle held downwards at right edge by Heather's cropped hand and wrist ONLY. No spray: she has just shut the nozzle off and two final drops fall from its end into small puddle. Neet thinks he has won; restrained slightly lifted chin and erect broad ears, mouth closed. Keep human hand anatomically simple and valid, nozzle in natural grip at a safe distance ahead of dog nose, not touching. Coiled hose partly visible right; low parapet and potted lime sapling and bare newly planted soil beds and trellis for future beans in background. No sudden vegetables or flowering crop. NO Buddy in frame: outside this close composition in shade. Entire Neet body and all paws visible and grounded. Distinct scene from gnome. Structural volumes, connected spine/ribcage/pelvis, limb roots, support, actual environment; smooth planes with no drawn coat strands. Originals N19,N29,B04,B29 are visible-likeness authorities only, no calibrated ratios/weight/breed/timing. Neet small tan smooth very short coat, full narrow trunk, fine long legs, real projecting muzzle, big broad-rooted triangular ears, cream muzzle and irregular bib, tiny flush nub tail. Buddy moderately elongated full charcoal torso, visible neck, substantial legs and clearance, cream moustache and pale brows, pendant ears with regional fringe, pale lower legs, slender low dark tapered tail. Four limbs each with coherent joints and contact; no giant head, sausage body, disconnection. N35 excludes anatomy; B08 styling only; B25 unavailable; B30 rest-only not used; B04/B24 one exposure. No human likeness established.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-29.jpeg"
+        ],
+        "transparent_background": false
+      },
+      "output_path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E008-garden-rebirth-with-chaos/hose-staging-v002.png",
+      "source_output_path": "/Users/sagar/.codex/generated_images/01a1053d-ece3-7e91-83fb-81ed1a1b339d/exec-f370bef0-31bc-4330-8523-c52cb59c1560.png",
+      "generator_inspection": {
+        "decision": "needs_staging_correction",
+        "independent_acceptance": false,
+        "findings": [
+          "Continuous Neet body, four planted paws, nozzle separation and natural wrist/hand readable.",
+          "Reject premature bean growth and fruit-bearing lime tree: original calls newly planted seeds and lime sapling. Correction requested before finish."
+        ]
+      },
+      "output_sha256": "946b9186a213a9c52e081e8748a6a9696667c21fb92b97425477b785a0085f39",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "model": "unknown",
+      "seed": "unknown",
+      "inputs": [
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+          "dimensions": null,
+          "role": "original_photo",
+          "limitations": "Original visible regions only under copied full effective policy"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-29.jpeg",
+          "sha256": "dedcc7d8bcbc5da7e2441352200025606fc971644d0cbacd24e8465db8dcdc16",
+          "dimensions": null,
+          "role": "original_photo",
+          "limitations": "Original visible regions only under copied full effective policy"
+        }
+      ],
+      "recovery_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/expanded-refinement-rejected/E008-garden-rebirth-with-chaos/hose-staging-v002.png",
+      "status": "superseded_recoverable"
+    },
+    {
+      "id": "gnome-art-v002",
+      "stage": "finished_art",
+      "arguments": {
+        "prompt": "Use case: sketch-to-render. Finish IMAGE1, inspected gnome scene staging, into finished warm painterly storybook editorial illustration. IMAGE2 is ONLY a smooth coat FINISH technique example; do NOT copy large dog, scene, pose or anatomy. IMAGE3 N19 original Neet, IMAGE4 B04 and IMAGE5 B29 original Buddy govern visible identity only. Preserve image1 composition, connected bodies, planted feet, unobstructed acting, smiling ceramic gnome, Ahmedabad rooftop terrace with terracotta pots and low cream parapet. Neet suspiciously faces inanimate garden gnome; Buddy looks toward empty pots after losing interest. NO gnome damage yet. Gnome hat rich red, jacket subdued blue, warm terracotta and foliage against pale cream terrace. IMPORTANT render Neet coat and Buddy charcoal torso as SMOOTH, PLAIN, BROAD TONAL WASHES with clean contour, zero hatching, zero curls, zero engraved fur strokes, no shag or tufts. Subtle paper grain on BACKGROUND only. Buddy furnished muzzle brows and pendant ears may have regional hairs. Do NOT retain grayscale fur engraving. Neet tiny smooth nub not feathery stump. Natural modest canine heads, no human eyes, no eyelashes. Keep four supported legs with substantial Buddy clearance; do not shorten legs. No text no border no extra people or animals. Originals N19,N29,B04,B29 are visible-likeness authorities only, no calibrated ratios/weight/breed/timing. Neet small tan smooth very short coat, full narrow trunk, fine long legs, real projecting muzzle, big broad-rooted triangular ears, cream muzzle and irregular bib, tiny flush nub tail. Buddy moderately elongated full charcoal torso, visible neck, substantial legs and clearance, cream moustache and pale brows, pendant ears with regional fringe, pale lower legs, slender low dark tapered tail. Four limbs each with coherent joints and contact; no giant head, sausage body, disconnection. N35 excludes anatomy; B08 styling only; B25 unavailable; B30 rest-only not used; B04/B24 one exposure. No human likeness established.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E008-garden-rebirth-with-chaos/gnome-staging-v002.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg"
+        ],
+        "transparent_background": false
+      },
+      "status": "superseded_recoverable",
+      "output_path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E008-garden-rebirth-with-chaos/gnome-art-v002.png",
+      "source_output_path": "/Users/sagar/.codex/generated_images/01a1053d-ece3-7e91-83fb-81ed1a1b339d/exec-27ee49f9-bab1-42e6-9515-563ba43c7604.png",
+      "generator_inspection": {
+        "decision": "needs_finish_correction",
+        "independent_acceptance": false,
+        "findings": [
+          "Composition and connected anatomy retained but curls and engraved short-body fur remain; explicit flat repaint requested."
+        ]
+      },
+      "output_sha256": "f3f70fe2615ed61c1197936da7c6d286c7198ad84b173859780d5aaafc721b62",
+      "dimensions": [
+        1448,
+        1086
+      ],
+      "format": "PNG",
+      "model": "unknown",
+      "seed": "unknown",
+      "inputs": [
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E008-garden-rebirth-with-chaos/gnome-staging-v002.png",
+          "sha256": "cd8b7333d8325ee733e3f58c4dbe79313667e6356eed75a3980720e30945bca3",
+          "dimensions": [
+            1448,
+            1086
+          ],
+          "role": "edit_target_or_drawn_parent",
+          "limitations": "Interpretation only; never anatomical authority"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "sha256": "19be9a85760177405bbedd26644a7e0eb9c7945709e43825d201ff2fa91742b9",
+          "dimensions": [
+            1536,
+            1024
+          ],
+          "role": "finish_only_reference",
+          "limitations": "Interpretation only; never anatomical authority"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+          "dimensions": null,
+          "role": "original_photo",
+          "limitations": "Original visible regions only under copied full effective policy"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+          "sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+          "dimensions": null,
+          "role": "original_photo",
+          "limitations": "Original visible regions only under copied full effective policy"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+          "sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+          "dimensions": null,
+          "role": "original_photo",
+          "limitations": "Original visible regions only under copied full effective policy"
+        }
+      ],
+      "recovery_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/expanded-refinement-rejected/E008-garden-rebirth-with-chaos/gnome-art-v002.png"
+    },
+    {
+      "id": "hose-staging-v003",
+      "stage": "drawn_storyboard",
+      "arguments": {
+        "prompt": "Use case: precise-object-edit. Revise this GRAYSCALE DRAWN STAGING before finishing. Keep entire Neet, four planted paws, head, nozzle, hand, dripping water, puddle, roof architecture and composition EXACTLY. Only garden corrections: remove ALL plants and vines from the rear soil bed, leaving freshly planted BARE SOIL and EMPTY trellis; seed has just been planted and cannot have grown yet. Change the tall fruit-laden lime tree at left to a SMALL POTTED LIME SAPLING, narrow stem and modest few leaves, NO FRUIT. Do not alter character or camera. Still a grayscale actual drawn storyboard, no text.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E008-garden-rebirth-with-chaos/hose-staging-v002.png"
+        ],
+        "transparent_background": false
+      },
+      "output_path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E008-garden-rebirth-with-chaos/hose-staging-v003.png",
+      "source_output_path": "/Users/sagar/.codex/generated_images/01a1053d-ece3-7e91-83fb-81ed1a1b339d/exec-150b2c6c-85d9-41e0-b758-cc2f19fec5e8.png",
+      "status": "generator_inspected",
+      "generator_inspection": {
+        "independent_acceptance": false,
+        "findings": [
+          "Premature bean growth removed: bare soil and empty trellis now correct; modest fruitless sapling.",
+          "Four paws, full trunk, nozzle separation and human grip preserved."
+        ]
+      },
+      "output_sha256": "a801c017e75b25dd1daa64db0bb07ff5e489b5036da05a7363b3d1cf451b59ec",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "model": "unknown",
+      "seed": "unknown",
+      "inputs": [
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E008-garden-rebirth-with-chaos/hose-staging-v002.png",
+          "sha256": "946b9186a213a9c52e081e8748a6a9696667c21fb92b97425477b785a0085f39",
+          "dimensions": [
+            1536,
+            1024
+          ],
+          "role": "edit_target_or_drawn_parent",
+          "limitations": "Interpretation only; never anatomical authority",
+          "recovery_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/expanded-refinement-rejected/E008-garden-rebirth-with-chaos/hose-staging-v002.png"
+        }
+      ]
+    },
+    {
+      "id": "hose-art-v002",
+      "stage": "finished_art",
+      "arguments": {
+        "prompt": "Use case: sketch-to-render. Finish image1 inspected corrected hose staging. IMAGE2 is smooth broad flat-painted coat technique example ONLY, never copy characters/setting/pose. IMAGE3 N19 and IMAGE4 N29 are original Neet likeness authority. Preserve image1 exact framing, all four planted Neet paws, proud lifted head and closed mouth, hand/nozzle grip, TWO FALLING DROPS not spray, puddle, small fruitless lime sapling at left, bare soil bed and EMPTY trellis. Scene Ahmedabad rooftop terrace with warm cream parapet, sunny tiles. Single Neet quietly proud after Heather turns off nozzle before restarting it. No Buddy visible in this close shot. PAINT Neet with SIMPLE CLEAN CEL-STYLE BODY: flat golden-fawn and cream base shapes with only 2-3 broad smooth shading areas. ZERO fine texture or hair lines, no crosshatching no curls no grooves no engraving no raised fur; DO NOT colorize fur strokes of source sketch. Repaint dog fully as smooth shape. Tiny smooth near-flush nub, no ruff, smooth cream bib. Foreground dog crisp expressive with understated eyes, natural modest head. Environment softly painterly watercolor. No lettering/border. Human hand only provisional. Originals N19,N29,B04,B29 are visible-likeness authorities only, no calibrated ratios/weight/breed/timing. Neet small tan smooth very short coat, full narrow trunk, fine long legs, real projecting muzzle, big broad-rooted triangular ears, cream muzzle and irregular bib, tiny flush nub tail. Buddy moderately elongated full charcoal torso, visible neck, substantial legs and clearance, cream moustache and pale brows, pendant ears with regional fringe, pale lower legs, slender low dark tapered tail. Four limbs each with coherent joints and contact; no giant head, sausage body, disconnection. N35 excludes anatomy; B08 styling only; B25 unavailable; B30 rest-only not used; B04/B24 one exposure. No human likeness established.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E008-garden-rebirth-with-chaos/hose-staging-v003.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-29.jpeg"
+        ],
+        "transparent_background": false
+      },
+      "output_path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E008-garden-rebirth-with-chaos/hose-art-v002.png",
+      "source_output_path": "/Users/sagar/.codex/generated_images/01a1053d-ece3-7e91-83fb-81ed1a1b339d/exec-c82b9491-0661-4368-a096-9410aa5cb837.png",
+      "status": "superseded_recoverable",
+      "generator_inspection": {
+        "independent_acceptance": false,
+        "findings": [
+          "Nozzle/hand and grounded body read correctly; tan planes smooth but bib and nub edges feathered; request smooth boundary correction."
+        ]
+      },
+      "output_sha256": "96510febd514d905c0b8e4fd0c0a251d89ca1ec4217b40072137a407e4b78680",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "model": "unknown",
+      "seed": "unknown",
+      "inputs": [
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E008-garden-rebirth-with-chaos/hose-staging-v003.png",
+          "sha256": "a801c017e75b25dd1daa64db0bb07ff5e489b5036da05a7363b3d1cf451b59ec",
+          "dimensions": [
+            1536,
+            1024
+          ],
+          "role": "edit_target_or_drawn_parent",
+          "limitations": "Interpretation only; never anatomical authority"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "sha256": "19be9a85760177405bbedd26644a7e0eb9c7945709e43825d201ff2fa91742b9",
+          "dimensions": [
+            1536,
+            1024
+          ],
+          "role": "finish_only_reference",
+          "limitations": "Interpretation only; never anatomical authority"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+          "dimensions": null,
+          "role": "original_photo",
+          "limitations": "Original visible regions only under copied full effective policy"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-29.jpeg",
+          "sha256": "dedcc7d8bcbc5da7e2441352200025606fc971644d0cbacd24e8465db8dcdc16",
+          "dimensions": null,
+          "role": "original_photo",
+          "limitations": "Original visible regions only under copied full effective policy"
+        }
+      ],
+      "recovery_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/expanded-refinement-rejected/E008-garden-rebirth-with-chaos/hose-art-v002.png"
+    },
+    {
+      "id": "gnome-art-v003",
+      "stage": "finished_art",
+      "arguments": {
+        "prompt": "Use case: precise-object-edit. REQUIRED COAT CORRECTION. Image1 current gnome scene has unwanted curls/engraved hairs over both dogs. Repaint ENTIRE Neet dog and Buddy dark neck/torso/upper legs as CLEAN FLAT CEL-PAINTED SHAPES using IMAGE2 finish example. Draw ONLY clean external contour plus 2 or 3 large softly bounded shadow shapes per body. Each tan/charcoal plane must be uniformly filled smooth color without any micro-lines, papergrain, strokes, ripples, stipple, hatch, curls, fur waves, grooves or individual hairs. Neet's chest bib also smooth cream, no chest tuft. Buddy may retain furnished pale muzzle/brows/ear hair and modest paw hair ONLY. Bodies are close-groomed smooth fur, not naked skin, but communicate this with simple clean silhouette only. Preserve their full bodies, joint locations, four paws, expressions, tiny Neet nub and slender Buddy tail, original lighting and all scene props EXACTLY. Clean Neet nub edge smooth not frayed. Do not enlarge or shorten anatomy. All background, gnome, flowers, tiles remain as image1. No other change. IMAGE2 supports technique only, no third dog or park copied. This is a specific repaint from textured realism to broad flat smooth cartoon color planes for dogs.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E008-garden-rebirth-with-chaos/gnome-art-v002.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png"
+        ],
+        "transparent_background": false
+      },
+      "output_path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E008-garden-rebirth-with-chaos/gnome-art-v003.png",
+      "source_output_path": "/Users/sagar/.codex/generated_images/01a1053d-ece3-7e91-83fb-81ed1a1b339d/exec-2eb1e633-e78b-4d14-927f-e05d265800e7.png",
+      "status": "superseded_recoverable",
+      "generator_inspection": {
+        "independent_acceptance": false,
+        "findings": [
+          "Flat torso planes and clean Neet anatomy, but Buddy pale muzzle became too bare; local furnishing restoration requested."
+        ]
+      },
+      "output_sha256": "8ed020ceb7d3e425f3a9971af28c89f63f08ef08f233e303b9ef1bfa83675fad",
+      "dimensions": [
+        1448,
+        1086
+      ],
+      "format": "PNG",
+      "model": "unknown",
+      "seed": "unknown",
+      "inputs": [
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E008-garden-rebirth-with-chaos/gnome-art-v002.png",
+          "sha256": "f3f70fe2615ed61c1197936da7c6d286c7198ad84b173859780d5aaafc721b62",
+          "dimensions": [
+            1448,
+            1086
+          ],
+          "role": "edit_target_or_drawn_parent",
+          "limitations": "Interpretation only; never anatomical authority",
+          "recovery_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/expanded-refinement-rejected/E008-garden-rebirth-with-chaos/gnome-art-v002.png"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "sha256": "19be9a85760177405bbedd26644a7e0eb9c7945709e43825d201ff2fa91742b9",
+          "dimensions": [
+            1536,
+            1024
+          ],
+          "role": "finish_only_reference",
+          "limitations": "Interpretation only; never anatomical authority"
+        }
+      ],
+      "recovery_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/expanded-refinement-rejected/E008-garden-rebirth-with-chaos/gnome-art-v003.png"
+    },
+    {
+      "id": "gnome-art-v004",
+      "stage": "finished_art",
+      "arguments": {
+        "prompt": "Use case: precise-object-edit. Change ONLY Buddy's pale moustache and beard in image1. Buddy is dark dog at upper right. His muzzle became too bare: restore the distinct off-white furnished moustache sweeping forward/outward and small beard hanging under chin visible in original photo IMAGE2 (B04 visible face and grooming authority). Add localized thin cream hair tips around muzzle sides and beneath chin plus pale brow tufts. Keep actual muzzle/skull size, eyes, nose, ear shape, expression and gaze exactly. Retain clean smooth body coat. Everything else including Neet, Buddy neck/torso/legs/tail, hand-free garden, gnome and camera remains untouched. No curly body texture, no raised body shag, no new objects.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E008-garden-rebirth-with-chaos/gnome-art-v003.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg"
+        ],
+        "transparent_background": false
+      },
+      "output_path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E008-garden-rebirth-with-chaos/gnome-art-v004.png",
+      "source_output_path": "/Users/sagar/.codex/generated_images/01a1053d-ece3-7e91-83fb-81ed1a1b339d/exec-0ddfbfc5-71f7-46bf-9b3f-2041f5dc2138.png",
+      "status": "proposed_pending_independent_review",
+      "generator_inspection": {
+        "independent_acceptance": false,
+        "findings": [
+          "Moustache and beard restored only around Buddy muzzle/chin, regional brows clear; torso remains smooth.",
+          "Grounded roots, continuous torso and considerable leg clearance distinct from Neet fine limbs.",
+          "Gnome intact, smile and Neet sustained stare read; Buddy empty-pot gaze unchanged."
+        ]
+      },
+      "output_sha256": "3b5ca56bf412b0c73a60a2f89da568cb7c91aec0e172a47c9efc3a0e6ac5fe10",
+      "dimensions": [
+        1448,
+        1086
+      ],
+      "format": "PNG",
+      "model": "unknown",
+      "seed": "unknown",
+      "inputs": [
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E008-garden-rebirth-with-chaos/gnome-art-v003.png",
+          "sha256": "8ed020ceb7d3e425f3a9971af28c89f63f08ef08f233e303b9ef1bfa83675fad",
+          "dimensions": [
+            1448,
+            1086
+          ],
+          "role": "edit_target_or_drawn_parent",
+          "limitations": "Interpretation only; never anatomical authority",
+          "recovery_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/expanded-refinement-rejected/E008-garden-rebirth-with-chaos/gnome-art-v003.png"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+          "sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+          "dimensions": null,
+          "role": "original_photo",
+          "limitations": "Original visible regions only under copied full effective policy"
+        }
+      ]
+    },
+    {
+      "id": "illustration-v002",
+      "stage": "finished_art",
+      "arguments": {
+        "prompt": "Use case: precise-object-edit. Preserve image1 story composition and all anatomy and props EXACTLY. Improve ONLY short-coat rendering on the dogs. Repaint Neet golden-fawn neck/trunk/limbs and Buddy dark neck/trunk/upper limbs as smooth plain flat color fields with 2-3 large cel shading patches, like IMAGE2 technique. ZERO ripples, curls, engraved lines, hatch, stripes, individual body hairs or fur tufts. Neet cream bib and nub edges smooth too. Do NOT remove Buddy's distinctive furnished white moustache and chin beard or light eyebrows or pendant ear fringe or modest pale paw hair. ONLY torso coat is close/smooth; keep regional face furnishings from image1. Preserve Buddy's raised paw in bed, all supported legs, expressions and exact body proportions; keep Neet tiny nub, head and cream markings. Maintain all tomato seeds, packet, teacup on stool, squirrel on parapet, soil bed, pot and garden. Do NOT remove or add anything. IMAGE2 is finish technique only, no new dog or park. No text.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E008-garden-rebirth-with-chaos/illustration-v001.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png"
+        ],
+        "transparent_background": false
+      },
+      "output_path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E008-garden-rebirth-with-chaos/illustration-v002.png",
+      "source_output_path": "/Users/sagar/.codex/generated_images/01a1053d-ece3-7e91-83fb-81ed1a1b339d/exec-f30a22e8-3209-4ea7-86b7-dc72c1054e1b.png",
+      "status": "proposed_pending_independent_review",
+      "generator_inspection": {
+        "independent_acceptance": false,
+        "findings": [
+          "Original composition and specific comedy preserved: torn tomato packet, floating tea seeds, raised Buddy paw and squirrel.",
+          "Repaint removes curled torso strokes; Buddy regional muzzle furnishings retained; Neet full torso, fine paws and nub remain.",
+          "Proposed only, requires independent review including grooming boundaries."
+        ]
+      },
+      "output_sha256": "114d9546390dcc011919c6e9aed070aaccf64baeac8ceb96dad74d6e5ffca3c9",
+      "dimensions": [
+        1448,
+        1086
+      ],
+      "format": "PNG",
+      "model": "unknown",
+      "seed": "unknown",
+      "inputs": [
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E008-garden-rebirth-with-chaos/illustration-v001.png",
+          "sha256": "3c254a3e62c0ec0f22c47db00dcc128fa81264bbb304f58dceaa6e8085bac55a",
+          "dimensions": [
+            1448,
+            1086
+          ],
+          "role": "edit_target_or_drawn_parent",
+          "limitations": "Interpretation only; never anatomical authority",
+          "recovery_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/expanded-refinement-rejected/E008-garden-rebirth-with-chaos/illustration-v001.png"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "sha256": "19be9a85760177405bbedd26644a7e0eb9c7945709e43825d201ff2fa91742b9",
+          "dimensions": [
+            1536,
+            1024
+          ],
+          "role": "finish_only_reference",
+          "limitations": "Interpretation only; never anatomical authority"
+        }
+      ]
+    },
+    {
+      "id": "hose-art-v003",
+      "stage": "finished_art",
+      "arguments": {
+        "prompt": "Use case: precise-object-edit. Image1 hose scene. Keep EVERYTHING exact except remove remaining short-fur feathering on Neet. Make the tan/cream chest bib boundary a clean irregular but smooth line, no pointed hair strands; smooth chin/throat outline, belly outline, rear flank and especially tiny tail NUB outline. No coat fringe. Smooth neck color/shadow transitions as broad plain color areas. Body already smooth is correct. Use IMAGE2 clean shape boundaries as finish technique only. Neet has extremely short smooth coat everywhere and near-flush smooth nub; never any extended tail. Preserve body size, full trunk, fine legs, four grounded paws, face/ears, head proportions, nozzle/hand, all garden and water drops. No change in scene or anatomy. No added texture or hairs anywhere on dog.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E008-garden-rebirth-with-chaos/hose-art-v002.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png"
+        ],
+        "transparent_background": false
+      },
+      "source_output_path": "/Users/sagar/.codex/generated_images/01a1053d-ece3-7e91-83fb-81ed1a1b339d/exec-e22f92e1-7414-42b6-99e5-221ddd6b9927.png",
+      "output_path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E008-garden-rebirth-with-chaos/hose-art-v003.png",
+      "status": "proposed_pending_independent_review",
+      "generator_inspection": {
+        "independent_acceptance": false,
+        "findings": [
+          "Entire replacement inspected: smooth tan and cream broad planes now free of engraved fur or feathered bib.",
+          "Four fine limbs rooted, paws grounded, full narrow ribcage and tiny nub; no generated extra dog.",
+          "Natural hand/nozzle grip and falling drops, empty trellis, bare bed and small fruitless sapling preserve exact temporary victory before spray resumes.",
+          "Human cropped wrist/hand remains provisional without original likeness."
+        ]
+      },
+      "output_sha256": "886695b6d1c77e52feb31862ec253f96f9969752adfa378fcd7eff9c00129094",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "model": "unknown",
+      "seed": "unknown",
+      "inputs": [
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E008-garden-rebirth-with-chaos/hose-art-v002.png",
+          "sha256": "96510febd514d905c0b8e4fd0c0a251d89ca1ec4217b40072137a407e4b78680",
+          "dimensions": [
+            1536,
+            1024
+          ],
+          "role": "edit_target_or_drawn_parent",
+          "limitations": "Interpretation only; never anatomical authority",
+          "recovery_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/expanded-refinement-rejected/E008-garden-rebirth-with-chaos/hose-art-v002.png"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "sha256": "19be9a85760177405bbedd26644a7e0eb9c7945709e43825d201ff2fa91742b9",
+          "dimensions": [
+            1536,
+            1024
+          ],
+          "role": "finish_only_reference",
+          "limitations": "Interpretation only; never anatomical authority"
+        }
+      ]
+    }
+  ],
+  "retained_artwork": [
+    {
+      "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E008-garden-rebirth-with-chaos/illustration-v001.png",
+      "generation_record": "Productions/E008-garden-rebirth-with-chaos/artwork-generation.json",
+      "decision": "Preserve composition in illustration-v002; v001 texture superseded by smooth coat repaint, bytes recoverable externally.",
+      "sha256": "3c254a3e62c0ec0f22c47db00dcc128fa81264bbb304f58dceaa6e8085bac55a"
+    }
+  ],
+  "references": [
+    {
+      "id": "N19",
+      "character": "Neet",
+      "path": "Characters/Neet/Photos/neet-19.jpeg",
+      "filename": "neet-19.jpeg",
+      "sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+      "archived_source_path": "03_Asset_Library/Characters/Neet/neet-19.jpeg",
+      "same_exposure_group": null,
+      "use": "Primary body-level side standing and tail nub",
+      "approval_status": "unknown",
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "styling",
+          "standing_pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Primary standing body proportions, paws, hocks and stub silhouette; head is not a pure profile.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Head rotated; far limbs overlap; uncalibrated camera offers no measurements; room light subdued"
+        ],
+        "inspection_sha256": "b2c6db0a5af6a885d993cbd986cc2759b9461e693fbcabd8aa96bce1eb5ea901",
+        "source_sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N19.json"
+      },
+      "source_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose",
+          "resting_pose",
+          "styling"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Primary standing body proportions, paws, hocks and stub silhouette; head is not a pure profile.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state."
+        ],
+        "evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md"
+      },
+      "source_observation": {
+        "date": "2026-10-03",
+        "pose_view_camera": "Standing left-facing side with head toward camera; near body-level",
+        "visible_features": "Tiny short tan rump nub; near-square qualitative standing impression; long slender legs; full ribcage/thigh; moderate ventral rise; smooth short coat",
+        "limitations": "Head rotated; far limbs overlap; uncalibrated camera offers no measurements; room light subdued",
+        "recommended_uses": [
+          "standing_pose",
+          "visible_anatomy",
+          "styling"
+        ],
+        "full_restrictions": [
+          "Primary standing body proportions, paws, hocks and stub silhouette; head is not a pure profile.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Head rotated; far limbs overlap; uncalibrated camera offers no measurements; room light subdued"
+        ]
+      },
+      "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N19.json",
+      "inspection_sha256": "b2c6db0a5af6a885d993cbd986cc2759b9461e693fbcabd8aa96bce1eb5ea901"
+    },
+    {
+      "id": "N29",
+      "character": "Neet",
+      "path": "Characters/Neet/Photos/neet-29.jpeg",
+      "filename": "neet-29.jpeg",
+      "sha256": "dedcc7d8bcbc5da7e2441352200025606fc971644d0cbacd24e8465db8dcdc16",
+      "archived_source_path": "03_Asset_Library/Characters/Neet/neet-29.jpeg",
+      "same_exposure_group": null,
+      "use": "Frontal standing chest and leg clearance",
+      "approval_status": "unknown",
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "styling",
+          "standing_pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Primary frontal standing proportions, leg slenderness, head/body scale and chest markings.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Body depth foreshortened; tail hidden; light/shadow affect colors; exact ratios unknown"
+        ],
+        "inspection_sha256": "af30873f7f392d2503a668667ed619b8d183d685403e25977ce3fe23d9359802",
+        "source_sha256": "dedcc7d8bcbc5da7e2441352200025606fc971644d0cbacd24e8465db8dcdc16",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N29.json"
+      },
+      "source_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose",
+          "resting_pose",
+          "styling"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Primary frontal standing proportions, leg slenderness, head/body scale and chest markings.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state."
+        ],
+        "evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md"
+      },
+      "source_observation": {
+        "date": "2026-10-03",
+        "pose_view_camera": "Frontal standing outdoors; near chest-height with slight elevation",
+        "visible_features": "Long thin foreleg columns; narrow front; small compact dark-clawed paws; large ears; pale throat and central bib; tan torso",
+        "limitations": "Body depth foreshortened; tail hidden; light/shadow affect colors; exact ratios unknown",
+        "recommended_uses": [
+          "standing_pose",
+          "visible_anatomy",
+          "styling"
+        ],
+        "full_restrictions": [
+          "Primary frontal standing proportions, leg slenderness, head/body scale and chest markings.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Body depth foreshortened; tail hidden; light/shadow affect colors; exact ratios unknown"
+        ]
+      },
+      "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N29.json",
+      "inspection_sha256": "af30873f7f392d2503a668667ed619b8d183d685403e25977ce3fe23d9359802"
+    },
+    {
+      "id": "B04",
+      "character": "Buddy",
+      "path": "Characters/Buddy/Photos/buddy-4.jpg",
+      "filename": "buddy-4.jpg",
+      "sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+      "archived_source_path": "03_Asset_Library/Characters/Buddy/buddy-4.jpg",
+      "same_exposure_group": "B04-B24",
+      "use": "Primary frontal standing and groomed facial pattern",
+      "approval_status": "unknown",
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "styling",
+          "standing_pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Excellent front-leg clearance, chest pattern and groomed face; useful standing stance. Same photographic exposure as B24 for evidence counting.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Tail partly cropped at left; grass hides toes; perspective foreshortens torso; B24 same exposure in separate encoding"
+        ],
+        "inspection_sha256": "dd7da906a0e61eb4cdbd84eac3c97fea3318813d5a874c4e6cd4d8d3ba890797",
+        "source_sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B04.json"
+      },
+      "source_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose",
+          "resting_pose",
+          "styling"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Excellent front-leg clearance, chest pattern and groomed face; useful standing stance. Same photographic exposure as B24 for evidence counting.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state."
+        ],
+        "evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+        "same_exposure_group": "B04-B24"
+      },
+      "source_observation": {
+        "date": "2026-10-03",
+        "pose_view_camera": "Standing front three-quarter outdoors; approximately chest-level",
+        "visible_features": "Deep chest; substantial leg shafts; pale lower legs and splaying foot hair; dark torso; pale chest sides/dark throat; long pendant ear fringe; pale muzzle/brows",
+        "limitations": "Tail partly cropped at left; grass hides toes; perspective foreshortens torso; B24 same exposure in separate encoding",
+        "recommended_uses": [
+          "standing_pose",
+          "visible_anatomy",
+          "styling"
+        ],
+        "full_restrictions": [
+          "Excellent front-leg clearance, chest pattern and groomed face; useful standing stance. Same photographic exposure as B24 for evidence counting.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Tail partly cropped at left; grass hides toes; perspective foreshortens torso; B24 same exposure in separate encoding"
+        ]
+      },
+      "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B04.json",
+      "inspection_sha256": "dd7da906a0e61eb4cdbd84eac3c97fea3318813d5a874c4e6cd4d8d3ba890797"
+    },
+    {
+      "id": "B29",
+      "character": "Buddy",
+      "path": "Characters/Buddy/Photos/buddy-29.jpeg",
+      "filename": "buddy-29.jpeg",
+      "sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+      "archived_source_path": "03_Asset_Library/Characters/Buddy/buddy-29.jpeg",
+      "same_exposure_group": null,
+      "use": "Side stride, torso length, leg clearance and tail curve",
+      "approval_status": "unknown",
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Best available lateral body-length, tail-length/carriage and walking-pose reference; weak fine landmarks because blurred and not neutral standing.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Motion blur and lifted legs; cannot establish neutral back slope, exact leg ratios or gait timing from still"
+        ],
+        "inspection_sha256": "c671664ca5e4e2e07bfd3049ea641c3a1645742fb8290494e67a17f7ed213ea9",
+        "source_sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B29.json"
+      },
+      "source_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose",
+          "resting_pose",
+          "styling"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Best available lateral body-length, tail-length/carriage and walking-pose reference; weak fine landmarks because blurred and not neutral standing.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state."
+        ],
+        "evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md"
+      },
+      "source_observation": {
+        "date": "2026-10-03",
+        "pose_view_camera": "Left-facing walking side view indoors; near body-level",
+        "visible_features": "Elongated dark trunk; projecting muzzle/pendant ears; pale lower legs; dark tapering tail held low with gentle curve; underside hair fringe",
+        "limitations": "Motion blur and lifted legs; cannot establish neutral back slope, exact leg ratios or gait timing from still",
+        "recommended_uses": [
+          "pose",
+          "visible_anatomy"
+        ],
+        "full_restrictions": [
+          "Best available lateral body-length, tail-length/carriage and walking-pose reference; weak fine landmarks because blurred and not neutral standing.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Motion blur and lifted legs; cannot establish neutral back slope, exact leg ratios or gait timing from still"
+        ]
+      },
+      "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B29.json",
+      "inspection_sha256": "c671664ca5e4e2e07bfd3049ea641c3a1645742fb8290494e67a17f7ed213ea9"
+    }
+  ],
+  "exposure_groups": {
+    "N19": "N19",
+    "N29": "N29",
+    "B04": "B04-B24",
+    "B29": "B29"
+  },
+  "model_inspection": {
+    "references_opened": [
+      "Productions/Library-Refinement/model-standing-v002.png",
+      "Productions/Library-Refinement/model-paired-standing-v001.png"
+    ],
+    "observations": "All originals N19 N29 B04 B29 opened; models show full torso, clearance and relevant standing roots. Their directional fur not copied. Original photos remain authorities. E001 max-art-v005 opened for smooth finish only."
+  },
+  "failed_calls": [
+    {
+      "arguments": {
+        "prompt": "Use case: sketch-to-render. Finish IMAGE1, inspected gnome scene staging, into finished warm painterly storybook editorial illustration. IMAGE2 is ONLY a smooth coat FINISH technique example; do NOT copy large dog, scene, pose or anatomy. IMAGE3 N19 and IMAGE4 N29 original Neet, IMAGE5 B04 and IMAGE6 B29 original Buddy govern visible identity only. Preserve image1 composition, connected bodies, planted feet, unobstructed acting, smiling ceramic gnome, Ahmedabad rooftop terrace with terracotta pots and low cream parapet. Neet suspiciously faces inanimate garden gnome; Buddy looks toward empty pots after losing interest. NO gnome damage yet. Gnome hat rich red, jacket subdued blue, warm terracotta and foliage against pale cream terrace. IMPORTANT render Neet coat and Buddy charcoal torso as SMOOTH, PLAIN, BROAD TONAL WASHES with clean contour, zero hatching, zero curls, zero engraved fur strokes, no shag or tufts. Subtle paper grain on BACKGROUND only. Buddy furnished muzzle brows and pendant ears may have regional hairs. Do NOT retain grayscale fur engraving. Neet tiny smooth nub not feathery stump. Natural modest canine heads, no human eyes, no eyelashes. Keep four supported legs with substantial Buddy clearance; do not shorten legs. No text no border no extra people or animals. Originals N19,N29,B04,B29 are visible-likeness authorities only, no calibrated ratios/weight/breed/timing. Neet small tan smooth very short coat, full narrow trunk, fine long legs, real projecting muzzle, big broad-rooted triangular ears, cream muzzle and irregular bib, tiny flush nub tail. Buddy moderately elongated full charcoal torso, visible neck, substantial legs and clearance, cream moustache and pale brows, pendant ears with regional fringe, pale lower legs, slender low dark tapered tail. Four limbs each with coherent joints and contact; no giant head, sausage body, disconnection. N35 excludes anatomy; B08 styling only; B25 unavailable; B30 rest-only not used; B04/B24 one exposure. No human likeness established.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E008-garden-rebirth-with-chaos/gnome-staging-v002.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-29.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg"
+        ],
+        "transparent_background": false
+      },
+      "error": "referenced_image_paths must contain at most 5 paths",
+      "output": null
+    }
+  ],
+  "no_self_acceptance": true,
+  "recovery_mappings": [
+    {
+      "original_path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E008-garden-rebirth-with-chaos/hose-staging-v002.png",
+      "recovery_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/expanded-refinement-rejected/E008-garden-rebirth-with-chaos/hose-staging-v002.png",
+      "sha256": "946b9186a213a9c52e081e8748a6a9696667c21fb92b97425477b785a0085f39",
+      "reason": "Premature bean vines and mature lime fruits; corrected staging-v003 before finish"
+    },
+    {
+      "original_path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E008-garden-rebirth-with-chaos/gnome-art-v002.png",
+      "recovery_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/expanded-refinement-rejected/E008-garden-rebirth-with-chaos/gnome-art-v002.png",
+      "sha256": "f3f70fe2615ed61c1197936da7c6d286c7198ad84b173859780d5aaafc721b62",
+      "reason": "Engraved fur and curled texture"
+    },
+    {
+      "original_path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E008-garden-rebirth-with-chaos/gnome-art-v003.png",
+      "recovery_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/expanded-refinement-rejected/E008-garden-rebirth-with-chaos/gnome-art-v003.png",
+      "sha256": "8ed020ceb7d3e425f3a9971af28c89f63f08ef08f233e303b9ef1bfa83675fad",
+      "reason": "Smooth coat but Buddy muzzle over-smoothed; furnishing restored v004"
+    },
+    {
+      "original_path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E008-garden-rebirth-with-chaos/hose-art-v002.png",
+      "recovery_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/expanded-refinement-rejected/E008-garden-rebirth-with-chaos/hose-art-v002.png",
+      "sha256": "96510febd514d905c0b8e4fd0c0a251d89ca1ec4217b40072137a407e4b78680",
+      "reason": "Feathered bib and nub boundary; smoothed v003"
+    },
+    {
+      "original_path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E008-garden-rebirth-with-chaos/illustration-v001.png",
+      "recovery_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/expanded-refinement-rejected/E008-garden-rebirth-with-chaos/illustration-v001.png",
+      "sha256": "3c254a3e62c0ec0f22c47db00dcc128fa81264bbb304f58dceaa6e8085bac55a",
+      "reason": "Historical composition retained but short-coat texture replaced v002"
+    }
+  ],
+  "proposed_images": [
+    "illustration-v002.png",
+    "gnome-art-v004.png",
+    "hose-art-v003.png"
+  ]
+}

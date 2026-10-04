@@ -1,0 +1,16 @@
+{
+  "id": "stairs-art-v006",
+  "arguments": {
+    "prompt": "Use case: precise-object-edit. Change ONLY Buddy lower FACE in image1. Current correction again erased the beard almost entirely. Image2 shows desired illustrated FACIAL FURNISHING readability only; image3 is original Buddy photo, sole anatomy and likeness authority. Buddy needs a CLEAR VISIBLE pale beard hanging BELOW HIS CHIN, a broad irregular tuft approximately 10-15 pixels deep at this 1536px image scale, spanning the underside of jaw. Not a tiny imperceptible lip line, not a single narrow goatee. Place it immediately behind/below muzzle, connected to jaw, not floor. Preserve projecting irregular moustache and face size, nose direction, eye position. Keep absolutely all torso/neck/limb smooth flat planes unchanged, no added body hair. Neet, stairway, leaf and setting unchanged. Modest regional beard only as in original. No text, no other edits. N35 excludes anatomy; B08 styling-only unused; B25 unavailable; B30 supplemental rest unused; B04/B24 one exposure.",
+    "referenced_image_paths": [
+      "/Users/sagar/Documents/ChatGPT/NBC/Productions/E042-the-day-the-bark-stood-still/stairs-art-v005.png",
+      "/Users/sagar/Documents/ChatGPT/NBC/Productions/E042-the-day-the-bark-stood-still/kitchen-art-v003.png",
+      "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg"
+    ],
+    "transparent_background": false
+  },
+  "output_hint": "Generated images are saved to /Users/sagar/.codex/generated_images/01a106ae-28b6-7823-abb8-5c08fed53cca as /Users/sagar/.codex/generated_images/01a106ae-28b6-7823-abb8-5c08fed53cca/exec-c49512f2-dfed-4465-a6ae-af4fe0fd1687.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+  "tool": "built-in image_gen.imagegen",
+  "model": "unknown",
+  "seed": "unknown"
+}

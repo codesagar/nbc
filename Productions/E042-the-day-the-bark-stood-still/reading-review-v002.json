@@ -1,0 +1,92 @@
+{
+  "story_id": "S042",
+  "episode_id": "E042-the-day-the-bark-stood-still",
+  "reviewer": "fresh_complete_reading_reader042",
+  "date": "2026-10-04",
+  "status": "accepted",
+  "independence": "Fresh reviewer did not write the story, generate artwork, or author the independent visual review. Owns only this reading record.",
+  "story": {
+    "path": "Stories/S042-the-day-the-bark-stood-still.md",
+    "sha256": "96fc2d22e34bac7a08e9ee7dbeeece0219a437f507e7e58f3d70b79162d6eea5"
+  },
+  "images": [
+    {
+      "path": "Productions/E042-the-day-the-bark-stood-still/morning-art-v004.png",
+      "sha256": "77c21c7db4a6581a47d31df167dd852fcc9ff61d9828f0c6d067e1a35a4c41fe"
+    },
+    {
+      "path": "Productions/E042-the-day-the-bark-stood-still/kitchen-art-v003.png",
+      "sha256": "1e9a41df3aa3111f6cbd031c7190281424fbfea91fb8acbf34921f916c758cf6"
+    },
+    {
+      "path": "Productions/E042-the-day-the-bark-stood-still/stairs-art-v006.png",
+      "sha256": "9640937add3fbf9089d5b6a804dad2075abdb01969a280efcbc962c35aaed242"
+    }
+  ],
+  "rendered_inspection": {
+    "url": "http://127.0.0.1:56824/Stories/S042-the-day-the-bark-stood-still.md",
+    "method": "Codex in-app browser via cua_repl; complete accessibility text read and sequential overlapping scroll screenshots inspected from title to page bottom. No full-page thumbnail substituted for reading.",
+    "viewport": [
+      1280,
+      720
+    ],
+    "observed_image_display_size": [
+      960,
+      640
+    ],
+    "coverage": "All seven acts, all three complete embedded illustrations, final squirrel sentence, provenance including Chapter 15 and source hash, and refinement record. No meaningful alternatives present.",
+    "sequence": [
+      "Title, Act I opening, Santa defeat and Buddy tactical sleep",
+      "Center Mode training and breakfast list",
+      "Bark Sisters arrival and acorn discovery",
+      "Heather glass reaction, Buddy decision, image entrance",
+      "Complete morning image",
+      "Buddy retreat payoff and Act III",
+      "Caught okra, disappointment, kitchen image entrance",
+      "Complete kitchen image",
+      "Nap and Act IV ascent",
+      "Leaf dialogue and stairs image entrance",
+      "Complete stairs image",
+      "Summit and Act V dinner list",
+      "Napkin correction, Gravity Enforcement Officer and bhaji",
+      "Act VI exceptions and Act VII quiet",
+      "Squirrel ending and provenance",
+      "Complete refinement record and page bottom"
+    ]
+  },
+  "observations": {
+    "humor_and_timing": "The missing quarter-star Santa incident and Buddy sleeping through it establish contrasting comic instincts. Heather lowering the smoothie carefully adds a small physical joke. Buddy taking over the bark dispute then accelerating his dignified retreat provides an actual reversal; the first image delays that exit just enough to let the contrast register. Okra disappointment and the elongated leaf inspection diversify the comedy without turning every quiet passage into banter.",
+    "voices_and_agency": "Neet remains theatrically self-important even in calm: exceptions to serenity and the unquestioned Table Setting Deputy promotion retain his identity. Buddy independently chooses to answer the neighbors, stake out falling food, prolong a leaf inspection and finally let the evening bark pass. Sagar supplies confident training and practical dinner action; Heather reacts physically, catches food and quietly straightens napkins.",
+    "cause_effect_and_pacing": "Training establishes the unexpected acorn choice. Buddy covers the abandoned barking job, discovers its futility and later adopts quiet himself. Lunch/nap, afternoon climb and dinner maintain clear time progression. The illustrations sit after complete dialogue beats and before subsequent state changes; act breaks preserve the day-in-the-life structure.",
+    "emotional_payoff": "The last faint bark gives Buddy a choice rather than a sermon-only resolution. His closing eye shows a shared relaxed home; the squirrel qualification preserves the dogs comic priorities. Nothing interrupts the final quiet scene or its last joke.",
+    "complementary_contributions": "Morning is a wide spatial contrast between calm acorn inspection and noisy fence duty. Kitchen changes to an interior vertical stare at withheld food with distant composed Neet. Stairs uses depth, broad landing and Neet far above to extend Buddy delaying tactic. These are distinct narrative jobs rather than repeated portraits.",
+    "provenance_and_alternatives": "Read through source and refinement notes. Chapter 15 remains a historical independent captured sequence, not inferred chronology or approval. No alternative narrative appears in this edition."
+  },
+  "image_placement": [
+    {
+      "path": "Productions/E042-the-day-the-bark-stood-still/morning-art-v004.png",
+      "assessment": "Neet nose is at acorn while Buddy faces barking neighbors; breakfast toast, coffee and pink smoothie locate the scene. Image precedes Neet padding over and Buddy retreating, so neither later state is spoiled."
+    },
+    {
+      "path": "Productions/E042-the-day-the-bark-stood-still/kitchen-art-v003.png",
+      "assessment": "Okra is held above upward-looking Buddy, Neet is still in doorway. Anchored immediately after caught-piece disappointment and before lunch/nap. The caught-versus-offered ambiguity of a still hand is resolved by the adjacent prose."
+    },
+    {
+      "path": "Productions/E042-the-day-the-bark-stood-still/stairs-art-v006.png",
+      "assessment": "Buddy nose remains over the leaf on a broad landing with Neet waiting above. Picture follows Still a leaf/I am checking exchange and precedes summit; no premature skyline or later mingling is shown."
+    }
+  ],
+  "visual_findings_closure": {
+    "review": {
+      "path": "Productions/E042-the-day-the-bark-stood-still/visual-review-v002.json",
+      "sha256": "cb1cd49e2bd353bc254dce55dcdc89dc8645d9fe1e874c4ecdf4056483e0493c"
+    },
+    "status": "accepted",
+    "verified_matching_story_and_image_hashes": true,
+    "observations": "S042-V002-01 and S042-V002-02 are closed by kitchen v003 and stairs v006 in the current independent visual review. These exact replacements are embedded and rendered. At reading size the kitchen moustache and broad chin beard are clear; stairs retains visible local pale muzzle/chin furnishing in the lowered angle. Smooth torso planes remain clear in all three pictures. No new reading-size contradiction found. Original-photo/native-resolution assessment remains the independent visual review scope."
+  },
+  "material_findings": [],
+  "open_findings": [],
+  "approval": "unapproved",
+  "publication": "not_published"
+}

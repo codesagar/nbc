@@ -1,0 +1,244 @@
+{
+  "id": "S058-V002-COAT-01",
+  "status": "replacement_proposed_pending_independent_reinspection",
+  "review_source": "Productions/E058-the-era-of-the-cool-ball/visual-review-v002.json",
+  "tool": "image_gen.imagegen",
+  "model": "unknown",
+  "seed": "unknown",
+  "photo_references": [
+    {
+      "id": "N19",
+      "character": "Neet",
+      "path": "Characters/Neet/Photos/neet-19.jpeg",
+      "filename": "neet-19.jpeg",
+      "sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+      "archived_source_path": "03_Asset_Library/Characters/Neet/neet-19.jpeg",
+      "same_exposure_group": null,
+      "use": "Primary body-level side standing and tail nub",
+      "approval_status": "unknown",
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "styling",
+          "standing_pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Primary standing body proportions, paws, hocks and stub silhouette; head is not a pure profile.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Head rotated; far limbs overlap; uncalibrated camera offers no measurements; room light subdued"
+        ],
+        "inspection_sha256": "b2c6db0a5af6a885d993cbd986cc2759b9461e693fbcabd8aa96bce1eb5ea901",
+        "source_sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N19.json"
+      },
+      "source_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose",
+          "resting_pose",
+          "styling"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Primary standing body proportions, paws, hocks and stub silhouette; head is not a pure profile.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state."
+        ],
+        "evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md"
+      },
+      "source_observation": {
+        "date": "2026-10-03",
+        "pose_view_camera": "Standing left-facing side with head toward camera; near body-level",
+        "visible_features": "Tiny short tan rump nub; near-square qualitative standing impression; long slender legs; full ribcage/thigh; moderate ventral rise; smooth short coat",
+        "limitations": "Head rotated; far limbs overlap; uncalibrated camera offers no measurements; room light subdued",
+        "recommended_uses": [
+          "standing_pose",
+          "visible_anatomy",
+          "styling"
+        ],
+        "full_restrictions": [
+          "Primary standing body proportions, paws, hocks and stub silhouette; head is not a pure profile.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Head rotated; far limbs overlap; uncalibrated camera offers no measurements; room light subdued"
+        ]
+      },
+      "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N19.json",
+      "inspection_sha256": "b2c6db0a5af6a885d993cbd986cc2759b9461e693fbcabd8aa96bce1eb5ea901"
+    },
+    {
+      "id": "B04",
+      "character": "Buddy",
+      "path": "Characters/Buddy/Photos/buddy-4.jpg",
+      "filename": "buddy-4.jpg",
+      "sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+      "archived_source_path": "03_Asset_Library/Characters/Buddy/buddy-4.jpg",
+      "same_exposure_group": "B04-B24",
+      "use": "Primary frontal standing and groomed facial pattern",
+      "approval_status": "unknown",
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "styling",
+          "standing_pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Excellent front-leg clearance, chest pattern and groomed face; useful standing stance. Same photographic exposure as B24 for evidence counting.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Tail partly cropped at left; grass hides toes; perspective foreshortens torso; B24 same exposure in separate encoding"
+        ],
+        "inspection_sha256": "dd7da906a0e61eb4cdbd84eac3c97fea3318813d5a874c4e6cd4d8d3ba890797",
+        "source_sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B04.json"
+      },
+      "source_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose",
+          "resting_pose",
+          "styling"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Excellent front-leg clearance, chest pattern and groomed face; useful standing stance. Same photographic exposure as B24 for evidence counting.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state."
+        ],
+        "evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+        "same_exposure_group": "B04-B24"
+      },
+      "source_observation": {
+        "date": "2026-10-03",
+        "pose_view_camera": "Standing front three-quarter outdoors; approximately chest-level",
+        "visible_features": "Deep chest; substantial leg shafts; pale lower legs and splaying foot hair; dark torso; pale chest sides/dark throat; long pendant ear fringe; pale muzzle/brows",
+        "limitations": "Tail partly cropped at left; grass hides toes; perspective foreshortens torso; B24 same exposure in separate encoding",
+        "recommended_uses": [
+          "standing_pose",
+          "visible_anatomy",
+          "styling"
+        ],
+        "full_restrictions": [
+          "Excellent front-leg clearance, chest pattern and groomed face; useful standing stance. Same photographic exposure as B24 for evidence counting.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Tail partly cropped at left; grass hides toes; perspective foreshortens torso; B24 same exposure in separate encoding"
+        ]
+      },
+      "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B04.json",
+      "inspection_sha256": "dd7da906a0e61eb4cdbd84eac3c97fea3318813d5a874c4e6cd4d8d3ba890797"
+    }
+  ],
+  "generations": [
+    {
+      "arguments": {
+        "prompt": "Use case: precise-object-edit. Edit input1 illustration. Keep EXACT composition, framing, poses, proportions, facial expressions, four grounded feet each dog, attached collar rings/leashes, flashlight beam, human shoe, giant tennis ball, street and curb. Correct ONLY dog coat finish. On Neet tan dog REMOVE EVERY curled, engraved, raised, bright-edged squiggle covering forehead, cheeks, neck, shoulders, torso, rump, legs. Replace with broad smooth translucent golden-tan watercolor washes with continuous clean contours. Short smooth coat, NOT patterned wool or curls. On Buddy dark dog REMOVE EVERY curled/engraved mark from dark neck below face, shoulders, chest dark fields, torso, rump and legs. Replace with smooth close-clipped charcoal tonal wash, clean silhouette. Keep natural localized pale beard/moustache, brows and ear furniture. No coat enlargement, no change to anatomy, no added hair or marks. Do not sharpen texture. Very smooth low-detail body surfaces are essential. Reference input2 N19 confirms Neet close smooth coat; input3 B04 confirms Buddy close torso with only regional face/ear furnishings. These original photographs control visible coat, uncalibrated no measurements. B04/B24 one exposure. N35 excludes anatomy; B08 styling only unused; B25 unavailable; B30 rest-only unused. Input1 edit target; input2/3 eligible originals. Ball retains fuzzy tennis texture. Entire rest of picture preserved. No text.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E058-the-era-of-the-cool-ball/illustration-v002.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg"
+        ],
+        "transparent_background": false
+      },
+      "inputs": [
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E058-the-era-of-the-cool-ball/illustration-v002.png",
+          "sha256": "bf661378916a3096911a61d6ce8c0562cd408377cb97bd43dfdaffe6c0f26a2a",
+          "role": "edit target"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+          "role": "eligible original photo"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+          "sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+          "role": "eligible original photo"
+        }
+      ],
+      "output": {
+        "path": "Productions/E058-the-era-of-the-cool-ball/discovery-coat-v003.png",
+        "sha256": "ee92ceb8878364e59241a70748f286857edacab4c3cb3013842fdc2fd5eb8b70",
+        "dimensions": [
+          1448,
+          1086
+        ]
+      }
+    },
+    {
+      "arguments": {
+        "prompt": "Repaint input1 as a clean flat-wash watercolor illustration. This is a REQUIRED MATERIAL CORRECTION, previous subtle editing failed. Replace the DOGS' ENTIRE PAINTED SURFACES with simple solid smooth gradient color planes. Absolutely zero tiny marks, texture, hatching, curls, engraved lines, swirls, brush hair or pattern anywhere on Neet tan forehead, neck, trunk or legs, nor on Buddy dark torso. Think smooth cut-paper silhouettes filled with flat watercolor gradients. Preserve dog anatomy, pose, facial emotion, positions, four feet each, collars and lead attachments. Buddy cream muzzle/beard, pale eyebrows and ears alone retain strands. Neet tan torso must look like clean plain matte paper colored with one broad wash, devoid of ANY repeated marks. Buddy torso clean plain matte charcoal gray. Input2 accepted illustration gives the simpler smooth body-finish direction, DO NOT copy its composition. Input3 N19 and input4 B04 original photo likeness authority. Preserve input1 STREET SCENE: night, flashlight beam and human shoe at left, giant chartreuse tennis ball on pavement left foreground, Neet small tan dog unable to bite it, Buddy at right amused. Both standing four supported legs, Neet fine legs with full narrow torso and tiny nub, Buddy elongated body/substantial legs. No proportion changes. Clear soft shadows give volume without texture. No text. B04/B24 one exposure; N35 excluded anatomy; B08 unused styling only; B25 unavailable; B30 unused rest-only. Repaint fully to REMOVE all old decorative coat marks rather than blending over them.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E058-the-era-of-the-cool-ball/discovery-coat-v003.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E058-the-era-of-the-cool-ball/window-wrong-moon-v002.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg"
+        ],
+        "transparent_background": false
+      },
+      "inputs": [
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E058-the-era-of-the-cool-ball/discovery-coat-v003.png",
+          "sha256": "ee92ceb8878364e59241a70748f286857edacab4c3cb3013842fdc2fd5eb8b70",
+          "role": "edit target"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E058-the-era-of-the-cool-ball/window-wrong-moon-v002.png",
+          "sha256": "0dcdd9a58225d952c3452f08613becd938cdfb1c7c7e6b844079d74889973453",
+          "role": "accepted provisional finish reference only"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+          "role": "eligible original photo"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+          "sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+          "role": "eligible original photo"
+        }
+      ],
+      "output": {
+        "path": "Productions/E058-the-era-of-the-cool-ball/discovery-coat-v004.png",
+        "sha256": "068fb9cea95871006fa1e7e1d03b9116cdf97a058c30370a5de1e663d616c2ef",
+        "dimensions": [
+          1448,
+          1086
+        ]
+      }
+    }
+  ],
+  "superseded": [
+    {
+      "path": "Productions/E058-the-era-of-the-cool-ball/illustration-v002.png",
+      "external_recovery": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S058-v002/illustration-v002.png",
+      "sha256": "bf661378916a3096911a61d6ce8c0562cd408377cb97bd43dfdaffe6c0f26a2a"
+    },
+    {
+      "path": "Productions/E058-the-era-of-the-cool-ball/discovery-coat-v003.png",
+      "external_recovery": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S058-v002/discovery-coat-v003.png",
+      "sha256": "ee92ceb8878364e59241a70748f286857edacab4c3cb3013842fdc2fd5eb8b70"
+    }
+  ],
+  "generator_inspection": {
+    "method": "Opened entire v003 and v004 with view_image detail original at native 1448x1086.",
+    "v003": "Rejected: dense engraved texture largely survived initial subtle edit.",
+    "v004": "Full scene reinspected: outlines now smooth and body planes much flatter; broad tan/charcoal gradients, original supported feet, collars/rings, oversized ball and flashlight staging preserved. Some faint residual wash texture remains visible; independent reviewer must decide whether correction clears material coat finding. No self-acceptance."
+  },
+  "approval": "unapproved",
+  "publication": "not_published"
+}

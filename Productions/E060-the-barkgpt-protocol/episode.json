@@ -1,0 +1,350 @@
+{
+  "id": "E060-the-barkgpt-protocol",
+  "status": "reviewed_unapproved",
+  "stage": "complete_reading",
+  "next_action": "Included in expanded delivery-v001; owner adoption and publication remain separate, ungranted decisions.",
+  "source": {
+    "path": "Stories/S060-the-barkgpt-protocol.md",
+    "sha256": "55eea8f4b388679d1c0394f3734f9ef19ae5eb0b64a9281782e51d1d2c04a083",
+    "passages": [],
+    "interpretation": "A helpful tool with limits returns attention to family. Neet wants calm organization; Buddy tries snack alarms, purchasing and wake-word loopholes, then participates in training and the photo. Preserved all use cases, three denials, nap debate, bell retrieval, Grubbs, fire evening and Ganesha check-in. Corrected only-dogs-heard contradiction by distinguishing understanding barks from human use. Doorbell progress is uneven rather than one-day cure. Sage\u2019s home answer now observes the actual scene. Illustration: Buddy petitions smart speaker, Neet beside him; no product capability claim.",
+    "editorial_sha256": "1d54ea7344aee66578f66c164f28dc7413f53a7eb632a5359919cb814d05e07b",
+    "revision_sha256": "fd2c643cc9650aac40638c9687c04eba53e9cc5da172a56d675cf73635b2ef28"
+  },
+  "references": [
+    {
+      "id": "N19",
+      "path": "Characters/Neet/Photos/neet-19.jpeg",
+      "sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+      "same_exposure_group": null,
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "styling",
+          "standing_pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Primary standing body proportions, paws, hocks and stub silhouette; head is not a pure profile.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Head rotated; far limbs overlap; uncalibrated camera offers no measurements; room light subdued"
+        ],
+        "inspection_sha256": "b2c6db0a5af6a885d993cbd986cc2759b9461e693fbcabd8aa96bce1eb5ea901",
+        "source_sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N19.json"
+      },
+      "role": "Neet side body, fine legs, full trunk, near-flush nub; head turned/far legs overlap."
+    },
+    {
+      "id": "N24",
+      "path": "Characters/Neet/Photos/neet-24.jpeg",
+      "sha256": "a80dbd57f4daf8f53232a4c5e604f7e92411ed2ca15fccb8d50a5f053b0eacd6",
+      "same_exposure_group": null,
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Primary upright sitting, narrow chest, head-tilt and color-map reference.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Tail hidden; scattered stuffing does not prove this dog caused destruction; seated proportions only"
+        ],
+        "inspection_sha256": "2dc370cfcb6bf22dde3ee7f0f7b169e11501f6b97e69b65ee733fe43737a4a8b",
+        "source_sha256": "a80dbd57f4daf8f53232a4c5e604f7e92411ed2ca15fccb8d50a5f053b0eacd6",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N24.json"
+      },
+      "role": "Neet seated visible geometry only, tail hidden; no standing ratios."
+    },
+    {
+      "id": "B29",
+      "path": "Characters/Buddy/Photos/buddy-29.jpeg",
+      "sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+      "same_exposure_group": null,
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Best available lateral body-length, tail-length/carriage and walking-pose reference; weak fine landmarks because blurred and not neutral standing.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Motion blur and lifted legs; cannot establish neutral back slope, exact leg ratios or gait timing from still"
+        ],
+        "inspection_sha256": "c671664ca5e4e2e07bfd3049ea641c3a1645742fb8290494e67a17f7ed213ea9",
+        "source_sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B29.json"
+      },
+      "role": "Buddy lateral torso and tail, blurred stride; no neutral ratios/timing."
+    },
+    {
+      "id": "B04",
+      "path": "Characters/Buddy/Photos/buddy-4.jpg",
+      "sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+      "same_exposure_group": "B04-B24",
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "styling",
+          "standing_pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Excellent front-leg clearance, chest pattern and groomed face; useful standing stance. Same photographic exposure as B24 for evidence counting.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Tail partly cropped at left; grass hides toes; perspective foreshortens torso; B24 same exposure in separate encoding"
+        ],
+        "inspection_sha256": "dd7da906a0e61eb4cdbd84eac3c97fea3318813d5a874c4e6cd4d8d3ba890797",
+        "source_sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B04.json"
+      },
+      "role": "Buddy tidy photographed face/ears, chest and substantial legs; grass hides toes, torso foreshortened."
+    }
+  ],
+  "artwork": [
+    {
+      "path": "Productions/E060-the-barkgpt-protocol/helper-introduction-v003.png",
+      "sha256": "71bf5277a5b9134139caae42c0c414d1a2403ee92ecd8c59a00e82efc9ab342b",
+      "dimensions": [
+        1448,
+        1086
+      ],
+      "format": "PNG",
+      "placement_after": "Buddy waited for the speaker to open. It did not. He put his chin back down, reserving judgment.",
+      "alt_text": "Neet lifts his head while Buddy waits beside the newly glowing speaker.",
+      "scope": "primary",
+      "independent_review": "pending",
+      "reviewed_version": "Productions/E060-the-barkgpt-protocol/helper-introduction-v003.png",
+      "generation_record": "Productions/E060-the-barkgpt-protocol/artwork-generation-v002.json",
+      "review_record": "Productions/E060-the-barkgpt-protocol/visual-review-v002.json"
+    },
+    {
+      "path": "Productions/E060-the-barkgpt-protocol/storm-comfort-v004.png",
+      "sha256": "2d833aa77f19c7ab54e3f50d43d91511cea2c5c2bc55fdfd2dc076c250be945b",
+      "dimensions": [
+        1448,
+        1086
+      ],
+      "format": "PNG",
+      "placement_after": "Heather shifted her feet to make room. Buddy opened one eye, checked on Neet, and closed it again.",
+      "alt_text": "Buddy rests beside Heather on the couch while Neet settles close to her feet during the storm.",
+      "scope": "primary",
+      "independent_review": "pending_reinspection",
+      "correction_record": "Productions/E060-the-barkgpt-protocol/storm-tail-correction-v004.json",
+      "reviewed_version": "Productions/E060-the-barkgpt-protocol/storm-comfort-v004.png",
+      "generation_record": "Productions/E060-the-barkgpt-protocol/storm-tail-correction-v004.json",
+      "review_record": "Productions/E060-the-barkgpt-protocol/visual-review-v002.json"
+    },
+    {
+      "path": "Productions/E060-the-barkgpt-protocol/ball-trade-v003.png",
+      "sha256": "161a76259c96c6564993c97cbe617d1439643afad47ee2b2921966792aca64a7",
+      "dimensions": [
+        1448,
+        1086
+      ],
+      "format": "PNG",
+      "placement_after": "Neet looked at his paw as though it belonged to a less disciplined officer. He lifted it.",
+      "alt_text": "Neet lifts his paw clear of the cool ball while Sagar holds the next reward and Buddy waits nearby.",
+      "scope": "primary",
+      "independent_review": "pending",
+      "reviewed_version": "Productions/E060-the-barkgpt-protocol/ball-trade-v003.png",
+      "generation_record": "Productions/E060-the-barkgpt-protocol/artwork-generation-v002.json",
+      "review_record": "Productions/E060-the-barkgpt-protocol/visual-review-v002.json"
+    },
+    {
+      "path": "Productions/E060-the-barkgpt-protocol/scheme-coat-v005.png",
+      "sha256": "182840e46eed6e15905e29b9eee25eef1b942dcfe667af984219f0d2ddcaa8a9",
+      "dimensions": [
+        1448,
+        1086
+      ],
+      "format": "PNG",
+      "placement_after": "Buddy deflated. \u201cOne. But put \u2018emotionally significant\u2019 in the notes.\u201d",
+      "alt_text": "Buddy petitions the green-lit speaker while Neet watches and one giant ball waits in its basket.",
+      "scope": "primary",
+      "independent_review": "pending",
+      "reviewed_version": "Productions/E060-the-barkgpt-protocol/scheme-coat-v005.png",
+      "generation_record": "Productions/E060-the-barkgpt-protocol/artwork-generation-v002.json",
+      "review_record": "Productions/E060-the-barkgpt-protocol/visual-review-v002.json"
+    },
+    {
+      "path": "Productions/E060-the-barkgpt-protocol/photo-squeak-v003.png",
+      "sha256": "fd4ec61a1c0f4096a67a59dabccd2ad33755ccdec77930a62b11c2bdb3afdf05",
+      "dimensions": [
+        1448,
+        1086
+      ],
+      "format": "PNG",
+      "placement_after": "Buddy sat beside Neet and looked directly at the camera. He had heard the squeak too.",
+      "alt_text": "Both dogs look toward Heather\u2019s camera after the soft squeak in the backyard.",
+      "scope": "primary",
+      "independent_review": "pending",
+      "reviewed_version": "Productions/E060-the-barkgpt-protocol/photo-squeak-v003.png",
+      "generation_record": "Productions/E060-the-barkgpt-protocol/artwork-generation-v002.json",
+      "review_record": "Productions/E060-the-barkgpt-protocol/visual-review-v002.json"
+    }
+  ],
+  "quality": {
+    "story": {
+      "status": "reviewed",
+      "evidence": [
+        "Stories/S060-the-barkgpt-protocol.md",
+        "/Users/sagar/Documents/ChatGPT/NBC_Archives/NBC-before-refinement-2026-10-03_200659.tar.gz"
+      ],
+      "observations": [
+        "A helpful tool with limits returns attention to family. Neet wants calm organization; Buddy tries snack alarms, purchasing and wake-word loopholes, then participates in training and the photo. Preserved all use cases, three denials, nap debate, bell retrieval, Grubbs, fire evening and Ganesha check-in. Corrected only-dogs-heard contradiction by distinguishing understanding barks from human use. Doorbell progress is uneven rather than one-day cure. Sage\u2019s home answer now observes the actual scene. Illustration: Buddy petitions smart speaker, Neet beside him; no product capability claim.",
+        "Complete revised primary and every in-file alternative reread by editor_late; compared with complete source from verified snapshot. Distinct incidents, emotional destination, historical household/voice and known contradictions checked; local transition repetitions repaired on the second pass. This is editorial review, not owner approval or illustration clearance."
+      ],
+      "expanded_review": {
+        "status": "reviewed",
+        "evidence": [
+          "Productions/E060-the-barkgpt-protocol/comedy-pass-v002.json",
+          "Productions/E060-the-barkgpt-protocol/reading-review-v002.json"
+        ]
+      }
+    },
+    "character_model": {
+      "status": "reviewed_provisional",
+      "evidence": [
+        "Productions/Library-Refinement/model-independent-review.json"
+      ],
+      "observations": [
+        "Independent reviewer opened all three current sheets at native resolution, originals and native detail crops; no material findings. Qualitative scale and grooming states remain provisional."
+      ]
+    },
+    "drawn_storyboard": {
+      "status": "reviewed",
+      "evidence": [
+        "Productions/E060-the-barkgpt-protocol/rough-v001.png",
+        "Productions/E060-the-barkgpt-protocol/visual-review.json"
+      ],
+      "observations": [
+        "Buddy four owned feet under elongated trunk and raised speaking muzzle; Neet seated haunch support and compact forepaws coherent. Little green-ring speaker is ordinary object, one existing ball in basket; no invented robot body or multiplied balls.",
+        "Final must remove Buddy long sawtooth foreleg-back/underside fringe and keep Neet throat close; preserve Buddy regional face/ear furnishings."
+      ]
+    },
+    "panel_comparison": {
+      "status": "independently_reviewed",
+      "evidence": [
+        "Productions/E060-the-barkgpt-protocol/visual-review-v002.json"
+      ],
+      "observations": [
+        "Every current finished image opened at full resolution against original photos; concrete findings recorded per image."
+      ]
+    },
+    "complete_reading": {
+      "status": "reviewed",
+      "story_sha256": "fd2c643cc9650aac40638c9687c04eba53e9cc5da172a56d675cf73635b2ef28",
+      "evidence": [
+        "Productions/E060-the-barkgpt-protocol/reading-review-v002.json"
+      ],
+      "inspection": null,
+      "observations": [
+        "The opening snack-genie expectation gains a quiet physical payoff when Buddy waits for the speaker to open. Neet declaring data-driven serenity immediately before lunging at the squirrel gives a clear setup/reversal without sacrificing his voice.",
+        "Buddy has sustained agency: reward volunteering, extra paw, alarm flood, extravagant ball request and attempted Roti wake word. His pride in noble and the unresponsive ring pay off his priorities rather than making him only Neet\u2019s commentator.",
+        "Vacuum commute, perimeter adjustment and paw belonging to a less disciplined officer give distinct forms of Neet\u2019s dramatic self-protection. The trade remains gradual through the third session; learning has visible attempts and consequences.",
+        "Heather\u2019s quiet-sit request to Sagar reverses the dog-training relationship with a clean short beat. The camera lowering after the photograph gives her a separate affectionate reaction.",
+        "The episodic ten-section structure moves from useful help through exploitation attempts and learned limits to shared attention. The shut-door bell solution is causally legible; Sage does not magically solve everything.",
+        "The noble-snack callback occurs before the home question, leaving the softened Neet, perfect foot and mentor epilogue room to land warmly. No illustration crowds or preempts that ending."
+      ]
+    }
+  },
+  "unresolved_findings": [],
+  "current_files": {
+    "story": "Stories/S060-the-barkgpt-protocol.md",
+    "story_sha256": "fd2c643cc9650aac40638c9687c04eba53e9cc5da172a56d675cf73635b2ef28"
+  },
+  "approval": {
+    "state": "unapproved",
+    "by": null,
+    "date": null,
+    "evidence": null
+  },
+  "publication": {
+    "state": "not_published",
+    "destination": null
+  },
+  "recovery": {
+    "archive": "/Users/sagar/Documents/ChatGPT/NBC_Archives/NBC-before-refinement-2026-10-03_200659.tar.gz",
+    "member": "NBC/Stories/S060-the-barkgpt-protocol.md"
+  },
+  "editorial_review": {
+    "reviewer": "editor_late",
+    "source_read_complete": true,
+    "alternatives_read_complete": true,
+    "all_collection_reading_gate": "cleared by root after S001-S070 reading",
+    "revision_note": "A helpful tool with limits returns attention to family. Neet wants calm organization; Buddy tries snack alarms, purchasing and wake-word loopholes, then participates in training and the photo. Preserved all use cases, three denials, nap debate, bell retrieval, Grubbs, fire evening and Ganesha check-in. Corrected only-dogs-heard contradiction by distinguishing understanding barks from human use. Doorbell progress is uneven rather than one-day cure. Sage\u2019s home answer now observes the actual scene. Illustration: Buddy petitions smart speaker, Neet beside him; no product capability claim.",
+    "comparison_status": "complete",
+    "changes": 8,
+    "complete_revised_reading": true,
+    "original_provenance_unchanged": true,
+    "alternative_sections_preserved": 0,
+    "line_comparison": {
+      "unchanged": 242,
+      "removed_or_replaced": 8,
+      "new_or_replaced": 8
+    },
+    "second_pass_seam_repairs": 1
+  },
+  "expanded_pass": {
+    "story": {
+      "status": "writer_complete",
+      "record": "Productions/E060-the-barkgpt-protocol/comedy-pass-v002.json"
+    },
+    "artwork": {
+      "status": "artist_complete_reviews_pending",
+      "record": "Productions/E060-the-barkgpt-protocol/artwork-generation-v002.json",
+      "selected_images": [
+        "Productions/E060-the-barkgpt-protocol/helper-introduction-v003.png",
+        "Productions/E060-the-barkgpt-protocol/storm-comfort-v004.png",
+        "Productions/E060-the-barkgpt-protocol/ball-trade-v003.png",
+        "Productions/E060-the-barkgpt-protocol/scheme-coat-v005.png",
+        "Productions/E060-the-barkgpt-protocol/photo-squeak-v003.png"
+      ]
+    },
+    "visual_review": {
+      "status": "pending_storm_reinspection",
+      "record": "Productions/E060-the-barkgpt-protocol/visual-review-v002.json",
+      "correction_record": "Productions/E060-the-barkgpt-protocol/storm-tail-correction-v004.json"
+    },
+    "complete_reading": {
+      "status": "pending"
+    },
+    "drawn_storyboard": {
+      "status": "construction_inspected",
+      "evidence": "Productions/E060-the-barkgpt-protocol/staging-v003.png",
+      "record": "Productions/E060-the-barkgpt-protocol/artwork-generation-v002.json"
+    },
+    "status": "complete"
+  },
+  "integration_notes": [
+    "Expanded coordinator: selected correction artwork links directly to its exact correction generation record; historical generation-stage status remains evidence, current episode stage governs."
+  ],
+  "delivery": {
+    "version": "delivery-v001",
+    "collection_record": "Productions/Library-Refinement/progress.json",
+    "reviewed_story_sha256": "fd2c643cc9650aac40638c9687c04eba53e9cc5da172a56d675cf73635b2ef28",
+    "source_and_export_manifest": "Productions/Library-Refinement/delivery-v001/manifest.json"
+  }
+}

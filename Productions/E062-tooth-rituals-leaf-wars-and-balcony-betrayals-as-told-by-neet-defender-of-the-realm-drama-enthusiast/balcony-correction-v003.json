@@ -1,0 +1,40 @@
+{
+  "id": "balcony-neck-contour-correction",
+  "tool": "builtin image_gen.imagegen",
+  "arguments": {
+    "prompt": "Precise local edit of this exact illustration. Correct ONLY Buddy's short-coat outer NECK, NAPE, SHOULDER and THROAT contours. Buddy is the charcoal dog seated on right. Remove every pointed projecting fur tuft from the back of his neck from behind the hanging EAR down to shoulder, and remove pointed fringe along front throat below the BEARD down to chest. Replace these regions with clean smooth curved anatomical contours and short close solid charcoal wash, matching his already smooth torso. No raised shag or spike silhouettes on nape shoulder or throat. Do not shorten or remove his actual hanging EAR furnishings, pale beard/moustache or eyebrows. Those regional hair strands stay. Preserve exact pose, body proportions, limbs, support, head/eye gaze, tiny tan Neet, glass paw contact, dining people, room objects, light and style. Keep whole bodies smooth with no engraved lines or curls introduced elsewhere. This is a local neck silhouette correction; no other changes. No text.",
+    "referenced_image_paths": [
+      "/Users/sagar/Documents/ChatGPT/NBC/Productions/E062-tooth-rituals-leaf-wars-and-balcony-betrayals-as-told-by-neet-defender-of-the-realm-drama-enthusiast/balcony-art-v002.png"
+    ],
+    "transparent_background": false
+  },
+  "inputs": [
+    {
+      "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E062-tooth-rituals-leaf-wars-and-balcony-betrayals-as-told-by-neet-defender-of-the-realm-drama-enthusiast/balcony-art-v002.png",
+      "sha256": "f96506e19dc443b55789a6450dc6dd25c67a4bd14a3d847d136ee00c0712391c",
+      "role": "edit target; original photo authority and full policies inherited from artwork-generation-v002.json"
+    }
+  ],
+  "source_output_path": "/Users/sagar/.codex/generated_images/01a1078b-6a1e-7c53-bf55-accfcb3a3aec/exec-fe169e3c-6788-40d8-a7f1-cedee5edb7d2.png",
+  "output_path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E062-tooth-rituals-leaf-wars-and-balcony-betrayals-as-told-by-neet-defender-of-the-realm-drama-enthusiast/balcony-art-v003.png",
+  "sha256": "6b349d7d93d66ba238a519a57b7c1a557e8f83f567b132b1f326db734354b50a",
+  "dimensions": [
+    1536,
+    1024
+  ],
+  "model": "unknown",
+  "seed": "unknown",
+  "reason": "Independent visual-review-v002 rejected pointed long fringe on Buddy nape, outer neck, shoulder and throat.",
+  "generator_inspection": {
+    "native_resolution_opened": true,
+    "whole_image_checked": true,
+    "observations": "Raised nape/shoulder/throat spikes removed to close curved dark contour. Furnished hanging ear, pale beard and brow retained. Both full seated bodies, Neet paw contact, limbs/support, humans and room remain coherent and smooth.",
+    "decision": "submit_independent_reinspection"
+  },
+  "status": "pending_independent_review",
+  "superseded_recovery": {
+    "former_path": "Productions/E062-tooth-rituals-leaf-wars-and-balcony-betrayals-as-told-by-neet-defender-of-the-realm-drama-enthusiast/balcony-art-v002.png",
+    "archive_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S062-v002/superseded/balcony-art-v002.png",
+    "sha256": "f96506e19dc443b55789a6450dc6dd25c67a4bd14a3d847d136ee00c0712391c"
+  }
+}

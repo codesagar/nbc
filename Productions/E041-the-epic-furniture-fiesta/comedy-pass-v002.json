@@ -1,0 +1,126 @@
+{
+  "story_id": "S041",
+  "status": "writer_reread_complete_pending_independent_review",
+  "previous_working_sha256": "94dfa73dabc663b63ccc1ef3844ba74bd60474c4c31ab58ec0256829d0597390",
+  "current_story_sha256": "de0daa43cf9b06e985ad6b6fffe212140b05af77ed1ceb33c35e617b3e4ab556",
+  "original": {
+    "archive": "NBC-before-reorganization-2026-10-03_182825.tar.gz",
+    "member": "NBC/02_Story_Library/ElevenLabs_Imports/reader-19-the-epic-furniture-fiesta.txt",
+    "sha256": "6e868cc1cb9ecad1a81619152bbc8bfea2cddf260dab0fe8a3d333c4b0680e6f",
+    "read_complete": true
+  },
+  "connected_episodes_read": [
+    "S040",
+    "S042",
+    "S047"
+  ],
+  "central_comedy": "Competing comfort inspectors try to furnish a home: Neet accredits everything while Buddy simply moves into whatever is soft.",
+  "wants": {
+    "Neet": "Authority over domestic comfort and security",
+    "Buddy": "A comfortable place to stay, and useful access to snacks"
+  },
+  "preserved": [
+    "Empty echoing house",
+    "Chair, cushion and stool ergonomics tests",
+    "Buddy pillow disappearance",
+    "Top/bottom bunk, heroic twitching, snoring and blue/orange curtain dispute",
+    "IKEA rejection and local artisan furniture",
+    "Captain the napping security dog",
+    "Table/gray sofa/TV console purchases",
+    "Screwdriver magic wand",
+    "Electric desk payload test",
+    "Both offices, acoustic panels, fairy lights",
+    "Shrine with deities, garlands and peacock feathers",
+    "First puja, aarti and warmth over dog heads",
+    "Blessed and hungry",
+    "First meal toast and sleeping inspectors"
+  ],
+  "changes": [
+    "Buddy completed one turn, heard his own paws echo, and stopped to listen.\n\nNeet looked behind him. “Who’s following us?”\n\nSagar chuckled and gently patted Buddy’s head.",
+    "“Your analysis is impeccable, Inspector Neet.”\n\nHeather lifted a pillow. Buddy was underneath it.\n\n“We do have to leave this one here,” she said.\n\nBuddy shut his eyes. Perhaps they would mistake him for another cushion.",
+    "Buddy caught a trailing curtain hem from the lower bunk. Neet pulled from above. The curtain drew across Neet’s face.\n\nFor a moment, the senior officer had no view of the threats.\n\n“Visibility compromised,” he announced from behind the fabric.\n\nBuddy let go. Neet’s ears reappeared first.\n\nHeather finally intervened, giggling, “Okay boys, maybe we postpone bunk bed discussions.”\n\nSagar helped Neet down. Buddy abandoned the lower bunk immediately and followed him.\n\n“Separately,” Sagar reminded Heather. “That was the condition.”",
+    "Neet barked authoritatively, “Local business? Highly approved!”\n\nBuddy looked back toward his sectional. The committee had apparently voted while he was asleep.",
+    "Captain flopped casually onto a rug. “Thanks, little dudes. Welcome.”\n\n“Your entire security procedure is lying down?” Neet asked.\n\nCaptain lowered his chin.\n\nBuddy lowered his too. The training was going well.",
+    "Buddy gleefully ran off with a screwdriver, shouting triumphantly, “I’ve got the magic wand!”\n\nSagar held out his empty hand. Buddy went around the boxes to avoid interrupting him.\n\n“Have you seen the screwdriver?” Sagar asked Heather.\n\n“Yes,” she said. “It’s just turned the corner.”",
+    "Neet nodded solemnly, “Add it to my résumé!”\n\nFrom the floor, Buddy watched the desk descend.\n\n“Can it lower dinner?”\n\n“Office equipment,” Neet said.\n\nBuddy waited through another rise and fall. He wasn’t ready to rule it out.",
+    "Buddy brought the screwdriver as far as the office door, put it down, and sat beside them.\n\nSagar touched Buddy’s head in thanks, then set the tool aside. No one asked the magic wand to do anything else.",
+    "After dinner, Buddy went straight to the sofa. Neet joined him for one last cushion test.\n\nHeather came in carrying a pillow and found Buddy already asleep. This time she left him where he was.\n\nNeither inspector submitted a report."
+  ],
+  "alternatives": {
+    "count": 0,
+    "decision": "No meaningful alternative is present in sole working entry or mapped original. Do not invent one."
+  },
+  "source_choices": [
+    "Neat normalization already recorded; source royal-blue eye-color claim remains a comic claim, never anatomy.",
+    "Historical Austin household and store access retained as draft context; no present business/access claims.",
+    "Prior refinement changed final human tribute to sleeping inspectors; preserve current earned ending and strengthen pillow callback.",
+    "Shelf order is not verified chronology."
+  ],
+  "full_comparison": {
+    "complete_current_primary_read": true,
+    "complete_original_read": true,
+    "complete_previous_working_read": true,
+    "complete_revised_reread": true,
+    "lost_incidents": "none; all nine acts retained",
+    "voice": "Neet maintains formal self-importance; Buddy acts on comfort and tool theft; humans participate through specific quiet responses",
+    "ending": "Pillow at home resolves showroom pillow refusal; comfortable belonging remains emotional destination",
+    "expansion": "Nine bounded insertions develop existing incidents, no new subplot",
+    "placement_repair": "Explicit Neet rise after reclining makes standing cushion test exact; existing picture pending replacement."
+  },
+  "illustration_plan": [
+    "Showroom sofa: pillow hiding versus ongoing inspection",
+    "Bunk curtain: Neet obscured above, Buddy holds lower hem",
+    "Captain rug: Buddy copies nap training while Neet challenges it",
+    "Standing desk: grounded Neet on lowered desktop, Buddy waits for dinner mechanism",
+    "Office threshold: screwdriver returned and both dogs quietly sit near shrine setup"
+  ],
+  "independent_review": "pending",
+  "approval": "unapproved",
+  "publication": "not_published",
+  "connected_context_note": "S047 furniture assembly read as related motif; no inferred chronology or merger.",
+  "complete_illustrated_writer_reread": {
+    "status": "complete_text_and_placement_reread",
+    "rendered_independent_reading": "pending",
+    "placement_checks": [
+      {
+        "image": "showroom-art-v006.png",
+        "after_exact": "Neet rose to test the next cushion. Someone had to keep working."
+      },
+      {
+        "image": "curtain-art-v004.png",
+        "after_exact": "“Visibility compromised,” he announced from behind the fabric."
+      },
+      {
+        "image": "captain-art-v005.png",
+        "after_exact": "Buddy lowered his too. The training was going well."
+      },
+      {
+        "image": "desk-art-v005.png",
+        "after_exact": "Buddy waited through another rise and fall. He wasn’t ready to rule it out."
+      },
+      {
+        "image": "shrine-art-v005.png",
+        "after_exact": "Buddy brought the screwdriver as far as the office door, put it down, and sat beside them."
+      }
+    ],
+    "all_nine_acts_and_provenance_retained": true
+  },
+  "visual_repair_v003": {
+    "prose_unchanged": true,
+    "image_path_updates": {
+      "showroomMuzzle": [
+        "showroom-art-v005.png",
+        "showroom-art-v006.png"
+      ],
+      "captainMuzzle": [
+        "captain-art-v004.png",
+        "captain-art-v005.png"
+      ],
+      "deskMuzzle": [
+        "desk-art-v004.png",
+        "desk-art-v005.png"
+      ]
+    },
+    "status": "pending_independent_reinspection"
+  }
+}

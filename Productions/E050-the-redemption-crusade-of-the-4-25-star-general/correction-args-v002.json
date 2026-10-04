@@ -1,0 +1,41 @@
+[
+  {
+    "name": "bag-art-v004",
+    "args": {
+      "prompt": "Use case: precise-object-edit. FIRST IMAGE is edit target. It FAILED for fur texture. Repaint BOTH DOGS' torso, neck, upper legs and Neet head as perfectly SMOOTH SOLID CEL-PAINT shapes, like the smooth animals in SECOND image (body surface finish only). Remove EVERY hair stroke, curly etched mark, feathered body edge, jagged contour and shag tuft from those regions. Large clean flat color areas, soft simple shadow shapes. This must be a VISIBLE MATERIAL CHANGE. Do not merely blur or recolor existing fur. Do NOT smooth Buddy's face into a generic mask: preserve his pale projecting irregular moustache, chin beard, brows and regional ear/paw strands exactly. Photos 3 and 4 authority anatomy/identity. Preserve ALL pose geometry, body proportions, joint roots, paw supports, facial expression, scene props, perspective, framing and action from FIRST image. Preserve background. The SECOND image dogs are NOT cast or pose sources; do not insert large dog. Neet tiny nub. Buddy long connected torso. No text.",
+      "referenced_image_paths": [
+        "/Users/sagar/.codex/generated_images/01a10702-323e-7e50-b3b6-0dd3be486060/exec-ef3b85aa-8a2d-4a62-a539-63d6dd82f298.png",
+        "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg"
+      ],
+      "transparent_background": false
+    }
+  },
+  {
+    "name": "box-art-v003",
+    "args": {
+      "prompt": "Use case: precise-object-edit. FIRST IMAGE is edit target. It FAILED for fur texture. Repaint BOTH DOGS' torso, neck, upper legs and Neet head as perfectly SMOOTH SOLID CEL-PAINT shapes, like the smooth animals in SECOND image (body surface finish only). Remove EVERY hair stroke, curly etched mark, feathered body edge, jagged contour and shag tuft from those regions. Large clean flat color areas, soft simple shadow shapes. This must be a VISIBLE MATERIAL CHANGE. Do not merely blur or recolor existing fur. Do NOT smooth Buddy's face into a generic mask: preserve his pale projecting irregular moustache, chin beard, brows and regional ear/paw strands exactly. Photos 3 and 4 authority anatomy/identity. Preserve ALL pose geometry, body proportions, joint roots, paw supports, facial expression, scene props, perspective, framing and action from FIRST image. Preserve background. The SECOND image dogs are NOT cast or pose sources; do not insert large dog. Neet tiny nub. Buddy long connected torso. No text.",
+      "referenced_image_paths": [
+        "/Users/sagar/.codex/generated_images/01a10702-323e-7e50-b3b6-0dd3be486060/exec-01dd1c41-71aa-476b-933a-ed4a4cc357ca.png",
+        "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg"
+      ],
+      "transparent_background": false
+    }
+  },
+  {
+    "name": "tree-art-v003",
+    "args": {
+      "prompt": "Use case: precise-object-edit. FIRST IMAGE is edit target. It FAILED for fur texture. Repaint BOTH DOGS' torso, neck, upper legs and Neet head as perfectly SMOOTH SOLID CEL-PAINT shapes, like the smooth animals in SECOND image (body surface finish only). Remove EVERY hair stroke, curly etched mark, feathered body edge, jagged contour and shag tuft from those regions. Large clean flat color areas, soft simple shadow shapes. This must be a VISIBLE MATERIAL CHANGE. Do not merely blur or recolor existing fur. Do NOT smooth Buddy's face into a generic mask: preserve his pale projecting irregular moustache, chin beard, brows and regional ear/paw strands exactly. Photos 3 and 4 authority anatomy/identity. Preserve ALL pose geometry, body proportions, joint roots, paw supports, facial expression, scene props, perspective, framing and action from FIRST image. Preserve background. The SECOND image dogs are NOT cast or pose sources; do not insert large dog. Neet tiny nub. Buddy long connected torso. No text.",
+      "referenced_image_paths": [
+        "/Users/sagar/.codex/generated_images/01a10702-323e-7e50-b3b6-0dd3be486060/exec-a5f9e80c-bc84-4e12-bdcc-3cc15435c6c6.png",
+        "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg"
+      ],
+      "transparent_background": false
+    }
+  }
+]

@@ -1,0 +1,80 @@
+{
+  "story_id": "S050",
+  "review": "fresh complete illustrated reading v002",
+  "status": "accepted",
+  "reviewer": "fresh independent reader050; did not write story or generate artwork",
+  "story": {
+    "path": "Stories/S050-the-redemption-crusade-of-the-4-25-star-general.md",
+    "sha256": "ae8d76294e369a15af914f1feeb81de5abd1b743346841bb251a309c1cd52775"
+  },
+  "images": [
+    {
+      "path": "Productions/E050-the-redemption-crusade-of-the-4-25-star-general/bag-art-v004.png",
+      "sha256": "177ace15388bd07998744a64b63228421ce729f673dbed3d4f3346286b96c4ce"
+    },
+    {
+      "path": "Productions/E050-the-redemption-crusade-of-the-4-25-star-general/box-art-v003.png",
+      "sha256": "6d377359890f7c568e369213f37a410dd72db50555378c22734b0b65f2cb402a"
+    },
+    {
+      "path": "Productions/E050-the-redemption-crusade-of-the-4-25-star-general/tree-art-v003.png",
+      "sha256": "0b4064de3a21cd99a12c556398e6f28e1ab4d7862eff31b3d24ff486ca422fe4"
+    },
+    {
+      "path": "Productions/E050-the-redemption-crusade-of-the-4-25-star-general/rest-art-v003.png",
+      "sha256": "d7b3ab8055a3d14491d17f2ede175216323c2b08a2b3db0f32c6b1b899133b28"
+    }
+  ],
+  "evidence_read": [
+    {
+      "path": "Productions/E050-the-redemption-crusade-of-the-4-25-star-general/comedy-pass-v002.json",
+      "sha256": "1daea7cf6cefecf78a0020d05db84e529e67faf0e8cbe8c7eca77d40e7b8f1ba"
+    },
+    {
+      "path": "Productions/E050-the-redemption-crusade-of-the-4-25-star-general/artwork-generation-v002.json",
+      "sha256": "cbb11790d2793c03928644ee704451a6f976acc1487de2628fb9b94c7b8867cf"
+    },
+    {
+      "path": "Productions/E050-the-redemption-crusade-of-the-4-25-star-general/visual-review-v002.json",
+      "sha256": "fb0a4517f2d9045c693625ffd1be0935b76984f2cde10c9bab7e17f1081522a9"
+    }
+  ],
+  "rendered_inspection": {
+    "url": "http://127.0.0.1:56824/Stories/S050-the-redemption-crusade-of-the-4-25-star-general.md",
+    "method": "Codex in-app browser; sequential overlapping viewport screenshots inspected, scrolling from title through final footer. Actual rendered prose and every embedded image inspected; not solely DOM/source/thumbnails.",
+    "viewport": [
+      1280,
+      720
+    ],
+    "coverage": [
+      "Title and The Wound That Wouldn\u2019t Heal in full",
+      "The Plastic Bag Siege in full with entire bag-art-v004 image across overlapping views",
+      "The Amazon Inquisition in full with entire box-art-v003 image",
+      "The Squirrel Siege in full with entire tree-art-v003 image across overlapping views",
+      "The Withheld Verdict in full with entire rest-art-v003 image",
+      "Epilogue: The Lunatic\u2019s Oath in full",
+      "Provenance and editorial notes, archive source pin, Refinement record through final line"
+    ],
+    "reading_size": "Default reader scale; legible serif prose approximately 760px column, illustrations approximately 960px width. No clipping of prose or broken image observed."
+  },
+  "observations": {
+    "humor_timing": "Bed-route rehearsal and sock establish unequal priorities. Checking for a witness then repeating the bag pounce sharpens vanity before assaulted recycling lands. Buddy independently barks for snacks and searches box corners; his information-available excuse earns its reversal. Squirrel direction changes and protected stick turn the final patrol into visible futile work. Paragraph spacing supports pauses without interrupting attribution.",
+    "voices_and_agency": "Neet remains theatrical and recognition-seeking; Buddy is hungry, possessive, self-excusing and ultimately generous. Heather offers practical correction, sympathetic hesitation and the evidence question; Sagar maintains restrained tribunal authority. Buddy chooses the opening spot, stick, withdrawal, recovery and repeated offer.",
+    "causality_payoff": "Withheld recognition motivates three increasingly tiring efforts. The rejected stick moves from patrol route to water bowl to living room, is recovered from Heather, and finally persuades Neet to pause. Shared rest supplies affection without rewarding the mistaken campaign. Falling asleep during planning completes the opening sleeplessness callback.",
+    "image_anchors": [
+      "Bag is already grounded beside bin, Buddy sniffing and Neet seeking the human witness; follows presentation and recycling exchange.",
+      "Box flaps open and toilet rolls visible; Buddy nose over rim after inspection passage, before he flops and excuses his barking.",
+      "Squirrel remains above, Neet walks patrol and Buddy holds stick outside route; appears before squirrel vanishes.",
+      "Neet chin rests beside stick and Buddy at shoulder, both awake; follows exact resting sentence and precedes separate night oath."
+    ],
+    "complementarity": "Outdoor presentation, low indoor box discovery, wide dusk patrol and close quiet rest differ in setting, spatial relationship and emotional function. No image substitutes for or spoils the later verdict.",
+    "rank_and_source_choices": "Opening 4.75 past and quarter-star subtraction remain inconsistent with present 4.25; preserved as unresolved source arithmetic, not repaired. Tribunal explicitly withholds restoration. Five-star oath remains aspiration, never granted or depicted. Historical kingdom diction and household retained.",
+    "alternatives": "No separate meaningful alternative in working file; comedy comparison explicitly records none in captured source. Complete primary and provenance read.",
+    "closed_findings": "All four current image hashes match individually accepted visual-review-v002 entries, whose material/open findings are empty. Actual rendered images show smooth torso treatment and scene states consistent with those conclusions. This reading does not claim a new full-resolution photographic anatomy review.",
+    "historical_footer": "Author-stage pending-review sentence remains historical evidence. Current expanded reading acceptance is recorded here separately; owner approval remains absent."
+  },
+  "material_findings": [],
+  "open_findings": [],
+  "approval": "unapproved",
+  "publication": "not_published"
+}

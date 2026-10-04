@@ -1,0 +1,125 @@
+{
+  "story_id": "S004",
+  "version": "v002",
+  "status": "revised_pending_independent_review",
+  "sources": [
+    {
+      "archive": "/Users/sagar/Documents/ChatGPT/NBC_Archives/NBC-before-expanded-refinement-2026-10-04_035505Z.tar.gz",
+      "member": "NBC/Stories/S004-uttarayan-day-one.md",
+      "sha256": "c10d6556185b8f9e8618310f16fee39b6ed5bc5d546a3d0b965c622c605ea1d9",
+      "role": "complete previous illustrated working version"
+    },
+    {
+      "archive": "/Users/sagar/Documents/ChatGPT/NBC_Archives/NBC-before-refinement-2026-10-03_200659.tar.gz",
+      "member": "NBC/Stories/S004-uttarayan-day-one.md",
+      "sha256": "8410dffbecbe133ab7c878790c4dae93a1da74aebc5663e9c17c592d25bc596f",
+      "role": "pre-refinement working original"
+    },
+    {
+      "archive": "/Users/sagar/Documents/ChatGPT/NBC_Archives/NBC-before-reorganization-2026-10-03_182825.tar.gz",
+      "member": "NBC/02_Story_Library/Legacy_Chapters/04-uttarayan-day-one.md",
+      "sha256": "25b45ed6727957567b80038834e3c5bbd6f07c6748a54716c2b919f84d509ac6",
+      "role": "complete primary historical original"
+    },
+    {
+      "path": "Stories/S003-arrival-in-india.md",
+      "sha256": "770aef1340adb76719c828c3f040a9a395c1d81ce0ac67110c528f6a022a03be",
+      "role": "complete connected episode read; not edited"
+    },
+    {
+      "path": "Stories/S005-uttarayan-night-magic.md",
+      "sha256": "488fb5c1d87ffaf5a3ec869b683993e0ca23f38999fdfa171c9dded18610bbab",
+      "role": "complete connected episode read; not edited"
+    },
+    {
+      "archive": "/Users/sagar/Documents/ChatGPT/NBC_Archives/NBC-before-reorganization-2026-10-03_182825.tar.gz",
+      "member": "NBC/02_Story_Library/Manuscripts/Full-Compilation-Text.md",
+      "sha256": "d2edfbcdb5e7f0026032a212707c5c1fdd520207b3463d5a1a48d3f024304e4c",
+      "role": "Chapter 4 segment cross-check; compilation not treated as an additional alternative"
+    }
+  ],
+  "central_comic_situation": "Neet aims to own the sky; Buddy can barely secure a sunbeam on the floor. Both celebrate the same win, against Buddy own expectation.",
+  "intended_feeling": "Happy festival excitement with affectionate exasperation and a safe shared close.",
+  "wants": {
+    "Neet": "Direct Heather to aerial glory and take credit for every victory.",
+    "Buddy": "Enjoy colors beside Heather without commotion or things landing on him."
+  },
+  "preserved_jokes_and_incidents": [
+    "Train-window kite tracking hook from prior pass",
+    "Ahmedabad crowd, dhol and food smells",
+    "Meera rooftop and manjha",
+    "Scarf and no-biting warning",
+    "Hopping aerial coaching",
+    "Fallen paper kite attack",
+    "Golden-kite cut by Heather and Kai po che",
+    "Buddy surprised bark",
+    "Jalebi/fafda/chai at sunset",
+    "Scrap on Neet scarf"
+  ],
+  "actual_changes": [
+    "Buddy follows spool concealment out into open; returns with a practical plan.",
+    "Heather run-out-of-dog line answers Neet hopping.",
+    "Buddy carefully claims a sunbeam; stray kite lands in exactly that patch, prompting silent survey of all other available roof.",
+    "Got it / Some of it visual fraction gag after kite tear.",
+    "Buddy nudges paper out and reclaims warmth: independent decision with consequence.",
+    "Meera identifies Buddy cheer; Buddy deliberately joins once more.",
+    "Scarf scrap called trophy then removed, a gentle deflation of Neet credit taking.",
+    "Shared space beside Heather closes territorial contrast; Buddy sunbeam-with-roof last thought recalls his own problem."
+  ],
+  "ending": "Neet accepts having his trophy removed and joins Heather; Buddy gets undisturbed proximity. No next-day scene added.",
+  "variant_decisions": {
+    "meaningful_alternatives": [],
+    "decision": "S004 contains only legacy-ch04 primary; no competing alternative synthesized. Adjacent S005 remains second evening without chronology repair."
+  },
+  "complete_reread_comparison": {
+    "method": "Read full original archive text, full previous illustrated working story and full rewritten text; checked preserved incident sequence and paragraphs end to end.",
+    "lost_incidents": "None: arrival, introductions, scarf, kite warning and bite, aerial victory, food close retained.",
+    "voices": "Neet remains impulsive claimant, Buddy now acts on practical comfort desire, Heather responds with concrete affectionate joke, Meera notices Buddy participation. Historical Heather/dogs household remains; Sagar not inserted.",
+    "humor": "Existing jokes preserved. Additions are actions/reversals and short callbacks, not extended quip exchanges. Quiet sunset and shared leaning remain.",
+    "expansion": "Moderate expansion supplies Buddy attempt/consequence and stronger final callback; no padding to nominal long-story target.",
+    "meaning": "Outcome and emotional destination unchanged; historical breed/tail language remains prose evidence only, not visual direction.",
+    "artwork_plan": "Three distinct moments: wide sunbeam setup, paper-kite tug composition retained but regenerated to repair persistent coat-surface drift, close golden-kite cheer. Sunset ending left uninterrupted."
+  },
+  "approval": "unapproved",
+  "publication": "not_published",
+  "retained_art_decision": "Preserved the successful kite-bite narrative choice and drawn staging. Existing v002 finish has pervasive embossed curls; three local texture corrections did not remove them adequately. Regenerated same scene from original photos and inspected staging rather than discard its successful comic construction.",
+  "final_story_sha256": "77f1d8e3cc346ab172880106d7bf30ac0acf2120810461e41bb3fdc44f894976",
+  "selected_images": [
+    {
+      "path": "Productions/E004-uttarayan-day-one/sunbeam-art-v002.png",
+      "after": "\"Perfect,\" he said.",
+      "contribution": "Wide spatial conflict: Buddy claims sunbeam while Neet watches sky; before kite lands.",
+      "sha256": "ff75c8e6cccf4f16c8382b33829e49309b105997e29eb7190a5360e441636b6a",
+      "bytes": 2662267,
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG"
+    },
+    {
+      "path": "Productions/E004-uttarayan-day-one/illustration-v007.png",
+      "after": "Heather laughed as Neet pounced on the kite, his tiny teeth tugging at the colorful paper. \"Neet, leave that alone! We\u2019re supposed to fly them, not eat them.\"",
+      "contribution": "Physical paper-biting predicament; before Neet lifts detached corner and Heather takes it.",
+      "sha256": "5fb2765c52586d09a9d878076ad215cd0198410c50c25c5db8709cbbd7443171",
+      "bytes": 2420685,
+      "dimensions": [
+        1448,
+        1086
+      ],
+      "format": "PNG"
+    },
+    {
+      "path": "Productions/E004-uttarayan-day-one/cheer-art-v002.png",
+      "after": "Just once more.",
+      "contribution": "Buddy voluntarily shares cheer beside proud Neet; before Neet begins strutting.",
+      "sha256": "b57683acd58c6ae161c0e54dfd460802ee70d4a512dac71efbf041eac33c6012",
+      "bytes": 2324202,
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG"
+    }
+  ]
+}

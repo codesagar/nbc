@@ -1,0 +1,79 @@
+{
+  "story_id": "S023",
+  "status": "second_comedy_pass_complete_pending_independent_read",
+  "source_comparison": {
+    "prior_working": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S023-expanded-v002/S023-the-business-class-upgrade-disaster.md",
+    "prior_sha256": "660c37e867cd9f0d77b83c3ff923d45a5c75eb22bed6bebb9f0ec8fc8b9fa013",
+    "originals": [
+      {
+        "archive": "/Users/sagar/Documents/ChatGPT/NBC_Archives/NBC-before-reorganization-2026-10-03_182825.tar.gz",
+        "member": "NBC/02_Story_Library/Legacy_Chapters/24-the-business-class-upgrade-disaster.md",
+        "sha256": "f3ec7535d76a030009d6602def5f81731bc21c4366a5e982cec0199c08a0e54e"
+      },
+      {
+        "member": "NBC/90_Archive/2026-10-03-elevenlabs-recovery/Raw_Exports/reader-46.txt",
+        "sha256": "2b40073ac8d9215574c1c407b6f1838acdb145c6fee2b47738159d8afc0a7d66"
+      }
+    ],
+    "connected_complete_reads": [
+      "Stories/S022-the-lounge-and-airport-madness.md",
+      "Stories/S024-the-istanbul-layover-debacle.md"
+    ]
+  },
+  "central_comic_situation": "The more luxury Neet receives, the more opportunities he finds to misuse it. Buddy wants to stop improving things and finally sleep.",
+  "intended_feeling": "Delighted upgrade turning into affectionate exasperation.",
+  "wants": {
+    "Neet": "Investigate every luxury and button; treat trouble as evidence he enjoyed it properly.",
+    "Buddy": "Test the comfort once, protect his blanket, arrive seated and rested.",
+    "Heather": "Enjoy rare comfort without being held responsible for every new disaster."
+  },
+  "preserved": [
+    "samosa crimes callback",
+    "memory foam and ascending",
+    "upside-down luxury test",
+    "salmon steak tiramisu",
+    "champagne sneeze and cheers",
+    "diagonal nap aisle landing",
+    "Floor again and blanket reclaim",
+    "cockpit announcement",
+    "Best flight ever and Totally worth it"
+  ],
+  "changes": [
+    "Buddy tests unexpectedly abundant legroom twice",
+    "Buddy discovers the Enough setting by stopping",
+    "Heather silently escalates from one napkin to the stack",
+    "Buddy prepares a draft-free nap before the fall",
+    "Final protective paw over controls closes the first button joke"
+  ],
+  "variant_assessment": "Both recovered versions tell the same incidents and ending. No meaningful alternative requiring separate illustration. Prior refinement deliberately replaces stranger-disowning with practical affectionate rescue; retained.",
+  "reread_comparison": {
+    "complete_primary_read": true,
+    "complete_originals_read": true,
+    "complete_prior_working_read": true,
+    "incidents_lost": [],
+    "voice": "Third person preserved; Neet inflated pleasure, Buddy practical comfort, Heather reactive participation.",
+    "length": "Five short additions, no new scene or displaced payoff.",
+    "uncertainties": "Historical Heather household and fantastical dogs-in-business-class/cockpit incidents retained as fiction. No chronology/canon resolution, no human likeness authority.",
+    "final_complete_reread": "Complete embedded story reread after three image insertions; caught and corrected future landing tense after taxiing. Final callback now protects sitting through taxiing. Anchors preserve before-takeoff comfort, napkin offer before face-in-hands, and aisle before lift."
+  },
+  "illustration_plan": [
+    {
+      "name": "comfort",
+      "anchor": "He stretched one foreleg, then the other. Neither reached the edge. He checked again.",
+      "purpose": "Quiet delighted setup, Buddy agency, broad seat scale."
+    },
+    {
+      "name": "napkins",
+      "anchor": "Heather offered him a napkin. Then she looked at his lapel and offered him the rest of the stack.",
+      "purpose": "Human reaction to champagne aftermath, not another dog portrait."
+    },
+    {
+      "name": "floor",
+      "anchor": "Buddy pushed his blanket aside and looked down at Neet in the aisle. \"Heather. Floor again.\"",
+      "purpose": "Physical consequence and Buddy interruption; preserve old composition but correct engraved body fur."
+    }
+  ],
+  "approval": "unapproved",
+  "publication": "not_published",
+  "final_story_sha256": "99b2ebc7d0d54f1c2aabc13c654ee28cc1436d4eb4e730a52eed798c27e3a407"
+}

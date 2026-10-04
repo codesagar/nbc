@@ -1,0 +1,40 @@
+[
+  {
+    "key": "setup",
+    "args": {
+      "prompt": "Use case: illustration-story. Finished warm watercolor storybook landscape 1536x1024. Original photos control anatomy. Neet small tan, full narrow torso, fine long legs, large broad triangular ears, projecting modest muzzle, tiny near-flush nub. Buddy moderately elongated full charcoal torso, substantial legs with clearance, pale muzzle/brows and tan legs, hanging ears, slender dark tail. CRITICAL coats: entirely SMOOTH broad transparent watercolor washes on both dogs bodies and legs. NO curly strokes, NO engraved lines, NO fur hatching, NO shag contours. Furnished strands only Buddy muzzle, brows, ears and paws. No letters, captions, bubbles or borders. Human likeness provisional. Draw ONLY the top scene of image4 storyboard as a full single illustration. Home rug morning. Neet sitting tall beside remote and chew bone with scattered tennis balls; looking with offended seriousness at Buddy. Buddy comfortably reclining in sunny patch with one tennis ball tucked between forepaws beneath chest, quietly satisfied after removing Houston from Neet imaginary map. Connected supported folded hindlegs, continuous torso, two owned forward forelegs. Relaxed mischievous eyes. Image5 original supplies resting face only; image2 controls long torso. No real radar screens. Preserve simple ordinary home and actual toy props. Render dog body color as flat clean gouache planes, no individual hair detail whatsoever except Buddy beard, brows and ear fringe.",
+      "referenced_image_paths": [
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-15.jpg",
+        "/Users/sagar/Documents/ChatGPT/NBC/Productions/E061-the-dragon-the-satellites-and-the-spider/staging-v002.png",
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-19.jpg"
+      ],
+      "transparent_background": false
+    }
+  },
+  {
+    "key": "fire",
+    "args": {
+      "prompt": "Use case: precise-object-edit. Preserve image1 full composition, all objects, exact poses and connected anatomy. STRONGLY SIMPLIFY THE DOGS' COATS. Paint over ALL small internal strokes and curls on dogs bodies, necks, chests, legs and Neet head with completely plain flat color gouache washes. Clear the embossed/engraved swirling fur pattern ENTIRELY. These are very short clipped smooth coats, not curly coats. No hatching, hair lines, little V marks or squiggles anywhere on the torso or legs. Keep clean flat silhouettes. Reserve actual hair strands only Buddy eyebrows, moustache/beard and ear fringe. Smooth Buddy lower chest and underbelly contour, no hanging fringe. Preserve exact six spider toy legs if present, keep toy fluffy. Original photo images2-3 control fine legs/full trunks/tails, not photo hair rendering. Maintain all other scene features, expressions, orange cartoon flame if present, colors, no lettering.",
+      "referenced_image_paths": [
+        "/Users/sagar/Documents/ChatGPT/NBC/Productions/E061-the-dragon-the-satellites-and-the-spider/fire-v002.png",
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg"
+      ],
+      "transparent_background": false
+    }
+  },
+  {
+    "key": "spider",
+    "args": {
+      "prompt": "Use case: precise-object-edit. Preserve image1 full composition, all objects, exact poses and connected anatomy. STRONGLY SIMPLIFY THE DOGS' COATS. Paint over ALL small internal strokes and curls on dogs bodies, necks, chests, legs and Neet head with completely plain flat color gouache washes. Clear the embossed/engraved swirling fur pattern ENTIRELY. These are very short clipped smooth coats, not curly coats. No hatching, hair lines, little V marks or squiggles anywhere on the torso or legs. Keep clean flat silhouettes. Reserve actual hair strands only Buddy eyebrows, moustache/beard and ear fringe. Smooth Buddy lower chest and underbelly contour, no hanging fringe. Preserve exact six spider toy legs if present, keep toy fluffy. Original photo images2-3 control fine legs/full trunks/tails, not photo hair rendering. Maintain all other scene features, expressions, orange cartoon flame if present, colors, no lettering.",
+      "referenced_image_paths": [
+        "/Users/sagar/Documents/ChatGPT/NBC/Productions/E061-the-dragon-the-satellites-and-the-spider/spider-v003.png",
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg"
+      ],
+      "transparent_background": false
+    }
+  }
+]

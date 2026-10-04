@@ -1,0 +1,66 @@
+{
+  "story": "S052",
+  "previous_sha256": "9388cbe4f52337434ac1589cac211f6b52bb3a566d82a625f5b0e6e610b3d43d",
+  "sources": [
+    "source-reading-v002.json",
+    "connected-reading-v002.json"
+  ],
+  "read_complete": true,
+  "central_comic_situation": "A solemn inspector and an eager would-be helper both struggle to keep their noses out of festival offerings.",
+  "intended_feeling": "Joyful domestic devotion, affectionate drama.",
+  "wants": {
+    "Neet": "An orderly distinguished welcome, despite his appetite.",
+    "Buddy": "Participate sincerely: tasting, singing, giving a precious toy and defending the family."
+  },
+  "preserved": [
+    "Holy snacks",
+    "apple theft and quality check",
+    "threshold greeting",
+    "rusty harmonium",
+    "assistant eater",
+    "tilak mistaken for peanut butter",
+    "bone offering",
+    "reflection pounce and human rescue",
+    "prasad dinner",
+    "quiet squeaker nudge"
+  ],
+  "changes": {
+    "Sagar, the King of Calm, measured": "Sagar measured",
+    "Late morning, the King returned": "Late morning, Sagar returned",
+    "Buddy wagged innocently. \u201cQuality check! The Lord deserves the best!\u201d": "Buddy set the apple between his paws and wagged innocently. \u201cQuality check! The Lord deserves the best!\u201d\n\nHeather held out her hand. Buddy looked at the apple, then at her empty hand, as though disappointed by what she had brought to the exchange.\n\n\u201cThank you,\u201d she said, taking it.\n\nHis quality-control department closed.",
+    "Neet groaned. \u201cYou are embarrassing me in front of divine company.\u201d": "Neet groaned. \u201cYou are embarrassing me in front of divine company.\u201d\n\nBuddy looked at the still-empty throne. \u201cHe\u2019s not here yet.\u201d\n\n\u201cPreparatory embarrassment.\u201d",
+    "Buddy had been listening to Heather\u2019s rising note. He drew breath.": "Buddy had been listening to Heather\u2019s rising note. He drew breath. Neet glanced sideways, too late.",
+    "Heather giggled mid-song. \u201cOh no, Buddy\u2019s part of the choir now.\u201d": "Heather giggled mid-song. \u201cOh no, Buddy\u2019s part of the choir now.\u201d\n\nShe finished the phrase. Buddy continued. She waited. He had found another note, and evidently intended to keep it.",
+    "Neet immediately stiffened into parade rest. \u201cInspection only.\u201d": "Neet immediately stiffened into parade rest. \u201cInspection only.\u201d\n\nBuddy raised his head from the floor. \u201cYour inspection was licking its lips.\u201d\n\nNeet moved back one tile.",
+    "Heather nearly collapsed laughing.": "Heather nearly collapsed laughing. Buddy\u2019s tongue reached his nose. He tried again, with greater conviction and exactly the same result.",
+    "Neet stepped between Buddy and the dancing reflection. \u201cYou\u2019ve saved us. Stay here now.\u201d": "Neet stepped between Buddy and the dancing reflection. \u201cYou\u2019ve saved us. Stay here now.\u201d\n\nSagar set the rescued plate well out of reach. Heather moved the lamp, and the reflection slid away.\n\nBuddy watched it retreat. \u201cSee?\u201d\n\nNeet did not spoil his victory. He simply stayed in the way.",
+    "Heather leaned against him, smiling.": "Heather leaned against him, smiling. Their first Ganesh Chaturthi in Austin had required more catching than either of them had expected."
+  },
+  "ending": "Keep quiet final bone nudge: Buddy offers something truly his, without asking for it back.",
+  "alternatives": {
+    "count": 0,
+    "decision": "No meaningful in-file alternative or competing original variant found."
+  },
+  "unresolved_choices": [
+    "Chronology and owner approval unknown",
+    "Religious fantasy continues in connected episodes; no literal supernatural speech added here",
+    "Human likeness provisional"
+  ],
+  "comparison": {
+    "complete_previous_original_revised_reread": true,
+    "final_story_sha256": "9abfe9f9932cb52c85ddc6dcd1e3a65d2a664b2687272611a98e9020372c9f62",
+    "source_sha256": "efb71f8bd3996070ac4a830cac0f2d882b50f7a474a87fd7d1ba025edd7243c4",
+    "comparison_notes": [
+      "All nine day-stage sections and original distinct incidents preserved: dawn preparation, apple, threshold, morning choir, modaks, tilak/toy, evening reflection rescue, dinner, night prayer.",
+      "Restored explicit first Ganesh Chaturthi in Austin from original, absent in previous working story closing; retained quiet revised bone/squeaker payoff and protective Neet.",
+      "Reduced two royal epithets to Sagar; household roles and prayer unchanged.",
+      "Added brief timing and consequences to existing incidents rather than new plot. Buddy initiates participation and offering; Neet shares appetite and becomes a quiet protector.",
+      "No variants to merge; connected episodes pinned before concurrent edits.",
+      "Entire current text reread after image insertion; apple image precedes retrieval, morning excludes toy, offering follows placement, evening follows rescue. Independent rendered reading remains pending."
+    ],
+    "previous_body_words": 1104,
+    "revised_body_words": 1302,
+    "unnecessary_expansion_check": "Additions limited to existing incident timing, responses and source-place restoration; no new subplot."
+  },
+  "approval": "unapproved"
+}

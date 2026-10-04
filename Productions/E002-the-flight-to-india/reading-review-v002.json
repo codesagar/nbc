@@ -1,0 +1,134 @@
+{
+  "story_id": "S002",
+  "review_version": "v002",
+  "reviewer": "fresh complete-reading agent /root/reading002",
+  "date": "2026-10-03",
+  "status": "accepted",
+  "story": {
+    "path": "Stories/S002-the-flight-to-india.md",
+    "sha256": "e4dd8ace78b176b6b1500d23922625b7bb8f4077cdbd573519f878891bca0d5b"
+  },
+  "scope": "Entire primary illustrated story, all three embedded actual images, refinement and provenance notes; no meaningful alternative exists in shelf story or source mapping.",
+  "independence": "Reviewer did not write the prose or generate any illustration.",
+  "reading_method": {
+    "url": "http://127.0.0.1:56824/Stories/S002-the-flight-to-india.md",
+    "tool": "mcp__cua_repl native in-app browser",
+    "viewport": [
+      1280,
+      720
+    ],
+    "body_font_px": 20,
+    "rendered_image_dimensions": [
+      960,
+      720
+    ],
+    "actual_inspection": "Sequential overlapping viewport screenshots from title/opening through all three entire images, all prose and final provenance bullet. Twelve screenshot observations including initial opening and final provenance. DOM read verified actual loaded image paths, natural dimensions and reading dimensions; DOM text alone was not used as rendered review.",
+    "coverage": [
+      "Opening blanket conflict and packing setup",
+      "Packing image top and bottom plus sweater replacement",
+      "Airport three-machine escalation and cockpit mistake",
+      "Takeoff fear and Buddy reassurance",
+      "Entire braced-captain image before lying down",
+      "Better grip shared lowering and meal cart callback",
+      "Opened packet and upright snack pose, complete image",
+      "Buddy treat, descent cow, captain ending",
+      "Entire refinement/provenance footer"
+    ],
+    "screenshots": "Displayed in this reviewer tool transcript; no screenshot files written because ownership is limited to this review record."
+  },
+  "sources_compared": [
+    {
+      "path": "../NBC_Archives/expanded-s002-original.md",
+      "sha256": "d86111a01dc360cd1a798851ee23c7f98670d7652365909cee2f34184e034b65",
+      "read": "complete original narrative"
+    },
+    {
+      "archive": "../NBC_Archives/NBC-before-expanded-refinement-2026-10-04_035505Z.tar.gz",
+      "member": "NBC/Stories/S002-the-flight-to-india.md",
+      "sha256": "1b4892cc3632f2515f7d3bf4d99763a7667376d23efd819df0ff3e0fe07a0911",
+      "read": "complete prior working story extracted read-only"
+    },
+    {
+      "path": "Productions/E002-the-flight-to-india/comedy-pass-v002.json",
+      "sha256": "b976fdd0d715a18d863ad1f17e0c4963e9c9c7e8437f79cfb847145eac96dd98"
+    },
+    {
+      "path": "Productions/E002-the-flight-to-india/visual-review-v002.json",
+      "sha256": "d9ba1916fce998413df5217b6818142d37b30e9fc63bdf88659d7b1611cf4b83"
+    }
+  ],
+  "observations": [
+    "Blanket push/tuck/push gives Buddy an immediate independent practical want; Neet wants rank. Heather participates physically rather than only commenting. The captain-to-sweater replacement earns Promotion filled after the image, preserving the reveal.",
+    "All distinctive original travel incidents remain in order: suitcase socks, conveyor, moving cart, detector, cockpit/fortress, takeoff fear, big-car reassurance, attendant pretzels, packed Buddy treat, cow on descent. Generic future-adventure preview was already absent in prior edition; no new incident loss.",
+    "Buddy acts despite his own engine anxiety, reassures Neet, shares the successful lying-down solution, then relaxes. His dry voice and Neet self-protective Better grip preserve affection rather than humiliation.",
+    "Airport cart hostility returns as snack-cart enthusiasm with a concrete reason. Opened packet controls the self-appointed captain; picture shows the reversal after it occurs rather than announcing it early.",
+    "Three images contribute distinct stages: competing packing priorities, vulnerable reassurance, recovered attention redirected to snacks. Two cabin views intentionally echo surroundings but alter pose, gaze, human participation and narrative function.",
+    "Ending retains cow curiosity and blanket comfort, then pays captain authority with You are flying it and Neet serious window inspection. No final illustration interrupts or spoils that small last joke.",
+    "Historical Heather-only household and inherited breed wording remain; no new Sagar insertion, anatomy authority or owner canon asserted."
+  ],
+  "images": [
+    {
+      "path": "Productions/E002-the-flight-to-india/packing-v002.png",
+      "sha256": "84e622475614e041901cbea0e59679f4b6c2e31ad561a3d7f6302e2749964999",
+      "status": "accepted_in_complete_reading",
+      "rendered_dimensions": [
+        960,
+        720
+      ],
+      "natural_dimensions": [
+        1448,
+        1086
+      ],
+      "placement_observation": "After Captain travels on top, before Heather removes him: Neet remains on socks, Buddy muzzle meets blanket at rim, sweater absent."
+    },
+    {
+      "path": "Productions/E002-the-flight-to-india/illustration-v002.png",
+      "sha256": "576e5cf6137b6f9763fe29aa4c60d0cd375d7a9464d9f09bef3bf19644f212bd",
+      "status": "accepted_in_complete_reading",
+      "rendered_dimensions": [
+        960,
+        720
+      ],
+      "natural_dimensions": [
+        1448,
+        1086
+      ],
+      "placement_observation": "After Buddy big-car reassurance, before Neet lowers himself: Neet still braced, Buddy head raised from blue blanket."
+    },
+    {
+      "path": "Productions/E002-the-flight-to-india/snacks-v002.png",
+      "sha256": "dbbf6c8532acf9cf7d8b6682a1a3425fcb0dd0cd88318cf522b74257be352fec",
+      "status": "accepted_in_complete_reading",
+      "rendered_dimensions": [
+        960,
+        720
+      ],
+      "natural_dimensions": [
+        1448,
+        1086
+      ],
+      "placement_observation": "After Heather opens and holds packet out of reach, before Buddy nibbles: torn packet visibly open, Neet upright with empty mouth, Buddy attentive on blanket."
+    }
+  ],
+  "closed_visual_findings_checked": [
+    {
+      "id": "S002-V002-01",
+      "observation": "Packing replacement visibly keeps Buddy dark back close-contoured at reading size; furnishings are regional."
+    },
+    {
+      "id": "S002-V002-02",
+      "observation": "Snack packet open black mouth, separated silver top and protruding pretzel visibly match after-opening anchor."
+    },
+    {
+      "id": "S002-V002-03",
+      "observation": "Snack replacement Neet chest has a flush cream patch and smooth silhouette, without a feathered ruff."
+    }
+  ],
+  "material_findings": [],
+  "open_findings": [],
+  "administrative_notes": [
+    "Refinement footer still records independent reviews pending at this inspected version. Root integration may update historical stage wording; this is not a story/comedy defect. Any subsequent story byte change must be recorded against the new hash."
+  ],
+  "approval": "unapproved",
+  "publication": "not_published"
+}

@@ -1,0 +1,84 @@
+{
+  "story_id": "S015",
+  "status": "proposed_pending_independent_reviews",
+  "sources": [
+    {
+      "archive": "/Users/sagar/Documents/ChatGPT/NBC_Archives/NBC-before-reorganization-2026-10-03_182825.tar.gz",
+      "member": "NBC/02_Story_Library/Legacy_Chapters/16-the-dazzling-dog-fashion-show.md",
+      "sha256": "45059bff35a50ffe91ec9aaa4bcd24e9450cf5b3639a1f4d716cbc2adb695b77",
+      "read": "complete"
+    },
+    {
+      "archive": "/Users/sagar/Documents/ChatGPT/NBC_Archives/NBC-before-expanded-refinement-2026-10-04_035505Z.tar.gz",
+      "member": "NBC/Stories/S015-the-dazzling-dog-fashion-show.md",
+      "sha256": "c114e944b05988ae03ceb270bb868f4038ba43ea9393d71418f3b4471558339d",
+      "read": "complete"
+    }
+  ],
+  "connected_reading": [
+    {
+      "path": "Stories/S014-neet-and-buddys-barber-battle.md",
+      "sha256": "9720c1364d6398f6e6c421c5cbbe7316d10870e633f3c4adcaa20b7d01b6710a",
+      "read": "complete"
+    },
+    {
+      "path": "Stories/S016-neet-and-buddy-learn-gujarati.md",
+      "sha256": "93cfc7e8a5ad4464cd14d05ba5aecbf0079aa57c3d6ac57382c9dd9d8072a653",
+      "read": "complete"
+    }
+  ],
+  "wants": {
+    "Neet": "Win and appear naturally magnificent",
+    "Buddy": "Get through the costume and walking with feet free; earns pride through practice",
+    "Heather": "Enjoy both dogs and support their performance"
+  },
+  "central_comic_situation": "A sensible dog carefully arranging his feet earns the same applause as a born performer; the prize is an inedible bone.",
+  "preserved_incidents": [
+    "Blue tuxedo and mirror Obviously",
+    "Gold cape and wobbly crown",
+    "All five named competitors, outfits, reactions in source order",
+    "Neet admission that Maximus intimidates him",
+    "Neet paw cue and voluntary Buddy pose",
+    "Sequined elderly judge",
+    "Joint win, podium, giant golden bone trophy",
+    "Heather homeward, crown relinquished, Neet bowtie retained"
+  ],
+  "actual_changes": [
+    "Home counting steps versus looking effortless; Heather lets Buddy see what he rules",
+    "Neet dismisses Lady Puddington while edging closer to watch",
+    "Buddy studies Maximus cape turn and rehearses his feet",
+    "Applause holds raised paw; Heather provides release; Neet prolongs pose fractionally",
+    "Buddy sniffs both ends of inedible trophy; treat pouch redirects both fashion icons"
+  ],
+  "ending": "Preserved understated homeward crown/bowtie contrast; no forced new catchphrase.",
+  "variants": {
+    "meaningful_alternatives": [],
+    "decision": "Single historical source, no competing scene or ending blended."
+  },
+  "full_reread_comparison": {
+    "completed": true,
+    "original": "All competitors and joint win retained; historical Heather-only household unchanged. Source curled-tail wording remains prose conflict and not art instruction.",
+    "previous": "Practical cape walk, voluntary balance and quiet crown ending preserved. Added about 200 words make existing incidents pay off, not a new plot.",
+    "voice": "Neet vanity contrasted with Buddy practical private rehearsal; Heather warm and helpful.",
+    "lost_incidents": "None identified.",
+    "scope": "Author reread only; fresh independent rendered reading still required."
+  },
+  "final_story_sha256": "597a3e1e1b0b2a73dc5a2efc171470d10e9eaea0a1611954c265336b294aa5f9",
+  "image_anchors": [
+    {
+      "image": "preparation-art-v003.png",
+      "after": "He tried another.",
+      "state": "First careful steps at home before Heather straightens crown"
+    },
+    {
+      "image": "runway-art-v003.png",
+      "after": "so he left it there.",
+      "state": "Runway paired paws before trophy"
+    },
+    {
+      "image": "trophy-art-v004.png",
+      "after": "Still nothing.",
+      "state": "Post-win trophy sniff before treat pouch"
+    }
+  ]
+}

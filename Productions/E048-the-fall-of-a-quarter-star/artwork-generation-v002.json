@@ -1,0 +1,848 @@
+{
+  "episode": "E048-the-fall-of-a-quarter-star",
+  "status": "proposed_pending_independent_review",
+  "tool": "built-in image_gen.imagegen",
+  "model": "unknown",
+  "seed": "unknown",
+  "references": [
+    {
+      "id": "N19",
+      "character": "Neet",
+      "path": "Characters/Neet/Photos/neet-19.jpeg",
+      "filename": "neet-19.jpeg",
+      "sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+      "archived_source_path": "03_Asset_Library/Characters/Neet/neet-19.jpeg",
+      "same_exposure_group": null,
+      "use": "Primary body-level side standing and tail nub",
+      "approval_status": "unknown",
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "styling",
+          "standing_pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Primary standing body proportions, paws, hocks and stub silhouette; head is not a pure profile.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Head rotated; far limbs overlap; uncalibrated camera offers no measurements; room light subdued"
+        ],
+        "inspection_sha256": "b2c6db0a5af6a885d993cbd986cc2759b9461e693fbcabd8aa96bce1eb5ea901",
+        "source_sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N19.json"
+      },
+      "source_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose",
+          "resting_pose",
+          "styling"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Primary standing body proportions, paws, hocks and stub silhouette; head is not a pure profile.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state."
+        ],
+        "evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md"
+      },
+      "source_observation": {
+        "date": "2026-10-03",
+        "pose_view_camera": "Standing left-facing side with head toward camera; near body-level",
+        "visible_features": "Tiny short tan rump nub; near-square qualitative standing impression; long slender legs; full ribcage/thigh; moderate ventral rise; smooth short coat",
+        "limitations": "Head rotated; far limbs overlap; uncalibrated camera offers no measurements; room light subdued",
+        "recommended_uses": [
+          "standing_pose",
+          "visible_anatomy",
+          "styling"
+        ],
+        "full_restrictions": [
+          "Primary standing body proportions, paws, hocks and stub silhouette; head is not a pure profile.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Head rotated; far limbs overlap; uncalibrated camera offers no measurements; room light subdued"
+        ]
+      },
+      "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N19.json",
+      "inspection_sha256": "b2c6db0a5af6a885d993cbd986cc2759b9461e693fbcabd8aa96bce1eb5ea901"
+    },
+    {
+      "id": "N24",
+      "character": "Neet",
+      "path": "Characters/Neet/Photos/neet-24.jpeg",
+      "filename": "neet-24.jpeg",
+      "sha256": "a80dbd57f4daf8f53232a4c5e604f7e92411ed2ca15fccb8d50a5f053b0eacd6",
+      "archived_source_path": "03_Asset_Library/Characters/Neet/neet-24.jpeg",
+      "same_exposure_group": null,
+      "use": "Upright sit and subtle head tilt",
+      "approval_status": "unknown",
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Primary upright sitting, narrow chest, head-tilt and color-map reference.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Tail hidden; scattered stuffing does not prove this dog caused destruction; seated proportions only"
+        ],
+        "inspection_sha256": "2dc370cfcb6bf22dde3ee7f0f7b169e11501f6b97e69b65ee733fe43737a4a8b",
+        "source_sha256": "a80dbd57f4daf8f53232a4c5e604f7e92411ed2ca15fccb8d50a5f053b0eacd6",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N24.json"
+      },
+      "source_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose",
+          "resting_pose",
+          "styling"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Primary upright sitting, narrow chest, head-tilt and color-map reference.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state."
+        ],
+        "evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md"
+      },
+      "source_observation": {
+        "date": "2026-10-03",
+        "pose_view_camera": "Unclothed frontal seated with slight head tilt; approximately chest-level",
+        "visible_features": "Long forelegs; pale central chest/throat; triangular ears; compact paws; rounded folded thigh",
+        "limitations": "Tail hidden; scattered stuffing does not prove this dog caused destruction; seated proportions only",
+        "recommended_uses": [
+          "sitting_pose",
+          "visible_anatomy",
+          "facial_expression"
+        ],
+        "full_restrictions": [
+          "Primary upright sitting, narrow chest, head-tilt and color-map reference.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Tail hidden; scattered stuffing does not prove this dog caused destruction; seated proportions only"
+        ]
+      },
+      "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N24.json",
+      "inspection_sha256": "2dc370cfcb6bf22dde3ee7f0f7b169e11501f6b97e69b65ee733fe43737a4a8b"
+    },
+    {
+      "id": "N33",
+      "character": "Neet",
+      "path": "Characters/Neet/Photos/neet-33.jpeg",
+      "filename": "neet-33.jpeg",
+      "sha256": "16985ef321ae80cd6afd7272f361acbc758b9661e535520e6555c47acae50573",
+      "archived_source_path": "03_Asset_Library/Characters/Neet/neet-33.jpeg",
+      "same_exposure_group": null,
+      "use": "Unobstructed compact sleeping curl",
+      "approval_status": "unknown",
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "resting_pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Primary sleeping/curled silhouette without bed rim; limited neutral anatomy.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Feet/tail hidden by curl; face shaded; cannot prove sleep or standing proportions"
+        ],
+        "inspection_sha256": "e336f73b1ffb6dc7bf5f8a4f6bd66e2905de42d2d248c3278afd064614349935",
+        "source_sha256": "16985ef321ae80cd6afd7272f361acbc758b9661e535520e6555c47acae50573",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N33.json"
+      },
+      "source_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose",
+          "resting_pose",
+          "styling"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Primary sleeping/curled silhouette without bed rim; limited neutral anatomy.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state."
+        ],
+        "evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md"
+      },
+      "source_observation": {
+        "date": "2026-10-03",
+        "pose_view_camera": "Tight curl on bedding by window; low oblique side",
+        "visible_features": "C/oval back and thigh; head tucked down; eyelids closed; large ears remain visible",
+        "limitations": "Feet/tail hidden by curl; face shaded; cannot prove sleep or standing proportions",
+        "recommended_uses": [
+          "resting_pose",
+          "visible_anatomy"
+        ],
+        "full_restrictions": [
+          "Primary sleeping/curled silhouette without bed rim; limited neutral anatomy.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Feet/tail hidden by curl; face shaded; cannot prove sleep or standing proportions"
+        ]
+      },
+      "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N33.json",
+      "inspection_sha256": "e336f73b1ffb6dc7bf5f8a4f6bd66e2905de42d2d248c3278afd064614349935"
+    },
+    {
+      "id": "B04",
+      "character": "Buddy",
+      "path": "Characters/Buddy/Photos/buddy-4.jpg",
+      "filename": "buddy-4.jpg",
+      "sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+      "archived_source_path": "03_Asset_Library/Characters/Buddy/buddy-4.jpg",
+      "same_exposure_group": "B04-B24",
+      "use": "Primary frontal standing and groomed facial pattern",
+      "approval_status": "unknown",
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "styling",
+          "standing_pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Excellent front-leg clearance, chest pattern and groomed face; useful standing stance. Same photographic exposure as B24 for evidence counting.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Tail partly cropped at left; grass hides toes; perspective foreshortens torso; B24 same exposure in separate encoding"
+        ],
+        "inspection_sha256": "dd7da906a0e61eb4cdbd84eac3c97fea3318813d5a874c4e6cd4d8d3ba890797",
+        "source_sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B04.json"
+      },
+      "source_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose",
+          "resting_pose",
+          "styling"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Excellent front-leg clearance, chest pattern and groomed face; useful standing stance. Same photographic exposure as B24 for evidence counting.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state."
+        ],
+        "evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+        "same_exposure_group": "B04-B24"
+      },
+      "source_observation": {
+        "date": "2026-10-03",
+        "pose_view_camera": "Standing front three-quarter outdoors; approximately chest-level",
+        "visible_features": "Deep chest; substantial leg shafts; pale lower legs and splaying foot hair; dark torso; pale chest sides/dark throat; long pendant ear fringe; pale muzzle/brows",
+        "limitations": "Tail partly cropped at left; grass hides toes; perspective foreshortens torso; B24 same exposure in separate encoding",
+        "recommended_uses": [
+          "standing_pose",
+          "visible_anatomy",
+          "styling"
+        ],
+        "full_restrictions": [
+          "Excellent front-leg clearance, chest pattern and groomed face; useful standing stance. Same photographic exposure as B24 for evidence counting.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Tail partly cropped at left; grass hides toes; perspective foreshortens torso; B24 same exposure in separate encoding"
+        ]
+      },
+      "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B04.json",
+      "inspection_sha256": "dd7da906a0e61eb4cdbd84eac3c97fea3318813d5a874c4e6cd4d8d3ba890797"
+    },
+    {
+      "id": "B29",
+      "character": "Buddy",
+      "path": "Characters/Buddy/Photos/buddy-29.jpeg",
+      "filename": "buddy-29.jpeg",
+      "sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+      "archived_source_path": "03_Asset_Library/Characters/Buddy/buddy-29.jpeg",
+      "same_exposure_group": null,
+      "use": "Side stride, torso length, leg clearance and tail curve",
+      "approval_status": "unknown",
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Best available lateral body-length, tail-length/carriage and walking-pose reference; weak fine landmarks because blurred and not neutral standing.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Motion blur and lifted legs; cannot establish neutral back slope, exact leg ratios or gait timing from still"
+        ],
+        "inspection_sha256": "c671664ca5e4e2e07bfd3049ea641c3a1645742fb8290494e67a17f7ed213ea9",
+        "source_sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B29.json"
+      },
+      "source_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose",
+          "resting_pose",
+          "styling"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Best available lateral body-length, tail-length/carriage and walking-pose reference; weak fine landmarks because blurred and not neutral standing.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state."
+        ],
+        "evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md"
+      },
+      "source_observation": {
+        "date": "2026-10-03",
+        "pose_view_camera": "Left-facing walking side view indoors; near body-level",
+        "visible_features": "Elongated dark trunk; projecting muzzle/pendant ears; pale lower legs; dark tapering tail held low with gentle curve; underside hair fringe",
+        "limitations": "Motion blur and lifted legs; cannot establish neutral back slope, exact leg ratios or gait timing from still",
+        "recommended_uses": [
+          "pose",
+          "visible_anatomy"
+        ],
+        "full_restrictions": [
+          "Best available lateral body-length, tail-length/carriage and walking-pose reference; weak fine landmarks because blurred and not neutral standing.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Motion blur and lifted legs; cannot establish neutral back slope, exact leg ratios or gait timing from still"
+        ]
+      },
+      "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B29.json",
+      "inspection_sha256": "c671664ca5e4e2e07bfd3049ea641c3a1645742fb8290494e67a17f7ed213ea9"
+    }
+  ],
+  "restrictions": [
+    "N35 excluded anatomy; B08 styling only; B25 unavailable; B30 supplemental resting only; none used.",
+    "One encoding per exposure; B04-B24 counts once.",
+    "Generated model and E001 finish reference are interpretation, not anatomy evidence.",
+    "Humans not depicted; likeness provisional."
+  ],
+  "character_model": {
+    "path": "Productions/Library-Refinement/model-standing-v002.png",
+    "sha256": "c4c6b607727759b347f93ccef664b0ac4b9a8ade512908343748fb9e2a96e9b6",
+    "bytes": 2481308,
+    "dimensions": [
+      1536,
+      1024
+    ]
+  },
+  "finish_reference": {
+    "path": "Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+    "sha256": "19be9a85760177405bbedd26644a7e0eb9c7945709e43825d201ff2fa91742b9",
+    "bytes": 2661722,
+    "dimensions": [
+      1536,
+      1024
+    ]
+  },
+  "calls": [
+    {
+      "id": "rough",
+      "arguments": {
+        "prompt": "Use case: illustration-story. DRAW a three-panel pencil staging storyboard for The Fall of a Quarter Star. Reference photos 1-4 control the dogs' anatomy; image 5 is ONLY smooth BODY FINISH calibration, never its Great Dane or park. Neet small tan short smooth dog fine legs full narrow torso large broad triangular ears tiny nub. Buddy full moderately elongated charcoal torso substantial legs real ground clearance projecting irregular cream moustache modest beard light brows and regional ear/paw furnishings. Panel A: sunny backyard, Neet barking at an opaque wooden fence with all four paws on ground, chest almost touching boards; Buddy beside him enthusiastically barking. No neighbor dogs visible through opaque fence. Plants/string lights in background. Panel B: night bedroom closet, Neet supported curled in dog bed at closet threshold, head raised and ears angled back in embarrassed retreat; Buddy stands beside outside the closet, looking at Neet. No humans needed in frame, no bug still present. Show believable spine, pelvis and limb ownership in curled Neet. Panel C: morning window, Neet upright meditating eyes closed seated, Buddy approaching from right chewing last little biscuit with crumbs below, three paws supporting and one front paw lifted; normal canine anatomy. Separate wide panels, room space, connected bodies, no dialogue or text. Draw all three actual scenes, not written instructions. Plain smooth torsos even in pencil; no curly hatch texture.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-24.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png"
+        ],
+        "transparent_background": false
+      },
+      "inputs": [
+        {
+          "path": "Characters/Neet/Photos/neet-19.jpeg",
+          "sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+          "bytes": 3711306,
+          "role": "original photo anatomical authority within copied policy"
+        },
+        {
+          "path": "Characters/Neet/Photos/neet-24.jpeg",
+          "sha256": "a80dbd57f4daf8f53232a4c5e604f7e92411ed2ca15fccb8d50a5f053b0eacd6",
+          "bytes": 7871314,
+          "role": "original photo anatomical authority within copied policy"
+        },
+        {
+          "path": "Characters/Buddy/Photos/buddy-29.jpeg",
+          "sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+          "bytes": 3208592,
+          "role": "original photo anatomical authority within copied policy"
+        },
+        {
+          "path": "Characters/Buddy/Photos/buddy-4.jpg",
+          "sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+          "bytes": 821247,
+          "role": "original photo anatomical authority within copied policy"
+        },
+        {
+          "path": "Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "sha256": "19be9a85760177405bbedd26644a7e0eb9c7945709e43825d201ff2fa91742b9",
+          "bytes": 2661722,
+          "dimensions": [
+            1536,
+            1024
+          ],
+          "role": "BODY FINISH only"
+        }
+      ],
+      "output": {
+        "path": "Productions/E048-the-fall-of-a-quarter-star/storyboard-v002.png",
+        "sha256": "47833b18e69bdecff690dc0feb009a57a9b0ece8e4e1b229b6c9a74c1b0d7159",
+        "bytes": 3505631,
+        "dimensions": [
+          1536,
+          1024
+        ]
+      },
+      "model": "unknown",
+      "seed": "unknown"
+    },
+    {
+      "id": "fence",
+      "arguments": {
+        "prompt": "Use case: illustration-story. Finished warm watercolor story illustration, landscape single scene, no text. Photo inputs control identity. Smooth short close-coat torsos with broad restrained washes, NO engraved swirls or lines, NO curls or body shag. Neet fine legs full narrow tan torso large triangular ears tiny almost flush nub. Buddy moderately elongated continuous charcoal torso, visible neck, deep chest, substantial legs and real clearance; irregular projecting cream moustache modest beard pale brows, regional ear/paw furnishings must remain. BODY FINISH reference max-art-v005 supplies smooth surface only, never scene or other dogs. Provisional humans omitted by framing. Render ONLY top scene of supplied drawn storyboard as complete single image: sunny backyard, two dogs barking enthusiastically at opaque wooden fence. Neet at left, Buddy at right, BOTH all four paws planted and separately readable; Neet chest nearly touches fence boards, muzzle lifted. Neet ears upright, mouth visibly barking; Buddy enjoying the commotion. Tiny nub only Neet; Buddy dark tapered natural tail, not plume. Plants and string lights. No other dogs visible through fence. Keep both bodies wholly in frame, clear grounding, no lettering. Storyboard layout is staging only, remove ALL pencil body hatch marks.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E048-the-fall-of-a-quarter-star/storyboard-v002.png"
+        ],
+        "transparent_background": false
+      },
+      "inputs": [
+        {
+          "path": "Characters/Neet/Photos/neet-19.jpeg",
+          "sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+          "bytes": 3711306,
+          "role": "original photo anatomical authority within copied policy"
+        },
+        {
+          "path": "Characters/Buddy/Photos/buddy-29.jpeg",
+          "sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+          "bytes": 3208592,
+          "role": "original photo anatomical authority within copied policy"
+        },
+        {
+          "path": "Characters/Buddy/Photos/buddy-4.jpg",
+          "sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+          "bytes": 821247,
+          "role": "original photo anatomical authority within copied policy"
+        },
+        {
+          "path": "Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "sha256": "19be9a85760177405bbedd26644a7e0eb9c7945709e43825d201ff2fa91742b9",
+          "bytes": 2661722,
+          "dimensions": [
+            1536,
+            1024
+          ],
+          "role": "BODY FINISH only"
+        },
+        {
+          "path": "Productions/E048-the-fall-of-a-quarter-star/storyboard-v002.png",
+          "sha256": "47833b18e69bdecff690dc0feb009a57a9b0ece8e4e1b229b6c9a74c1b0d7159",
+          "bytes": 3505631,
+          "dimensions": [
+            1536,
+            1024
+          ],
+          "role": "drawn staging only"
+        }
+      ],
+      "output": {
+        "path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/E048-expanded-superseded/fence-art-v002.png",
+        "sha256": "2219ecb4db58eb3095ad0bde958a3c54d4bf8190380f8a74a55424d69e55ee7b",
+        "bytes": 3042252,
+        "dimensions": [
+          1536,
+          1024
+        ]
+      },
+      "model": "unknown",
+      "seed": "unknown"
+    },
+    {
+      "id": "closet",
+      "arguments": {
+        "prompt": "Use case: illustration-story. Finished warm watercolor story illustration, landscape single scene, no text. Photo inputs control identity. Smooth short close-coat torsos with broad restrained washes, NO engraved swirls or lines, NO curls or body shag. Neet fine legs full narrow tan torso large triangular ears tiny almost flush nub. Buddy moderately elongated continuous charcoal torso, visible neck, deep chest, substantial legs and real clearance; irregular projecting cream moustache modest beard pale brows, regional ear/paw furnishings must remain. BODY FINISH reference max-art-v005 supplies smooth surface only, never scene or other dogs. Provisional humans omitted by framing. Render ONLY middle scene of supplied drawn storyboard as complete single image: night bedroom, open closet left contains dog bed and Neet, supported in a compact natural curl with head raised, guilty sideways glance and ears rotated back without changing triangular cartilage. Buddy standing entirely outside closet right with four clearly rooted paws, quietly looking at Neet. No insect present, no humans in crop. Closet clothes above, warm lamp light. Neet full ribcage connected to haunch, folded limbs anatomically owned and supported, use curled original photo for visible curl only. Buddy torso smooth charcoal, strong neck, pale irregular moustache. No text or ranks. Storyboard is staging only, remove all body hatching.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-33.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E048-the-fall-of-a-quarter-star/storyboard-v002.png"
+        ],
+        "transparent_background": false
+      },
+      "inputs": [
+        {
+          "path": "Characters/Neet/Photos/neet-33.jpeg",
+          "sha256": "16985ef321ae80cd6afd7272f361acbc758b9661e535520e6555c47acae50573",
+          "bytes": 4264055,
+          "role": "original photo anatomical authority within copied policy"
+        },
+        {
+          "path": "Characters/Buddy/Photos/buddy-29.jpeg",
+          "sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+          "bytes": 3208592,
+          "role": "original photo anatomical authority within copied policy"
+        },
+        {
+          "path": "Characters/Buddy/Photos/buddy-4.jpg",
+          "sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+          "bytes": 821247,
+          "role": "original photo anatomical authority within copied policy"
+        },
+        {
+          "path": "Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "sha256": "19be9a85760177405bbedd26644a7e0eb9c7945709e43825d201ff2fa91742b9",
+          "bytes": 2661722,
+          "dimensions": [
+            1536,
+            1024
+          ],
+          "role": "BODY FINISH only"
+        },
+        {
+          "path": "Productions/E048-the-fall-of-a-quarter-star/storyboard-v002.png",
+          "sha256": "47833b18e69bdecff690dc0feb009a57a9b0ece8e4e1b229b6c9a74c1b0d7159",
+          "bytes": 3505631,
+          "dimensions": [
+            1536,
+            1024
+          ],
+          "role": "drawn staging only"
+        }
+      ],
+      "output": {
+        "path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/E048-expanded-superseded/closet-art-v002.png",
+        "sha256": "2c18d80449194977eab9a6ec5f1b2588ad98c9c1d2b5e6bb1786572d9fdc4312",
+        "bytes": 2201214,
+        "dimensions": [
+          1536,
+          1024
+        ]
+      },
+      "model": "unknown",
+      "seed": "unknown"
+    },
+    {
+      "id": "snack",
+      "arguments": {
+        "prompt": "Use case: illustration-story. Finished warm watercolor story illustration, landscape single scene, no text. Photo inputs control identity. Smooth short close-coat torsos with broad restrained washes, NO engraved swirls or lines, NO curls or body shag. Neet fine legs full narrow tan torso large triangular ears tiny almost flush nub. Buddy moderately elongated continuous charcoal torso, visible neck, deep chest, substantial legs and real clearance; irregular projecting cream moustache modest beard pale brows, regional ear/paw furnishings must remain. BODY FINISH reference max-art-v005 supplies smooth surface only, never scene or other dogs. Provisional humans omitted by framing. Render ONLY bottom scene of supplied drawn storyboard as complete single landscape picture: Sunday morning window at left, Neet seated upright on rug eyes closed meditating with naturally paired front paws supported on floor. Buddy approaches from right chewing LAST SMALL BISCUIT at corner of mouth, a few crumbs beneath; one forepaw lifted, other three paws supporting his long full torso. Wide space between them carries failed consolation-delivery comedy. Both full bodies visible; no humans, no ranks, no lettering. Preserve canine mouths, no hand gestures. Buddy furnished projecting irregular moustache modest beard and brows, hanging regional ears; NO neat round teddy muzzle. Smooth short coat bodies like finish-only reference, remove all engraved hatch marks. Very important: use flat cel-like broad matte color planes on both dog torsos as in max-art-v005. No individual body hairs anywhere, no pelt texture on neck shoulder flank hips chest, no fringed torso silhouette. Furnished muzzle and ears/paws retain strands. Prioritize this over watercolor texture.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-24.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E048-the-fall-of-a-quarter-star/storyboard-v002.png"
+        ],
+        "transparent_background": false
+      },
+      "inputs": [
+        {
+          "path": "Characters/Neet/Photos/neet-24.jpeg",
+          "sha256": "a80dbd57f4daf8f53232a4c5e604f7e92411ed2ca15fccb8d50a5f053b0eacd6",
+          "bytes": 7871314,
+          "role": "original photo anatomical authority within copied policy"
+        },
+        {
+          "path": "Characters/Buddy/Photos/buddy-29.jpeg",
+          "sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+          "bytes": 3208592,
+          "role": "original photo anatomical authority within copied policy"
+        },
+        {
+          "path": "Characters/Buddy/Photos/buddy-4.jpg",
+          "sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+          "bytes": 821247,
+          "role": "original photo anatomical authority within copied policy"
+        },
+        {
+          "path": "Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "sha256": "19be9a85760177405bbedd26644a7e0eb9c7945709e43825d201ff2fa91742b9",
+          "bytes": 2661722,
+          "dimensions": [
+            1536,
+            1024
+          ],
+          "role": "BODY FINISH only"
+        },
+        {
+          "path": "Productions/E048-the-fall-of-a-quarter-star/storyboard-v002.png",
+          "sha256": "47833b18e69bdecff690dc0feb009a57a9b0ece8e4e1b229b6c9a74c1b0d7159",
+          "bytes": 3505631,
+          "dimensions": [
+            1536,
+            1024
+          ],
+          "role": "drawn staging only"
+        }
+      ],
+      "output": {
+        "path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/E048-expanded-superseded/snack-art-v002.png",
+        "sha256": "c42fb9e737782972762cda99a016c7e12daffd868b223778289f28e93bc115e9",
+        "bytes": 2263327,
+        "dimensions": [
+          1536,
+          1024
+        ]
+      },
+      "model": "unknown",
+      "seed": "unknown"
+    },
+    {
+      "id": "fence_correction",
+      "arguments": {
+        "prompt": "Use case: precise-object-edit. Correct finish ONLY in first image, keeping scene composition, dogs' pose, feet, expressions, lighting and all objects. Second image is BODY FINISH-only calibration: use similarly smooth broad matte color planes on Neet and Buddy torsos, shoulders neck and thighs. Eliminate directional individual hairs, etched texture and shag edges along back, belly and chest, without shrinking full body volumes. BOTH dogs are close-groomed on torso. Buddy must keep projecting irregular pale moustache, modest chin beard, pale brows and hanging ear furnishings plus slight paw furnishings, not circular teddy muzzle. His tail must be a slender dark taper with only modest fringe, remove pale plume tip. Neet tail nub almost flush, not erect peg. Do not change scene or add Great Dane. Photo 3 supports Buddy close torso and regional furnishings. No text.",
+        "referenced_image_paths": [
+          "/Users/sagar/.codex/generated_images/01a106ef-ee0c-71c1-b086-72b0542bbdc6/exec-2a83c712-e30c-4651-bce9-49b96385a03f.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg"
+        ],
+        "transparent_background": false
+      },
+      "inputs": [
+        {
+          "path": "/Users/sagar/.codex/generated_images/01a106ef-ee0c-71c1-b086-72b0542bbdc6/exec-2a83c712-e30c-4651-bce9-49b96385a03f.png",
+          "sha256": "2219ecb4db58eb3095ad0bde958a3c54d4bf8190380f8a74a55424d69e55ee7b",
+          "bytes": 3042252,
+          "dimensions": [
+            1536,
+            1024
+          ],
+          "role": "edit target"
+        },
+        {
+          "path": "Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "sha256": "19be9a85760177405bbedd26644a7e0eb9c7945709e43825d201ff2fa91742b9",
+          "bytes": 2661722,
+          "dimensions": [
+            1536,
+            1024
+          ],
+          "role": "BODY FINISH only"
+        },
+        {
+          "path": "Characters/Buddy/Photos/buddy-4.jpg",
+          "sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+          "bytes": 821247,
+          "role": "original photo anatomical authority within copied policy"
+        }
+      ],
+      "output": {
+        "path": "Productions/E048-the-fall-of-a-quarter-star/fence-art-v003.png",
+        "sha256": "5a8b0c8a1da4576391d64d606663c0bfb76534a52ccf5b48b59689af69140a45",
+        "bytes": 2806655,
+        "dimensions": [
+          1536,
+          1024
+        ]
+      },
+      "model": "unknown",
+      "seed": "unknown"
+    },
+    {
+      "id": "closet_correction",
+      "arguments": {
+        "prompt": "Use case: precise-object-edit. Correct finish ONLY in first image, keeping scene composition, dogs' pose, feet, expressions, lighting and all objects. Second image is BODY FINISH-only calibration: use similarly smooth broad matte color planes on Neet and Buddy torsos, shoulders neck and thighs. Eliminate directional individual hairs, etched texture and shag edges along back, belly and chest, without shrinking full body volumes. BOTH dogs are close-groomed on torso. Buddy must keep projecting irregular pale moustache, modest chin beard, pale brows and hanging ear furnishings plus slight paw furnishings, not circular teddy muzzle. His tail must be a slender dark taper with only modest fringe, remove pale plume tip. Neet tail nub almost flush, not erect peg. Do not change scene or add Great Dane. Photo 3 supports Buddy close torso and regional furnishings. No text.",
+        "referenced_image_paths": [
+          "/Users/sagar/.codex/generated_images/01a106ef-ee0c-71c1-b086-72b0542bbdc6/exec-ffa7c2d7-ee67-4962-a4f1-b0e1e981fd1d.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg"
+        ],
+        "transparent_background": false
+      },
+      "inputs": [
+        {
+          "path": "/Users/sagar/.codex/generated_images/01a106ef-ee0c-71c1-b086-72b0542bbdc6/exec-ffa7c2d7-ee67-4962-a4f1-b0e1e981fd1d.png",
+          "sha256": "2c18d80449194977eab9a6ec5f1b2588ad98c9c1d2b5e6bb1786572d9fdc4312",
+          "bytes": 2201214,
+          "dimensions": [
+            1536,
+            1024
+          ],
+          "role": "edit target"
+        },
+        {
+          "path": "Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "sha256": "19be9a85760177405bbedd26644a7e0eb9c7945709e43825d201ff2fa91742b9",
+          "bytes": 2661722,
+          "dimensions": [
+            1536,
+            1024
+          ],
+          "role": "BODY FINISH only"
+        },
+        {
+          "path": "Characters/Buddy/Photos/buddy-4.jpg",
+          "sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+          "bytes": 821247,
+          "role": "original photo anatomical authority within copied policy"
+        }
+      ],
+      "output": {
+        "path": "Productions/E048-the-fall-of-a-quarter-star/closet-art-v003.png",
+        "sha256": "6ba5b39d44e2cce1af57bc02a2e5840beb5418ce003ded0c9b84f4e5049e6c68",
+        "bytes": 1959589,
+        "dimensions": [
+          1536,
+          1024
+        ]
+      },
+      "model": "unknown",
+      "seed": "unknown"
+    },
+    {
+      "id": "snack_correction",
+      "arguments": {
+        "prompt": "Use case: precise-object-edit. Correct finish ONLY in first image, keeping scene composition, dogs' pose, feet, expressions, lighting and all objects. Second image is BODY FINISH-only calibration: use similarly smooth broad matte color planes on Neet and Buddy torsos, shoulders neck and thighs. Eliminate directional individual hairs, etched texture and shag edges along back, belly and chest, without shrinking full body volumes. BOTH dogs are close-groomed on torso. Buddy must keep projecting irregular pale moustache, modest chin beard, pale brows and hanging ear furnishings plus slight paw furnishings, not circular teddy muzzle. His tail must be a slender dark taper with only modest fringe, remove pale plume tip. Neet tail nub almost flush, not erect peg. Do not change scene or add Great Dane. Photo 3 supports Buddy close torso and regional furnishings. No text.",
+        "referenced_image_paths": [
+          "/Users/sagar/.codex/generated_images/01a106ef-ee0c-71c1-b086-72b0542bbdc6/exec-1cc89c03-db97-48e7-a4aa-340074bf1904.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg"
+        ],
+        "transparent_background": false
+      },
+      "inputs": [
+        {
+          "path": "/Users/sagar/.codex/generated_images/01a106ef-ee0c-71c1-b086-72b0542bbdc6/exec-1cc89c03-db97-48e7-a4aa-340074bf1904.png",
+          "sha256": "c42fb9e737782972762cda99a016c7e12daffd868b223778289f28e93bc115e9",
+          "bytes": 2263327,
+          "dimensions": [
+            1536,
+            1024
+          ],
+          "role": "edit target"
+        },
+        {
+          "path": "Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "sha256": "19be9a85760177405bbedd26644a7e0eb9c7945709e43825d201ff2fa91742b9",
+          "bytes": 2661722,
+          "dimensions": [
+            1536,
+            1024
+          ],
+          "role": "BODY FINISH only"
+        },
+        {
+          "path": "Characters/Buddy/Photos/buddy-4.jpg",
+          "sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+          "bytes": 821247,
+          "role": "original photo anatomical authority within copied policy"
+        }
+      ],
+      "output": {
+        "path": "Productions/E048-the-fall-of-a-quarter-star/snack-art-v003.png",
+        "sha256": "81fa6e8d9f8a614685d253ef87d49b06cc0e1046cf1e51e43267c042c2849a76",
+        "bytes": 2132034,
+        "dimensions": [
+          1536,
+          1024
+        ]
+      },
+      "model": "unknown",
+      "seed": "unknown"
+    }
+  ],
+  "superseded_recovery": [
+    {
+      "original_generated_path": "/Users/sagar/.codex/generated_images/01a106ef-ee0c-71c1-b086-72b0542bbdc6/exec-2a83c712-e30c-4651-bce9-49b96385a03f.png",
+      "preserved": {
+        "path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/E048-expanded-superseded/fence-art-v002.png",
+        "sha256": "2219ecb4db58eb3095ad0bde958a3c54d4bf8190380f8a74a55424d69e55ee7b",
+        "bytes": 3042252,
+        "dimensions": [
+          1536,
+          1024
+        ]
+      },
+      "reason": "Excess torso directional fur/raised fringe; snack additionally pale tail plume."
+    },
+    {
+      "original_generated_path": "/Users/sagar/.codex/generated_images/01a106ef-ee0c-71c1-b086-72b0542bbdc6/exec-ffa7c2d7-ee67-4962-a4f1-b0e1e981fd1d.png",
+      "preserved": {
+        "path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/E048-expanded-superseded/closet-art-v002.png",
+        "sha256": "2c18d80449194977eab9a6ec5f1b2588ad98c9c1d2b5e6bb1786572d9fdc4312",
+        "bytes": 2201214,
+        "dimensions": [
+          1536,
+          1024
+        ]
+      },
+      "reason": "Excess torso directional fur/raised fringe; snack additionally pale tail plume."
+    },
+    {
+      "original_generated_path": "/Users/sagar/.codex/generated_images/01a106ef-ee0c-71c1-b086-72b0542bbdc6/exec-1cc89c03-db97-48e7-a4aa-340074bf1904.png",
+      "preserved": {
+        "path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/E048-expanded-superseded/snack-art-v002.png",
+        "sha256": "c42fb9e737782972762cda99a016c7e12daffd868b223778289f28e93bc115e9",
+        "bytes": 2263327,
+        "dimensions": [
+          1536,
+          1024
+        ]
+      },
+      "reason": "Excess torso directional fur/raised fringe; snack additionally pale tail plume."
+    },
+    {
+      "former_path": "Productions/E048-the-fall-of-a-quarter-star/illustration-v001.png",
+      "preserved": {
+        "path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/E048-expanded-superseded/illustration-v001.png",
+        "sha256": "580b8cd12f8ac5783e414921957e8b0ee4cfc250114210c6b962856ada8efae3",
+        "bytes": 2478419,
+        "dimensions": [
+          1448,
+          1086
+        ]
+      },
+      "reason": "Legacy engraved coat finish superseded; historical records preserved."
+    },
+    {
+      "former_path": "Productions/E048-the-fall-of-a-quarter-star/illustration-v002.png",
+      "preserved": {
+        "path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/E048-expanded-superseded/illustration-v002.png",
+        "sha256": "2bb1a4693b8351410bfc239cfaf8513770be39576a2adaaf2bd6d9911b768b96",
+        "bytes": 2427497,
+        "dimensions": [
+          1448,
+          1086
+        ]
+      },
+      "reason": "Legacy engraved coat finish superseded; historical records preserved."
+    }
+  ],
+  "inspection": {
+    "stage": "writer only, not independent acceptance",
+    "storyboard": "Opened actual three-panel drawing; continuous bodies and supported poses. Removed hatch finish and tail plume in correction.",
+    "fence": "Final correction viewed: four ground supports per dog, connected torso/neck, ears and barking clear; nub small, Buddy muzzle projecting; coat close.",
+    "closet": "Final correction viewed: Neet supported curl with raised guilty face; Buddy outside threshold all four supports and no body shag.",
+    "snack": "Final correction viewed: one forepaw raised, three supports; biscuit remains in mouth before consumption text; smooth full torso and slender dark tail."
+  }
+}

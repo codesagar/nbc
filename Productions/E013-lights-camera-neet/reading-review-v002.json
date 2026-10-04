@@ -1,0 +1,78 @@
+{
+  "story_id": "S013",
+  "episode_id": "E013",
+  "reviewer": "fresh complete-reading reviewer /root/coordinate009_016/reading013",
+  "review_date": "2026-10-04",
+  "status": "accepted",
+  "story": {
+    "path": "Stories/S013-lights-camera-neet.md",
+    "sha256": "a8073e1a1adc870749f6061d53a99e99632866bc1c97d326d48508e22f90a6d7"
+  },
+  "images": [
+    {
+      "path": "Productions/E013-lights-camera-neet/setup-art-v002.png",
+      "sha256": "831a990b113ca0a119034055caf83b42af36af20539e058d0281b630a9317ecb"
+    },
+    {
+      "path": "Productions/E013-lights-camera-neet/prop-art-v004.png",
+      "sha256": "aa0def6c2b6133c5120f195a83d01f921e0fdee7386598a9bd3e8af42f1f137f"
+    },
+    {
+      "path": "Productions/E013-lights-camera-neet/chase-art-v003.png",
+      "sha256": "59c849c202c28825a73b0311e576d9d0e73b6d2f3f4352820460e31e7aee3714"
+    }
+  ],
+  "method": {
+    "url": "http://127.0.0.1:56824/Stories/S013-lights-camera-neet.md",
+    "actual_rendered_inspection": true,
+    "description": "Opened local reader in Codex in-app browser. Read all primary prose, refinement record, and provenance notes in consecutive overlapping viewport screenshots from title through final source hash; accessibility text supplied complete parallel text. Inspected every embedded illustration across its entire rendered area at reading size, in story sequence. Used read-only DOM measurement to confirm all three images loaded. No screenshot-only thumbnail or prose-only substitution.",
+    "viewport_css_pixels": [
+      1280,
+      720
+    ],
+    "paragraph_font_css_pixels": 20,
+    "image_display_sizes": [
+      [
+        960,
+        640
+      ],
+      [
+        960,
+        720
+      ],
+      [
+        960,
+        640
+      ]
+    ],
+    "complete_primary_read": true,
+    "complete_meaningful_alternatives_read": "No separately presented meaningful alternative in current story. Comedy-pass-v002 records full source comparison: legacy-ch14 and reader-52 duplicate narrative with acquisition-heading difference only; no alternative branch to render. This review read the current complete narrative and its provenance, and does not claim a new archive-source comparison."
+  },
+  "observations": {
+    "humor_and_timing": "Chair-movement repetition gives Buddy a physical comic problem before Neet takes over. The actor returning to the start motivates the wrong-direction exchange. Separate short paragraphs leave an effective pause between the plush failing to blink, Very confident, and Very washable. The prop picture follows the attack rather than revealing it before Neet mistakes the toy for an intruder.",
+    "voices": "Neet treats ordinary filming as escape and invasion, then inflates his accidental success into stardom. Buddy answers with dry object-level observations and has his own viewing-place goal. Heather has affectionate exasperation through two apologies in five minutes, gives permission before casting, and ends the repeat chase with He is caught enough. Historical Heather/dogs household remains intact.",
+    "cause_effect_and_payoff": "Samosa temptation leads into watching takes; interruption and collar escape lead to the toy attack; crew amusement prompts the offered role; Heather agrees and a handler collects Neet before the staged chase. Buddy elects not to join, then obtains the empty chair shade and unobstructed view. Actor fatigue closes the repeated-running misunderstanding. Homecoming praise and Shadow asking for the short version set up Buddy predicting several takes: the filming structure returns naturally as a storytelling joke.",
+    "placement": "Setup appears after Heather holds Neet at the samosa table and before Buddy sits: standing Buddy beside the occupied chair and collared Neet are correct. Prop appears after Neet has slipped the collar and tugged the fake fur, before Heather scoops him up beside the toppled retriever. Chase follows Buddy stepping under the empty chair and precedes Cut: actor and Neet are still running, and Buddy is planted in shade. No attribution is split by an image.",
+    "complementary_images": "First scene establishes two competing wants through occupied chair, snacks and leashes. Second brings the central mistaken-opponent gag close enough to read the plush seams and Neet gripping its fur. Third widens to the running cast and calm Buddy, paying off both dogs simultaneously. The three pictures vary scene scale and action, and the prose ending remains uninterrupted.",
+    "continuity": "Park daylight and equipment connect the three scenes. The dark folding chair occupation changes from crew member to Buddy only after prose declares it vacant. Neet loses collar after the explicit escape and remains collarless in the prop and chase pictures. Buddy remains recognizable at reading size in the broad chase composition. The secondary director chair in the prop backdrop is set equipment, not a contradictory claim about the occupied foreground chair. Historical tail language is retained source characterization; images retain the tiny nub.",
+    "rendered_readability": "20px serif prose and generous spacing were readable at normal viewport size. All images loaded with intact aspect ratios and were fully inspected through overlapping scroll positions. Artwork gives scene pauses without obscuring prose; the last callback and provenance are accessible and uncropped."
+  },
+  "closed_findings": [
+    {
+      "finding": "All selected images require independent visual clearance on the exact bytes read.",
+      "resolution": "visual-review-v002.json accepts all three selected images with no material open findings; its story and image hashes match this reading. Current rendered placements agree with the corrected coat/collar/scene states recorded there."
+    }
+  ],
+  "material_findings": [],
+  "open_findings": [],
+  "notes": [
+    "The dated refinement paragraph still reports reviews pending; this is a stage-history statement to reconcile during final collection integration, not a narrative or image defect.",
+    "This accepts the complete reading of the pinned current edition only. Visual style and human likeness remain provisional."
+  ],
+  "visual_review": {
+    "path": "Productions/E013-lights-camera-neet/visual-review-v002.json",
+    "sha256": "fa5be5e9773014fb193b7da11172d85ba06abc3a93793043f495f347798f1cff"
+  },
+  "approval": "unapproved",
+  "publication": "not_published"
+}

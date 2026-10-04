@@ -1,0 +1,92 @@
+{
+  "story_id": "S007",
+  "version": "v002",
+  "reviewer": "reading007 fresh independent complete-reading reviewer",
+  "date": "2026-10-04",
+  "status": "accepted",
+  "independence": "Did not write or generate this story or its images; owns only this review record.",
+  "story": {
+    "path": "Stories/S007-the-monkey-menace.md",
+    "sha256": "17e39c9772f625475cf32e8cd77dd1888a372c20304af6d49ff4730b72055600"
+  },
+  "images": [
+    {
+      "path": "Productions/E007-the-monkey-menace/arrival-art-v003.png",
+      "sha256": "3904c516fd2ff942165d077991d5955ffce777bcda7e864855380f51c6b1fa0f",
+      "status": "accepted",
+      "observation": "Arrival follows Buddy backward step and precedes Neet barking: chai, wary Buddy, forward Neet, fallen cloth and overturned pot match this state. Mango-eater makes the spectator joke visible; no can or broom prematurely enters the action."
+    },
+    {
+      "path": "Productions/E007-the-monkey-menace/bark-art-v004.png",
+      "sha256": "dd92a76513fc5843b8eda18399615bb5a08bcd72966fc18c7550e2ceca9d7b3a",
+      "status": "accepted",
+      "observation": "Bark reaction follows the stopped chewing/backward glance and precedes He tried it once more. Buddy looking behind himself carries the surprise, Neet remains by the leader, and the fallen can confirms the completed throw. The broom has not appeared yet. This shifts focus from Neet to Buddy rather than repeating arrival."
+    },
+    {
+      "path": "Productions/E007-the-monkey-menace/aftermath-art-v002.png",
+      "sha256": "809d88d6f1ffe68712ca1c2555ac6c7147dc4049d52c081fa0a0fca948f924c8",
+      "status": "accepted",
+      "observation": "Aftermath follows troop departure and nuzzle before hug. Heather is seated holding broom, Buddy leans at her knee, and Neet surveys wreckage. Broken pots set up Which bits? without spoiling the reply. Smooth coat replacement is visible in the rendered page; no monkeys remain."
+    }
+  ],
+  "method": {
+    "reader_url": "http://127.0.0.1:56824/Stories/S007-the-monkey-menace.md",
+    "inspection": "Complete top-to-bottom browser reading with overlapping viewport screenshots, including all three embedded images and final provenance. Full current Markdown, comedy-pass-v002 and visual-review-v002 also read. Complete previous working story and original legacy chapter read directly from their pinned archives.",
+    "viewport_pixels": [
+      1280,
+      720
+    ],
+    "rendered_image_sizes": [
+      [
+        960,
+        640
+      ],
+      [
+        960,
+        640
+      ],
+      [
+        960,
+        720
+      ]
+    ],
+    "all_images_loaded": true,
+    "screenshot_evidence": "Screenshots returned and visually inspected in this reviewer tool trajectory; no persistent screenshot files created.",
+    "scope": "Rendered reading at intended page size; separate native-resolution photo/anatomy acceptance remains in visual-review-v002."
+  },
+  "sources_read": [
+    {
+      "archive": "/Users/sagar/Documents/ChatGPT/NBC_Archives/NBC-before-expanded-refinement-2026-10-04_035505Z.tar.gz",
+      "member": "NBC/Stories/S007-the-monkey-menace.md",
+      "sha256": "01b408e0fbaac5bcfaac7475f42d9fc579c1cf17dac3749f067e1a6afd3d8aac"
+    },
+    {
+      "archive": "/Users/sagar/Documents/ChatGPT/NBC_Archives/NBC-before-reorganization-2026-10-03_182825.tar.gz",
+      "member": "NBC/02_Story_Library/Legacy_Chapters/08-the-monkey-menace.md",
+      "sha256": "86ffce497e3cf5f358af3ecf53178208a7c19113ba536c522af8c42371177eb6"
+    }
+  ],
+  "meaningful_alternatives": {
+    "count": 0,
+    "assessment": "No separately presented meaningful alternative. Historical original ending with possible slingshot remains in archive; prior working edition had already chosen broom equipment. Expanded pass preserves that choice and records it rather than merging endings."
+  },
+  "observations": [
+    "Original central incidents survive: Priya bungalow/Ahmedabad, rooftop chai, scarred leader, mangoes/pots/dupattas, missed watering can, two distinct Buddy interventions, Heather broom, troop retreat, nuzzle/hug, cleanup and indoor retreat. Sagar is not retroactively inserted.",
+    "Buddy has an independent destination from the opening. He chooses to stay beside Heather despite wanting indoors, discovers his bark works, deliberately repeats it, then physically interposes at the climax. His final wait ensures he gets everyone inside; his agency is causal, not commentary only.",
+    "Comic beats differ in mechanism: mango-eater spectator, ambitious assignment to calm Neet, Buddy checking for a larger dog, broken-pot literalism and Neet accepting done plenty as praise. They sit in reaction pauses, leaving the final lunge/rescue brisk.",
+    "Neet retains theatrical confidence, Buddy dry practical judgment, Heather fearful effort followed by affectionate exasperation. No narrator explains the final joke. Warm hug and hand on Buddy head preserve relief before doorway callback.",
+    "All three illustrations supply distinct setup, discovery and aftermath information. Each appears after its exact prose state and before a state-changing action. No dialogue attribution is separated by artwork. The final doorway payoff remains uninterrupted.",
+    "No clipping or failed image found in reader. Prose column and generous spacing stay legible. The larger aftermath image needs overlapping scrolling at 720px viewport height but reads as one continuous scene.",
+    "The editorial refinement note still says review awaits completion; this is stage metadata outside narrative and should be reconciled by integration after acceptance, with any changed story hash handled explicitly."
+  ],
+  "closed_findings": [
+    {
+      "id": "S007-V002-F01",
+      "status": "closed",
+      "basis": "Independent visual review pins corrected aftermath hash; same replacement is actually embedded and inspected at reader size. Both torso coats read as broad smooth tones, not etched curls; nuzzle/standing support and damage scene remain coherent."
+    }
+  ],
+  "unresolved_findings": [],
+  "approval": "unapproved",
+  "publication": "not_published"
+}

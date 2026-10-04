@@ -1,0 +1,108 @@
+{
+  "story_id": "S052",
+  "reviewer": "fresh-reader052",
+  "status": "accepted",
+  "story": {
+    "path": "Stories/S052-the-arrival-of-ganesha.md",
+    "sha256": "6905b3ce6ad042f60e96de04124e488fbc040ca45eb99728c65635a6650d025a"
+  },
+  "images": [
+    {
+      "path": "Productions/E052-the-arrival-of-ganesha/apple-art-v002.png",
+      "sha256": "23107455ce71e7049571f6e211369774298f884db0591cf51f851cdcec2bf503"
+    },
+    {
+      "path": "Productions/E052-the-arrival-of-ganesha/choir-art-v005.png",
+      "sha256": "9dfcae9e03a22f700da41047f65740e554b3b262e43d06aedea22ec250eecbc3"
+    },
+    {
+      "path": "Productions/E052-the-arrival-of-ganesha/offering-art-v003.png",
+      "sha256": "1a3ff4ab4947cc7335b8e90d1cc1670fa344917d833bfc917fafb3c0e55becd8"
+    },
+    {
+      "path": "Productions/E052-the-arrival-of-ganesha/evening-art-v002.png",
+      "sha256": "7d912eb3589f2e7ef4fc29eb16ad66e7ab06feccffee317bb4efe75bc4d5d358"
+    }
+  ],
+  "rendered_inspection": {
+    "url": "http://127.0.0.1:56824/Stories/S052-the-arrival-of-ganesha.md",
+    "method": "Actual browser screenshots after overlapping incremental scrolling, read from title to bottom footer. AX text supplemented screenshots; it did not substitute for them.",
+    "viewport": [
+      1280,
+      720
+    ],
+    "screenshots_inspected": 22,
+    "coverage": [
+      "Dawn: Suspicious Energy in the Air",
+      "Operation Temple Setup, including full apple image and subsequent exchange payoff",
+      "The Threshold Drama",
+      "Morning Aarti: Buddy’s Big Debut, including complete choir v005 image",
+      "Snack Sabotage",
+      "Afternoon Festivities: Buddy’s Holy Offering, including full offering image",
+      "Evening Aarti: The Fire Demon Incident, including full aftermath image",
+      "Dinner of Devotion",
+      "Night Benediction",
+      "Provenance and editorial notes",
+      "Refinement record"
+    ],
+    "primary_complete": true,
+    "all_embedded_images_viewed": true,
+    "meaningful_alternatives": {
+      "count": 0,
+      "assessment": "No alternative narrative occurs in this complete story; comedy record also identifies none. Provenance/footer read in full."
+    }
+  },
+  "observations": {
+    "humor_and_timing": [
+      "Holy snacks establishes appetite before the apple theft; the empty-hand exchange holds before Heather takes the apple, so the picture extends the comic pause rather than spoiling the action. Preparatory embarrassment earns its extra beat from the visibly empty throne.",
+      "Heather finishing while Buddy sustains his note has a readable pause; the picture sustains his howl before Sagar reassures him and Neet delivers rusty harmonium.",
+      "The assistant eater excuse leads into Neet being caught in the same temptation; Buddy’s lip-licking observation and one-tile retreat deflate the inspector without cruelty. Tilak licking repeats once with unchanged result, enough to establish determined absurdity."
+    ],
+    "cause_effect_and_voices": [
+      "Dawn preparation, empty shrine, arrival, morning service, snacks, afternoon gift, evening reflection, dinner and night follow a clear day. The prior shadow-chasing detail prepares Buddy’s reflection mistake.",
+      "Buddy makes active choices to taste, join singing, give his own toy and protect the family; Neet’s proud inspection gradually becomes a practical protective stance. Sagar gives calm limits and catches the plate; Heather retrieves the apple, pauses her singing and steadies/moves the lamp.",
+      "The lamp movement actually removes the stimulus; Buddy credits himself, and Neet preserves his dignity while blocking further lunges. This is an affectionate resolution, not an unexplained disappearance."
+    ],
+    "emotional_religious_ending": [
+      "The murti’s arrival has room for a sincere hush; devotional details remain part of family life while the dogs’ misunderstandings carry the jokes. No literal supernatural dialogue is added.",
+      "The final squeaker nudge pays off Buddy’s afternoon gift, which remains given; he wants the guest to enjoy it. The quiet ending is earned by his attempt to participate and Neet’s softening, with the prayer and shared human smile kept brief."
+    ],
+    "image_states_and_complementarity": [
+      {
+        "image": "apple-art-v002.png",
+        "observation": "Apple remains between couch-supported Buddy’s paws; Heather’s hand is empty, Neet objects below, and the throne is empty. Positioned before retrieval and before the murti arrives."
+      },
+      {
+        "image": "choir-art-v005.png",
+        "observation": "Buddy sits howling beside solemn seated Neet; Sagar holds the lit diya, Heather waits with joined hands, and Ganesha is installed. No premature toy offering. Corrected muzzle furnishing remains readable at story size."
+      },
+      {
+        "image": "offering-art-v003.png",
+        "observation": "Bone rests at Ganesha’s feet with Buddy’s nose touching it after the written nudge. Neet’s quiet sit supports the tonal turn from taking to giving. This lower, closer composition makes the object and intention clear."
+      },
+      {
+        "image": "evening-art-v002.png",
+        "observation": "Neet stands between Buddy and small floor reflection; pleased Buddy is contained behind him; plate is high, lamp secure, and bone remains on the shrine at twilight. The picture belongs after rescue and retreat, not during pounce."
+      }
+    ],
+    "reading_layout": "Large readable text, clear section breaks and complete images in the scrolling reader. Four scenes differ in activity and emotional role: disputed possession, eager singing, sincere giving, protective aftermath. The final unillustrated night paragraph retains its quiet ending."
+  },
+  "visual_review_evidence": {
+    "path": "Productions/E052-the-arrival-of-ganesha/visual-review-v002.json",
+    "sha256": "b075ff813f9b69676d9e7bd33d49219bf309dc50f4e506263c7402063f3f6503"
+  },
+  "closed_findings": [
+    {
+      "id": "S052-V002-01",
+      "assessment": "Independent visual record accepts whole replacement choir v005 and closes moustache defect. Current embedded file/hash matches that replacement; I viewed its complete rendered picture in sequence and saw no reading-level contradiction or regression."
+    }
+  ],
+  "material_findings": [],
+  "open_findings": [],
+  "approval": "unapproved",
+  "publication": "not_published",
+  "limitations": [
+    "This is complete illustrated reading review, not a replacement native-resolution/photo comparison audit.",
+    "Style and human likeness remain provisional; historical chronology and owner approval unresolved."
+  ]
+}

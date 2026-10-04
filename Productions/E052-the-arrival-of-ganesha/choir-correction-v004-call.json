@@ -1,0 +1,14 @@
+{
+  "name": "choir4",
+  "args": {
+    "prompt": "Use case: precise-object-edit. FIRST image is edit target. Make ONE LOCAL grooming correction around Buddy's open howling mouth (the larger charcoal dog on right). Replace his too-smooth cream upper-muzzle/lip band with a clearly visible modest irregular projecting MOUSTACHE: distinct short cream locks sweep outward and forward from BOTH sides of upper muzzle, small uneven tufts project beyond the upper lip silhouette especially viewer-right edge, anatomically follow raised muzzle. Add a separate small projecting chin beard below lower jaw. SECOND image original Buddy photo is grooming authority for irregular moustache and modest chin furnishings, not pose or lighting. Preserve black lips, open mouth, teeth/tongue and howl readability. Do not turn facial hair into enormous white bib or long beard. Preserve EVERY OTHER THING from first image: normal continuous raised neck, hanging ears and brows, supported sit, exact paws, two dogs scale and positions, humans, lamp, shrine, rug. Both dog bodies MUST remain opaque smooth CEL-PAINTED shapes with NO curly/engraved/hair strokes. No changes to body rendering. Only moustache and small chin beard change. No text.",
+    "referenced_image_paths": [
+      "/Users/sagar/Documents/ChatGPT/NBC/Productions/E052-the-arrival-of-ganesha/choir-art-v003.png",
+      "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg"
+    ],
+    "transparent_background": false
+  },
+  "result": {
+    "output_hint": "Generated images are saved to /Users/sagar/.codex/generated_images/01a10717-a45d-7a83-802b-197faca2f5b7 as /Users/sagar/.codex/generated_images/01a10717-a45d-7a83-802b-197faca2f5b7/exec-4e8b1e32-cb9d-4778-ab1a-043f45b550d7.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+  }
+}

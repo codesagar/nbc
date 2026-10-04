@@ -1,0 +1,348 @@
+{
+  "story_id": "S068",
+  "episode_id": "E068",
+  "review_version": "v002",
+  "date": "2026-10-04",
+  "reviewer": "independent visual068",
+  "independent_of_generation": true,
+  "status": "accepted",
+  "scope": "Independent inspection of all three current proposed final illustrations; no generation, prose, master or episode changes.",
+  "story": {
+    "path": "Stories/S068-the-piedmont-park-wedding.md",
+    "sha256": "1f9c7d867e743d31bdf4cd65b61d11a207470158c2dd665fab704c0e5c06ef2a"
+  },
+  "complete_primary_read": true,
+  "meaningful_alternatives": "No separate alternative narrative in current story. Piedmont Park ceremony is kept separate from India wedding recollection; chronology remains unresolved.",
+  "inspection_method": "Opened all four selected original files with original-detail image viewer, actual 1536x1024 finals at native resolution, current 1536x1024 drawn staging and model-finish-calibration-v004. Source photos display downsampled by viewer; photographic proportions were not measured. Inspected additional 1:1 final-image concern crops (no resizing or content modification) for coat texture.",
+  "guidance_read": [
+    "README.md",
+    "AGENTS.md",
+    "Studio/Open-Questions.md",
+    "Studio/Writing.md",
+    "Studio/Production.md",
+    "Characters/Neet/README.md",
+    "Characters/Buddy/README.md",
+    "Productions/Library-Refinement/expanded-commission.txt",
+    "Productions/Library-Refinement/expanded-commission.md",
+    "Productions/Library-Refinement/agent-assignment.md"
+  ],
+  "selected_originals": [
+    {
+      "path": "Characters/Neet/Photos/neet-19.jpeg",
+      "sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+      "dimensions": [
+        5712,
+        4284
+      ],
+      "id": "N19",
+      "same_exposure_group": null,
+      "full_effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "styling",
+          "standing_pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Primary standing body proportions, paws, hocks and stub silhouette; head is not a pure profile.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Head rotated; far limbs overlap; uncalibrated camera offers no measurements; room light subdued"
+        ],
+        "inspection_sha256": "b2c6db0a5af6a885d993cbd986cc2759b9461e693fbcabd8aa96bce1eb5ea901",
+        "source_sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N19.json"
+      },
+      "opened": true
+    },
+    {
+      "path": "Characters/Buddy/Photos/buddy-29.jpeg",
+      "sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+      "dimensions": [
+        5712,
+        4284
+      ],
+      "id": "B29",
+      "same_exposure_group": null,
+      "full_effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Best available lateral body-length, tail-length/carriage and walking-pose reference; weak fine landmarks because blurred and not neutral standing.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Motion blur and lifted legs; cannot establish neutral back slope, exact leg ratios or gait timing from still"
+        ],
+        "inspection_sha256": "c671664ca5e4e2e07bfd3049ea641c3a1645742fb8290494e67a17f7ed213ea9",
+        "source_sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B29.json"
+      },
+      "opened": true
+    },
+    {
+      "path": "Characters/Neet/Photos/neet-5.jpeg",
+      "sha256": "4a975becfbbb30eba156a048bdc6cd464ef9816fe894e8882e1088517d6a1b0e",
+      "dimensions": [
+        5712,
+        4284
+      ],
+      "id": "N05",
+      "same_exposure_group": null,
+      "full_effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "styling"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Excellent seated geometry, neck, muzzle projection and leg reference.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Seated geometry only; far side and tail concealed; Buddy-like dog background is blurred"
+        ],
+        "inspection_sha256": "9271cf81276480ce1bb2f7de2053da9440bf661212a27fb32809603b7c073f91",
+        "source_sha256": "4a975becfbbb30eba156a048bdc6cd464ef9816fe894e8882e1088517d6a1b0e",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N05.json"
+      },
+      "opened": true
+    },
+    {
+      "path": "Characters/Buddy/Photos/buddy-6.jpg",
+      "sha256": "529eb0e7157b9837e577f94e5037d7bd7afe9ecad3de133b3cfa8efe829b03b1",
+      "dimensions": [
+        4284,
+        5712
+      ],
+      "id": "B06",
+      "same_exposure_group": null,
+      "full_effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "styling"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Excellent composed sit and groomed frontal face; useful chest width; unreliable full foreleg length.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Bed rim hides paws; tie obscures center throat/chest; torso depth unavailable"
+        ],
+        "inspection_sha256": "6bb9f1686b67577e5e547c554f15aaa4923e77728dcf39c599d95befa342684c",
+        "source_sha256": "529eb0e7157b9837e577f94e5037d7bd7afe9ecad3de133b3cfa8efe829b03b1",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B06.json"
+      },
+      "opened": true
+    }
+  ],
+  "restrictions": [
+    "N35 excludes anatomy",
+    "B08 styling only",
+    "B25 unavailable",
+    "B30 supplemental rest only",
+    "One exposure counts once",
+    "Human likeness provisional"
+  ],
+  "supporting_inputs": [
+    {
+      "path": "Productions/E068-the-piedmont-park-wedding/staging-v004.png",
+      "sha256": "68a52ea032e88814f94ac045f4dc064a27390c08cbfcf62828dfcfa5f369ec2b",
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "path": "Productions/Library-Refinement/model-finish-calibration-v004.png",
+      "sha256": "193dc8f81770a87933c6c599fce5a04f3c51cfbe21898459be2b511e989910a3",
+      "dimensions": [
+        1448,
+        1086
+      ]
+    },
+    {
+      "path": "Productions/E068-the-piedmont-park-wedding/artwork-generation-v002.json",
+      "sha256": "3c8c35796b967c6be4f5c439452e171a6e44dd2d9d9f1e0f6099e086c0f198fc"
+    },
+    {
+      "path": "Productions/E068-the-piedmont-park-wedding/reference-selection-v002.json",
+      "sha256": "0548f234926aaae74ac6152bf53df454a34dcaa9bad593ebd10f3e332546b796"
+    }
+  ],
+  "supporting_input_observations": "Actual drawn sheet covers all three scenes, distinct people/limb construction and ring states. Generated calibration sheet itself contains body texture and is an interpretation only; it does not authorize importing curls into close coats. Originals control identity.",
+  "images": [
+    {
+      "path": "Productions/E068-the-piedmont-park-wedding/rings-art-v005.png",
+      "sha256": "6b93ea618b10d3ee7dd4cb1cbb21c4daa123ac30fb5f3f046f58265a22f9f208",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "status": "accepted",
+      "native_resolution_opened": true,
+      "observations": [
+        "Neet retains full narrow torso, fine individually owned legs, substantial triangular ears, projecting muzzle and tiny nub. New tan coat is smooth broad shading; no curled tan body strokes remain.",
+        "Buddy has connected neck/torso and visible clearance. Near forelegs, near hind leg and occluded far hind leg can be assigned; planted feet support the stand. Furnished pale muzzle/brows and hanging ears retain identity.",
+        "Two rings are on the pillow visibly held at Neet mouth; butterfly rests on Buddy nose. Aisle, arch, saree, charcoal suit, pond and skyline support this precise Atlanta ceremony beat. Low viewpoint makes solemn ring duty and Buddy stillness readable.",
+        "Actual replacement opened at full native 1536x1024 and affected regions inspected again in 1:1 crops. Previously flagged curled/engraved strokes have been removed, leaving smooth broad shading. Entire replacement checked for anatomy, support, tail, wardrobe, expressions, props and setting drift; no new material defect found."
+      ]
+    },
+    {
+      "path": "Productions/E068-the-piedmont-park-wedding/dance-art-v003.png",
+      "sha256": "d9cea50a8d37ceee476b0e01707768fa732530a4c895c6a7db2d471389437f26",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "status": "accepted",
+      "native_resolution_opened": true,
+      "observations": [
+        "Neet has three planted paws and a clearly lifted front paw attached through the shoulder; fine limbs, projecting muzzle, triangular ears, supported torso and tiny nub remain coherent.",
+        "Buddy has continuous moderately elongated torso, four owned supporting legs, visible belly clearance and a tapering tail with modest fringe. Close smooth body/upper legs contrast appropriately with regional face/ear/paw furnishing; no material curled torso pattern found.",
+        "Sagar owns the arm securing the lantern against chest and the raised arm connected to Heather raised hand; Heather separate lowered arm and turning skirt read clearly. Ground contacts/reflections support the dancers and dogs.",
+        "Caught lantern and dogs watching match post-catch anchor; no premature flower-girl pickup or ring pillow. Warm daylight precedes the sunset scene. Comic intrusion resolves through the uninterrupted human dance."
+      ]
+    },
+    {
+      "path": "Productions/E068-the-piedmont-park-wedding/picnic-art-v004.png",
+      "sha256": "27acca1bc0a6c373cad4058063e05c0817dbf730de7ea5407fab80c56f14056f",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "status": "accepted",
+      "native_resolution_opened": true,
+      "observations": [
+        "Both seated dog bodies connect to supported hindquarters. Buddy visible foreleg and overlapping planted hind paws can be assigned; Neet rear view occludes front legs plausibly. Human arms connect to the correct shoulders. No duplicate or detached limb found.",
+        "Buddy lean beside Heather, Neet beside Sagar, calm pond/skyline, wedding attire and empty ring pillow fit the exact late-day family beat before Buddy puts pillow beneath chin. Composition adds a quiet complementary ending rather than repeating ceremony/dance.",
+        "Neet tiny nub and Buddy extended tapering dark tail remain distinct. Buddy muzzle, brows and ear furnishing preserve recognizable identity. Human likeness and drawing style remain provisional.",
+        "Actual replacement opened at full native 1536x1024 and affected regions inspected again in 1:1 crops. Previously flagged curled/engraved strokes have been removed, leaving smooth broad shading. Entire replacement checked for anatomy, support, tail, wardrobe, expressions, props and setting drift; no new material defect found."
+      ]
+    }
+  ],
+  "material_findings": [
+    {
+      "id": "E068-V002-01",
+      "image": "rings-art-v004.png",
+      "category": "grooming_finish",
+      "status": "closed",
+      "action": "Remove curled/engraved strokes from Buddy exposed side and upper legs; preserve regional face/ear/paw furnishing and all composition. Reinspect complete replacement.",
+      "resolution": "Actual replacement inspected at native resolution with concern crops; flagged directional coat strokes removed with connected anatomy and exact scene state preserved.",
+      "replacement": "rings-art-v005.png"
+    },
+    {
+      "id": "E068-V002-02",
+      "image": "picnic-art-v003.png",
+      "category": "grooming_finish",
+      "status": "closed",
+      "action": "Smooth Neet rump and Buddy haunch into broad short-coat shading with no discrete wavy/curled marks. Preserve supported seated anatomy, distinct tails, empty pillow and sunset. Reinspect complete replacement.",
+      "resolution": "Actual replacement inspected at native resolution with concern crops; flagged directional coat strokes removed with connected anatomy and exact scene state preserved.",
+      "replacement": "picnic-art-v004.png"
+    }
+  ],
+  "approval": "unapproved",
+  "publication": "not_published",
+  "next_action": "Fresh complete illustrated reading of all three current images; owner approval remains unapproved.",
+  "review_history": [
+    {
+      "status": "needs_rework",
+      "images": [
+        {
+          "path": "Productions/E068-the-piedmont-park-wedding/rings-art-v004.png",
+          "sha256": "64c5fc7726d4808fd5ecca72418fc88604325ee8c09885585558d0632755d756",
+          "dimensions": [
+            1536,
+            1024
+          ],
+          "status": "needs_rework",
+          "native_resolution_opened": true,
+          "observations": [
+            "Neet retains full narrow torso, fine individually owned legs, substantial triangular ears, projecting muzzle and tiny nub. New tan coat is smooth broad shading; no curled tan body strokes remain.",
+            "Buddy has connected neck/torso and visible clearance. Near forelegs, near hind leg and occluded far hind leg can be assigned; planted feet support the stand. Furnished pale muzzle/brows and hanging ears retain identity.",
+            "Two rings are on the pillow visibly held at Neet mouth; butterfly rests on Buddy nose. Aisle, arch, saree, charcoal suit, pond and skyline support this precise Atlanta ceremony beat. Low viewpoint makes solemn ring duty and Buddy stillness readable.",
+            "Material finish defect: Buddy exposed upper forelegs, especially image x690-748/y582-709 and x837-891/y569-695, contain dense short curved/looping light and dark strokes. Similar marks remain on visible dark side behind pillow. This is directional engraved coat rendering, not watercolor granulation, and implies curly texture inconsistent with close coat."
+          ]
+        },
+        {
+          "path": "Productions/E068-the-piedmont-park-wedding/dance-art-v003.png",
+          "sha256": "d9cea50a8d37ceee476b0e01707768fa732530a4c895c6a7db2d471389437f26",
+          "dimensions": [
+            1536,
+            1024
+          ],
+          "status": "accepted",
+          "native_resolution_opened": true,
+          "observations": [
+            "Neet has three planted paws and a clearly lifted front paw attached through the shoulder; fine limbs, projecting muzzle, triangular ears, supported torso and tiny nub remain coherent.",
+            "Buddy has continuous moderately elongated torso, four owned supporting legs, visible belly clearance and a tapering tail with modest fringe. Close smooth body/upper legs contrast appropriately with regional face/ear/paw furnishing; no material curled torso pattern found.",
+            "Sagar owns the arm securing the lantern against chest and the raised arm connected to Heather raised hand; Heather separate lowered arm and turning skirt read clearly. Ground contacts/reflections support the dancers and dogs.",
+            "Caught lantern and dogs watching match post-catch anchor; no premature flower-girl pickup or ring pillow. Warm daylight precedes the sunset scene. Comic intrusion resolves through the uninterrupted human dance."
+          ]
+        },
+        {
+          "path": "Productions/E068-the-piedmont-park-wedding/picnic-art-v003.png",
+          "sha256": "7d2e86c9d982d5fbd8db52c38949c98f28e3395caea6d53fca2d2ac003ad4a38",
+          "dimensions": [
+            1536,
+            1024
+          ],
+          "status": "needs_rework",
+          "native_resolution_opened": true,
+          "observations": [
+            "Both seated dog bodies connect to supported hindquarters. Buddy visible foreleg and overlapping planted hind paws can be assigned; Neet rear view occludes front legs plausibly. Human arms connect to the correct shoulders. No duplicate or detached limb found.",
+            "Buddy lean beside Heather, Neet beside Sagar, calm pond/skyline, wedding attire and empty ring pillow fit the exact late-day family beat before Buddy puts pillow beneath chin. Composition adds a quiet complementary ending rather than repeating ceremony/dance.",
+            "Neet tiny nub and Buddy extended tapering dark tail remain distinct. Buddy muzzle, brows and ear furnishing preserve recognizable identity. Human likeness and drawing style remain provisional.",
+            "Material finish defect: Neet exposed rump at x1037-1180/y730-827 carries fine dense wavy/curled etched strokes, rather than broad smooth tan shading. Buddy exposed haunch x212-405/y689-836 likewise retains a field of directional wavy/curled strokes. These are visible in native crops and should be simplified to smooth short-coat color planes with only nondirectional wash variation."
+          ]
+        }
+      ],
+      "material_findings": [
+        {
+          "id": "E068-V002-01",
+          "image": "rings-art-v004.png",
+          "category": "grooming_finish",
+          "status": "open",
+          "action": "Remove curled/engraved strokes from Buddy exposed side and upper legs; preserve regional face/ear/paw furnishing and all composition. Reinspect complete replacement."
+        },
+        {
+          "id": "E068-V002-02",
+          "image": "picnic-art-v003.png",
+          "category": "grooming_finish",
+          "status": "open",
+          "action": "Smooth Neet rump and Buddy haunch into broad short-coat shading with no discrete wavy/curled marks. Preserve supported seated anatomy, distinct tails, empty pillow and sunset. Reinspect complete replacement."
+        }
+      ],
+      "note": "Initial native inspection; replaced art preserved in external before-visual-correction-v003.tar.gz."
+    }
+  ],
+  "open_material_findings": [],
+  "reinspection": {
+    "date": "2026-10-04",
+    "all_current_images_pinned": true,
+    "unchanged_dance": "Prior accepted native inspection retained; unchanged SHA-256 verified.",
+    "generation_record": {
+      "path": "Productions/E068-the-piedmont-park-wedding/artwork-generation-v003.json",
+      "sha256": "e9763df52ca12d63beb0b590953b15271908f9503321912d0888dd85e464833a"
+    },
+    "concern_regions": "Rings Buddy exposed upper legs/side; picnic Neet rump and Buddy haunch, all 1:1 crops opened.",
+    "style_note": "Simplified cel-like smooth coat planes are deliberate close-coat rendering. Photographic identity remains controlled by originals; generated style and human likeness remain provisional."
+  }
+}

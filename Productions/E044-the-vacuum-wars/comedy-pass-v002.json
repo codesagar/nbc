@@ -1,0 +1,87 @@
+{
+  "story": "S044",
+  "version": "comedy-pass-v002",
+  "status": "editorial_pass_complete_pending_independent_reading",
+  "sources": [
+    {
+      "path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S044-expanded/S044-the-vacuum-wars.md",
+      "sha256": "e425f89591bdac30a57fa05b6dadcc3125c4b999b42a40b7c1887a00d38846b4",
+      "read_complete": true
+    },
+    {
+      "path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S044-expanded/original.txt",
+      "sha256": "5fa3b412c30759cdd1d23ed81a00b02927d34f6e33998e5c3a885568a53eb7fd",
+      "read_complete": true
+    },
+    {
+      "path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S044-expanded/S043-the-great-laundry-day-uprising.md",
+      "sha256": "54b4e6aef989c24b213babd3506fd559b3882cc580e6b02d41d333a9a265ed2f",
+      "read_complete": true
+    }
+  ],
+  "source_decisions": {
+    "meaningful_alternatives": "None in working story or sole recovered original; do not invent variants.",
+    "chronology": "Explicit morning-after laundry connection retained; connected S043 pinned immediately at read to isolate concurrent revision. Independent captured Chapter17 retained; shelf rank does not prove history.",
+    "voice": "4.75-star rank and final kingdom/serpent metaphors retained as this story wording; not normalized to bible 4.9."
+  },
+  "comic_situation": "Dogs interpret ordinary floor cleaning as invasion; humans must finish housekeeping and get breakfast.",
+  "wants": {
+    "Neet": "Defend food territory and receive recognition for repelling the vacuum.",
+    "Buddy": "Preserve rescued blue sock and personal safety, then obtain credit for a useful tactical contribution.",
+    "collision": "Neet commands heroic action while Buddy has already chosen practical retreat; Buddy later joins under his own cautious plan."
+  },
+  "preserved": [
+    "Announcement and alarm",
+    "Corded machine from closet",
+    "Low charge and couch trench barks",
+    "Rightfully mine Cheerio grievance",
+    "Two steps retreat versus three advance",
+    "Cord flanking",
+    "14 sneak attacks and 9 flanks",
+    "Victory claim followed by muddy rug",
+    "Breakfast and cord-trip correction",
+    "Evening ottoman, Heather curl, closet plotting final line"
+  ],
+  "changes": [
+    "Sagar setting down chai becomes visible warning sign.",
+    "Buddy objects internally to being ordered into a decision already made.",
+    "Buddy times bark retreat to machine noise; useful comic cautious agency.",
+    "Yesterday Cheerio/save it exchange sharpens Neet entitlement.",
+    "Stopped machine and Neet seeking witness adds physical comic pause.",
+    "Buddy encirclement returns him to starting point.",
+    "Buddy clean-foot choice earns separate comic credit beside Neet mud.",
+    "Sagar offers to fetch machine again and Heather chooses breakfast.",
+    "The cord came at me reframes trip as enemy attack."
+  ],
+  "ending": "Keep original calm domestic closing and supposedly plotting closet, avoiding extra last-line gag.",
+  "complete_reread_comparison": {
+    "current_read_complete": true,
+    "previous_working_read_complete": true,
+    "original_read_complete": true,
+    "connected_read_complete": true,
+    "result": "All seven acts, distinctive dialogue/incidents, numeric counts, ranks, household and ending retained. Additions are situational and Buddy-specific, no merged alternatives or new chronology. Corrected new leave-vacuum-out line to get-vacuum-again because machine already stored. Primary image placement splits stopped-at-mud from stepping-around action.",
+    "original_provenance_unchanged": true
+  },
+  "illustration_plan": [
+    {
+      "id": "sock-retreat",
+      "contribution": "Contrasting threat response and sock priority before machine is plugged in.",
+      "anchor": "After Buddy objects to sensible decision becoming order; end Act II."
+    },
+    {
+      "id": "kitchen-standoff",
+      "contribution": "Retain existing dynamic confrontation and cord flank.",
+      "anchor": "After Buddy encirclement in Act IV."
+    },
+    {
+      "id": "mud-victory",
+      "contribution": "Quiet reversal after triumph; Buddy sees muddy trail without stepping in it.",
+      "anchor": "After Buddy stopped at edge, before he steps around; rug still on floor."
+    }
+  ],
+  "alternative_illustration_assessment": "None present; no primary-only scene inserted into an alternative.",
+  "approval": "unapproved",
+  "publication": "not_published",
+  "story_sha256": "dd0e1ede5932a48ad26a2460b552651760c596602ac6b56fb04d41775e873587",
+  "art_only_repair": "All three embedded image paths advanced to v004 after independent coat findings; prose and exact state anchors unchanged."
+}

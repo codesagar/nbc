@@ -1,0 +1,458 @@
+{
+  "story_id": "S010",
+  "version": "v002",
+  "reviewer": "independent non-generating visual reviewer /root/coordinate009_016/visual010",
+  "status": "accepted",
+  "approval": "unapproved",
+  "publication": "not_published",
+  "method": "Read complete revised story and guidance, opened all four selected original photographs, both rendered models, actual drawn staging and finish-only calibration. Opened each proposed finished image with view_image detail original at its full native dimensions. No artwork generated or changed. Original large photographs were displayed by viewer at its documented display limit; finals remained native size.",
+  "story": {
+    "path": "Stories/S010-neets-gang-faces-the-night-stalkers.md",
+    "sha256": "555e767362f8414344f1bb0303f3bf48ca84a991f8b7fe6caeecfb0f043c6044"
+  },
+  "provenance_record": {
+    "path": "Productions/E010-neets-gang-faces-the-night-stalkers/artwork-generation-v002.json",
+    "sha256": "a870132351eb1be5d9c053decb32a5c8460c7124f3486d50fa535d249651f9ca"
+  },
+  "references": [
+    {
+      "id": "N19",
+      "character": "Neet",
+      "path": "Characters/Neet/Photos/neet-19.jpeg",
+      "filename": "neet-19.jpeg",
+      "sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+      "archived_source_path": "03_Asset_Library/Characters/Neet/neet-19.jpeg",
+      "same_exposure_group": null,
+      "use": "Primary body-level side standing and tail nub",
+      "approval_status": "unknown",
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "styling",
+          "standing_pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Primary standing body proportions, paws, hocks and stub silhouette; head is not a pure profile.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Head rotated; far limbs overlap; uncalibrated camera offers no measurements; room light subdued"
+        ],
+        "inspection_sha256": "b2c6db0a5af6a885d993cbd986cc2759b9461e693fbcabd8aa96bce1eb5ea901",
+        "source_sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N19.json"
+      },
+      "source_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose",
+          "resting_pose",
+          "styling"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Primary standing body proportions, paws, hocks and stub silhouette; head is not a pure profile.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state."
+        ],
+        "evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md"
+      },
+      "source_observation": {
+        "date": "2026-10-03",
+        "pose_view_camera": "Standing left-facing side with head toward camera; near body-level",
+        "visible_features": "Tiny short tan rump nub; near-square qualitative standing impression; long slender legs; full ribcage/thigh; moderate ventral rise; smooth short coat",
+        "limitations": "Head rotated; far limbs overlap; uncalibrated camera offers no measurements; room light subdued",
+        "recommended_uses": [
+          "standing_pose",
+          "visible_anatomy",
+          "styling"
+        ],
+        "full_restrictions": [
+          "Primary standing body proportions, paws, hocks and stub silhouette; head is not a pure profile.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Head rotated; far limbs overlap; uncalibrated camera offers no measurements; room light subdued"
+        ]
+      },
+      "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N19.json",
+      "inspection_sha256": "b2c6db0a5af6a885d993cbd986cc2759b9461e693fbcabd8aa96bce1eb5ea901"
+    },
+    {
+      "id": "N29",
+      "character": "Neet",
+      "path": "Characters/Neet/Photos/neet-29.jpeg",
+      "filename": "neet-29.jpeg",
+      "sha256": "dedcc7d8bcbc5da7e2441352200025606fc971644d0cbacd24e8465db8dcdc16",
+      "archived_source_path": "03_Asset_Library/Characters/Neet/neet-29.jpeg",
+      "same_exposure_group": null,
+      "use": "Frontal standing chest and leg clearance",
+      "approval_status": "unknown",
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "styling",
+          "standing_pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Primary frontal standing proportions, leg slenderness, head/body scale and chest markings.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Body depth foreshortened; tail hidden; light/shadow affect colors; exact ratios unknown"
+        ],
+        "inspection_sha256": "af30873f7f392d2503a668667ed619b8d183d685403e25977ce3fe23d9359802",
+        "source_sha256": "dedcc7d8bcbc5da7e2441352200025606fc971644d0cbacd24e8465db8dcdc16",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N29.json"
+      },
+      "source_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose",
+          "resting_pose",
+          "styling"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Primary frontal standing proportions, leg slenderness, head/body scale and chest markings.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state."
+        ],
+        "evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md"
+      },
+      "source_observation": {
+        "date": "2026-10-03",
+        "pose_view_camera": "Frontal standing outdoors; near chest-height with slight elevation",
+        "visible_features": "Long thin foreleg columns; narrow front; small compact dark-clawed paws; large ears; pale throat and central bib; tan torso",
+        "limitations": "Body depth foreshortened; tail hidden; light/shadow affect colors; exact ratios unknown",
+        "recommended_uses": [
+          "standing_pose",
+          "visible_anatomy",
+          "styling"
+        ],
+        "full_restrictions": [
+          "Primary frontal standing proportions, leg slenderness, head/body scale and chest markings.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Body depth foreshortened; tail hidden; light/shadow affect colors; exact ratios unknown"
+        ]
+      },
+      "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N29.json",
+      "inspection_sha256": "af30873f7f392d2503a668667ed619b8d183d685403e25977ce3fe23d9359802"
+    },
+    {
+      "id": "B04",
+      "character": "Buddy",
+      "path": "Characters/Buddy/Photos/buddy-4.jpg",
+      "filename": "buddy-4.jpg",
+      "sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+      "archived_source_path": "03_Asset_Library/Characters/Buddy/buddy-4.jpg",
+      "same_exposure_group": "B04-B24",
+      "use": "Primary frontal standing and groomed facial pattern",
+      "approval_status": "unknown",
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "styling",
+          "standing_pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Excellent front-leg clearance, chest pattern and groomed face; useful standing stance. Same photographic exposure as B24 for evidence counting.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Tail partly cropped at left; grass hides toes; perspective foreshortens torso; B24 same exposure in separate encoding"
+        ],
+        "inspection_sha256": "dd7da906a0e61eb4cdbd84eac3c97fea3318813d5a874c4e6cd4d8d3ba890797",
+        "source_sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B04.json"
+      },
+      "source_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose",
+          "resting_pose",
+          "styling"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Excellent front-leg clearance, chest pattern and groomed face; useful standing stance. Same photographic exposure as B24 for evidence counting.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state."
+        ],
+        "evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+        "same_exposure_group": "B04-B24"
+      },
+      "source_observation": {
+        "date": "2026-10-03",
+        "pose_view_camera": "Standing front three-quarter outdoors; approximately chest-level",
+        "visible_features": "Deep chest; substantial leg shafts; pale lower legs and splaying foot hair; dark torso; pale chest sides/dark throat; long pendant ear fringe; pale muzzle/brows",
+        "limitations": "Tail partly cropped at left; grass hides toes; perspective foreshortens torso; B24 same exposure in separate encoding",
+        "recommended_uses": [
+          "standing_pose",
+          "visible_anatomy",
+          "styling"
+        ],
+        "full_restrictions": [
+          "Excellent front-leg clearance, chest pattern and groomed face; useful standing stance. Same photographic exposure as B24 for evidence counting.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Tail partly cropped at left; grass hides toes; perspective foreshortens torso; B24 same exposure in separate encoding"
+        ]
+      },
+      "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B04.json",
+      "inspection_sha256": "dd7da906a0e61eb4cdbd84eac3c97fea3318813d5a874c4e6cd4d8d3ba890797"
+    },
+    {
+      "id": "B29",
+      "character": "Buddy",
+      "path": "Characters/Buddy/Photos/buddy-29.jpeg",
+      "filename": "buddy-29.jpeg",
+      "sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+      "archived_source_path": "03_Asset_Library/Characters/Buddy/buddy-29.jpeg",
+      "same_exposure_group": null,
+      "use": "Side stride, torso length, leg clearance and tail curve",
+      "approval_status": "unknown",
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Best available lateral body-length, tail-length/carriage and walking-pose reference; weak fine landmarks because blurred and not neutral standing.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Motion blur and lifted legs; cannot establish neutral back slope, exact leg ratios or gait timing from still"
+        ],
+        "inspection_sha256": "c671664ca5e4e2e07bfd3049ea641c3a1645742fb8290494e67a17f7ed213ea9",
+        "source_sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B29.json"
+      },
+      "source_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose",
+          "resting_pose",
+          "styling"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Best available lateral body-length, tail-length/carriage and walking-pose reference; weak fine landmarks because blurred and not neutral standing.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state."
+        ],
+        "evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md"
+      },
+      "source_observation": {
+        "date": "2026-10-03",
+        "pose_view_camera": "Left-facing walking side view indoors; near body-level",
+        "visible_features": "Elongated dark trunk; projecting muzzle/pendant ears; pale lower legs; dark tapering tail held low with gentle curve; underside hair fringe",
+        "limitations": "Motion blur and lifted legs; cannot establish neutral back slope, exact leg ratios or gait timing from still",
+        "recommended_uses": [
+          "pose",
+          "visible_anatomy"
+        ],
+        "full_restrictions": [
+          "Best available lateral body-length, tail-length/carriage and walking-pose reference; weak fine landmarks because blurred and not neutral standing.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Motion blur and lifted legs; cannot establish neutral back slope, exact leg ratios or gait timing from still"
+        ]
+      },
+      "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B29.json",
+      "inspection_sha256": "c671664ca5e4e2e07bfd3049ea641c3a1645742fb8290494e67a17f7ed213ea9"
+    }
+  ],
+  "restrictions": [
+    "N35 excludes anatomy; unused.",
+    "B08 styling only; unused.",
+    "B25 unavailable; unused.",
+    "B30 supplemental resting only; unused.",
+    "B04/B24 one exposure; only B04 selected.",
+    "Photographs establish visible regions only; generated models and finish calibration establish no anatomy or owner approval."
+  ],
+  "inspected_support": [
+    {
+      "path": "Productions/Library-Refinement/model-standing-v002.png",
+      "sha256": "c4c6b607727759b347f93ccef664b0ac4b9a8ade512908343748fb9e2a96e9b6",
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "path": "Productions/Library-Refinement/model-finish-calibration-v004.png",
+      "sha256": "193dc8f81770a87933c6c599fce5a04f3c51cfbe21898459be2b511e989910a3",
+      "dimensions": [
+        1448,
+        1086
+      ]
+    },
+    {
+      "path": "Productions/E010-neets-gang-faces-the-night-stalkers/expanded-staging-v003.png",
+      "sha256": "36be605fb03d2332d99ae89ea7a43ffd880c220612a8686e5f6d6a1ba5312842",
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "path": "Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+      "sha256": "19be9a85760177405bbedd26644a7e0eb9c7945709e43825d201ff2fa91742b9",
+      "dimensions": [
+        1536,
+        1024
+      ]
+    }
+  ],
+  "images": [
+    {
+      "image": {
+        "path": "Productions/E010-neets-gang-faces-the-night-stalkers/inspection-art-v002.png",
+        "sha256": "0e7940ffba926c60920891ba96f840645c69eaf8d48f6c6c2231c3e3e73bdb8b",
+        "dimensions": [
+          1536,
+          1024
+        ]
+      },
+      "status": "accepted",
+      "observations": [
+        "Neet has four traceable legs with feet on the stone, continuous narrow full torso and neck, large triangular ears and tiny nub; forward lean is supported and reads as overly serious inspection.",
+        "Buddy has a coherent resting ribcage/haunch, chin near forepaws and hind support on the cloth; no detached limbs or shortened trunk. Dark torso uses broad smooth shapes. Furnished ears, brows, moustache, distal regions and modest tail fringe are regional, not whole-body shag.",
+        "Food lies on the ground between the dogs; Buddy rests while Neet leans. Banyan, warm streetlamp, dark moonless sky and no humans match this narrative state. Clear visual contrast supports the setup joke.",
+        "Full-resolution finish is clean; broad light and shadow regions are not engraved coat strokes or raised shag contours."
+      ],
+      "material_findings": []
+    },
+    {
+      "image": {
+        "path": "Productions/E010-neets-gang-faces-the-night-stalkers/defense-art-v002.png",
+        "sha256": "c07b9baeb91c9f775d3421f86731a887b20c0596ffbfa8dc6e2d2bac65c87907",
+        "dimensions": [
+          1536,
+          1024
+        ]
+      },
+      "status": "accepted",
+      "observations": [
+        "Buddy, brown Chikki and gray greyhound remain spatially separate with owned limbs and grounded feet. Buddy retains continuous moderately elongated trunk, substantial legs, clearance, neck and low tapered tail.",
+        "The gray opponent reads as a greyhound: long narrow muzzle, small folded ears, deep narrow chest, tucked abdomen and fine long legs. It no longer reads as the broad-headed Great Dane from calibration.",
+        "Buddy has smooth close charcoal torso with regional face/ear/paw furnishing. Broad chest color shapes and sparse boundary tips do not establish uniform long coat or curling strands.",
+        "Food stays behind Buddy/Chikki, and their firm stance versus the hesitant greyhound carries the refused-entry gag. No misplaced Neet or humans; night banyan/streetlamp setting remains coherent."
+      ],
+      "material_findings": []
+    },
+    {
+      "image": {
+        "path": "Productions/E010-neets-gang-faces-the-night-stalkers/illustration-v003.png",
+        "sha256": "74548827d6c16b1855bd4b39ce186902d00ac8b28894184393039dede5eb916e",
+        "dimensions": [
+          1448,
+          1086
+        ]
+      },
+      "status": "accepted",
+      "observations": [
+        "Actual replacement opened at native 1448 x 1086 resolution and the entire image reinspected, not just the edited prop. Compared with earlier accepted stash image and already opened original N19/N29/B04/B29 photographs.",
+        "Food continuity is resolved: prominent pale cheese-like block with small holes and round brown pieces on cloth now agree with setup and defense. Bone biscuits and irregular kibble are absent.",
+        "Neet retains continuous full narrow torso, fine legs, four supported paws on the stone, broad triangular ears, projecting muzzle and tiny nub. No disconnected limbs or new support fault.",
+        "Buddy retains continuous moderately elongated charcoal torso, neck bending toward food, substantial legs and four owned grounded paws. Shadow retains coherent seated forelegs and folded hindquarters. Overlapping tails and bodies remain legible.",
+        "Smooth fawn and charcoal body shapes remain intact without curled, engraved coat strands or raised shag contours. Buddy furnishings remain confined to muzzle, brows, ears, distal regions and modest tail fringe; paper-like grain does not create coat volume.",
+        "Night banyan, streetlamp, command stone and foreground cloth persist. Buddy checking food, seated Shadow and watchful Neet match the stated aftermath before Heather appears. No human or scene regression; visual payoff now preserves the defended supplies."
+      ],
+      "material_findings": []
+    }
+  ],
+  "open_material_findings": [],
+  "retained_artwork_scope": "Accepted inspection-art-v002 and defense-art-v002 retain verified unchanged hashes; replacement illustration-v003 fully reviewed. Earlier rejected aftermath review remains in review_history.",
+  "next_action": "Fresh complete illustrated reading of the current three embedded images and complete story remains required; visual acceptance is not owner approval.",
+  "review_history": [
+    {
+      "status": "needs_rework",
+      "superseded_image_review": {
+        "image": {
+          "path": "Productions/E010-neets-gang-faces-the-night-stalkers/illustration-v002.png",
+          "sha256": "cbb99ca24d47a26d220415d88beeeced80ee17e2c5754b0e1029e5157cfa08de",
+          "dimensions": [
+            1448,
+            1086
+          ]
+        },
+        "status": "needs_rework",
+        "observations": [
+          "Neet is supported on the command stone with connected fine legs, full narrow torso, broad triangular ears and nub. Buddy bends through a connected neck/shoulder toward the ground with four separately owned feet; Shadow has a coherent seated silhouette behind him.",
+          "Buddy retains smooth charcoal torso, moderately elongated body and real clearance; regional muzzle/brow/ear/paw furnishings remain distinct. Neet body is smooth rather than shaggy. Restrained surface grain is acceptable and does not create fur volume.",
+          "Participants and action match the specified aftermath before Heather appears: Buddy checks food, Shadow sits, Neet surveys from the stone. Different camera direction is plausible and no unsupported human likeness appears.",
+          "Material continuity failure: the prominent pale cheese block and round brown pieces shown in both setup and defense have become a pile of pale bone-shaped biscuits and brown kibble. Nothing in the intervening prose replaces or changes the successfully defended stash. Because protecting that exact food is the central visual payoff, match its contents to the prior two images."
+        ],
+        "material_findings": [
+          {
+            "id": "S010-V002-01",
+            "severity": "material",
+            "category": "prop_continuity",
+            "location": "foreground food stash in illustration-v002.png, approximately x=650..1020 y=770..885",
+            "finding": "Material continuity failure: the prominent pale cheese block and round brown pieces shown in both setup and defense have become a pile of pale bone-shaped biscuits and brown kibble. Nothing in the intervening prose replaces or changes the successfully defended stash. Because protecting that exact food is the central visual payoff, match its contents to the prior two images.",
+            "required_correction": "Keep successful aftermath composition and anatomy; replace only the food with the pale cheese-like block and round brown pieces established in inspection-art-v002 and defense-art-v002. Reinspect the entire actual replacement at native resolution because edits can affect fur and anatomy.",
+            "status": "open"
+          }
+        ]
+      },
+      "open_material_findings": [
+        {
+          "id": "S010-V002-01",
+          "severity": "material",
+          "category": "prop_continuity",
+          "location": "foreground food stash in illustration-v002.png, approximately x=650..1020 y=770..885",
+          "finding": "Material continuity failure: the prominent pale cheese block and round brown pieces shown in both setup and defense have become a pile of pale bone-shaped biscuits and brown kibble. Nothing in the intervening prose replaces or changes the successfully defended stash. Because protecting that exact food is the central visual payoff, match its contents to the prior two images.",
+          "required_correction": "Keep successful aftermath composition and anatomy; replace only the food with the pale cheese-like block and round brown pieces established in inspection-art-v002 and defense-art-v002. Reinspect the entire actual replacement at native resolution because edits can affect fur and anatomy.",
+          "status": "open"
+        }
+      ],
+      "superseded_image_preserved_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/expanded-S010-superseded/illustration-v002.png"
+    }
+  ],
+  "closed_material_findings": [
+    {
+      "id": "S010-V002-01",
+      "severity": "material",
+      "category": "prop_continuity",
+      "location": "foreground food stash in illustration-v002.png, approximately x=650..1020 y=770..885",
+      "finding": "Material continuity failure: the prominent pale cheese block and round brown pieces shown in both setup and defense have become a pile of pale bone-shaped biscuits and brown kibble. Nothing in the intervening prose replaces or changes the successfully defended stash. Because protecting that exact food is the central visual payoff, match its contents to the prior two images.",
+      "required_correction": "Keep successful aftermath composition and anatomy; replace only the food with the pale cheese-like block and round brown pieces established in inspection-art-v002 and defense-art-v002. Reinspect the entire actual replacement at native resolution because edits can affect fur and anatomy.",
+      "status": "closed",
+      "resolution": "Independently opened and inspected actual illustration-v003.png replacement; food prop now matches earlier accepted scenes and whole-image regression inspection passes.",
+      "resolved_by_image": {
+        "path": "Productions/E010-neets-gang-faces-the-night-stalkers/illustration-v003.png",
+        "sha256": "74548827d6c16b1855bd4b39ce186902d00ac8b28894184393039dede5eb916e",
+        "dimensions": [
+          1448,
+          1086
+        ]
+      }
+    }
+  ],
+  "replacement_provenance": {
+    "path": "Productions/E010-neets-gang-faces-the-night-stalkers/food-correction-v003.json",
+    "sha256": "2c4510bbff0777d4112cd1b873b9d8fbfd2ad4087f555f0fe956abb795e3fe34"
+  }
+}

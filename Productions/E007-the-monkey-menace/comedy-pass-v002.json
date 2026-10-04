@@ -1,0 +1,80 @@
+{
+  "story_id": "S007",
+  "version": "v002",
+  "previous_working_sha256": "01b408e0fbaac5bcfaac7475f42d9fc579c1cf17dac3749f067e1a6afd3d8aac",
+  "sources": [
+    {
+      "archive": "/Users/sagar/Documents/ChatGPT/NBC_Archives/NBC-before-expanded-refinement-2026-10-04_035505Z.tar.gz",
+      "member": "NBC/Stories/S007-the-monkey-menace.md",
+      "sha256": "01b408e0fbaac5bcfaac7475f42d9fc579c1cf17dac3749f067e1a6afd3d8aac",
+      "read_in_full": true
+    },
+    {
+      "archive": "/Users/sagar/Documents/ChatGPT/NBC_Archives/NBC-before-reorganization-2026-10-03_182825.tar.gz",
+      "member": "NBC/02_Story_Library/Legacy_Chapters/08-the-monkey-menace.md",
+      "sha256": "86ffce497e3cf5f358af3ecf53178208a7c19113ba536c522af8c42371177eb6",
+      "read_in_full": true
+    },
+    {
+      "path": "Stories/S006-the-bazaar-adventure.md",
+      "sha256": "a1f15f834fbf8595d72300239bcdfd064ba48741095c7db1714a34403bcf2d8d",
+      "read_in_full": true
+    },
+    {
+      "path": "Stories/S008-garden-rebirth-with-chaos.md",
+      "sha256": "f0c97aee216c55cfebcac2627c65d00cf87530ebc2f048459282e4ab04983f06",
+      "read_in_full": true
+    },
+    {
+      "path": "Stories/S009-neet-the-general.md",
+      "sha256": "4c9877c377dd45d9e4f43ebaf82ca130f880199b2a96085a9870255d6a902350",
+      "read_in_full": true
+    }
+  ],
+  "central_comic_situation": "Neet claims victory over a garden that now needs rebuilding; reluctant Buddy discovers he can make the invaders listen.",
+  "intended_feeling": "Affectionate alarm, surprising courage and relieved household comedy.",
+  "wants": {
+    "Neet": "Protect Heather and claim victory",
+    "Buddy": "Get everyone indoors together",
+    "Heather": "Enjoy chai, then recover the dogs and garden"
+  },
+  "preserved": [
+    "Priya bungalow in Ahmedabad",
+    "mango theft and fallen dupattas",
+    "scarred leader",
+    "watering can thrown and missed",
+    "Buddy barks beside Heather then separately intervenes between leader and Neet",
+    "broom and troop retreat",
+    "chair nuzzle and hug",
+    "cleanup and indoor retreat"
+  ],
+  "actual_changes": [
+    "Doorway inspected at opening pays off in Buddy waiting safely inside for both others",
+    "Mango eater becomes silent spectator interrupted by Buddy bark",
+    "Buddy checks behind himself after discovering his own bark works",
+    "Broken pot answers Neet claim that they held garden",
+    "Heather says done plenty and Neet takes praise",
+    "Tail metaphor adapted to tiny nub; historical original remains intact"
+  ],
+  "ending": "Buddy wins the destination without abandoning anyone; Neet calls it securing a position.",
+  "variants": {
+    "count": 0,
+    "decision": "No meaningful alternative in story or source mapping; original slingshot ending preserved externally, not restored after prior refinement broom choice."
+  },
+  "complete_reread_comparison": {
+    "previous_working": "All action paragraphs retained in order; additions placed in pauses, not during leader lunge. Original nuzzle/hug retained.",
+    "original": "Two separate Buddy interventions and actual aggressive monkey encounter preserved; no blending into harmless play or adding Sagar to historical household. Original tail-held-high anatomy language adapted with disclosure.",
+    "connected": [
+      "S006 bazaar: Heather household and pre-existing defensive confidence",
+      "S008 restoration: destruction intact for causal handoff",
+      "S009 general: no new command rank or chronology imposed"
+    ],
+    "lost_incidents": [],
+    "length_judgment": "Modest dialogue/reaction additions avoid expanding danger set-piece or padding to target word count."
+  },
+  "status": "author_pass_complete_pending_independent_reading",
+  "approval": "unapproved",
+  "publication": "not_published",
+  "final_story_sha256": "8cd68ad0e313c9ba0f38d55fd1b90194de79f28e0c0e950b3a88825e4972e792",
+  "illustrated_author_reread": "Full revised story reread after embedding: arrival follows backward Buddy step, bark reaction sits before next deliberate bark, aftermath follows troop departure before hug. Distinct setup, agency and relief contributions. Final doorway payoff unobstructed. Independent rendered complete reading remains pending."
+}

@@ -1,0 +1,7 @@
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+# Frozen delivery copies and large archival packages remain local, unchanged.
+Productions/Library-Refinement/delivery-v*/
+# Keep the generated Reader tracked so a clone opens without a build step.

@@ -1,0 +1,75 @@
+{
+  "story_id": "S021",
+  "prior_story_sha256": "6b7176909078a6ead40a366e383434c09b67de968c23b8d7f1ef550caf0e312c",
+  "status": "complete_author_reread_pending_independent_reading",
+  "central_comic_situation": "Neet tries to carry India home; Buddy tries to carry two fragile memories home without Neet contaminating them.",
+  "wants": {
+    "Neet": "Keep his Indian life through edible and ridiculous souvenirs",
+    "Buddy": "Protect bowl and blanket, then enjoy comfort"
+  },
+  "preserved": [
+    "emotional support snacks",
+    "four mango pits, sunglasses, cricket poster, pani puri",
+    "gang farewell and silence",
+    "puri dust and India left us",
+    "dal crash and separately adopted",
+    "Gujarat clouds",
+    "secret masala",
+    "concrete keepsake ending"
+  ],
+  "changes": [
+    "moving bowl blocks a second mango incursion",
+    "Heather caught under cricket poster",
+    "Buddy checks and hides keepsake bundle during inspection",
+    "Buddy drops aloof act to rescue blanket from dal",
+    "Buddy briefly tempted by masala in bowl"
+  ],
+  "alternative": "Read shared text with lounge omitted; no dal callback elsewhere, no new alternative-specific incident or illustration needed.",
+  "sources": [
+    "complete current primary and abridgement",
+    "legacy-ch22 full",
+    "reader-48 full",
+    "reader-49 full",
+    "connected S020/S022/S023 full",
+    "connected S024/S025/S026 full"
+  ],
+  "ending": "Both dogs carry home what matters; Buddy gets a small temptation without losing his affection or sensible agency.",
+  "reread_comparison": {
+    "method": "Full revised primary reread after edits, then alternate reading omitting lounge; compared all incidents to full current predecessor and three archive originals.",
+    "preserved": "All named souvenirs, gang goodbye silence, sneeze, dal crash in primary only, clouds, masala reveal and chosen keepsakes destination remain.",
+    "historical_choices": "Historical Heather-only human household; source premature homecoming before S022-S025 remains explicit. Previous refinement removed unsupported airport-ban claim; retained that change. Neet tail language remains source prose only.",
+    "restraint": "Adds brief situational action and sparse dialogue; no expansion of farewell silence.",
+    "alternative": "Read Airport Chaos directly to Touchdown; same comedy additions and three proposed shared pictures fit. No separate art for omission itself."
+  },
+  "source_pins": [
+    {
+      "path": "Stories/S020-the-great-nighttime-bark-off.md",
+      "sha256": "af624721e3a2fc787ea0eccd411994ec7ce144787f420cc69fddaae6a36d3a2d"
+    },
+    {
+      "path": "Stories/S022-the-lounge-and-airport-madness.md",
+      "sha256": "afe4ebdbd7babf22fbe12fbfe70526b182e49b123b41c61855c66aba364d79e7"
+    },
+    {
+      "path": "Stories/S023-the-business-class-upgrade-disaster.md",
+      "sha256": "660c37e867cd9f0d77b83c3ff923d45a5c75eb22bed6bebb9f0ec8fc8b9fa013"
+    }
+  ],
+  "story_sha256": "de413bf7787dc6fa4627c80f8377f4af306cb5aa3f1b3bd41a5e7c935edaf8c2",
+  "full_reread_after_embedding": "Read complete primary and omit-lounge route after embedding. Packing precedes poster fall, airport follows napkin catch, arrival follows sniff then bowl gaze. No alternative-exclusive art borrowed; three shared states enrich both readings.",
+  "archive_source_pins": [
+    {
+      "path": "02_Story_Library/Legacy_Chapters/22-the-bittersweet-goodbye.md",
+      "sha256": "282452c2446b5eec36fb4348c3c783dbcc034858cde01d43c97de9f4e0b7d3ba"
+    },
+    {
+      "path": "02_Story_Library/ElevenLabs_Imports/reader-48-the-bittersweet-goodbye.txt",
+      "sha256": "8292ce44c37f1d7ad3cd52ccc77525c70fd6a7a20e16711c69e559f3593add8a"
+    },
+    {
+      "path": "90_Archive/2026-10-03-elevenlabs-recovery/Raw_Exports/reader-49.txt",
+      "sha256": "c0da291fdbef30cf4dc29da6d2e90126b7fea26b7c3bdc76925a11da07849155"
+    }
+  ],
+  "artwork_link_only_revision": "After independent finish findings, airport and arrival links replaced; narrative prose and placements unchanged."
+}

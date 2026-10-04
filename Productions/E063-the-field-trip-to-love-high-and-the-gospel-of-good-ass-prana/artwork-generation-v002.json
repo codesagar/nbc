@@ -1,0 +1,682 @@
+{
+  "story_id": "S063",
+  "tool": "built-in image_gen",
+  "calls": [
+    {
+      "id": "rough",
+      "arguments": {
+        "prompt": "Use case: illustration-story. Draw a pencil construction storyboard with TWO horizontal panels stacked vertically, no lettering. Image1 Neet original anatomy; image2 Buddy side original; image3 Buddy front original. PANEL TOP: apartment morning, Buddy stands sideways blocking a canvas travel bag beside hallway wall, Heather cropped lower legs and reaching hand wanting to zip bag; Neet stands a little behind looking alert toward bag, all four feet clear. Bag upright closed almost fully, no dog inside. PANEL BOTTOM: evening apartment, Heather seated cropped at shoulder, plate with two tiny spoons of golden sheera held above knees, Buddy just sat attentively below plate, Neet stands beside Buddy bowing head slightly, four leg ownership anatomically clear. Balcony glass and dusk beyond background. Both dogs continuous ribcage-spine-pelvis and visible neck, weight supported on floor. Neet fine long legs narrow full fawn body broad triangular ears tiny nub; Buddy moderately long full body substantial legs and real clearance, pale muzzle/brows and floppy ears. No furry body silhouette. No text. No anatomy inferred from uncalibrated photos. N35 excluded; B08 styling only unused; B25 unavailable; B30 unused; one exposure counts once. Human appearance provisional.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg"
+        ],
+        "transparent_background": false
+      },
+      "inputs": [
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+          "role": "original visible anatomy authority within full policy",
+          "reference_id": "N19"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+          "sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+          "role": "original visible anatomy authority within full policy",
+          "reference_id": "B29"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+          "sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+          "role": "original visible anatomy authority within full policy",
+          "reference_id": "B04"
+        }
+      ],
+      "output": {
+        "path": "Productions/E063-the-field-trip-to-love-high-and-the-gospel-of-good-ass-prana/staging-v002.png",
+        "sha256": "e7114e76d4e49468b28e09274df341dee4de2bb176ba0a0471a564f599df18f3",
+        "dimensions": [
+          1448,
+          1086
+        ],
+        "format": "PNG"
+      },
+      "source_output_hint": "Generated images are saved to /Users/sagar/.codex/generated_images/01a1079d-1729-7b43-9f17-cb317c6465c3 as /Users/sagar/.codex/generated_images/01a1079d-1729-7b43-9f17-cb317c6465c3/exec-7182c70b-b4dc-430e-8a69-a7bcadd21272.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "model": "unknown",
+      "seed": "unknown"
+    },
+    {
+      "id": "morning",
+      "arguments": {
+        "prompt": "Use case: sketch-to-render. Render ONLY TOP PANEL of image1 as one complete landscape watercolor story illustration, full frame no border no lettering. Preserve two dogs ground supports, bag, reaching hand and hallway geometry. Exact narrative moment: Buddy has grudgingly moved six inches so Heather can zip travel bag. Heather cropped human figure provisional. Neet attentive behind him. Original images2-4 anatomy authority, image1 staging only. CRITICAL make BOTH DOGS entire body coats absolutely SMOOTH flat soft washes with subtle non-directional paper grain, ZERO hair lines, ZERO engraved/curly/crosshatched marks on torso, nape, throat, legs, tails. Buddy facial beard, brows and regional ears alone have furnished strands. Smooth continuous nape/throat/shoulder contour, short dark neck. Neet full narrow trunk long fine legs broad triangular ears tiny nub smooth fawn and cream. Buddy moderately long connected torso substantial legs real clearance dark throat tan chest pale distal feet. Clean close silhouettes. Warm morning apartment. One exposure once, N35 excluded anatomy, B08 styling-only unused B25 absent B30 unused. No invented measurements.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E063-the-field-trip-to-love-high-and-the-gospel-of-good-ass-prana/staging-v002.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg"
+        ],
+        "transparent_background": false
+      },
+      "inputs": [
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E063-the-field-trip-to-love-high-and-the-gospel-of-good-ass-prana/staging-v002.png",
+          "sha256": "e7114e76d4e49468b28e09274df341dee4de2bb176ba0a0471a564f599df18f3",
+          "role": "edit target and staging interpretation; not anatomy authority",
+          "reference_id": null
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+          "role": "original visible anatomy authority within full policy",
+          "reference_id": "N19"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+          "sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+          "role": "original visible anatomy authority within full policy",
+          "reference_id": "B29"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+          "sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+          "role": "original visible anatomy authority within full policy",
+          "reference_id": "B04"
+        }
+      ],
+      "output": {
+        "path": "Productions/E063-the-field-trip-to-love-high-and-the-gospel-of-good-ass-prana/morning-art-v002.png",
+        "sha256": "b51c80988c9dddb9c069f515e0edb55882de7afefb16705140190cc1dec45fba",
+        "dimensions": [
+          1774,
+          887
+        ],
+        "format": "PNG"
+      },
+      "source_output_hint": "Generated images are saved to /Users/sagar/.codex/generated_images/01a1079d-1729-7b43-9f17-cb317c6465c3 as /Users/sagar/.codex/generated_images/01a1079d-1729-7b43-9f17-cb317c6465c3/exec-07ac6d9a-41a3-4656-8895-2a39a96cdd0b.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "model": "unknown",
+      "seed": "unknown"
+    },
+    {
+      "id": "morningfix",
+      "arguments": {
+        "prompt": "Edit image1. Make dog body rendering simplified SMOOTH GOUACHE color shapes, keep all precise anatomy pose proportions and scene. Buddy currently has shaggy spiky nape throat underside and pale leg contours: REMOVE EVERY such spike, hairline, fringe and tufty edge. Smooth close-cropped contour from ear base down dark neck throat shoulders belly and all four legs. Neet likewise remove directional coat brush hairs across body legs and throat. Fill both body coats with nearly flat broad matte soft shading, zero fine coat detail except facial moustache/brows/ears. Do not make dogs bald skin: same coat color markings but no individually drawn body hairs. All geometry props bag human ground unchanged. Regional ear beard face furnishings preserved.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E063-the-field-trip-to-love-high-and-the-gospel-of-good-ass-prana/morning-art-v002.png"
+        ],
+        "transparent_background": false
+      },
+      "inputs": [
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E063-the-field-trip-to-love-high-and-the-gospel-of-good-ass-prana/morning-art-v002.png",
+          "sha256": "b51c80988c9dddb9c069f515e0edb55882de7afefb16705140190cc1dec45fba",
+          "role": "edit target and staging interpretation; not anatomy authority",
+          "reference_id": null
+        }
+      ],
+      "output": {
+        "path": "Productions/E063-the-field-trip-to-love-high-and-the-gospel-of-good-ass-prana/morning-art-v003.png",
+        "sha256": "f4c530749d37169be0d3d0e04ed971c1373657d5d805c353d3e2a54d280e90b1",
+        "dimensions": [
+          1774,
+          887
+        ],
+        "format": "PNG"
+      },
+      "source_output_hint": "Generated images are saved to /Users/sagar/.codex/generated_images/01a1079d-1729-7b43-9f17-cb317c6465c3 as /Users/sagar/.codex/generated_images/01a1079d-1729-7b43-9f17-cb317c6465c3/exec-720f3c4a-1885-4033-8634-c94206f281d6.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "model": "unknown",
+      "seed": "unknown"
+    },
+    {
+      "id": "morningfinal",
+      "arguments": {
+        "prompt": "Flatten the entire coat fill of both dogs in image1 into broad simple matte gouache shapes with ONLY large smooth gradients. Current dark Buddy torso is full of etched squiggly curls: REMOVE these entirely, as if repainting dogs with three broad color washes. Neet fawn torso likewise. No high-frequency body detail. Keep fine regional hair detail on Buddy eyebrows muzzle beard and floppy ears ONLY. Absolutely preserve all scene composition, dog body proportions and pose/limbs, travel bag and human hand, all background. This is simplified short smooth fur finish, not anatomical alteration. Smooth neck throat shoulder contours; no fringe.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E063-the-field-trip-to-love-high-and-the-gospel-of-good-ass-prana/morning-art-v003.png"
+        ],
+        "transparent_background": false
+      },
+      "inputs": [
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E063-the-field-trip-to-love-high-and-the-gospel-of-good-ass-prana/morning-art-v003.png",
+          "sha256": "f4c530749d37169be0d3d0e04ed971c1373657d5d805c353d3e2a54d280e90b1",
+          "role": "edit target and staging interpretation; not anatomy authority",
+          "reference_id": null
+        }
+      ],
+      "output": {
+        "path": "Productions/E063-the-field-trip-to-love-high-and-the-gospel-of-good-ass-prana/morning-art-v004.png",
+        "sha256": "8aaa0ee9cebb72729fb7a84d8b3859423b3d54f1c9715c23ad9dc70547978f04",
+        "dimensions": [
+          1774,
+          887
+        ],
+        "format": "PNG"
+      },
+      "source_output_hint": "Generated images are saved to /Users/sagar/.codex/generated_images/01a1079d-1729-7b43-9f17-cb317c6465c3 as /Users/sagar/.codex/generated_images/01a1079d-1729-7b43-9f17-cb317c6465c3/exec-4b18a48a-dde9-44d8-837a-d5a45ab8adfa.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "model": "unknown",
+      "seed": "unknown"
+    },
+    {
+      "id": "sheera",
+      "arguments": {
+        "prompt": "Use case: sketch-to-render. Render ONLY BOTTOM PANEL image1 as one landscape watercolor illustration. Same staging floor support and distinct four limbs, Buddy seated front looking up at Heather's plate, Neet stands to right with modest head lowered. Human cropped above shoulders provisional seated on sofa holding small plate of sheera, dusk balcony beyond. Image1 staging only; originals2-5 anatomy within visible restrictions. CRITICAL dog BODY coats absolutely smooth flat restrained washes, no hatching/engraved curls/long fur strokes on nape throat shoulders torso legs or tail. Buddy continuous smooth dark nape and throat, moderately long full body substantial legs light feet, head modest, face beard brow and ear furnishings retained regionally. Neet full narrow torso long fine legs broad triangular ears cream bib tiny nub. Smooth silhouettes. Warm intimate comedy in Buddy's eager stillness, no text. No raisins visible. N35 anatomy excluded B08 styling only unused B25 absent B30 unused, one exposure once, no measurements.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E063-the-field-trip-to-love-high-and-the-gospel-of-good-ass-prana/staging-v002.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-15.jpg"
+        ],
+        "transparent_background": false
+      },
+      "inputs": [
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E063-the-field-trip-to-love-high-and-the-gospel-of-good-ass-prana/staging-v002.png",
+          "sha256": "e7114e76d4e49468b28e09274df341dee4de2bb176ba0a0471a564f599df18f3",
+          "role": "edit target and staging interpretation; not anatomy authority",
+          "reference_id": null
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+          "role": "original visible anatomy authority within full policy",
+          "reference_id": "N19"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+          "sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+          "role": "original visible anatomy authority within full policy",
+          "reference_id": "B29"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+          "sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+          "role": "original visible anatomy authority within full policy",
+          "reference_id": "B04"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-15.jpg",
+          "sha256": "947aca933769ac618dd657fd6a8491a8c67ff6997c289d76f87ec0167b07a923",
+          "role": "original visible anatomy authority within full policy",
+          "reference_id": "B15"
+        }
+      ],
+      "output": {
+        "path": "Productions/E063-the-field-trip-to-love-high-and-the-gospel-of-good-ass-prana/sheera-art-v002.png",
+        "sha256": "39890c49d3acca704bf983980e56d798621da717869f53a2a758117cd5ec6e02",
+        "dimensions": [
+          1448,
+          1086
+        ],
+        "format": "PNG"
+      },
+      "source_output_hint": "Generated images are saved to /Users/sagar/.codex/generated_images/01a1079d-1729-7b43-9f17-cb317c6465c3 as /Users/sagar/.codex/generated_images/01a1079d-1729-7b43-9f17-cb317c6465c3/exec-7f19cbba-8be0-48b4-88a5-ad25a98c1f4b.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "model": "unknown",
+      "seed": "unknown"
+    },
+    {
+      "id": "sheerafix",
+      "arguments": {
+        "prompt": "Edit image1. Make dog body rendering simplified SMOOTH GOUACHE color shapes, keep all precise anatomy pose proportions and scene. Buddy currently has shaggy spiky nape throat underside and pale leg contours: REMOVE EVERY such spike, hairline, fringe and tufty edge. Smooth close-cropped contour from ear base down dark neck throat shoulders belly and all four legs. Neet likewise remove directional coat brush hairs across body legs and throat. Fill both body coats with nearly flat broad matte soft shading, zero fine coat detail except facial moustache/brows/ears. Do not make dogs bald skin: same coat color markings but no individually drawn body hairs. All geometry props plate sofa human ground unchanged. Regional ear beard face furnishings preserved.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E063-the-field-trip-to-love-high-and-the-gospel-of-good-ass-prana/sheera-art-v002.png"
+        ],
+        "transparent_background": false
+      },
+      "inputs": [
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E063-the-field-trip-to-love-high-and-the-gospel-of-good-ass-prana/sheera-art-v002.png",
+          "sha256": "39890c49d3acca704bf983980e56d798621da717869f53a2a758117cd5ec6e02",
+          "role": "edit target and staging interpretation; not anatomy authority",
+          "reference_id": null
+        }
+      ],
+      "output": {
+        "path": "Productions/E063-the-field-trip-to-love-high-and-the-gospel-of-good-ass-prana/sheera-art-v003.png",
+        "sha256": "6360ba3cbe2ef09b984c5dc234c3582897c2459005ab2a9077c04364696d6451",
+        "dimensions": [
+          1448,
+          1086
+        ],
+        "format": "PNG"
+      },
+      "source_output_hint": "Generated images are saved to /Users/sagar/.codex/generated_images/01a1079d-1729-7b43-9f17-cb317c6465c3 as /Users/sagar/.codex/generated_images/01a1079d-1729-7b43-9f17-cb317c6465c3/exec-548dc8cb-9abe-404e-95bb-331a31d6a267.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "model": "unknown",
+      "seed": "unknown"
+    },
+    {
+      "id": "sheerafinal",
+      "arguments": {
+        "prompt": "Flatten the entire coat fill of both dogs in image1 into broad simple matte gouache shapes with ONLY large smooth gradients. Current dark Buddy torso is full of etched squiggly curls: REMOVE these entirely, as if repainting dogs with three broad color washes. Neet fawn torso likewise. No high-frequency body detail. Keep fine regional hair detail on Buddy eyebrows muzzle beard and floppy ears ONLY. Absolutely preserve all scene composition, dog body proportions and pose/limbs, sheera plate sofa and human hand, all background. This is simplified short smooth fur finish, not anatomical alteration. Smooth neck throat shoulder contours; no fringe.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E063-the-field-trip-to-love-high-and-the-gospel-of-good-ass-prana/sheera-art-v003.png"
+        ],
+        "transparent_background": false
+      },
+      "inputs": [
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E063-the-field-trip-to-love-high-and-the-gospel-of-good-ass-prana/sheera-art-v003.png",
+          "sha256": "6360ba3cbe2ef09b984c5dc234c3582897c2459005ab2a9077c04364696d6451",
+          "role": "edit target and staging interpretation; not anatomy authority",
+          "reference_id": null
+        }
+      ],
+      "output": {
+        "path": "Productions/E063-the-field-trip-to-love-high-and-the-gospel-of-good-ass-prana/sheera-art-v004.png",
+        "sha256": "9a478a84467c0c91455d912fc84cfce518587bc6167b3bd09c143624f7a4b7a4",
+        "dimensions": [
+          1448,
+          1086
+        ],
+        "format": "PNG"
+      },
+      "source_output_hint": "Generated output /Users/sagar/.codex/generated_images/01a1079d-1729-7b43-9f17-cb317c6465c3/exec-c0313cd8-6363-4116-9f20-a36a9d83ce96.png",
+      "model": "unknown",
+      "seed": "unknown"
+    },
+    {
+      "id": "fetch",
+      "arguments": {
+        "prompt": "Use case: precise-object-edit. Coat finish correction ONLY on image1, preserve exact composition, four owned legs and ball contact, modest heads, field school trees and cropped hand/leg. Both dogs' body coat surfaces must become SIMPLE SMOOTH WATERCOLOR WASHES, with subtle non-directional paper grain ONLY. Erase all curly engraved squiggles and long hatch strokes on Neet and Buddy nape throat chest torso limbs tail. Buddy neck dark smooth with clean contour absolutely no nape tufts or throat sawtooth fringe. Neet cream bib smooth. Buddy pale beard/brows/ears remain furnished. Do not change geometry or props. Image2-4 originals visible anatomy authority, no ratios or timing inferred. N35 no anatomy; B08 styling only unused; B25 absent; B30 unused. One exposure once. Human appearance provisional. No text.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E063-the-field-trip-to-love-high-and-the-gospel-of-good-ass-prana/illustration-v002.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg"
+        ],
+        "transparent_background": false
+      },
+      "inputs": [
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E063-the-field-trip-to-love-high-and-the-gospel-of-good-ass-prana/illustration-v002.png",
+          "sha256": "c91709dca6e1f4813a45a6e77db2c7da7a757c00dd92fa56ae7d814d5e5547d4",
+          "role": "edit target and staging interpretation; not anatomy authority",
+          "reference_id": null
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+          "role": "original visible anatomy authority within full policy",
+          "reference_id": "N19"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+          "sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+          "role": "original visible anatomy authority within full policy",
+          "reference_id": "B29"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+          "sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+          "role": "original visible anatomy authority within full policy",
+          "reference_id": "B04"
+        }
+      ],
+      "output": {
+        "path": "Productions/E063-the-field-trip-to-love-high-and-the-gospel-of-good-ass-prana/fetch-art-v003.png",
+        "sha256": "0d75c4c0df2281d3d383ec30533cef3e8085298225d2f0c85ddb1480d9302ea3",
+        "dimensions": [
+          1448,
+          1086
+        ],
+        "format": "PNG"
+      },
+      "source_output_hint": "Generated images are saved to /Users/sagar/.codex/generated_images/01a1079d-1729-7b43-9f17-cb317c6465c3 as /Users/sagar/.codex/generated_images/01a1079d-1729-7b43-9f17-cb317c6465c3/exec-6009bf33-b66c-4ca3-9129-3854b416060b.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "model": "unknown",
+      "seed": "unknown"
+    },
+    {
+      "id": "fetchfix",
+      "arguments": {
+        "prompt": "Flatten the entire coat fill of both dogs in image1 into broad simple matte gouache shapes with ONLY large smooth gradients. Current dark Buddy torso is full of etched squiggly curls: REMOVE these entirely, as if repainting dogs with three broad color washes. Neet fawn torso likewise. No high-frequency body detail. Keep fine regional hair detail on Buddy eyebrows muzzle beard and floppy ears ONLY. Absolutely preserve all scene composition, dog body proportions and pose/limbs, ball/mouth contact and human hand, all background. This is simplified short smooth fur finish, not anatomical alteration. Smooth neck throat shoulder contours; no fringe.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E063-the-field-trip-to-love-high-and-the-gospel-of-good-ass-prana/fetch-art-v003.png"
+        ],
+        "transparent_background": false
+      },
+      "inputs": [
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E063-the-field-trip-to-love-high-and-the-gospel-of-good-ass-prana/fetch-art-v003.png",
+          "sha256": "0d75c4c0df2281d3d383ec30533cef3e8085298225d2f0c85ddb1480d9302ea3",
+          "role": "edit target and staging interpretation; not anatomy authority",
+          "reference_id": null
+        }
+      ],
+      "output": {
+        "path": "Productions/E063-the-field-trip-to-love-high-and-the-gospel-of-good-ass-prana/fetch-art-v004.png",
+        "sha256": "ead6e3bfe9b44b2d1f1d56a116b9c806d001975368c7ab36aec8a6f01b79cb24",
+        "dimensions": [
+          1448,
+          1086
+        ],
+        "format": "PNG"
+      },
+      "source_output_hint": "Generated images are saved to /Users/sagar/.codex/generated_images/01a1079d-1729-7b43-9f17-cb317c6465c3 as /Users/sagar/.codex/generated_images/01a1079d-1729-7b43-9f17-cb317c6465c3/exec-9759a3a8-cf81-4a7a-9629-c80209eba8c3.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "model": "unknown",
+      "seed": "unknown"
+    }
+  ],
+  "references": [
+    {
+      "id": "N19",
+      "character": "Neet",
+      "path": "Characters/Neet/Photos/neet-19.jpeg",
+      "filename": "neet-19.jpeg",
+      "sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+      "archived_source_path": "03_Asset_Library/Characters/Neet/neet-19.jpeg",
+      "same_exposure_group": null,
+      "use": "Primary body-level side standing and tail nub",
+      "approval_status": "unknown",
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "styling",
+          "standing_pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Primary standing body proportions, paws, hocks and stub silhouette; head is not a pure profile.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Head rotated; far limbs overlap; uncalibrated camera offers no measurements; room light subdued"
+        ],
+        "inspection_sha256": "b2c6db0a5af6a885d993cbd986cc2759b9461e693fbcabd8aa96bce1eb5ea901",
+        "source_sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N19.json"
+      },
+      "source_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose",
+          "resting_pose",
+          "styling"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Primary standing body proportions, paws, hocks and stub silhouette; head is not a pure profile.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state."
+        ],
+        "evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md"
+      },
+      "source_observation": {
+        "date": "2026-10-03",
+        "pose_view_camera": "Standing left-facing side with head toward camera; near body-level",
+        "visible_features": "Tiny short tan rump nub; near-square qualitative standing impression; long slender legs; full ribcage/thigh; moderate ventral rise; smooth short coat",
+        "limitations": "Head rotated; far limbs overlap; uncalibrated camera offers no measurements; room light subdued",
+        "recommended_uses": [
+          "standing_pose",
+          "visible_anatomy",
+          "styling"
+        ],
+        "full_restrictions": [
+          "Primary standing body proportions, paws, hocks and stub silhouette; head is not a pure profile.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Head rotated; far limbs overlap; uncalibrated camera offers no measurements; room light subdued"
+        ]
+      },
+      "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N19.json",
+      "inspection_sha256": "b2c6db0a5af6a885d993cbd986cc2759b9461e693fbcabd8aa96bce1eb5ea901"
+    },
+    {
+      "id": "B04",
+      "character": "Buddy",
+      "path": "Characters/Buddy/Photos/buddy-4.jpg",
+      "filename": "buddy-4.jpg",
+      "sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+      "archived_source_path": "03_Asset_Library/Characters/Buddy/buddy-4.jpg",
+      "same_exposure_group": "B04-B24",
+      "use": "Primary frontal standing and groomed facial pattern",
+      "approval_status": "unknown",
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "styling",
+          "standing_pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Excellent front-leg clearance, chest pattern and groomed face; useful standing stance. Same photographic exposure as B24 for evidence counting.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Tail partly cropped at left; grass hides toes; perspective foreshortens torso; B24 same exposure in separate encoding"
+        ],
+        "inspection_sha256": "dd7da906a0e61eb4cdbd84eac3c97fea3318813d5a874c4e6cd4d8d3ba890797",
+        "source_sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B04.json"
+      },
+      "source_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose",
+          "resting_pose",
+          "styling"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Excellent front-leg clearance, chest pattern and groomed face; useful standing stance. Same photographic exposure as B24 for evidence counting.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state."
+        ],
+        "evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+        "same_exposure_group": "B04-B24"
+      },
+      "source_observation": {
+        "date": "2026-10-03",
+        "pose_view_camera": "Standing front three-quarter outdoors; approximately chest-level",
+        "visible_features": "Deep chest; substantial leg shafts; pale lower legs and splaying foot hair; dark torso; pale chest sides/dark throat; long pendant ear fringe; pale muzzle/brows",
+        "limitations": "Tail partly cropped at left; grass hides toes; perspective foreshortens torso; B24 same exposure in separate encoding",
+        "recommended_uses": [
+          "standing_pose",
+          "visible_anatomy",
+          "styling"
+        ],
+        "full_restrictions": [
+          "Excellent front-leg clearance, chest pattern and groomed face; useful standing stance. Same photographic exposure as B24 for evidence counting.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Tail partly cropped at left; grass hides toes; perspective foreshortens torso; B24 same exposure in separate encoding"
+        ]
+      },
+      "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B04.json",
+      "inspection_sha256": "dd7da906a0e61eb4cdbd84eac3c97fea3318813d5a874c4e6cd4d8d3ba890797"
+    },
+    {
+      "id": "B15",
+      "character": "Buddy",
+      "path": "Characters/Buddy/Photos/buddy-15.jpg",
+      "filename": "buddy-15.jpg",
+      "sha256": "947aca933769ac618dd657fd6a8491a8c67ff6997c289d76f87ec0167b07a923",
+      "archived_source_path": "03_Asset_Library/Characters/Buddy/buddy-15.jpg",
+      "same_exposure_group": null,
+      "use": "Uncostumed upright sitting with close-groomed face",
+      "approval_status": "unknown",
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "styling"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Excellent uncostumed upright sit and folded rear-thigh shape; useful underlying facial taper.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Bed rim hides front feet; perspective compresses torso; no standing ratios"
+        ],
+        "inspection_sha256": "4aff983a24dc33e82ba89c8c2806a346fe68f7f659414aadd57e15d2ea8deaf5",
+        "source_sha256": "947aca933769ac618dd657fd6a8491a8c67ff6997c289d76f87ec0167b07a923",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B15.json"
+      },
+      "source_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose",
+          "resting_pose",
+          "styling"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Excellent uncostumed upright sit and folded rear-thigh shape; useful underlying facial taper.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state."
+        ],
+        "evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md"
+      },
+      "source_observation": {
+        "date": "2026-10-03",
+        "pose_view_camera": "Upright seated in bed; elevated three-quarter with upward gaze",
+        "visible_features": "Compact close-groomed ear flaps; pale brows/muzzle and chest sides; dark throat; full haunch; pale hindfoot; small dark tail at haunch",
+        "limitations": "Bed rim hides front feet; perspective compresses torso; no standing ratios",
+        "recommended_uses": [
+          "sitting_pose",
+          "visible_anatomy",
+          "styling"
+        ],
+        "full_restrictions": [
+          "Excellent uncostumed upright sit and folded rear-thigh shape; useful underlying facial taper.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Bed rim hides front feet; perspective compresses torso; no standing ratios"
+        ]
+      },
+      "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B15.json",
+      "inspection_sha256": "4aff983a24dc33e82ba89c8c2806a346fe68f7f659414aadd57e15d2ea8deaf5"
+    },
+    {
+      "id": "B29",
+      "character": "Buddy",
+      "path": "Characters/Buddy/Photos/buddy-29.jpeg",
+      "filename": "buddy-29.jpeg",
+      "sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+      "archived_source_path": "03_Asset_Library/Characters/Buddy/buddy-29.jpeg",
+      "same_exposure_group": null,
+      "use": "Side stride, torso length, leg clearance and tail curve",
+      "approval_status": "unknown",
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Best available lateral body-length, tail-length/carriage and walking-pose reference; weak fine landmarks because blurred and not neutral standing.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Motion blur and lifted legs; cannot establish neutral back slope, exact leg ratios or gait timing from still"
+        ],
+        "inspection_sha256": "c671664ca5e4e2e07bfd3049ea641c3a1645742fb8290494e67a17f7ed213ea9",
+        "source_sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B29.json"
+      },
+      "source_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose",
+          "resting_pose",
+          "styling"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Best available lateral body-length, tail-length/carriage and walking-pose reference; weak fine landmarks because blurred and not neutral standing.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state."
+        ],
+        "evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md"
+      },
+      "source_observation": {
+        "date": "2026-10-03",
+        "pose_view_camera": "Left-facing walking side view indoors; near body-level",
+        "visible_features": "Elongated dark trunk; projecting muzzle/pendant ears; pale lower legs; dark tapering tail held low with gentle curve; underside hair fringe",
+        "limitations": "Motion blur and lifted legs; cannot establish neutral back slope, exact leg ratios or gait timing from still",
+        "recommended_uses": [
+          "pose",
+          "visible_anatomy"
+        ],
+        "full_restrictions": [
+          "Best available lateral body-length, tail-length/carriage and walking-pose reference; weak fine landmarks because blurred and not neutral standing.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Motion blur and lifted legs; cannot establish neutral back slope, exact leg ratios or gait timing from still"
+        ]
+      },
+      "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B29.json",
+      "inspection_sha256": "c671664ca5e4e2e07bfd3049ea641c3a1645742fb8290494e67a17f7ed213ea9"
+    }
+  ],
+  "restrictions": [
+    "N35 excludes anatomy",
+    "B08 styling only unused",
+    "B25 unavailable",
+    "B30 supplemental rest only unused",
+    "B04/B24 same exposure counted once",
+    "Humans provisional; generated models not anatomy authority"
+  ],
+  "model_inspection": {
+    "path": "Productions/Library-Refinement/model-finish-calibration-v004.png",
+    "sha256": "193dc8f81770a87933c6c599fce5a04f3c51cfbe21898459be2b511e989910a3",
+    "observations": "Opened paired model and original photographs. Body texture is interpretation, smoother finish mandated for final. Original standing body, leg clearance and face guides override stylized model texture."
+  },
+  "staging_inspection": {
+    "path": "Productions/E063-the-field-trip-to-love-high-and-the-gospel-of-good-ass-prana/staging-v002.png",
+    "observations": "Actually drawn two-panel staging opened before finishing. Morning: both dogs four planted supports with continuous torsos, hand reaches bag after Buddy small retreat. Evening: Buddy seated hips supported, forepaws planted and rear feet owned; Neet four planted legs, continuous trunk. Preserve during finish; remove drawn hair texture."
+  },
+  "generator_inspection": {
+    "status": "proposed_pending_independent_review",
+    "observations": [
+      "All outputs opened. Rejected first morning and sheera finishes for shaggy neck/body/leg contours. Subsequent correction smooths contours, then broader wash simplification removes strong strand texture.",
+      "Fetch composition preserved but older coat pattern corrected through two edits. Ball remains in mouth, picture now BEFORE drop.",
+      "Final morning/sheera/fetch inspected at full output size: anatomy and scene preserved; subtle residual paper-like pattern should receive independent finish judgment."
+    ]
+  },
+  "approval": "unapproved",
+  "publication": "not_published",
+  "superseded_recovery": [
+    {
+      "original": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E063-the-field-trip-to-love-high-and-the-gospel-of-good-ass-prana/morning-art-v002.png",
+      "recovery": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S063-expanded-superseded/morning-art-v002.png",
+      "sha256": "b51c80988c9dddb9c069f515e0edb55882de7afefb16705140190cc1dec45fba"
+    },
+    {
+      "original": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E063-the-field-trip-to-love-high-and-the-gospel-of-good-ass-prana/morning-art-v003.png",
+      "recovery": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S063-expanded-superseded/morning-art-v003.png",
+      "sha256": "f4c530749d37169be0d3d0e04ed971c1373657d5d805c353d3e2a54d280e90b1"
+    },
+    {
+      "original": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E063-the-field-trip-to-love-high-and-the-gospel-of-good-ass-prana/sheera-art-v002.png",
+      "recovery": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S063-expanded-superseded/sheera-art-v002.png",
+      "sha256": "39890c49d3acca704bf983980e56d798621da717869f53a2a758117cd5ec6e02"
+    },
+    {
+      "original": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E063-the-field-trip-to-love-high-and-the-gospel-of-good-ass-prana/sheera-art-v003.png",
+      "recovery": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S063-expanded-superseded/sheera-art-v003.png",
+      "sha256": "6360ba3cbe2ef09b984c5dc234c3582897c2459005ab2a9077c04364696d6451"
+    },
+    {
+      "original": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E063-the-field-trip-to-love-high-and-the-gospel-of-good-ass-prana/fetch-art-v003.png",
+      "recovery": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S063-expanded-superseded/fetch-art-v003.png",
+      "sha256": "0d75c4c0df2281d3d383ec30533cef3e8085298225d2f0c85ddb1480d9302ea3"
+    }
+  ]
+}

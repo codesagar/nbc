@@ -1,0 +1,941 @@
+{
+  "generations": [
+    {
+      "id": "opening-art-v003",
+      "arguments": {
+        "prompt": "Precise local mouth-color correction of IMAGE1. IMAGE2 is ONLY a generated narrative-prop example of one gold tooth (not anatomy authority): small LOWER viewer-left tooth gold, ALL UPPER teeth pure ivory white. In IMAGE1 remove ALL current yellow/gold mouth blocks, dots, triangles and patches. Repaint every upper tooth pure ivory white with cool gray shading; natural mouth interior dark pink/black. Color ONLY the already existing small LOWER viewer-left canine tooth metallic gold, as in image2. One narrow attached tooth, not sphere/block/object. Exact inventory: upper left WHITE; upper right WHITE; lower left ONE GOLD; all other teeth WHITE. Do not add teeth. Preserve all other pixels, smooth close body painting, faces, poses, paws, full connected anatomy, setting and composition. Do not copy image2 pose or anatomy.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E033-buddy-and-the-golden-glory/opening-art-v002.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E032-buddys-big-dental-adventure-part-2/gold-art-v006.png"
+        ],
+        "transparent_background": false
+      },
+      "output_hint": "Generated images are saved to /Users/sagar/.codex/generated_images/01a10642-776c-70a0-8045-8c4d20a020b5 as /Users/sagar/.codex/generated_images/01a10642-776c-70a0-8045-8c4d20a020b5/exec-a9fb9522-9cb1-4bcc-9a2f-170191edb596.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "source_output_path": "/Users/sagar/.codex/generated_images/01a10642-776c-70a0-8045-8c4d20a020b5/exec-a9fb9522-9cb1-4bcc-9a2f-170191edb596.png",
+      "output_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S033-second-pass/opening-art-v003.png",
+      "sha256": "67652b6b29db603ba2a558d3a20b86f1484e803b1e4968bc6b33840745044d50",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "inputs": [
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E033-buddy-and-the-golden-glory/opening-art-v002.png",
+          "sha256": "29d3db2ea94341cab5e2ab07cb8013a0bf25a7da313d017f9ff83dd42af4358d",
+          "role": "edit_target_or_corrected_mouth_detail"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E032-buddys-big-dental-adventure-part-2/gold-art-v006.png",
+          "sha256": "b22983e4079e7d648a4c420e0b0cfd01972151bdb11eaabd93306cfe9d3ec20e",
+          "role": "generated_prop_and_finish_only"
+        }
+      ],
+      "status": "superseded_or_rejected"
+    },
+    {
+      "id": "opening-art-v004",
+      "arguments": {
+        "prompt": "Remove the entire GOLD CLUSTER under the LEFT side of the charcoal dog's moustache (image coordinates x425 to455, y262 to289). Make that cluster dark pink mouth interior and WHITE teeth. Keep the single lower fang next to his tongue on the RIGHT side of his mouth (x483,y290) and color that one existing tooth GOLD. All other teeth MUST be white. This is a tiny mouth correction, leave the whole rest of the picture alone.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S033-second-pass/opening-v003.png"
+        ],
+        "transparent_background": false
+      },
+      "output_hint": "Generated images are saved to /Users/sagar/.codex/generated_images/01a10642-776c-70a0-8045-8c4d20a020b5 as /Users/sagar/.codex/generated_images/01a10642-776c-70a0-8045-8c4d20a020b5/exec-81b23730-7bfb-4cb5-a4b6-33eed0378c3a.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "source_output_path": "/Users/sagar/.codex/generated_images/01a10642-776c-70a0-8045-8c4d20a020b5/exec-81b23730-7bfb-4cb5-a4b6-33eed0378c3a.png",
+      "output_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S033-second-pass/opening-art-v004.png",
+      "sha256": "5ac9045e51b164062cf5fa6884294b15f1298e7aff7cfd0a280a548f95e556be",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "inputs": [
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S033-second-pass/opening-v003.png",
+          "sha256": "67652b6b29db603ba2a558d3a20b86f1484e803b1e4968bc6b33840745044d50",
+          "role": "edit_target_or_corrected_mouth_detail"
+        }
+      ],
+      "status": "superseded_or_rejected"
+    },
+    {
+      "id": "opening-art-v005",
+      "arguments": {
+        "prompt": "Change Buddy the charcoal dog's facial expression: CLOSE HIS MOUTH to a small relaxed smile. His tongue must be completely inside his mouth, no hanging tongue. His lips cover all teeth EXCEPT ONE small gold lower canine tip on the near side. Exactly one tiny narrow gold tooth tip, mouth otherwise a thin dark curved smile line. Redraw the entire mouth region naturally to accomplish this, do not preserve the old open-mouth tooth artifacts. Keep same head direction, ears and muzzle shape; all other body/anatomy/background/character positions and smooth coat finish unchanged.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S033-second-pass/opening-v004.png"
+        ],
+        "transparent_background": false
+      },
+      "output_hint": "Generated images are saved to /Users/sagar/.codex/generated_images/01a10642-776c-70a0-8045-8c4d20a020b5 as /Users/sagar/.codex/generated_images/01a10642-776c-70a0-8045-8c4d20a020b5/exec-a689bc39-4df8-4bd4-9b13-9dae2c6da045.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "source_output_path": "/Users/sagar/.codex/generated_images/01a10642-776c-70a0-8045-8c4d20a020b5/exec-a689bc39-4df8-4bd4-9b13-9dae2c6da045.png",
+      "output_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S033-second-pass/opening-art-v005.png",
+      "sha256": "61559710db22b208e58a94fbd03048d70b1f46fde9ea544a72caccaed658eaa1",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "inputs": [
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S033-second-pass/opening-v004.png",
+          "sha256": "5ac9045e51b164062cf5fa6884294b15f1298e7aff7cfd0a280a548f95e556be",
+          "role": "edit_target_or_corrected_mouth_detail"
+        }
+      ],
+      "status": "superseded_or_rejected"
+    },
+    {
+      "id": "opening-art-v006",
+      "arguments": {
+        "prompt": "Turn the charcoal dog's one visible tooth at the right side of his closed mouth to bright metallic yellow GOLD. His tooth is the small cream triangular shape pointing downward at image x493,y284. Change only the COLOR of this single existing tooth. Do NOT add another tooth or golden spot. Everything else unchanged.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S033-second-pass/opening-v005.png"
+        ],
+        "transparent_background": false
+      },
+      "output_hint": "Generated images are saved to /Users/sagar/.codex/generated_images/01a10642-776c-70a0-8045-8c4d20a020b5 as /Users/sagar/.codex/generated_images/01a10642-776c-70a0-8045-8c4d20a020b5/exec-cbbe1f6a-4da1-43d1-9f41-4155c642722c.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "source_output_path": "/Users/sagar/.codex/generated_images/01a10642-776c-70a0-8045-8c4d20a020b5/exec-cbbe1f6a-4da1-43d1-9f41-4155c642722c.png",
+      "output_path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E033-buddy-and-the-golden-glory/opening-art-v006.png",
+      "sha256": "7157e77c36139880529dd95b12249f30f343dbaefefdd387e40344dc2690e42c",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "inputs": [
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S033-second-pass/opening-v005.png",
+          "sha256": "61559710db22b208e58a94fbd03048d70b1f46fde9ea544a72caccaed658eaa1",
+          "role": "edit_target_or_corrected_mouth_detail"
+        }
+      ],
+      "status": "proposed_pending_independent_review"
+    },
+    {
+      "id": "crowd-art-v004",
+      "arguments": {
+        "prompt": "Precise local mouth-color correction of IMAGE1. IMAGE2 is ONLY a generated narrative-prop example of one gold tooth (not anatomy authority): small LOWER viewer-left tooth gold, ALL UPPER teeth pure ivory white. In IMAGE1 remove ALL current yellow/gold mouth blocks, dots, triangles and patches. Repaint every upper tooth pure ivory white with cool gray shading; natural mouth interior dark pink/black. Color ONLY the already existing small LOWER viewer-left canine tooth metallic gold, as in image2. One narrow attached tooth, not sphere/block/object. Exact inventory: upper left WHITE; upper right WHITE; lower left ONE GOLD; all other teeth WHITE. Do not add teeth. Preserve all other pixels, smooth close body painting, faces, poses, paws, full connected anatomy, setting and composition. Do not copy image2 pose or anatomy.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E033-buddy-and-the-golden-glory/crowd-art-v003.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E032-buddys-big-dental-adventure-part-2/gold-art-v006.png"
+        ],
+        "transparent_background": false
+      },
+      "output_hint": "Generated images are saved to /Users/sagar/.codex/generated_images/01a10642-776c-70a0-8045-8c4d20a020b5 as /Users/sagar/.codex/generated_images/01a10642-776c-70a0-8045-8c4d20a020b5/exec-0dcaad4b-4b9e-4b77-925c-8adb56e9ebfa.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "source_output_path": "/Users/sagar/.codex/generated_images/01a10642-776c-70a0-8045-8c4d20a020b5/exec-0dcaad4b-4b9e-4b77-925c-8adb56e9ebfa.png",
+      "output_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S033-second-pass/crowd-art-v004.png",
+      "sha256": "12f535fc854a42431e7a66650fef787c900fcd6a068b2dd72f8cfd5fc57bf2f6",
+      "dimensions": [
+        1448,
+        1086
+      ],
+      "inputs": [
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E033-buddy-and-the-golden-glory/crowd-art-v003.png",
+          "sha256": "35300b8996555d8f490ead7fc394ef7f5b1c4083fd8d47f9f1407cb71801ee0e",
+          "role": "edit_target_or_corrected_mouth_detail"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E032-buddys-big-dental-adventure-part-2/gold-art-v006.png",
+          "sha256": "b22983e4079e7d648a4c420e0b0cfd01972151bdb11eaabd93306cfe9d3ec20e",
+          "role": "generated_prop_and_finish_only"
+        }
+      ],
+      "status": "superseded_or_rejected"
+    },
+    {
+      "id": "crowd-art-v005",
+      "arguments": {
+        "prompt": "Precise local tooth correction: Central charcoal dog mouth has TWO GOLD patches, one on each side. Make the gold patch on the viewer-RIGHT upper corner at x826 y353 WHITE. Make the upper-left patch at x782 y368 WHITE also. Color only the existing LOWER viewer-left pointed tooth metallic GOLD. Every UPPER tooth WHITE; only ONE LOWER tooth gold. Do not keep either current upper yellow spot. Preserve entire image outside the small mouth including smooth flat coat painting, anatomy, composition.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S033-second-pass/crowd-v004.png"
+        ],
+        "transparent_background": false
+      },
+      "output_hint": "Generated images are saved to /Users/sagar/.codex/generated_images/01a10642-776c-70a0-8045-8c4d20a020b5 as /Users/sagar/.codex/generated_images/01a10642-776c-70a0-8045-8c4d20a020b5/exec-8cab0503-df76-46b8-855b-49a2d957bb13.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "source_output_path": "/Users/sagar/.codex/generated_images/01a10642-776c-70a0-8045-8c4d20a020b5/exec-8cab0503-df76-46b8-855b-49a2d957bb13.png",
+      "output_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S033-second-pass/crowd-art-v005.png",
+      "sha256": "0e95ee7e6f358447e3a0284acb4219c97e305874fe274d7b84a70a527b390258",
+      "dimensions": [
+        1448,
+        1086
+      ],
+      "inputs": [
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S033-second-pass/crowd-v004.png",
+          "sha256": "12f535fc854a42431e7a66650fef787c900fcd6a068b2dd72f8cfd5fc57bf2f6",
+          "role": "edit_target_or_corrected_mouth_detail"
+        }
+      ],
+      "status": "superseded_or_rejected"
+    },
+    {
+      "id": "crowd-art-v006",
+      "arguments": {
+        "prompt": "Change central charcoal Buddy's expression to a proud small CLOSED-MOUTH smile. Tongue completely inside, not visible. Lips cover ALL teeth EXCEPT ONE small lower-side metallic gold canine tip. One little narrow tooth, NOT two gold corners. Redraw whole mouth and lower muzzle naturally, keeping head direction and face identity. The mouth should be just a thin dark relaxed smiling curve and one gold tooth tip. All other four dogs, full body anatomy, connected supporting legs, smooth coat painting, setting and composition unchanged.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S033-second-pass/crowd-v005.png"
+        ],
+        "transparent_background": false
+      },
+      "output_hint": "Generated images are saved to /Users/sagar/.codex/generated_images/01a10642-776c-70a0-8045-8c4d20a020b5 as /Users/sagar/.codex/generated_images/01a10642-776c-70a0-8045-8c4d20a020b5/exec-9b00c030-62be-44ad-8acb-131c1da034e9.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "source_output_path": "/Users/sagar/.codex/generated_images/01a10642-776c-70a0-8045-8c4d20a020b5/exec-9b00c030-62be-44ad-8acb-131c1da034e9.png",
+      "output_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S033-second-pass/crowd-art-v006.png",
+      "sha256": "53eed0807435023bfd6f1c26c3a1a032faaba68417be4de37b3aa6d313dca7c1",
+      "dimensions": [
+        1448,
+        1086
+      ],
+      "inputs": [
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S033-second-pass/crowd-v005.png",
+          "sha256": "0e95ee7e6f358447e3a0284acb4219c97e305874fe274d7b84a70a527b390258",
+          "role": "edit_target_or_corrected_mouth_detail"
+        }
+      ],
+      "status": "superseded_or_rejected"
+    },
+    {
+      "id": "crowd-art-v007",
+      "arguments": {
+        "prompt": "Erase the tiny YELLOW DOT on the viewer-left edge of central charcoal dog's closed smiling mouth, around x780,y364. It is a stray yellow pixel patch. Replace it with ordinary dark gray lip. KEEP the ONE gold pointed tooth on the viewer-right corner at x825,y355 exactly as it is. The result has only ONE gold feature in entire mouth: that right-side tooth. Change nothing else.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S033-second-pass/crowd-v006.png"
+        ],
+        "transparent_background": false
+      },
+      "output_hint": "Generated images are saved to /Users/sagar/.codex/generated_images/01a10642-776c-70a0-8045-8c4d20a020b5 as /Users/sagar/.codex/generated_images/01a10642-776c-70a0-8045-8c4d20a020b5/exec-9fe64d43-bc27-4acf-8355-d309105f2d13.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "source_output_path": "/Users/sagar/.codex/generated_images/01a10642-776c-70a0-8045-8c4d20a020b5/exec-9fe64d43-bc27-4acf-8355-d309105f2d13.png",
+      "output_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S033-second-pass/crowd-art-v007.png",
+      "sha256": "2e1eea61dce02c501f0f7468ae2e81c5fece7dde055890215639b725b84a770e",
+      "dimensions": [
+        1448,
+        1086
+      ],
+      "inputs": [
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S033-second-pass/crowd-v006.png",
+          "sha256": "53eed0807435023bfd6f1c26c3a1a032faaba68417be4de37b3aa6d313dca7c1",
+          "role": "edit_target_or_corrected_mouth_detail"
+        }
+      ],
+      "status": "superseded_or_rejected"
+    },
+    {
+      "id": "crowd-art-v008",
+      "arguments": {
+        "prompt": "Redraw central charcoal Buddy's WHOLE face with a natural slightly side-facing smile, head tipped proudly toward sunlight. Replace the old mouth entirely: new narrow smile with exactly ONE small gold tooth showing at the near-side lip; the far lip is entirely covered by cream moustache, with no teeth or gold dots. All other teeth hidden. Natural canine muzzle, no human smile. Keep the rest of head identity with cream beard/brows and pendant ears, five-dog composition, smooth flat body coats, all connected legs/supports, sunny park completely unchanged. Do not reproduce the old tiny gold dot on opposite lip.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S033-second-pass/crowd-v006.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg"
+        ],
+        "transparent_background": false
+      },
+      "output_hint": "Generated images are saved to /Users/sagar/.codex/generated_images/01a10642-776c-70a0-8045-8c4d20a020b5 as /Users/sagar/.codex/generated_images/01a10642-776c-70a0-8045-8c4d20a020b5/exec-272440af-20e3-40c3-b474-acf7e71dd3af.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "source_output_path": "/Users/sagar/.codex/generated_images/01a10642-776c-70a0-8045-8c4d20a020b5/exec-272440af-20e3-40c3-b474-acf7e71dd3af.png",
+      "output_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S033-second-pass/crowd-art-v008.png",
+      "sha256": "6d4bb2eaa78f64fb2d6686f8d9c5d59ae4e162a05e36ee3fa88cf16778e74d80",
+      "dimensions": [
+        1448,
+        1086
+      ],
+      "inputs": [
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S033-second-pass/crowd-v006.png",
+          "sha256": "53eed0807435023bfd6f1c26c3a1a032faaba68417be4de37b3aa6d313dca7c1",
+          "role": "edit_target_or_corrected_mouth_detail"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+          "sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+          "role": "original_photo"
+        }
+      ],
+      "status": "superseded_or_rejected"
+    },
+    {
+      "id": "crowd-art-v009",
+      "arguments": {
+        "prompt": "Image1 is complete scene target; image2 is an enlarged CORRECTED mouth detail from the central charcoal dog. Update image1's mouth to precisely match image2: only one gold tooth at viewer-right, no yellow dot on opposite lip. Incorporate the corrected mouth back into the central dog's existing face at natural original scale, do not zoom scene or enlarge head. Keep all other characters anatomy expressions, smooth body painting and full park composition unchanged. Output the entire full scene.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S033-second-pass/crowd-v006.png",
+          "/Users/sagar/.codex/generated_images/01a10642-776c-70a0-8045-8c4d20a020b5/exec-a96e5652-a96e-4030-87d4-e72aafd254bd.png"
+        ],
+        "transparent_background": false
+      },
+      "output_hint": "Generated images are saved to /Users/sagar/.codex/generated_images/01a10642-776c-70a0-8045-8c4d20a020b5 as /Users/sagar/.codex/generated_images/01a10642-776c-70a0-8045-8c4d20a020b5/exec-f508563b-4a8c-46ef-9ffe-a69c411d16de.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "source_output_path": "/Users/sagar/.codex/generated_images/01a10642-776c-70a0-8045-8c4d20a020b5/exec-f508563b-4a8c-46ef-9ffe-a69c411d16de.png",
+      "output_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S033-second-pass/crowd-art-v009.png",
+      "sha256": "47d7e1b4799bcb4cceda91466e61c4c3440a8cf8843eac5e6d62bdf53b8aa6c7",
+      "dimensions": [
+        1448,
+        1086
+      ],
+      "inputs": [
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S033-second-pass/crowd-v006.png",
+          "sha256": "53eed0807435023bfd6f1c26c3a1a032faaba68417be4de37b3aa6d313dca7c1",
+          "role": "edit_target_or_corrected_mouth_detail"
+        },
+        {
+          "path": "/Users/sagar/.codex/generated_images/01a10642-776c-70a0-8045-8c4d20a020b5/exec-a96e5652-a96e-4030-87d4-e72aafd254bd.png",
+          "sha256": "6a27f8ca2ea35101568b77ddb506cf9addeac32728ad3b1e06e6b3f2f963c0d0",
+          "role": "edit_target_or_corrected_mouth_detail"
+        }
+      ],
+      "status": "superseded_or_rejected"
+    },
+    {
+      "id": "crowd-art-v010",
+      "arguments": {
+        "prompt": "On CENTRAL charcoal Buddy, lengthen the cream moustache on the viewer-LEFT side of his muzzle so it overlaps and completely covers the left half of his mouth seam. Cover the small stray gold dot there with opaque cream moustache strands. Keep the one gold tooth on viewer-RIGHT side exposed and unchanged. Natural asymmetric facial furnishing, no gold anywhere on covered left side. Change only that moustache overlap; preserve every other body, dog, pose, coat finish and background.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S033-second-pass/crowd-v006.png"
+        ],
+        "transparent_background": false
+      },
+      "output_hint": "Generated images are saved to /Users/sagar/.codex/generated_images/01a10642-776c-70a0-8045-8c4d20a020b5 as /Users/sagar/.codex/generated_images/01a10642-776c-70a0-8045-8c4d20a020b5/exec-2cc8687f-76e3-4bcf-8549-38cefca77d80.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "source_output_path": "/Users/sagar/.codex/generated_images/01a10642-776c-70a0-8045-8c4d20a020b5/exec-2cc8687f-76e3-4bcf-8549-38cefca77d80.png",
+      "output_path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E033-buddy-and-the-golden-glory/crowd-art-v010.png",
+      "sha256": "6779302972ed3e6bd5bf063e55b819e1cef21179a5f414504f0083440252eae2",
+      "dimensions": [
+        1448,
+        1086
+      ],
+      "inputs": [
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S033-second-pass/crowd-v006.png",
+          "sha256": "53eed0807435023bfd6f1c26c3a1a032faaba68417be4de37b3aa6d313dca7c1",
+          "role": "edit_target_or_corrected_mouth_detail"
+        }
+      ],
+      "status": "proposed_pending_independent_review"
+    },
+    {
+      "id": "fork-art-v003",
+      "arguments": {
+        "prompt": "Precise local mouth-color correction of IMAGE1. IMAGE2 is ONLY a generated narrative-prop example of one gold tooth (not anatomy authority): small LOWER viewer-left tooth gold, ALL UPPER teeth pure ivory white. In IMAGE1 remove ALL current yellow/gold mouth blocks, dots, triangles and patches. Repaint every upper tooth pure ivory white with cool gray shading; natural mouth interior dark pink/black. Color ONLY the already existing small LOWER viewer-left canine tooth metallic gold, as in image2. One narrow attached tooth, not sphere/block/object. Exact inventory: upper left WHITE; upper right WHITE; lower left ONE GOLD; all other teeth WHITE. Do not add teeth. Preserve all other pixels, smooth close body painting, faces, poses, paws, full connected anatomy, setting and composition. Do not copy image2 pose or anatomy. Also correct Neet tiny tan rump nub in image1 at x494-526,y606-640: ERASE the entire projecting cylindrical peg and blend to smooth full rump surface. Leave only a tiny flat nearflush fur bump, about 5 pixels deep; no visible stalk or round button. Keep rump volume unchanged. Image3 is ORIGINAL photo authority for Neet tiny nearflush nub, not a request to change the pose.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E033-buddy-and-the-golden-glory/fork-art-v002.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E032-buddys-big-dental-adventure-part-2/gold-art-v006.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg"
+        ],
+        "transparent_background": false
+      },
+      "output_hint": "Generated images are saved to /Users/sagar/.codex/generated_images/01a10642-776c-70a0-8045-8c4d20a020b5 as /Users/sagar/.codex/generated_images/01a10642-776c-70a0-8045-8c4d20a020b5/exec-0cf1b5f7-2108-47a6-b887-9b6a78ce3a10.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "source_output_path": "/Users/sagar/.codex/generated_images/01a10642-776c-70a0-8045-8c4d20a020b5/exec-0cf1b5f7-2108-47a6-b887-9b6a78ce3a10.png",
+      "output_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S033-second-pass/fork-art-v003.png",
+      "sha256": "b9fb70196e9d7e409b041274a39725f18ea8fb5f197655369c91423d56342bc2",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "inputs": [
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E033-buddy-and-the-golden-glory/fork-art-v002.png",
+          "sha256": "29442e00c09dbfe91ca655cc473c9422ace3a55653bb08e429291bcb0b0a3f0f",
+          "role": "edit_target_or_corrected_mouth_detail"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E032-buddys-big-dental-adventure-part-2/gold-art-v006.png",
+          "sha256": "b22983e4079e7d648a4c420e0b0cfd01972151bdb11eaabd93306cfe9d3ec20e",
+          "role": "generated_prop_and_finish_only"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+          "role": "original_photo"
+        }
+      ],
+      "status": "superseded_or_rejected"
+    },
+    {
+      "id": "fork-art-v004",
+      "arguments": {
+        "prompt": "In this dog park illustration, color the charcoal dog's ONE LOWER tooth beside the viewer-left edge of his pink tongue clearly metallic GOLD. One existing SMALL pointed lower tooth attached to lower gum; keep all upper teeth WHITE. No extra teeth. No other gold mouth spots. Make this very small change visible. Preserve the smooth close coats, tiny flat nub on tan dog, all poses, paws and park composition.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S033-second-pass/fork-v003.png"
+        ],
+        "transparent_background": false
+      },
+      "output_hint": "Generated images are saved to /Users/sagar/.codex/generated_images/01a10642-776c-70a0-8045-8c4d20a020b5 as /Users/sagar/.codex/generated_images/01a10642-776c-70a0-8045-8c4d20a020b5/exec-d59b23db-6cd4-4e65-add7-375deba4be68.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "source_output_path": "/Users/sagar/.codex/generated_images/01a10642-776c-70a0-8045-8c4d20a020b5/exec-d59b23db-6cd4-4e65-add7-375deba4be68.png",
+      "output_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S033-second-pass/fork-art-v004.png",
+      "sha256": "f91984503122274d8d8d62a4dfe2ef87dc11a7867f7b506a659edd3fc7bff4c6",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "inputs": [
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S033-second-pass/fork-v003.png",
+          "sha256": "b9fb70196e9d7e409b041274a39725f18ea8fb5f197655369c91423d56342bc2",
+          "role": "edit_target_or_corrected_mouth_detail"
+        }
+      ],
+      "status": "superseded_or_rejected"
+    },
+    {
+      "id": "fork-art-v005",
+      "arguments": {
+        "prompt": "Change charcoal Buddy's expression to a small CLOSED-MOUTH smile while looking back. Put his tongue fully inside, invisible. Lips hide ALL teeth except ONE tiny narrow GOLD lower-side canine tip. Mouth is now a thin dark curve with that single attached gold tooth tip only. Redraw the entire mouth naturally, do not retain the existing open-mouth artifacts. Preserve all other details including same head direction and facial identity, smooth body washes without fur scratches, supported limbs, park fork, tiny nearflush tan dog's nub.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S033-second-pass/fork-v004.png"
+        ],
+        "transparent_background": false
+      },
+      "output_hint": "Generated images are saved to /Users/sagar/.codex/generated_images/01a10642-776c-70a0-8045-8c4d20a020b5 as /Users/sagar/.codex/generated_images/01a10642-776c-70a0-8045-8c4d20a020b5/exec-39b81c06-71cd-42d2-b9cb-439eef841222.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "source_output_path": "/Users/sagar/.codex/generated_images/01a10642-776c-70a0-8045-8c4d20a020b5/exec-39b81c06-71cd-42d2-b9cb-439eef841222.png",
+      "output_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S033-second-pass/fork-art-v005.png",
+      "sha256": "43d759c935813e8d921afe42afd536b7ae49ca54f9bc9cd5f065a695c8ed88be",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "inputs": [
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S033-second-pass/fork-v004.png",
+          "sha256": "f91984503122274d8d8d62a4dfe2ef87dc11a7867f7b506a659edd3fc7bff4c6",
+          "role": "edit_target_or_corrected_mouth_detail"
+        }
+      ],
+      "status": "superseded_or_rejected"
+    },
+    {
+      "id": "fork-art-v006",
+      "arguments": {
+        "prompt": "Tiny exact local change: charcoal dog's closed mouth has a little YELLOW DOT at the far viewer-LEFT mouth corner, image coordinates x1008,y397. ERASE that yellow dot completely and replace it with ordinary gray-brown lip. Keep only the small gold tooth at viewer-RIGHT mouth corner, image x1055,y400. No gold on the left side at all. Do not change any other part of the image.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S033-second-pass/fork-v005.png"
+        ],
+        "transparent_background": false
+      },
+      "output_hint": "Generated images are saved to /Users/sagar/.codex/generated_images/01a10642-776c-70a0-8045-8c4d20a020b5 as /Users/sagar/.codex/generated_images/01a10642-776c-70a0-8045-8c4d20a020b5/exec-970e8cc3-e279-4153-bfa6-fc4fc8ed952a.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "source_output_path": "/Users/sagar/.codex/generated_images/01a10642-776c-70a0-8045-8c4d20a020b5/exec-970e8cc3-e279-4153-bfa6-fc4fc8ed952a.png",
+      "output_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S033-second-pass/fork-art-v006.png",
+      "sha256": "7cc112d35d8de64636227a88e804f8b8e6f7d4bc38dd1421a227e9f0332e4526",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "inputs": [
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S033-second-pass/fork-v005.png",
+          "sha256": "43d759c935813e8d921afe42afd536b7ae49ca54f9bc9cd5f065a695c8ed88be",
+          "role": "edit_target_or_corrected_mouth_detail"
+        }
+      ],
+      "status": "superseded_or_rejected"
+    },
+    {
+      "id": "fork-art-v007",
+      "arguments": {
+        "prompt": "Redraw the charcoal dog's entire head and face in this illustration, retaining identity (modest head, pendant furnished ears, cream muzzle beard, cream curved brows). New pose: turn head to clear left-facing SIDE PROFILE, nose facing toward the tan dog behind him. Mouth slightly parted in a quiet smile; in this profile exactly ONE small gold tooth visible, all others hidden by lip. This is a clean new face rendering, NOT a recoloring of old mouth. Remove ALL old face/mouth dots and tooth geometry and replace with this new profile. Keep the rest of both bodies and grounded limbs, flat smooth short coats, tiny nearflush tan rump nub, sunny forked path unchanged.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S033-second-pass/fork-v005.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg"
+        ],
+        "transparent_background": false
+      },
+      "output_hint": "Generated images are saved to /Users/sagar/.codex/generated_images/01a10642-776c-70a0-8045-8c4d20a020b5 as /Users/sagar/.codex/generated_images/01a10642-776c-70a0-8045-8c4d20a020b5/exec-05206322-1c6c-42fd-8756-13b685061af0.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "source_output_path": "/Users/sagar/.codex/generated_images/01a10642-776c-70a0-8045-8c4d20a020b5/exec-05206322-1c6c-42fd-8756-13b685061af0.png",
+      "output_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S033-second-pass/fork-art-v007.png",
+      "sha256": "7a565acca95d5f03b8eff23b86b7989a9b6b53808bcc2aeb97d613f59d82b69d",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "inputs": [
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S033-second-pass/fork-v005.png",
+          "sha256": "43d759c935813e8d921afe42afd536b7ae49ca54f9bc9cd5f065a695c8ed88be",
+          "role": "edit_target_or_corrected_mouth_detail"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+          "sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+          "role": "original_photo"
+        }
+      ],
+      "status": "superseded_or_rejected"
+    },
+    {
+      "id": "fork-art-v008",
+      "arguments": {
+        "prompt": "Charcoal Buddy waits looking back at his friend. CLOSE his mouth COMPLETELY: a natural dark mouth seam under his moustache, lips fully together, NO teeth visible, NO tongue visible, NO yellow or gold marks anywhere near mouth. Tooth is inside closed mouth and hidden in this quiet wait scene. Repaint mouth region rather than preserving old gold spots. Also smooth both dogs' short torso coats to broad simple flat washes without curled or engraved fine marks. Keep regional Buddy moustache, eyebrows and pendant ears. Keep original composition, all connected limbs and supported paws, the tan dog's corrected tiny nearflush nub, path fork and sunlight. Other parts unchanged.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S033-second-pass/fork-v005.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png"
+        ],
+        "transparent_background": false
+      },
+      "output_hint": "Generated images are saved to /Users/sagar/.codex/generated_images/01a10642-776c-70a0-8045-8c4d20a020b5 as /Users/sagar/.codex/generated_images/01a10642-776c-70a0-8045-8c4d20a020b5/exec-f32a6935-7eff-42df-b8af-f69848e34ede.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "source_output_path": "/Users/sagar/.codex/generated_images/01a10642-776c-70a0-8045-8c4d20a020b5/exec-f32a6935-7eff-42df-b8af-f69848e34ede.png",
+      "output_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S033-second-pass/fork-art-v008.png",
+      "sha256": "23a24f942af16ffd6d01d562d87e130742daa31e6206445f4717ae44b41d08bc",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "inputs": [
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S033-second-pass/fork-v005.png",
+          "sha256": "43d759c935813e8d921afe42afd536b7ae49ca54f9bc9cd5f065a695c8ed88be",
+          "role": "edit_target_or_corrected_mouth_detail"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "sha256": "19be9a85760177405bbedd26644a7e0eb9c7945709e43825d201ff2fa91742b9",
+          "role": "body_finish_only"
+        }
+      ],
+      "status": "superseded_or_rejected"
+    },
+    {
+      "id": "fork-art-v009",
+      "arguments": {
+        "prompt": "Repaint charcoal Buddy's muzzle in this quiet waiting scene with a fuller natural cream moustache draping OVER his entire closed mouth seam. The lips and all teeth are fully concealed behind the cream muzzle furnishings. No gold or yellow visible anywhere on muzzle. Do not leave the existing gold dots: cover the full mouth area with opaque cream hair. Preserve nose and eyes and head direction looking back at Neet; retain smooth flat short coat on body, connected limbs, tiny tan dog's nearflush nub and park fork layout. No other changes.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S033-second-pass/fork-v005.png"
+        ],
+        "transparent_background": false
+      },
+      "output_hint": "Generated images are saved to /Users/sagar/.codex/generated_images/01a10642-776c-70a0-8045-8c4d20a020b5 as /Users/sagar/.codex/generated_images/01a10642-776c-70a0-8045-8c4d20a020b5/exec-9bc4ff3f-3b1a-4900-9a28-7586f18af46a.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "source_output_path": "/Users/sagar/.codex/generated_images/01a10642-776c-70a0-8045-8c4d20a020b5/exec-9bc4ff3f-3b1a-4900-9a28-7586f18af46a.png",
+      "output_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S033-second-pass/fork-art-v009.png",
+      "sha256": "fe2fb57e3db0af582afe1f53b84e207dbe13a288d4e178faa77e86d34944458b",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "inputs": [
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S033-second-pass/fork-v005.png",
+          "sha256": "43d759c935813e8d921afe42afd536b7ae49ca54f9bc9cd5f065a695c8ed88be",
+          "role": "edit_target_or_corrected_mouth_detail"
+        }
+      ],
+      "status": "superseded_or_rejected"
+    },
+    {
+      "id": "mouth-detail-v001",
+      "arguments": {
+        "prompt": "This is a magnified mouth DETAIL, not a whole scene. ERASE the tiny yellow dot near left side of the smile line (roughly x90,y123). It must become dark gray lip. Leave the SINGLE larger golden tooth on the right completely unchanged. The final crop must contain exactly one gold shape: the right tooth. Do not preserve the small yellow dot.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S033-second-pass/crowd-v007-inspection.png"
+        ],
+        "transparent_background": false
+      },
+      "output_hint": "Generated images are saved to /Users/sagar/.codex/generated_images/01a10642-776c-70a0-8045-8c4d20a020b5 as /Users/sagar/.codex/generated_images/01a10642-776c-70a0-8045-8c4d20a020b5/exec-a96e5652-a96e-4030-87d4-e72aafd254bd.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "source_output_path": "/Users/sagar/.codex/generated_images/01a10642-776c-70a0-8045-8c4d20a020b5/exec-a96e5652-a96e-4030-87d4-e72aafd254bd.png",
+      "output_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S033-second-pass/mouth-detail-v001.png",
+      "sha256": "6a27f8ca2ea35101568b77ddb506cf9addeac32728ad3b1e06e6b3f2f963c0d0",
+      "dimensions": [
+        1505,
+        1045
+      ],
+      "inputs": [
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S033-second-pass/crowd-v007-inspection.png",
+          "sha256": "7c661c5557b7eaa26360a169c6e981b980957079626a05b0771f470f9d705ef9",
+          "role": "edit_target_or_corrected_mouth_detail"
+        }
+      ],
+      "status": "superseded_or_rejected"
+    },
+    {
+      "id": "fork-art-v010",
+      "arguments": {
+        "prompt": "Finish-only correction in image1. Repaint BOTH DOGS' torso and upper legs as absolutely SMOOTH flat broad tonal color fields, like the smooth dog bodies in image2. Remove all tiny curving/engraved/curl marks within coats. Keep current full head/facial furnishings including Buddy CLOSED fully hidden mouth with no tooth/gold marks; preserve original exact body shape and four legs, tan tiny nearflush nub, tails and ground supports. Image2 is BODY PAINTING FINISH ONLY, never anatomy. Do not change room/layout/park, expressions, faces or add mouth gold.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S033-second-pass/fork-v009.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png"
+        ],
+        "transparent_background": false
+      },
+      "output_hint": "Generated images are saved to /Users/sagar/.codex/generated_images/01a10642-776c-70a0-8045-8c4d20a020b5 as /Users/sagar/.codex/generated_images/01a10642-776c-70a0-8045-8c4d20a020b5/exec-7dc8a7fe-b2a7-4e3f-b5f8-891e5f0e942e.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "source_output_path": "/Users/sagar/.codex/generated_images/01a10642-776c-70a0-8045-8c4d20a020b5/exec-7dc8a7fe-b2a7-4e3f-b5f8-891e5f0e942e.png",
+      "output_path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E033-buddy-and-the-golden-glory/fork-art-v010.png",
+      "sha256": "a381d75ff0355e8e20de5dcf3754ec661f6a43cac97424d3fbf74ffcc5cc808b",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "inputs": [
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S033-second-pass/fork-v009.png",
+          "sha256": "fe2fb57e3db0af582afe1f53b84e207dbe13a288d4e178faa77e86d34944458b",
+          "role": "edit_target_or_corrected_mouth_detail"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "sha256": "19be9a85760177405bbedd26644a7e0eb9c7945709e43825d201ff2fa91742b9",
+          "role": "body_finish_only"
+        }
+      ],
+      "status": "proposed_pending_independent_review"
+    }
+  ],
+  "references": [
+    {
+      "id": "N19",
+      "character": "Neet",
+      "path": "Characters/Neet/Photos/neet-19.jpeg",
+      "filename": "neet-19.jpeg",
+      "sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+      "archived_source_path": "03_Asset_Library/Characters/Neet/neet-19.jpeg",
+      "same_exposure_group": null,
+      "use": "Primary body-level side standing and tail nub",
+      "approval_status": "unknown",
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "styling",
+          "standing_pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Primary standing body proportions, paws, hocks and stub silhouette; head is not a pure profile.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Head rotated; far limbs overlap; uncalibrated camera offers no measurements; room light subdued"
+        ],
+        "inspection_sha256": "b2c6db0a5af6a885d993cbd986cc2759b9461e693fbcabd8aa96bce1eb5ea901",
+        "source_sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N19.json"
+      },
+      "source_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose",
+          "resting_pose",
+          "styling"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Primary standing body proportions, paws, hocks and stub silhouette; head is not a pure profile.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state."
+        ],
+        "evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md"
+      },
+      "source_observation": {
+        "date": "2026-10-03",
+        "pose_view_camera": "Standing left-facing side with head toward camera; near body-level",
+        "visible_features": "Tiny short tan rump nub; near-square qualitative standing impression; long slender legs; full ribcage/thigh; moderate ventral rise; smooth short coat",
+        "limitations": "Head rotated; far limbs overlap; uncalibrated camera offers no measurements; room light subdued",
+        "recommended_uses": [
+          "standing_pose",
+          "visible_anatomy",
+          "styling"
+        ],
+        "full_restrictions": [
+          "Primary standing body proportions, paws, hocks and stub silhouette; head is not a pure profile.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Head rotated; far limbs overlap; uncalibrated camera offers no measurements; room light subdued"
+        ]
+      },
+      "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N19.json",
+      "inspection_sha256": "b2c6db0a5af6a885d993cbd986cc2759b9461e693fbcabd8aa96bce1eb5ea901"
+    },
+    {
+      "id": "N29",
+      "character": "Neet",
+      "path": "Characters/Neet/Photos/neet-29.jpeg",
+      "filename": "neet-29.jpeg",
+      "sha256": "dedcc7d8bcbc5da7e2441352200025606fc971644d0cbacd24e8465db8dcdc16",
+      "archived_source_path": "03_Asset_Library/Characters/Neet/neet-29.jpeg",
+      "same_exposure_group": null,
+      "use": "Frontal standing chest and leg clearance",
+      "approval_status": "unknown",
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "styling",
+          "standing_pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Primary frontal standing proportions, leg slenderness, head/body scale and chest markings.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Body depth foreshortened; tail hidden; light/shadow affect colors; exact ratios unknown"
+        ],
+        "inspection_sha256": "af30873f7f392d2503a668667ed619b8d183d685403e25977ce3fe23d9359802",
+        "source_sha256": "dedcc7d8bcbc5da7e2441352200025606fc971644d0cbacd24e8465db8dcdc16",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N29.json"
+      },
+      "source_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose",
+          "resting_pose",
+          "styling"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Primary frontal standing proportions, leg slenderness, head/body scale and chest markings.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state."
+        ],
+        "evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md"
+      },
+      "source_observation": {
+        "date": "2026-10-03",
+        "pose_view_camera": "Frontal standing outdoors; near chest-height with slight elevation",
+        "visible_features": "Long thin foreleg columns; narrow front; small compact dark-clawed paws; large ears; pale throat and central bib; tan torso",
+        "limitations": "Body depth foreshortened; tail hidden; light/shadow affect colors; exact ratios unknown",
+        "recommended_uses": [
+          "standing_pose",
+          "visible_anatomy",
+          "styling"
+        ],
+        "full_restrictions": [
+          "Primary frontal standing proportions, leg slenderness, head/body scale and chest markings.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Body depth foreshortened; tail hidden; light/shadow affect colors; exact ratios unknown"
+        ]
+      },
+      "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N29.json",
+      "inspection_sha256": "af30873f7f392d2503a668667ed619b8d183d685403e25977ce3fe23d9359802"
+    },
+    {
+      "id": "B04",
+      "character": "Buddy",
+      "path": "Characters/Buddy/Photos/buddy-4.jpg",
+      "filename": "buddy-4.jpg",
+      "sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+      "archived_source_path": "03_Asset_Library/Characters/Buddy/buddy-4.jpg",
+      "same_exposure_group": "B04-B24",
+      "use": "Primary frontal standing and groomed facial pattern",
+      "approval_status": "unknown",
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "styling",
+          "standing_pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Excellent front-leg clearance, chest pattern and groomed face; useful standing stance. Same photographic exposure as B24 for evidence counting.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Tail partly cropped at left; grass hides toes; perspective foreshortens torso; B24 same exposure in separate encoding"
+        ],
+        "inspection_sha256": "dd7da906a0e61eb4cdbd84eac3c97fea3318813d5a874c4e6cd4d8d3ba890797",
+        "source_sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B04.json"
+      },
+      "source_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose",
+          "resting_pose",
+          "styling"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Excellent front-leg clearance, chest pattern and groomed face; useful standing stance. Same photographic exposure as B24 for evidence counting.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state."
+        ],
+        "evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+        "same_exposure_group": "B04-B24"
+      },
+      "source_observation": {
+        "date": "2026-10-03",
+        "pose_view_camera": "Standing front three-quarter outdoors; approximately chest-level",
+        "visible_features": "Deep chest; substantial leg shafts; pale lower legs and splaying foot hair; dark torso; pale chest sides/dark throat; long pendant ear fringe; pale muzzle/brows",
+        "limitations": "Tail partly cropped at left; grass hides toes; perspective foreshortens torso; B24 same exposure in separate encoding",
+        "recommended_uses": [
+          "standing_pose",
+          "visible_anatomy",
+          "styling"
+        ],
+        "full_restrictions": [
+          "Excellent front-leg clearance, chest pattern and groomed face; useful standing stance. Same photographic exposure as B24 for evidence counting.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Tail partly cropped at left; grass hides toes; perspective foreshortens torso; B24 same exposure in separate encoding"
+        ]
+      },
+      "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B04.json",
+      "inspection_sha256": "dd7da906a0e61eb4cdbd84eac3c97fea3318813d5a874c4e6cd4d8d3ba890797"
+    },
+    {
+      "id": "B29",
+      "character": "Buddy",
+      "path": "Characters/Buddy/Photos/buddy-29.jpeg",
+      "filename": "buddy-29.jpeg",
+      "sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+      "archived_source_path": "03_Asset_Library/Characters/Buddy/buddy-29.jpeg",
+      "same_exposure_group": null,
+      "use": "Side stride, torso length, leg clearance and tail curve",
+      "approval_status": "unknown",
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Best available lateral body-length, tail-length/carriage and walking-pose reference; weak fine landmarks because blurred and not neutral standing.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Motion blur and lifted legs; cannot establish neutral back slope, exact leg ratios or gait timing from still"
+        ],
+        "inspection_sha256": "c671664ca5e4e2e07bfd3049ea641c3a1645742fb8290494e67a17f7ed213ea9",
+        "source_sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B29.json"
+      },
+      "source_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose",
+          "resting_pose",
+          "styling"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Best available lateral body-length, tail-length/carriage and walking-pose reference; weak fine landmarks because blurred and not neutral standing.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state."
+        ],
+        "evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md"
+      },
+      "source_observation": {
+        "date": "2026-10-03",
+        "pose_view_camera": "Left-facing walking side view indoors; near body-level",
+        "visible_features": "Elongated dark trunk; projecting muzzle/pendant ears; pale lower legs; dark tapering tail held low with gentle curve; underside hair fringe",
+        "limitations": "Motion blur and lifted legs; cannot establish neutral back slope, exact leg ratios or gait timing from still",
+        "recommended_uses": [
+          "pose",
+          "visible_anatomy"
+        ],
+        "full_restrictions": [
+          "Best available lateral body-length, tail-length/carriage and walking-pose reference; weak fine landmarks because blurred and not neutral standing.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Motion blur and lifted legs; cannot establish neutral back slope, exact leg ratios or gait timing from still"
+        ]
+      },
+      "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B29.json",
+      "inspection_sha256": "c671664ca5e4e2e07bfd3049ea641c3a1645742fb8290494e67a17f7ed213ea9"
+    }
+  ],
+  "restrictions": [
+    "N35 excludes anatomy",
+    "B08 styling only",
+    "B25 unavailable",
+    "B30 supplemental resting only unused",
+    "B04/B24 one exposure",
+    "Original photos govern anatomy; generated references provisional only",
+    "Human likeness provisional; no humans depicted"
+  ],
+  "exposure_groups": [
+    "N19",
+    "N29",
+    "B04-B24",
+    "B29"
+  ],
+  "tool": "image_gen.imagegen",
+  "model": "unknown",
+  "seed": "unknown",
+  "approval": {
+    "state": "unapproved"
+  },
+  "publication": {
+    "state": "not_published"
+  },
+  "correction_reason": "Independent visual-review-v002 rejected all original mouths, fork nub; all inspected actual outputs and diagnostic mouth crops, not prompt claims.",
+  "continuity_choice": "Accepted S032 gold-art-v006 was examined as generated prop/finish example only. Its lower-tooth location was initially targeted, but story never specifies tooth location. Current closed smiles expose one small side tooth in opening/crowd; position remains provisional interpretation not canon. Fork text is waiting before route choice, does not require exposed tooth; closed mouth deliberately conceals all teeth. Coordinator confirmed text-grounded concealed tooth is appropriate.",
+  "whole_image_inspection": {
+    "opening-art-v006": [
+      "One clear small gold triangle visible on narrow smile, no prior broad block. Full four-leg ownership/support, fine Neet legs and short-body silhouettes retained."
+    ],
+    "crowd-art-v010": [
+      "One distinct pointed side gold tooth; moustache overlaps far mouth. Tiny warm speck under opposite moustache remains for reviewer to distinguish from a second tooth; no second pointed tooth shown. Five separate dogs and grounded paws retained; body finish broad flat planes."
+    ],
+    "fork-art-v010": [
+      "Entire replacement opened: closed muzzle conceals all teeth/gold, nearflush nub retained; connected bodies and supported legs, wider fork composition and regional facial furnishings retained. Smooth finish corrected after reintroduced surface marks."
+    ]
+  },
+  "story_sha256": "54b215acfa6bef07fdf0d3769b7fceca022ccf6b3f0058f893869b8243aed4f1",
+  "selected_images": [
+    {
+      "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E033-buddy-and-the-golden-glory/opening-art-v006.png",
+      "sha256": "7157e77c36139880529dd95b12249f30f343dbaefefdd387e40344dc2690e42c",
+      "placement_after": "That was the part Neet found most irritating. He had prepared an argument. Buddy was apparently going to win it by standing there.",
+      "alt_text": "Buddy angles toward the sunlight while Neet waits beside him with an unimpressed look.",
+      "status": "pending_independent_review"
+    },
+    {
+      "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E033-buddy-and-the-golden-glory/crowd-art-v010.png",
+      "sha256": "6779302972ed3e6bd5bf063e55b819e1cef21179a5f414504f0083440252eae2",
+      "placement_after": "Buddy held the pose. For once, he did not have to move aside for his brother.",
+      "alt_text": "Buddy holds the spotlight while the bulldog, pug and retriever admire him and Neet stands outside the group.",
+      "status": "pending_independent_review"
+    },
+    {
+      "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E033-buddy-and-the-golden-glory/fork-art-v010.png",
+      "sha256": "a381d75ff0355e8e20de5dcf3754ec661f6a43cac97424d3fbf74ffcc5cc808b",
+      "placement_after": "Buddy trotted ahead, then waited where the path forked. Being admired was pleasant. He still wanted to finish the walk with his brother.",
+      "alt_text": "Buddy waits at the fork, looking back toward Neet before they choose their route.",
+      "status": "pending_independent_review"
+    }
+  ],
+  "diagnostic_crops": {
+    "purpose": "Inspection-only enlarged mouth crops; source artwork never manually repainted. The corrected crop and its full-scene integration were both generated by built-in imagegen.",
+    "crowd-v007-inspection.png": {
+      "source": "exec-9fe64d43-bc27-4acf-8355-d309105f2d13.png",
+      "crop_xyxy": [
+        755,
+        334,
+        850,
+        400
+      ],
+      "inspection_resize": 4
+    },
+    "opening-v006-inspection.png": {
+      "source": "exec-cbbe1f6a-4da1-43d1-9f41-4155c642722c.png",
+      "crop_xyxy": [
+        410,
+        245,
+        558,
+        330
+      ],
+      "inspection_resize": 4
+    },
+    "fork-v006-inspection.png": {
+      "source": "exec-970e8cc3-e279-4153-bfa6-fc4fc8ed952a.png",
+      "crop_xyxy": [
+        990,
+        375,
+        1095,
+        440
+      ],
+      "inspection_resize": 4
+    }
+  }
+}

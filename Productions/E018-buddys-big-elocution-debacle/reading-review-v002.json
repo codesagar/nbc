@@ -1,0 +1,94 @@
+{
+  "story_id": "S018",
+  "date": "2026-10-04",
+  "reviewer": "fresh complete reading reviewer reader018; did not write story or generate artwork",
+  "status": "accepted",
+  "story": {
+    "path": "Stories/S018-buddys-big-elocution-debacle.md",
+    "sha256": "f506c53c4f2013d0ecfa51f1f2bb3782d0cfeaadf3148398845cbacc6ab8f0f4"
+  },
+  "images": [
+    {
+      "path": "Productions/E018-buddys-big-elocution-debacle/practice-art-v002.png",
+      "sha256": "60503e4b3b023539f483d5ae083d815913a77ce952e91a549e50feb5cc893482"
+    },
+    {
+      "path": "Productions/E018-buddys-big-elocution-debacle/illustration-v006.png",
+      "sha256": "3cbf1533ddc4ac42f3a4c9bf36ca15cc7f4389124a1e0d9da5d210de2c034785"
+    },
+    {
+      "path": "Productions/E018-buddys-big-elocution-debacle/trophy-art-v002.png",
+      "sha256": "5e717a78eb32b22cfa75840f1ef398af6dbe4e7f049356817fbff5fe62d7659f"
+    }
+  ],
+  "rendered_inspection": {
+    "url": "http://127.0.0.1:56824/Stories/S018-buddys-big-elocution-debacle.md",
+    "method": "Actual Codex in-app browser via cua: complete accessibility reading plus 16 sequential overlapping viewport screenshots from title to final provenance bullet; all narrative text and every part of all three embedded images inspected at intended reading size. Raw Markdown was not the reading artifact.",
+    "viewport_px": [
+      1280,
+      720
+    ],
+    "image_display_px": [
+      [
+        960,
+        640
+      ],
+      [
+        960,
+        720
+      ],
+      [
+        960,
+        640
+      ]
+    ],
+    "loaded_images": 3,
+    "all_images_complete": true,
+    "coverage": [
+      "opening and Buddy motivation",
+      "complete preparation",
+      "complete practice illustration",
+      "competition entrants and transition",
+      "speech and complete stage illustration",
+      "remaining speech and bow",
+      "complete aftermath and closing dialogue",
+      "complete trophy illustration",
+      "refinement record",
+      "provenance and editorial notes through legacy-ch19 SHA-256"
+    ],
+    "alternatives": "No meaningful alternative is present; page ends after single legacy-ch19 provenance entry, consistent with comedy record."
+  },
+  "observations": {
+    "comedy_timing": "Private speaking to someone asleep gives Buddy a dry opening defense. Top Man joke gives Neet an interruption that Buddy converts into a silent rehearsal; four seconds is a clean short payoff. Rani awaiting an encore and the too-high microphone increase pressure before the preserved food mistakes. The blank-page illustration follows the completed silence gag, not an interrupted attribution.",
+    "voices_and_agency": "Buddy chooses to try, limits Neet during practice, persists through the confused speech and turns the trophy question back on him. Neet moves from delighted spectator to wordless companion. Chirag remains the earnest tutor and embarrassed audience member; Heather joins the humor with Two prizes while affirming Buddy.",
+    "causality_and_payoff": "Practice creates expectation, competent competitors heighten nerves, familiar words scramble under pressure, and Buddy keeps going despite embarrassment. Enthusiasm prize rewards persistence rather than falsely claiming linguistic competence. Trophy exchange and final silent sit pay off rehearsal without leaving Buddy as only the butt of the joke.",
+    "image_states": [
+      "Practice: blank sheet, silent seated Neet, standing Buddy and laundry context appear immediately after the four-second silence. No trophy or contest prop appears early.",
+      "Speech: Buddy speaking at microphone, unbitten paw Neet and watching Chirag appear after motorcycle dhokla but before Neet bites his paw. Speech paper remains on stage; no trophy spoils prize.",
+      "Ending: folded paper and golden paw trophy sit on grass with Buddy and silent Neet only after prize-giving and the narrated shared sit."
+    ],
+    "complementarity": "Domestic rehearsal, public raised-stage performance and quiet park aftermath have distinct actions, compositions and narrative functions. The final picture lets the earned affectionate pause last; three images suit this short story without repeating speech errors.",
+    "visual_continuity": "The replacement stage image has flatter paint fields than the softer first and last pictures, but familiar dog silhouettes, clothing-free setting, props and close body coats remain coherent. No material reading-scale defect found.",
+    "provenance": "Historical Heather/Chirag household, Gujarati phrases/glosses, manuscript Chapter 19 and editorial chronology uncertainty remain explicit or untouched. No source contradiction is silently resolved; this is not translation certification or owner-approved canon."
+  },
+  "review_records": [
+    {
+      "path": "Productions/E018-buddys-big-elocution-debacle/comedy-pass-v002.json",
+      "sha256": "a0edffa64b13ea95bcdd2896af63a17f504acb981e6e1d2d36db861e75c6b707"
+    },
+    {
+      "path": "Productions/E018-buddys-big-elocution-debacle/visual-review-v002.json",
+      "sha256": "d42641f7a5bc31653863d83c590a5cb85c2cdf402dbf6669f586735f8247affa"
+    }
+  ],
+  "material_findings": [
+    {
+      "id": "S018-V002-01",
+      "status": "closed",
+      "verification": "Read independent full-resolution replacement inspection and verified its pinned v006 is the actual embedded image. In rendered v006 all three dogs have smooth close body fields rather than looping engraved coat marks. Scene/props remain consistent. This corroborates closure at reading size, not a substitute for the independent visual review."
+    }
+  ],
+  "open_findings": [],
+  "approval": "unapproved",
+  "publication": "not_published"
+}

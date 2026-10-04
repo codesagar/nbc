@@ -1,0 +1,34 @@
+{
+  "status": "passed_with_test_environment_limits",
+  "primary_stories": 70,
+  "complete_alternate_tellings": 3,
+  "portable_html_pages": 74,
+  "unique_illustrations": 241,
+  "image_placements": 246,
+  "content_comparison": "All73 narrative bodies and all246 image alt/order/derivative targets match the corresponding source narrative; only named archival sections and alternative editorial introductions are omitted. Narrative epilogues retained.",
+  "source_preservation": "All70 source story files and241 selected original image checks match the frozen reviewed edition.",
+  "browser_checks": [
+    "Library desktop screenshot inspected at978px viewport",
+    "Search vacuum returns the two vacuum stories",
+    "More adventures filter returns9 stories",
+    "Empty search result message",
+    "Primary navigation and another-telling/return links",
+    "Houston alternative shows6 images and no archival notes",
+    "Night/day and font-size controls",
+    "Mark as read persists on library; test mark cleared",
+    "Continue-reading link persists; browser console has no errors"
+  ],
+  "browser_limits": [
+    "The in-app browser policy blocks file:// URLs. Offline target/link/package verification passed; direct double-click opening was not exercised through the browser tool.",
+    "Narrow viewport override was not honored by this browser session; responsive CSS included, narrow-screen rendering not verified."
+  ],
+  "cached_rebuild": "Passed in an isolated directory; clean generated output atomically installed after preserving the entire prior Reader directory. ZIP matches every clean generated reading file.",
+  "utility_fixtures": "8 pass, including optional frozen deliveries, Git/environment exclusion, and external recovery dependency handling",
+  "github": "Manual workflow provided; no remote connection or publication performed; no tracked working file reaches100MB",
+  "preview": "/Users/sagar/Documents/ChatGPT/NBC_Archives/reader-cleanup-2026-10-04_184337Z/reader-preview.jpg",
+  "share_zip": "/Users/sagar/Documents/ChatGPT/NBC_Archives/reader-cleanup-2026-10-04_184337Z/Neet-and-Buddy-reader-v001.zip",
+  "share_zip_bytes": 71601313,
+  "share_zip_sha256": "7350e3d264253a17415306bad36ff813652035f064153bbb7fed5272a7ed29f9",
+  "final_accounting_result": "/Users/sagar/Documents/ChatGPT/NBC_Archives/reader-cleanup-2026-10-04_184337Z/final-verification.json",
+  "concurrent_file_preservation": "/Users/sagar/Documents/ChatGPT/NBC_Archives/reader-cleanup-2026-10-04_184337Z/reader-folder-preservation.json"
+}

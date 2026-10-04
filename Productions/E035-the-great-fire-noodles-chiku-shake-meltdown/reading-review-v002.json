@@ -1,0 +1,96 @@
+{
+  "story_id": "S035",
+  "episode_id": "E035-the-great-fire-noodles-chiku-shake-meltdown",
+  "version": "v002",
+  "reviewer": "fresh independent reader035",
+  "independent": true,
+  "generated_or_edited_images": false,
+  "edited_story": false,
+  "status": "accepted",
+  "story": {
+    "path": "Stories/S035-the-great-fire-noodles-chiku-shake-meltdown.md",
+    "sha256": "3efbf14799024db4a91261f2813535bae6642943813eac4a8607b0d46060767f"
+  },
+  "images": [
+    {
+      "path": "Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/p01-chili-art-v003.png",
+      "sha256": "8bdd25a942c4ded17863912236ed818a93137a849c4b9bf76964696c009fd36c",
+      "status": "accepted",
+      "placement_observation": "After Buddy returns for the wrapper and resumes retreat: image shows wrapper held in his mouth, Neet still supervising on stool, chili entering pan. It adds opposing priorities before Heather comments."
+    },
+    {
+      "path": "Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/p02-dinner-art-v003.png",
+      "sha256": "db3483f74c27ba90088ea994e87e45a1fa38f7a6ed616d07c80b3e05d140c011",
+      "status": "accepted",
+      "placement_observation": "After the curtain sneeze, recovery and guarding decision, before Neet takes his microscopic nibble: image shows plain bowls, Buddy at his bowl and Neet looking toward the human meal. No premature nibble or curtain entanglement."
+    },
+    {
+      "path": "Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/p03-sidewalk-art-v003.png",
+      "sha256": "b28965d75a08b73f9fa173a4fcde79da75506816c7562300436031337a34099a",
+      "status": "accepted",
+      "placement_observation": "After the two-inch chin-down crawl and prolonged yawn, before Sagar folds and purchases pulp: image depicts the active begging tableau with empty surroundings of purchases, collars and two humans framing the dogs."
+    },
+    {
+      "path": "Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/p04-pour-art-v004.png",
+      "sha256": "403b8f9c7281d509b6e3de1ff9d3ab83b9e65284cf7600b3e61fad0f5afc534d",
+      "status": "accepted",
+      "placement_observation": "After four cups are specified and Buddy sits counting, before bowls are served: exactly two small and two regular cups, pour stream, standing Neet and seated Buddy make the anticipatory pause concrete."
+    },
+    {
+      "path": "Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/p05-bowl-art-v004.png",
+      "sha256": "11d19b0c936836aeaf4ef9b68706b917b675733e78d19e78bda89a5c249ae67a",
+      "status": "accepted",
+      "placement_observation": "After Neet accepts Sagar holding the bowl still, before the mustache blessing and sleep: bowl sits against the wall, hand braces rim, Neet drinks and Buddy has nose spot beside his own bowl. The assistance reversal remains intelligible."
+    }
+  ],
+  "rendered_inspection": {
+    "url": "http://127.0.0.1:56824/Stories/S035-the-great-fire-noodles-chiku-shake-meltdown.md",
+    "method": "Actual Codex in-app browser rendered reading at normal viewport; initial accessibility reading followed by 24 overlapping viewport screenshots from title to final provenance. All visible text, every illustration top-to-bottom and all transitions inspected. DOM/file reading was supplementary, not the acceptance basis.",
+    "viewport": [
+      1280,
+      720
+    ],
+    "presentation": "Approximately 760px prose column, readable serif body; illustrations approximately 960px wide. Normal scrolling, no zoom reduction.",
+    "coverage": [
+      "Title and Part I full setup",
+      "Part II complete cooking scene and chili image",
+      "Part III complete dinner and image",
+      "Part IV complete walk, bargaining and sidewalk image",
+      "Part V full pour, slurping and bowl sequence, both images",
+      "Part VI full aftermath and final measuring-spoon sentence",
+      "Refinement record, provenance and final archive SHA-256 line"
+    ],
+    "alternatives": "No meaningful alternative appears in the complete rendered story; comedy record explicitly records none mapped.",
+    "visual_result": "All five images loaded; no broken media, unreadable prose, interrupted attribution or layout collision. Images span viewport heights but remain comfortably readable through overlapping scrolling."
+  },
+  "observations": {
+    "comedy_and_timing": "Skipped measurement makes the last spoon callback earned. Short paragraphs delay the first-bite explosion. Buddy rescues the wrapper despite retreat, protects the plain noodles, holds his yawn for an audience and checks a second paw for shake; these are independent choices with specific physical consequences. The images pause on changes of state without preempting the next reversal.",
+    "voices": "Neet treats supervision, bargaining and assistance as matters of authority. Buddy follows edible quantity and opportunity. Sagar supplies misplaced confidence, then practical help; Heather moves from skeptical memory to distress and affectionate exasperation. Their lines remain distinguishable without repeating catchphrases.",
+    "cause_effect": "Cooking confidence produces excessive chili, failed dinner motivates walk, shop triggers staged begging, purchased pulp explicitly bridges to home blender, bowl chasing leads to helpful bracing. Four cups then separate bowls is a clear serving transition.",
+    "payoff": "Cooling shake gives all four relief. Historical sleep dialogue remains, including documented tofu/paneer mismatch, followed by a quiet concrete measuring-spoon callback. No sixth image crowds the ending.",
+    "complementarity": "Five scenes vary action and location: elevated supervision/retreat, doorway guarding, pavement performance, counter anticipation and floor assistance. Repeated kitchen setting now changes stakes rather than repeating portraits.",
+    "resolved_findings": "Current images visibly have smooth torso planes; sidewalk leashes meet collars and payoff bowl rests on floor beside wall. Buddy facial furnishings remain localized. The independently accepted native visual-review hashes match every embedded final and current story hash; no open material finding remains in that record."
+  },
+  "records_consulted": [
+    {
+      "path": "Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/comedy-pass-v002.json",
+      "sha256": "0552c62ede668a48c542a1726d804d069f675ad1c63ad4bf0fae184f4a5454a0"
+    },
+    {
+      "path": "Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/artwork-generation-v002.json",
+      "sha256": "e7cd82f1c06e53e44745a537ce9993593bf6dde9d1141a455d772fba8b3bd05a"
+    },
+    {
+      "path": "Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/visual-review-v002.json",
+      "sha256": "0676df2d51d07d126c2c1442e4e7d5a4528157968c0328cd527ea4156fc63abe"
+    }
+  ],
+  "material_findings": [],
+  "open_findings": [],
+  "approval": "unapproved",
+  "publication": "not_published",
+  "limitations": [
+    "Reading-size acceptance supplements, and does not replace, the separate independent native-resolution visual inspection.",
+    "Human likeness and style remain provisional. No owner approval inferred."
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "story_id": "S020",
+  "status": "accepted",
+  "reviewer": "Fresh independent complete reader reader020; did not write story or generate images",
+  "story": {
+    "path": "Stories/S020-the-great-nighttime-bark-off.md",
+    "sha256": "af624721e3a2fc787ea0eccd411994ec7ce144787f420cc69fddaae6a36d3a2d"
+  },
+  "images": [
+    {
+      "path": "Productions/E020-the-great-nighttime-bark-off/gathering-art-v002.png",
+      "sha256": "d37b27e3dbbc4d87cd5e8f44787478b4e1707e165e50dc27a454db669335c3c8"
+    },
+    {
+      "path": "Productions/E020-the-great-nighttime-bark-off/echo-art-v002.png",
+      "sha256": "10808b22491feb650572221b6be799bd34afaa8ab8443e261c41acca1cf072e3"
+    },
+    {
+      "path": "Productions/E020-the-great-nighttime-bark-off/illustration-v004.png",
+      "sha256": "14a6e41f3cbdee08f299ce55f5caf0fbc2fca5ae3713382a740888dec3c549e2"
+    }
+  ],
+  "rendered_inspection": {
+    "url": "http://127.0.0.1:56824/Stories/S020-the-great-nighttime-bark-off.md",
+    "method": "Cua in-app browser, full DOM reading plus sequential overlapping viewport screenshots from title through complete provenance footer. All prose and all three embedded illustrations inspected in their actual reading flow.",
+    "viewport": {
+      "width": 1280,
+      "height": 720
+    },
+    "text_font_size_px": 20,
+    "text_line_height_px": 34,
+    "image_display_width_px": 960,
+    "image_display_heights_px": [
+      540.28125,
+      640,
+      720
+    ],
+    "loaded_images": 3,
+    "all_images_complete": true,
+    "coverage": [
+      "Opening porch and single bark",
+      "The Gathering and Quiet category picture",
+      "Round One: Volume",
+      "Complete Pierre pause sequence and Round Two: Creativity",
+      "Round Three: Echo Potential and Six picture",
+      "The Final Verdict and departure howl picture",
+      "Treat invitation and final porch silence",
+      "Refinement record and both source pins in provenance"
+    ],
+    "alternatives": "No separately presented meaningful alternative. Comedy record documents equivalent original narratives differing only in formatting; provenance retains both historical source pins."
+  },
+  "concrete_findings": {
+    "humor_and_timing": "The Quiet category request gives a compact early joke. Buddy hiding behind the trunk fails when Neet turns toward him; Pierre's two distinct pauses allow Buddy's premature approving woof to cause the close-range finale. These physical and timing jokes complement Neet's rapid alarm bark and inflated Symphony of Chaos presentation. The prose remains brisk rather than adding an explanation after each joke.",
+    "voices_and_agency": "Neet treats ordinary barking as artistic greatness and plans his week of bragging. Buddy wants quiet, follows to avoid fetching Neet later, attempts shelter, interrupts Pierre by mistake, and involuntarily joins the count. He is a fallible participant rather than only a commentator. Chirag has officious judge diction; Heather supplies amused practical limits and treats.",
+    "cause_effect_and_payoff": "The three-category rules establish stakes. Bruno wins Volume, Neet wins Creativity then Echo Potential, so the final tally is earned and explicit. Buddy's loud Six reverses his quiet ambition; his own echo and closed mouth form the immediate payoff. His approving wag keeps affection beneath exasperation. The last porch arrival finally delivers the quiet he sought, while Neet receives the promised celebration.",
+    "image_states": [
+      {
+        "path": "Productions/E020-the-great-nighttime-bark-off/gathering-art-v002.png",
+        "finding": "After Buddy had been ready to win Quiet and before Volume begins: seated disappointed Buddy, standing expectant Neet and elevated Chirag under the banyan. Selective spectators do not imply a later result. The image lets the mismatched expectations register."
+      },
+      {
+        "path": "Productions/E020-the-great-nighttime-bark-off/echo-art-v002.png",
+        "finding": "Immediately after Six and before His own voice came back: Buddy stands forward with open mouth; Neet has finished his small yip and looks toward him with closed mouth. Alley walls support the echo setting. The open mouth is not misplaced after the closing-mouth line."
+      },
+      {
+        "path": "Productions/E020-the-great-nighttime-bark-off/illustration-v004.png",
+        "finding": "After the final howl, human complaint and Buddy disavowal, before Heather offers treats: Neet's lifted muzzle and open jaw, Buddy's sidelong closed-mouth response and cropped departing human all fit. No treat or porch-rest state is shown prematurely."
+      }
+    ],
+    "complementarity_and_readability": "Three different locations and actions carry setup, reversal and last excess: seated Buddy under banyan, active Buddy in echo alley, then Neet howling beside departing Heather. The images add visible posture and gaze without duplicating three portraits. All loaded at 960px width, with readable uninterrupted dialogue attribution; broad picture pauses land after complete beats. Ending prose retains the final word after the last image.",
+    "closure": "Current visual review accepts each of these exact three image hashes and records no material findings. This reading reveals no unresolved narrative, placement or reading-size defect. Acceptance applies to complete reading, not owner approval or historical truth."
+  },
+  "records_read": [
+    {
+      "path": "Productions/E020-the-great-nighttime-bark-off/comedy-pass-v002.json",
+      "sha256": "2848b838b4215aeb635e437ae89b5f73ca7ad4af1153e9035f1729bf0874940f"
+    },
+    {
+      "path": "Productions/E020-the-great-nighttime-bark-off/visual-review-v002.json",
+      "sha256": "f7bb4858ebd5641a94c37326300e29b78d8f1a063d6a203bc82676522987621c"
+    }
+  ],
+  "material_findings": [],
+  "open_findings": [],
+  "source_uncertainties_retained": [
+    "Shelf order is editorial; event chronology and owner approval remain unverified.",
+    "Manuscript Chapter 21 identity and both historical source hashes retained.",
+    "Historical Heather-only household remains; tail-wag and tiny-body language are source voice, not anatomy authority."
+  ],
+  "style": "provisional",
+  "human_likeness": "provisional",
+  "approval": {
+    "state": "unapproved"
+  },
+  "publication": {
+    "state": "not_published"
+  }
+}

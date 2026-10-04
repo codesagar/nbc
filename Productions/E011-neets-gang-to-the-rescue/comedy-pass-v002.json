@@ -1,0 +1,87 @@
+{
+  "story_id": "S011",
+  "before_sha256": "0b64df1b6a832b1bfec2923b501ef1c501b7afa6bbc0ddd1cfdbcb7df2689acd",
+  "sources": [
+    {
+      "path": "02_Story_Library/Legacy_Chapters/12-neet-s-gang-to-the-rescue.md",
+      "sha256": "55353eeb1057036325ad65734227e95b8d3fbb54e3fe66123b86f2c499999bea"
+    },
+    {
+      "path": "90_Archive/2026-10-03-elevenlabs-recovery/Raw_Exports/reader-54.txt",
+      "sha256": "d18ff7ab877f56f2158b8ce02ed7c35d731b1afb1a81b635928ca3f9962b90be"
+    }
+  ],
+  "full_source_read": true,
+  "connected_read": [
+    "S009",
+    "S010"
+  ],
+  "situation": "Grand rescue and ordinary kindness save different things.",
+  "wants": {
+    "Neet": "Drive out monkeys and be recognized as commander",
+    "Buddy": "Enjoy his hard-won hollow, then help the unattended woman"
+  },
+  "preserved": [
+    "banyan alert",
+    "overturned produce cart",
+    "Heather shopping",
+    "banana monkey",
+    "Shadow and Chikki mango defense",
+    "tomato seller comfort",
+    "monkey retreat",
+    "cabbage platform praise",
+    "reward basket",
+    "leaf on paw",
+    "command post speech",
+    "stick retrieval"
+  ],
+  "changes": [
+    "Two turns and displaced stone invest Buddy in interrupted comfort",
+    "Neet waits for absent surrender then barks at empty signpost",
+    "Buddy stops one tomato and prioritizes the woman",
+    "Specific flair question replaces generic praise",
+    "Heather excludes vegetable at door, ending on comically stubborn leaf"
+  ],
+  "variant_decisions": "Both complete historical sources read; identical narrative except acquisition heading. No distinct alternative merits separate text or illustration.",
+  "complete_reread_comparison": "Compared complete revised text with previous working and both originals. Every rescue action, participants, setting and affectionate community destination remain; added modest physical beats and closing callback. Third-person voice preserved. No Sagar inserted into historical household. Existing stick/leaf payoff strengthened; quiet comfort retained.",
+  "approval": "unapproved",
+  "after_sha256": "f58e4a4a82fa9b4f66bdc26b40f27429fc636a9454b813b8bcf399a2a3063869",
+  "illustration_plan": [
+    {
+      "path": "Productions/E011-neets-gang-to-the-rescue/bananas-art-v002.png",
+      "sha256": "4beabc11025a147d9c18e39d098572c673a5907ab1d8d22f5095fd37e9432338",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "placement_after": "He gave the post one final bark. Now they were.",
+      "generation_record": "Productions/E011-neets-gang-to-the-rescue/generation-v002.json",
+      "status": "proposed_pending_independent_review"
+    },
+    {
+      "path": "Productions/E011-neets-gang-to-the-rescue/comfort-art-v003.png",
+      "sha256": "dcef6ac617f44c29872971f0bd51b8e19a1ce3a5d59210c32cdadab3fadccbde",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "placement_after": "One thing at a time.",
+      "generation_record": "Productions/E011-neets-gang-to-the-rescue/generation-v002.json",
+      "status": "proposed_pending_independent_review"
+    },
+    {
+      "path": "Productions/E011-neets-gang-to-the-rescue/illustration-v002.png",
+      "sha256": "9b98bf67a992b4129ef5617c54fb371a01594babb02832fa7d78ebebbe33febb",
+      "dimensions": [
+        1448,
+        1086
+      ],
+      "format": "PNG",
+      "placement_after": "\u201cYou\u2019ve got cabbage on your foot,\u201d Shadow told Neet between bites.",
+      "generation_record": "Productions/E011-neets-gang-to-the-rescue/generation-v002.json",
+      "status": "proposed_pending_independent_review"
+    }
+  ]
+}

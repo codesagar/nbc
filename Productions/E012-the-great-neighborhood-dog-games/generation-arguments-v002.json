@@ -1,0 +1,35 @@
+{
+  "beam": {
+    "prompt": "Use case illustration-story. Correct ONLY the coat rendering in image1, preserving its excellent balance-beam composition, exact expressions, matching gray bandanas, four Buddy paw supports, Neet pose, tunnel, bunting, warm light and tiny nose dirt. Image2 (Max scene) is BODY FINISH ONLY: broad smooth flat color planes, not anatomy or scene reference. Images3-5 are original photo identity authorities, visible regions only. Redraw Neet entire coat and Buddy charcoal torso as smooth uninterrupted flat gouache planes: remove ALL curled loops, raised fur, engraved directional marks and fuzzy projections. Buddy KEEP pale regional muzzle beard, eyebrows, ears and feet furnishings. Neet short smooth fawn, fine legs, large broad triangular ears and tiny nub; Buddy moderately elongated continuous torso with real neck and leg clearance, slender dark tail. No anatomy invention, no added characters, no lettering. N35 excludes anatomy, B08 styling only, B25 absent, B30 supplemental rest unused; B04/B24 single exposure. Preserve the whole setting and composition, change only coat finish.",
+    "referenced_image_paths": [
+      "/Users/sagar/Documents/ChatGPT/NBC/Productions/E012-the-great-neighborhood-dog-games/illustration-v002.png",
+      "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+      "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+      "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+      "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg"
+    ],
+    "transparent_background": false
+  },
+  "staging": {
+    "prompt": "Use case illustration-story. Draw a TWO-PANEL STORYBOARD sheet, side by side, clean gray contour and simple gray tone, actual fully drawn scenes not text diagrams. No hatching fur, no lettering. Photo1 Neet standing, photo2 Buddy front, photo3 Buddy side, photo4 Buddy resting are original visible-region identity authorities. Photo5 Max scene is smooth BODY FINISH only, no anatomy/scene copying. Left scene SETUP: low dog-height view at neighborhood park games before race. Both dogs in plain gray matching bandanas; Neet stands tall and proud with chin lifted displaying bandana, Buddy stands a little apart head modestly lowered looking toward a water bowl on grass. Bunting and distant low hurdle background, no people, no muddy nose yet. Right scene PAYOFF: near banyan tree after games, eye level from grass. Buddy lies tired content with muddy paws stretched in front, full continuous torso and folded hindquarters, chin raised slightly, Neet stands beside him opening mouth to discuss more training. Plain matching bandanas darker from earlier water, two loose prize ribbons on ground nearby. Contrast Neet energetic vs Buddy eyes closed. Neet smooth fawn short coat, real narrow full torso, fine long legs, large broad triangular ears, cream muzzle/bib, tiny nub. Buddy full moderately elongated charcoal torso, neck and substantial legs, cream regional moustache beard and brows, pale distal feet, furnished ears, slender dark tail. Respect grounded supports/owned limbs and connected anatomy. Never make dachshund or giant puppy heads. N35 no anatomy, B08 style-only, B25 unavailable, B30 supplemental unused. Humans absent; scale provisional. Complete distinct narrative compositions.",
+    "referenced_image_paths": [
+      "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+      "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+      "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+      "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-19.jpg",
+      "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png"
+    ],
+    "transparent_background": false
+  },
+  "setup": {
+    "prompt": "Use case illustration-story. Finish ONLY LEFT SCENE of input1 into one complete landscape illustration, no panel border or split. This is setup before neighborhood dog games. Neet proudly displays matching plain gray bandana; Buddy lowers head and looks at water bowl. Bunting, grass and distant hurdle. Preserve staged grounded paws, separate continuous bodies, attention and low viewpoint. Correct drawn construction detail: Buddy tail is slender dark taper with modest fringe, NOT curled brush. Neet forehead fully tan without white blaze. Image2 is BODY FINISH ONLY: smooth flat cel/gouache planes, NEVER anatomy or scene reference. Photos3 Neet,4 Buddy front,5 Buddy side establish visible identity. Neet broad triangular ears, projecting cream muzzle and bib, smooth very short golden-fawn coat, full narrow torso fine long legs tiny nub. Buddy moderately elongated full charcoal body with visible neck and substantial legs/clearance; cream regional moustache beard brow, furnished hanging ears and light feet remain. Smooth solid dark torso planes and tan Neet planes with NO fur strokes, hatching, curls, raised tufts, engraved texture or wool. Regional Buddy furnishings ONLY. Warm polished watercolor setting/flat smooth dog bodies, clear comic contrast. No humans, dirt, ribbons or other dogs. N35 no anatomy, B08 only styling, B25 unavailable, B30 supplemental unused; one exposure once. No text.",
+    "referenced_image_paths": [
+      "/Users/sagar/Documents/ChatGPT/NBC/Productions/E012-the-great-neighborhood-dog-games/staging-v002.png",
+      "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+      "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+      "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+      "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg"
+    ],
+    "transparent_background": false
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "date_utc": "2026-10-04T17:21:55.760400+00:00",
+  "coverage": {
+    "primary_stories": 70,
+    "unique_selected_illustrations": 241,
+    "primary_illustrations": 236,
+    "alternative_only_illustrations": 5,
+    "minimum_primary_images": 2,
+    "maximum_primary_images": 5,
+    "method": "Fresh bounded story-specific writers read current/original/meaningful-alternative and connected sources before revision, reread/compared afterward; independent native image review and separate fresh complete rendered reading for every story.",
+    "material_findings_open": 0,
+    "scope_note": "Earlier collection-wide reading evidence is preserved separately below; current per-story comedy and reading records govern this expanded commission."
+  },
+  "variant_coverage": [
+    {
+      "id": "S021",
+      "primary_unique_images": 3,
+      "alternative_image_appearances": 0,
+      "alternative_only_images": 0,
+      "reading_record": "Productions/E021-the-bittersweet-goodbye/reading-review-v002.json"
+    },
+    {
+      "id": "S027",
+      "primary_unique_images": 3,
+      "alternative_image_appearances": 0,
+      "alternative_only_images": 0,
+      "reading_record": "Productions/E027-heathers-birthday-and-the-aquarium-chaos/reading-review-v002.json"
+    },
+    {
+      "id": "S034",
+      "primary_unique_images": 5,
+      "alternative_image_appearances": 2,
+      "alternative_only_images": 2,
+      "reading_record": "Productions/E034-the-stealth-games-begin/reading-review-v002.json"
+    },
+    {
+      "id": "S038",
+      "primary_unique_images": 5,
+      "alternative_image_appearances": 2,
+      "alternative_only_images": 2,
+      "reading_record": "Productions/E038-the-smoky-mountain-escapade/reading-review-v002.json"
+    },
+    {
+      "id": "S070",
+      "primary_unique_images": 5,
+      "alternative_image_appearances": 6,
+      "alternative_only_images": 1,
+      "reading_record": "Productions/E070-the-great-houston-expedition/reading-review-v002.json"
+    }
+  ],
+  "checks": [
+    "70 current story hashes match full reading review pins",
+    "Every selected image hash appears in its direct independent visual record and fresh complete-reading record",
+    "Embedded image set equals current selected set for each story",
+    "At least two unique images in every primary before any alternative section",
+    "All material episode and expanded master findings closed",
+    "Approval unapproved and publication not_published retained"
+  ],
+  "limits": "These integrity checks bind the independently reviewed artifacts; they do not themselves assess humor, visual quality or owner approval."
+}

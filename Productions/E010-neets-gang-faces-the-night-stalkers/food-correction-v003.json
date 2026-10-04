@@ -1,0 +1,55 @@
+{
+  "finding": "S010-V002-01",
+  "status": "replacement_pending_independent_reinspection",
+  "tool": "image_gen.imagegen",
+  "model": "unknown",
+  "seed": "unknown",
+  "arguments": {
+    "prompt": "Use case: precise-object-edit. Image1 is EDIT TARGET; image2 is PROP CONTINUITY reference ONLY. In image1 replace ONLY foreground food pile on cloth with exactly the type shown in image2: one prominent pale cream cheese-like block with a few small holes and round brown food pieces clustered around its base. Remove every pale bone-shaped biscuit and irregular kibble piece. Match image2 cheese block plus round brown pieces to image1 warm light/perspective. Preserve image1 cloth and every other pixel/compositional feature as closely as possible: all three dogs, exact poses and four-foot support, faces, continuous anatomy, smooth flat coats, Buddy furnished muzzle/brows/ears/paws, stone, tree, moonless sky and streetlamp. Do not restyle or add texture, especially no curled/engraved strands on smooth Neet or Buddy torso. No text or extra objects. Do not copy any dogs or scene from image2. This is a small local food correction only.",
+    "referenced_image_paths": [
+      "/Users/sagar/Documents/ChatGPT/NBC/Productions/E010-neets-gang-faces-the-night-stalkers/illustration-v002.png",
+      "/Users/sagar/Documents/ChatGPT/NBC/Productions/E010-neets-gang-faces-the-night-stalkers/inspection-art-v002.png"
+    ],
+    "transparent_background": false
+  },
+  "inputs": [
+    {
+      "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E010-neets-gang-faces-the-night-stalkers/illustration-v002.png",
+      "sha256": "cbb99ca24d47a26d220415d88beeeced80ee17e2c5754b0e1029e5157cfa08de",
+      "preserved_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/expanded-S010-superseded/illustration-v002.png",
+      "role": "edit target; composition only, not anatomical authority"
+    },
+    {
+      "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E010-neets-gang-faces-the-night-stalkers/inspection-art-v002.png",
+      "sha256": "0e7940ffba926c60920891ba96f840645c69eaf8d48f6c6c2231c3e3e73bdb8b",
+      "role": "accepted food prop continuity only"
+    }
+  ],
+  "output": {
+    "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E010-neets-gang-faces-the-night-stalkers/illustration-v003.png",
+    "sha256": "74548827d6c16b1855bd4b39ce186902d00ac8b28894184393039dede5eb916e",
+    "dimensions": [
+      1448,
+      1086
+    ],
+    "source_path": "/Users/sagar/.codex/generated_images/01a10553-54f0-7971-8a9d-1703f5c5d9b4/exec-41f78553-f26b-4802-80c3-335ba7d6576e.png"
+  },
+  "full_reference_policy_record": "artwork-generation-v002.json",
+  "generator_whole_native_inspection": {
+    "performed": true,
+    "observations": [
+      "Pale cheese block and round brown pieces now match earlier scenes; no bone biscuits.",
+      "All three dog poses and support remain coherent: Neet four feet on stone, Buddy four feet grounded with connected bowed neck, Shadow seated.",
+      "Smooth fawn and charcoal torso fields remain without curly coat engraving; furnishings stay localized.",
+      "Banyan, command stone, cloth and warm streetlamp retained."
+    ],
+    "independent_acceptance": false
+  },
+  "rejected_preservation": {
+    "old_path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E010-neets-gang-faces-the-night-stalkers/illustration-v002.png",
+    "archive_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/expanded-S010-superseded/illustration-v002.png",
+    "sha256": "cbb99ca24d47a26d220415d88beeeced80ee17e2c5754b0e1029e5157cfa08de"
+  },
+  "approval": "unapproved",
+  "publication": "not_published"
+}

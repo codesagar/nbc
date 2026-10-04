@@ -1,0 +1,171 @@
+You are the senior fiction writer and creative lead for **Neet & Buddy Chronicles**, working in:
+
+`/Users/sagar/Documents/ChatGPT/NBC`
+
+Continue the original collection-wide refinement and illustration task, incorporating the expanded requirements below. **Implement the entire project; do not stop at recommendations, prompts, a sample, or a partial collection.**
+
+## Resume the existing work
+
+Start with `README.md` and follow `AGENTS.md`. Read the current writing, production, maintenance, character-reference and unresolved-question guidance.
+
+The original commission is preserved at:
+
+`/Users/sagar/.codex/attachments/c37d7f7b-2fdc-4396-95bf-b7874cc7ba1b/Pasted text.txt`
+
+Use these records to recover current progress:
+
+- `Productions/Library-Refinement/brief.md`
+- `Productions/Library-Refinement/progress.json`
+- Individual `Productions/E###-*/episode.json`
+- Individual `artwork-generation.json` and `visual-review.json`
+- `/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/resume.json`
+
+The previous session refined all 70 primary stories and their meaningful alternatives, established provisional character models, and completed substantial illustration and review work. Some stories remain unfinished. Verify actual files and records rather than trusting a remembered completion count.
+
+**Preserve good work.** Existing prose, illustrations and review evidence are valuable starting points. However, an earlier completion label does not establish completion under this expanded commission.
+
+Before revising the current edition, create and verify another dated recovery snapshot outside NBC. Preserve all earlier recovery archives and manifests unchanged.
+
+## Keep the primary context focused on orchestration
+
+Use fresh, bounded sub-agents aggressively.
+
+**Every story must receive its own fresh story agent. Whenever you begin writing or updating another story, spawn a new agent for that story.** Do not assign a long sequence of stories to one accumulating writer context.
+
+The primary agent should concentrate on:
+
+- Delegation, ownership and scheduling.
+- Collection-wide continuity and editorial standards.
+- Resolving consequential creative questions.
+- Compact progress tracking, integration oversight and final verification.
+
+Delegate full-story reading, writing, detailed image inspection and complete illustrated reading passes. Have agents return concise findings and file pointers rather than copying whole stories or large tool outputs into the primary context.
+
+Respect the available concurrency limit. Give agents non-overlapping file ownership and finish or retire completed assignments before starting replacements. Independent visual reviewers must not generate the images they accept.
+
+A story agent must read its complete current primary, meaningful alternatives, relevant original material and connected episodes before changing it. Supply shared guidance by file reference rather than repeatedly reproducing it in the parent conversation.
+
+## Strengthen the comedy across all 70 stories
+
+Perform a genuine second creative pass through **every story**, including those previously marked complete.
+
+The collection should feel **happy, affectionate, very funny and comically dramatic**. Preserve quiet and emotional passages, but make sure each story has memorable comic moments and a satisfying comic or emotional payoff.
+
+Do not assume that cleaner prose alone means the humor is strong enough.
+
+For each story, identify:
+
+- Its central comic situation and intended feeling.
+- What Neet wants, what Buddy wants, and why their priorities collide.
+- The strongest existing jokes, physical incidents and memorable lines.
+- Opportunities for sharper timing, surprising reactions, misunderstandings, reversals and callbacks.
+- The ending the story has earned.
+
+Make the humor arise from the characters and circumstances. Neet’s inflated self-image, disproportionate reactions and theatrical seriousness are useful engines. Buddy should have his own desires, decisions, mistakes, successes and occasional ridiculous behavior—not merely deliver commentary on Neet.
+
+Give the humans distinct reactions and comic participation where the story supports it. Use physical comedy, pauses, understated responses and escalating consequences alongside dialogue.
+
+Preserve strong funny passages. Improve weak or generic ones. Avoid replacing specific comedy with repetitive banter, stock comparisons, constant shouting, repeated catchphrases or explanations of why something is funny.
+
+Keep affection underneath the exasperation. Avoid cruelty, humiliation without warmth, or excessive sentimentality. Do not force every sentence to be a joke or turn every emotional moment into a punchline.
+
+Preserve the central situations, distinctive incidents, relationships and emotional destinations. Maintain deliberate first-person voices and historical household settings. Do not silently resolve documented chronology, rank, physical-description or variant contradictions.
+
+Refine meaningful alternatives separately. Do not blend competing scenes, pronouns, notice outcomes or endings.
+
+After revision, the story agent must reread the complete story and compare it with both the previous working version and relevant original material. Check for lost incidents, weakened humor, flattened voices, unnecessary expansion and altered meaning.
+
+## Create multiple worthwhile illustrations per story
+
+The previous one-picture-per-story approach is no longer sufficient.
+
+**Every primary story should have at least two worthwhile contextual illustrations. Aim for roughly three to five where the story supports them, with additional images for longer or more eventful stories.** Select the number from distinct narrative opportunities, not a desire to meet a decorative quota.
+
+Retain existing successful illustrations and add complementary scenes. Replace an existing image only when it has a material defect or a stronger choice clearly warrants replacement.
+
+Plan pictures across the story’s progression. Useful opportunities include:
+
+- A setup that reveals conflicting intentions.
+- A physical predicament or escalating misunderstanding.
+- A reaction, reversal or quiet background joke.
+- A payoff or emotionally meaningful closing beat.
+
+Avoid repeating essentially the same portrait, pose or reaction. Each picture should contribute something different. Use varied compositions, viewpoints and scale while preserving coherent character design.
+
+Let pictures carry comedy through posture, expressions, spatial relationships and specific objects. They must depict the revised story’s actual participants, setting and action.
+
+Place each illustration at the **exact narrative state it depicts**. For example, an object still in a dog’s mouth belongs before it is traded away; a seated reaction belongs before the dog stands; an exposed object belongs before it is packed away.
+
+Keep the prose readable. Do not interrupt dialogue attribution, spoil a later reveal, or crowd out an earned ending.
+
+Assess meaningful alternatives independently. Add separate illustrations when their distinct incidents warrant them, with clear variant-specific placement and provenance. Never insert a primary-only scene into an incompatible alternative.
+
+## Preserve photographic identity and production discipline
+
+Original eligible photographs remain the likeness authority. Generated models and finished pictures are interpretations, not anatomical evidence.
+
+Read the relevant character guides, open selected original photographs, and copy their complete effective policies from `Characters/reference-policy.json`.
+
+Carry all restrictions into generation and review:
+
+- N35 excludes anatomy.
+- B08 is styling-only.
+- B25 remains unavailable.
+- B30 supplies supplemental resting evidence only.
+- Multiple encodings of one exposure count once.
+- Human appearances remain provisional without supplied references.
+
+Preserve Neet’s fine legs, full narrow torso, large triangular ears, short smooth coat and tiny nub. Preserve Buddy’s continuous moderately elongated torso, neck, substantial legs, real clearance and regional grooming.
+
+Distinguish subtle watercolor texture from actual long fur, shaggy contours, curled coat strands or enlarged fur volume. Do not excuse identity drift as stylization.
+
+Reuse the reviewed provisional models where appropriate. Follow all applicable stages: developed story, inspected rendered character model, actually drawn staging/storyboard, finished artwork comparison and complete illustrated reading.
+
+For new complicated poses or interactions, inspect the drawn construction before finishing. Correct material anatomy or staging defects rather than carrying them into final artwork.
+
+Use the built-in image-generation tool. Preserve exact prompts, tool arguments, input paths and hashes, reference roles, full policies, exposure groups, output hashes and dimensions. Record unexposed model or seed values as unknown.
+
+Keep selected images and necessary production sources in consistent episode folders. Preserve rejected and superseded versions outside the active library with recoverable provenance.
+
+## Require independent review and a complete reading
+
+Assign independent visual reviewers who did not generate the images they inspect.
+
+They must read the relevant revised text, open the selected original photographs, and inspect **every proposed finished illustration at full resolution**. Prompts, thumbnails, filenames and generator self-assessments are insufficient.
+
+Check identity, connected anatomy, limb ownership, support, proportions, perspective, grooming, scene fidelity, historical setting, comic readability, continuity and finish.
+
+Require concrete findings for each image. Reject material defects, correct them, and inspect the actual replacement. A majority of good features does not cancel a serious defect.
+
+After all images are embedded, assign a fresh reading reviewer to inspect the **entire illustrated story**, including meaningful alternatives, at intended reading size. Check:
+
+- Humor, dramatic timing and distinct voices.
+- Cause and effect, pacing and emotional payoff.
+- Image placement and text–image consistency.
+- Whether the additional pictures enrich the story rather than repeat it.
+- Whether all material findings have actually been resolved.
+
+If a review requires another story revision, use a story-specific agent and repeat the affected review. Do not mark a story finished while required artwork or material findings remain open.
+
+## Track, preserve and finish the whole collection
+
+Maintain one compact master progress record. Track the new humor pass, selected images, independent visual review, complete illustrated reading and outstanding findings for every story.
+
+Update each episode record after its stages. Preserve accurate historical provenance and the existing story shelf as the sole story listing.
+
+Continue until:
+
+1. All 70 primary stories and meaningful alternatives have received the new creative pass.
+2. Every primary has multiple suitable, independently reviewed illustrations.
+3. Distinct alternatives have been considered and illustrated where warranted.
+4. Every complete illustrated story has passed its final reading.
+5. All material editorial and visual findings are closed.
+6. The versioned delivery, navigation and recovery records accurately reflect the finished work.
+
+Inspect the expected file changes, run workspace verification, seal the accounting only after inspection, and verify again. Preserve the original recovery archive and complete the applicable production delivery requirements.
+
+File checks establish integrity, not humor, visual quality or owner approval.
+
+Finish with a brief handoff linking the story shelf and delivered edition, describing the comedy improvements, actual illustration coverage, review results, recovery snapshot and unresolved source choices. Keep style and human likeness provisional, approval **unapproved**, and publication **not_published** unless the owner explicitly decides otherwise.
+
+**Take ownership of completing the entire expanded commission. Do not stop after a plan, a promising sample, or the first successful batch.**

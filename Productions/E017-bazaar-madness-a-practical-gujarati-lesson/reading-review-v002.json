@@ -1,0 +1,90 @@
+{
+  "story_id": "S017",
+  "status": "accepted",
+  "reviewer": "fresh complete-reading reviewer reader017",
+  "date": "2026-10-04",
+  "story": {
+    "path": "Stories/S017-bazaar-madness-a-practical-gujarati-lesson.md",
+    "sha256": "10dca946d66c709e1ea4e4b8dcbc18b13e5120b6b5d0a8d42ba9d368657a6aa5"
+  },
+  "images": [
+    {
+      "path": "Productions/E017-bazaar-madness-a-practical-gujarati-lesson/jalebi-art-v005.png",
+      "sha256": "ce6532648af46e1077028673bf4e7f2766a6f83c9f6624672f3d6594f4e02239"
+    },
+    {
+      "path": "Productions/E017-bazaar-madness-a-practical-gujarati-lesson/price-art-v004.png",
+      "sha256": "52a15b14a558e4cab574af14e1c32e1cad178945f50117dcaf6a75770f332988"
+    },
+    {
+      "path": "Productions/E017-bazaar-madness-a-practical-gujarati-lesson/cow-art-v003.png",
+      "sha256": "b9557964c03bb6a84431d0a798ad0e4900529470d5fba0e81e94ae407dc29965"
+    }
+  ],
+  "material_findings": [],
+  "open_findings": [],
+  "rendered_inspection": {
+    "url": "http://127.0.0.1:56824/Stories/S017-bazaar-madness-a-practical-gujarati-lesson.md",
+    "method": "Cua browser: full rendered accessibility reading plus 15 sequential overlapping viewport screenshots from title through final provenance source hash. Every image inspected across overlapping views at intended reading size; acceptance is not based on raw Markdown.",
+    "viewport": {
+      "width": 1280,
+      "height": 720
+    },
+    "body_font_px": 20,
+    "image_display_width_px": 960,
+    "all_three_images_loaded": true,
+    "coverage": [
+      "opening",
+      "Welcome to the Jungle",
+      "Bargaining Gone Wrong",
+      "The Chase",
+      "Wrapping Up",
+      "Refinement record",
+      "Provenance and editorial notes"
+    ],
+    "alternatives": "No separate meaningful alternative is present in the complete reading copy; comedy record explicitly documents single narrative and archived prior ending."
+  },
+  "observations": [
+    {
+      "area": "comedy_and_voices",
+      "finding": "Neet confuses success with attention and food, while Buddy wants an answer and a safe return. Same question/Different words extends the head-pat misunderstanding cleanly. I got the price/I got the banana gives Buddy a real success followed by an unfair outcome. Heather supplies practical comedy through peeling the banana and the tutor lie-down reversal; Chirag has vanity and exasperation of his own."
+    },
+    {
+      "area": "causality_and_pacing",
+      "finding": "Chirag distracted by praise supplies the phrase, Neet steals rather than asks, the leash slips from Heather, Buddy actively pursues, and the cow halts the chase. The slow chew and Buddy silence create a useful quiet beat after the loud pursuit. Payment resolves the theft; checked leash loops resolve supervision."
+    },
+    {
+      "area": "payoff",
+      "finding": "Buddy nominates the cow as tomorrow tutor after it succeeds without words. Neet moves closer to Heather while preferring current staff, preserving affection under his wounded confidence. Ending is allowed to land without a fourth decorative image."
+    },
+    {
+      "area": "image_placement",
+      "finding": "Jalebi image follows the head pat and precedes Neet turning to Chirag, with empty mouth and exactly two leads. Fruit image follows Buddy standing straighter and precedes the banana toss; seller shows two fingers and Neet has no banana. Cow image shows the chapati still hanging by its edge during the slow slip, before the explicit drop; Buddy is still arriving before the following stopped beat. No dialogue attribution is split."
+    },
+    {
+      "area": "complementarity_and_finish",
+      "finding": "First picture shows undeserved approval, second correct inquiry versus food attention, third silent intimidation and arrested movement. The first two use similar bazaar palettes but different seller gestures, dog order and focal stakes; third widens the size contrast and supplies the climax. Dogs and market remain coherent at reading size."
+    },
+    {
+      "area": "closed_material_findings",
+      "finding": "Reviewed accepted visual-review-v002 and actual replacement jalebi-art-v005 in the rendered page. Its two collar leads are distinct; the previously rejected third strap is absent. Current image hashes match independent acceptance; review unresolved_findings is empty."
+    },
+    {
+      "area": "source_and_status_boundaries",
+      "finding": "Historical Gujarati wording, Heather-led cast, manuscript Chapter 18 and editorial chronology caveats remain. Refinement record preserves a dated proposed-review statement as process history; current visual acceptance is recorded separately. No new canon, owner approval or publication is inferred."
+    }
+  ],
+  "reviewed_records": [
+    {
+      "path": "Productions/E017-bazaar-madness-a-practical-gujarati-lesson/comedy-pass-v002.json",
+      "sha256": "91ea6523890bdc27bb71f701544ca46683139d05fdbba3308db842a45001f311"
+    },
+    {
+      "path": "Productions/E017-bazaar-madness-a-practical-gujarati-lesson/visual-review-v002.json",
+      "sha256": "a217ecf6f874b137c18098f4b60600b8245c31e4db28f7cbd334486b759d7b49"
+    }
+  ],
+  "approval": "unapproved",
+  "publication": "not_published",
+  "limitations": "Independent native-resolution visual acceptance remains in visual-review-v002.json; this record adds a fresh complete rendered reading, not new photo-derived anatomy authority."
+}

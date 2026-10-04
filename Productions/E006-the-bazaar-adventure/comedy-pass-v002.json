@@ -1,0 +1,66 @@
+{
+  "story_id": "S006",
+  "status": "comedy_pass_complete_pending_independent_reading",
+  "snapshot_verified_member": "NBC/Stories/S006-the-bazaar-adventure.md",
+  "snapshot": "/Users/sagar/Documents/ChatGPT/NBC_Archives/NBC-before-expanded-refinement-2026-10-04_035505Z.tar.gz",
+  "prior_working_sha256": "f4a26493d18714bb8bd4dbf9ff71205492804961446c94dd52336a84fb81c996",
+  "original_source_sha256": "f24fdb3dbe4b5b89ff1039f38574cc87e6478c9d084cbaf9190475954d43c85c",
+  "connected_complete_reads": [
+    "Stories/S005-uttarayan-night-magic.md",
+    "Stories/S007-the-monkey-menace.md"
+  ],
+  "central_comic_situation": "Neet calls shopping conquest; reluctant Buddy becomes the shopper who will not leave.",
+  "intended_feeling": "Bustling delighted discovery and affectionate exasperation.",
+  "wants": {
+    "Neet": "Treasure, food, admiration, and credit for protecting Heather.",
+    "Buddy": "Quiet and control of his own paws, until the food stall converts him.",
+    "Heather": "A pleasant market trip and purchases without canine incidents."
+  },
+  "preserved": [
+    "Spice sneeze and shopkeeper biscuit",
+    "Mirror self-admiration",
+    "Bangle attempt and polite paw refusal",
+    "Kachoris and hopping plea",
+    "Cow intervention",
+    "Meera house cushion and anklet ending"
+  ],
+  "actual_changes": [
+    "Second sneeze makes adventure rhetoric immediately costly; Buddy names the losing contest.",
+    "Neet rehearses stern face with his obliging reflection.",
+    "Buddy refuses to move from food stall, changes his requirements, and recruits Heather into pause.",
+    "Cow ignores carried defender; portable protector gives Heather her own affectionate line."
+  ],
+  "variant_decisions": {
+    "meaningful_alternatives": [],
+    "basis": "Complete working file and legacy-ch06 contain one narrative, no competing alternate."
+  },
+  "ending": "Retained exact anklet chime and closed-eye bangle callback; no extra closing gag dilutes it.",
+  "complete_reread_comparison": [
+    "Full revised primary reread against full prior working and legacy-ch06. All six scene incidents and historical Heather/Meera household retained; no Sagar insertion.",
+    "Added pauses and reversals, not a new plot; Buddy changes his mind and makes Heather wait.",
+    "Original bangle attempted fitting remains interpreted as the retained non-coercive refusal; no ring on paw.",
+    "Captain rank, manuscript numbering and chronology unresolved; tail wag prose supplies no long-tail anatomy.",
+    "After image integration reread complete story; spice sits after losing reply and Buddy retreat; bangle remains before food stall; cow sits after supported-carriage joke and before home transition. Three distinct states, ending uninterrupted."
+  ],
+  "illustration_plan": [
+    {
+      "id": "spice",
+      "state": "After second sneeze, Neet one step back watching jars; Buddy behind Heather legs.",
+      "purpose": "Setup punctures self-confidence before Buddy reply."
+    },
+    {
+      "id": "bangle",
+      "retain": "illustration-v002.png",
+      "state": "Bangle on ground, Buddy lifting forepaw.",
+      "purpose": "Middle physical negotiation."
+    },
+    {
+      "id": "cow",
+      "state": "Cow already passing, Neet supported in Heather arms, Buddy beside her outside path.",
+      "purpose": "Wide reversal of tiny protector and indifferent giant."
+    }
+  ],
+  "approval": "unapproved",
+  "publication": "not_published",
+  "final_story_sha256": "dec152e8f4327014189b771718a1962fd115c932a722a195d02bf3a2b61512b3"
+}

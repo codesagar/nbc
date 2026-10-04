@@ -1,0 +1,47 @@
+[
+  {
+    "id": "kitchen-art-v003",
+    "arguments": {
+      "prompt": "Use case: precise-object-edit. Image1 edit target. Change ONLY Buddy's PALE MOUSTACHE AND UNDER-CHIN BEARD. Independent review found that the smooth rounded muzzle looks hound-like. Image2 is original Buddy photograph and sole facial likeness authority. Rebuild a VISIBLY PROJECTING irregular pale moustache sweeping forward/outward/down at both cheeks, with a SMALL DISTINCT HANGING BEARD BELOW HIS CHIN that visibly breaks the smooth lower-face silhouette. Draw actual tufts that extend OUTSIDE the former round muzzle outline, not superficial lines painted inside it, and not merely dots. Keep skull size, eye position, nose position and gaze exactly unchanged. Localized face strands should be clearly readable at full picture size, as in photo. Do NOT add hair to torso or neck: body remains perfect smooth flat charcoal color with existing clean contour. Ear furnishings unchanged, Neet unchanged, all limbs/anatomy/props/background unchanged, hand holding okra unchanged. Full landscape target preserved. N35 excludes anatomy; B08 styling-only unused; B25 unavailable; B30 supplemental rest unused. B04 and B24 one exposure. No text.",
+      "referenced_image_paths": [
+        "/Users/sagar/Documents/ChatGPT/NBC/Productions/E042-the-day-the-bark-stood-still/kitchen-art-v002.png",
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg"
+      ],
+      "transparent_background": false
+    },
+    "output_hint": "Generated images are saved to /Users/sagar/.codex/generated_images/01a106ae-28b6-7823-abb8-5c08fed53cca as /Users/sagar/.codex/generated_images/01a106ae-28b6-7823-abb8-5c08fed53cca/exec-6c3f501d-21f6-4e9a-89ee-4f04b3cbe83a.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "tool": "built-in image_gen.imagegen",
+    "model": "unknown",
+    "seed": "unknown"
+  },
+  {
+    "id": "stairs-art-v004",
+    "arguments": {
+      "prompt": "Use case: precise-object-edit. Image1 edit target. Change ONLY Buddy's PALE MOUSTACHE AND UNDER-CHIN BEARD. Independent review found that the smooth rounded muzzle looks hound-like. Image2 is original Buddy photograph and sole facial likeness authority. Rebuild a VISIBLY PROJECTING irregular pale moustache sweeping forward/outward/down at both cheeks, with a SMALL DISTINCT HANGING BEARD BELOW HIS CHIN that visibly breaks the smooth lower-face silhouette. Draw actual tufts that extend OUTSIDE the former round muzzle outline, not superficial lines painted inside it, and not merely dots. Keep skull size, eye position, nose position and gaze exactly unchanged. Localized face strands should be clearly readable at full picture size, as in photo. Do NOT add hair to torso or neck: body remains perfect smooth flat charcoal color with existing clean contour. Ear furnishings unchanged, Neet unchanged, all limbs/anatomy/props/background unchanged, leaf and stair landings unchanged. Full landscape target preserved. N35 excludes anatomy; B08 styling-only unused; B25 unavailable; B30 supplemental rest unused. B04 and B24 one exposure. No text.",
+      "referenced_image_paths": [
+        "/Users/sagar/Documents/ChatGPT/NBC/Productions/E042-the-day-the-bark-stood-still/stairs-art-v003.png",
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg"
+      ],
+      "transparent_background": false
+    },
+    "output_hint": "Generated images are saved to /Users/sagar/.codex/generated_images/01a106ae-28b6-7823-abb8-5c08fed53cca as /Users/sagar/.codex/generated_images/01a106ae-28b6-7823-abb8-5c08fed53cca/exec-9dc8317b-de29-475b-88e6-2814438efa5b.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "tool": "built-in image_gen.imagegen",
+    "model": "unknown",
+    "seed": "unknown"
+  },
+  {
+    "id": "stairs-art-v005",
+    "arguments": {
+      "prompt": "Use case: precise-object-edit. Image1 stair target. Image2 original Buddy facial anatomy authority. Correct ONLY new under-chin beard shape: the target has a narrow straight dangling paintbrush/goatee under left side of muzzle, which is wrong. Replace that narrow long pointed tuft with a SHORT BROAD IRREGULAR OFF-WHITE BEARD across the full underside of the lower jaw, following photo. Beard should be modest, a fluffy broken edge below chin, about half current hanging length, visibly wider; not a long goatee, not hair reaching floor. Keep projecting pale moustache on both muzzle sides but make strands naturally varied, NOT parallel comb teeth. Preserve skull, nose, eyes and lowered pose. Entire torso remains smooth flat color, all limbs/Neet/stairs/leaf/lighting unchanged. Regional face furnishing only. Original photo sole likeness evidence, B04/B24 one exposure. N35 anatomy excluded; B08 styling unused; B25 unavailable; B30 rest unused. No letters.",
+      "referenced_image_paths": [
+        "/Users/sagar/Documents/ChatGPT/NBC/Productions/E042-the-day-the-bark-stood-still/stairs-art-v004.png",
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg"
+      ],
+      "transparent_background": false
+    },
+    "output_hint": "Generated images are saved to /Users/sagar/.codex/generated_images/01a106ae-28b6-7823-abb8-5c08fed53cca as /Users/sagar/.codex/generated_images/01a106ae-28b6-7823-abb8-5c08fed53cca/exec-98b77a51-2384-4a1a-9acd-2e45d607753b.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "tool": "built-in image_gen.imagegen",
+    "model": "unknown",
+    "seed": "unknown"
+  }
+]

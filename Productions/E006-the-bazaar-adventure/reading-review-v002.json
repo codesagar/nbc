@@ -1,0 +1,92 @@
+{
+  "story_id": "S006",
+  "reviewer": "fresh complete-reading reviewer /root/reading006",
+  "reviewed_at": "2026-10-04T04:48:07.693525+00:00",
+  "status": "accepted",
+  "approval": "unapproved",
+  "publication": "not_published",
+  "story": {
+    "path": "Stories/S006-the-bazaar-adventure.md",
+    "sha256": "a1f15f834fbf8595d72300239bcdfd064ba48741095c7db1714a34403bcf2d8d"
+  },
+  "images": [
+    {
+      "path": "Productions/E006-the-bazaar-adventure/spice-art-v002.png",
+      "sha256": "23242a7506b06882091505458ffbbf4826523578e19827cb2d96e24954485313"
+    },
+    {
+      "path": "Productions/E006-the-bazaar-adventure/illustration-v003.png",
+      "sha256": "5433bde7dc584b0dcf3a27e472297841c40f001b175386a14a0238ad36788da1"
+    },
+    {
+      "path": "Productions/E006-the-bazaar-adventure/cow-art-v002.png",
+      "sha256": "19b59b7173e1fea64a7fd0596ccbc7dfcd05a526897992bf8c0fa49572777d8e"
+    }
+  ],
+  "review_inputs": [
+    {
+      "path": "Productions/E006-the-bazaar-adventure/comedy-pass-v002.json",
+      "sha256": "5386126eca2b3689657731f4e3aab14c754444aa222c93bc4329586d74f4566d"
+    },
+    {
+      "path": "Productions/E006-the-bazaar-adventure/visual-review-v002.json",
+      "sha256": "d74f9263569505fccace8086d682d27ab29f23cd6ef09d3720b902a283562722"
+    }
+  ],
+  "method": {
+    "url": "http://127.0.0.1:56824/Stories/S006-the-bazaar-adventure.md",
+    "inspection": "Complete rendered browser reading using cua_repl at normal 1280x720 viewport, overlapping scroll screenshots from title through final provenance note. Actual embedded images inspected at 960 CSS pixels wide, including complete spice and cow views and overlapping whole bangle coverage. No reliance on Markdown alone. Full current Markdown, complete prior working archive member and original legacy-ch06 also read.",
+    "sequence": [
+      "Opening and contrary wants",
+      "Spice sneeze and losing reply",
+      "Complete spice artwork",
+      "Biscuit, mirror and bangle refusal",
+      "Bangle artwork",
+      "Kachori conversion and Heather pause",
+      "Cow challenge and carried defender joke",
+      "Complete cow artwork",
+      "Meera cushion and anklet ending",
+      "Refinement and provenance end matter"
+    ],
+    "independence": "Did not write revised story or generate illustrations. This is a whole-reading review; native-resolution photographic/anatomy review remains the separately pinned visual review."
+  },
+  "source_comparison": {
+    "prior_working": {
+      "archive": "/Users/sagar/Documents/ChatGPT/NBC_Archives/NBC-before-expanded-refinement-2026-10-04_035505Z.tar.gz",
+      "member": "NBC/Stories/S006-the-bazaar-adventure.md",
+      "sha256": "f4a26493d18714bb8bd4dbf9ff71205492804961446c94dd52336a84fb81c996"
+    },
+    "original": {
+      "archive": "/Users/sagar/Documents/ChatGPT/NBC_Archives/NBC-before-reorganization-2026-10-03_182825.tar.gz",
+      "member": "NBC/02_Story_Library/Legacy_Chapters/06-the-bazaar-adventure.md",
+      "sha256": "f24fdb3dbe4b5b89ff1039f38574cc87e6478c9d084cbaf9190475954d43c85c"
+    },
+    "observations": "Original spice sneeze, biscuit, vain mirror encounter, offered bangle, kachori meal, interrupted cow challenge and warm Meera-house return all survive. Earlier refinement already converted attempted bangle fitting into a paw refusal and generic sunset into anklet callback; expanded pass preserves those choices while giving Buddy a consequential food-stall decision. No meaningful alternative occurs in complete current/prior/original text."
+  },
+  "observations": {
+    "humor_and_voices": "Neet loses a staredown with stationary jars, practices stern expressions with an obliging reflection and claims victory over an indifferent cow. Buddy has distinct practical humor and changes his stated quiet-corner requirement for kachoris; sitting still makes Heather pause. Heather participates through Oh, now we like shopping and the affectionate portable-protector line. These jokes vary between reaction, physical refusal and reversal rather than repeat a catchphrase.",
+    "causality_and_pacing": "The market route gives clear progression from smell to glitter to food to street encounter. The second sneeze motivates Neet backing off; food motivates Buddy refusing to leave; Heather picks Neet up before any cow approach. Illustration breaks follow completed exchanges and keep speaker attribution intact.",
+    "heart_and_payoff": "Warmth stays in practical care, shared purchases and the cushion rest. Anklet sound recalls the earlier jewelry scene without extending the quiet ending; Buddy keeping both eyes shut is an earned closing reaction. Historical Heather/Meera household remains intact.",
+    "image_state_and_complementarity": [
+      {
+        "path": "Productions/E006-the-bazaar-adventure/spice-art-v002.png",
+        "observation": "Appears after the losing reply: Neet stands back watching the jars and Buddy shelters behind Heather. No premature biscuit handoff; dog-eye viewpoint makes the motionless jars imposing."
+      },
+      {
+        "path": "Productions/E006-the-bazaar-adventure/illustration-v003.png",
+        "observation": "Follows the short paw-refusal action: ring remains on ground, Neet offers it and Buddy lifts a paw away. This captures the just-narrated gesture rather than inventing a worn bangle. Close two-dog negotiation supplies physical comedy distinct from spice defensiveness."
+      },
+      {
+        "path": "Productions/E006-the-bazaar-adventure/cow-art-v002.png",
+        "observation": "Appears after portable-protector line while still in market: Neet is carried, cow travels past without attending him, Buddy stays beside Heather outside its forward path. Wider scale contrast completes the reversal before the home transition."
+      }
+    ],
+    "finish_continuity": "Bangle replacement uses visibly flatter dog coat planes than the other two images. At reading size the shared palette, character shapes and warm detailed bazaar retain continuity; the difference is noticeable but not a material reading defect. No curly torso strands reappear in rendered replacement.",
+    "closed_findings": "Visual finding S006-V002-01 is closed by independently reinspected illustration-v003.png. Current story and all three image hashes equal the accepted visual review pins; the browser displayed that corrected bangle scene, not the archived rejected version."
+  },
+  "material_findings": [],
+  "closed_findings": [
+    "S006-V002-01"
+  ],
+  "summary": "Accepted complete illustrated reading: three complementary scenes, preserved core incidents, stronger Buddy agency and affectionate comic payoff; no material editorial or visual-reading findings remain."
+}

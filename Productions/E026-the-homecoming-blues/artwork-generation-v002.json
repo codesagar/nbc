@@ -1,0 +1,725 @@
+{
+  "tool": "image_gen.imagegen",
+  "model": "unknown",
+  "seed": "unknown",
+  "references": [
+    {
+      "id": "N19",
+      "character": "Neet",
+      "path": "Characters/Neet/Photos/neet-19.jpeg",
+      "filename": "neet-19.jpeg",
+      "sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+      "archived_source_path": "03_Asset_Library/Characters/Neet/neet-19.jpeg",
+      "same_exposure_group": null,
+      "use": "Primary body-level side standing and tail nub",
+      "approval_status": "unknown",
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "styling",
+          "standing_pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Primary standing body proportions, paws, hocks and stub silhouette; head is not a pure profile.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Head rotated; far limbs overlap; uncalibrated camera offers no measurements; room light subdued"
+        ],
+        "inspection_sha256": "b2c6db0a5af6a885d993cbd986cc2759b9461e693fbcabd8aa96bce1eb5ea901",
+        "source_sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N19.json"
+      },
+      "source_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose",
+          "resting_pose",
+          "styling"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Primary standing body proportions, paws, hocks and stub silhouette; head is not a pure profile.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state."
+        ],
+        "evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md"
+      },
+      "source_observation": {
+        "date": "2026-10-03",
+        "pose_view_camera": "Standing left-facing side with head toward camera; near body-level",
+        "visible_features": "Tiny short tan rump nub; near-square qualitative standing impression; long slender legs; full ribcage/thigh; moderate ventral rise; smooth short coat",
+        "limitations": "Head rotated; far limbs overlap; uncalibrated camera offers no measurements; room light subdued",
+        "recommended_uses": [
+          "standing_pose",
+          "visible_anatomy",
+          "styling"
+        ],
+        "full_restrictions": [
+          "Primary standing body proportions, paws, hocks and stub silhouette; head is not a pure profile.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Head rotated; far limbs overlap; uncalibrated camera offers no measurements; room light subdued"
+        ]
+      },
+      "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N19.json",
+      "inspection_sha256": "b2c6db0a5af6a885d993cbd986cc2759b9461e693fbcabd8aa96bce1eb5ea901"
+    },
+    {
+      "id": "N29",
+      "character": "Neet",
+      "path": "Characters/Neet/Photos/neet-29.jpeg",
+      "filename": "neet-29.jpeg",
+      "sha256": "dedcc7d8bcbc5da7e2441352200025606fc971644d0cbacd24e8465db8dcdc16",
+      "archived_source_path": "03_Asset_Library/Characters/Neet/neet-29.jpeg",
+      "same_exposure_group": null,
+      "use": "Frontal standing chest and leg clearance",
+      "approval_status": "unknown",
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "styling",
+          "standing_pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Primary frontal standing proportions, leg slenderness, head/body scale and chest markings.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Body depth foreshortened; tail hidden; light/shadow affect colors; exact ratios unknown"
+        ],
+        "inspection_sha256": "af30873f7f392d2503a668667ed619b8d183d685403e25977ce3fe23d9359802",
+        "source_sha256": "dedcc7d8bcbc5da7e2441352200025606fc971644d0cbacd24e8465db8dcdc16",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N29.json"
+      },
+      "source_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose",
+          "resting_pose",
+          "styling"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Primary frontal standing proportions, leg slenderness, head/body scale and chest markings.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state."
+        ],
+        "evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md"
+      },
+      "source_observation": {
+        "date": "2026-10-03",
+        "pose_view_camera": "Frontal standing outdoors; near chest-height with slight elevation",
+        "visible_features": "Long thin foreleg columns; narrow front; small compact dark-clawed paws; large ears; pale throat and central bib; tan torso",
+        "limitations": "Body depth foreshortened; tail hidden; light/shadow affect colors; exact ratios unknown",
+        "recommended_uses": [
+          "standing_pose",
+          "visible_anatomy",
+          "styling"
+        ],
+        "full_restrictions": [
+          "Primary frontal standing proportions, leg slenderness, head/body scale and chest markings.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Body depth foreshortened; tail hidden; light/shadow affect colors; exact ratios unknown"
+        ]
+      },
+      "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N29.json",
+      "inspection_sha256": "af30873f7f392d2503a668667ed619b8d183d685403e25977ce3fe23d9359802"
+    },
+    {
+      "id": "B04",
+      "character": "Buddy",
+      "path": "Characters/Buddy/Photos/buddy-4.jpg",
+      "filename": "buddy-4.jpg",
+      "sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+      "archived_source_path": "03_Asset_Library/Characters/Buddy/buddy-4.jpg",
+      "same_exposure_group": "B04-B24",
+      "use": "Primary frontal standing and groomed facial pattern",
+      "approval_status": "unknown",
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "styling",
+          "standing_pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Excellent front-leg clearance, chest pattern and groomed face; useful standing stance. Same photographic exposure as B24 for evidence counting.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Tail partly cropped at left; grass hides toes; perspective foreshortens torso; B24 same exposure in separate encoding"
+        ],
+        "inspection_sha256": "dd7da906a0e61eb4cdbd84eac3c97fea3318813d5a874c4e6cd4d8d3ba890797",
+        "source_sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B04.json"
+      },
+      "source_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose",
+          "resting_pose",
+          "styling"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Excellent front-leg clearance, chest pattern and groomed face; useful standing stance. Same photographic exposure as B24 for evidence counting.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state."
+        ],
+        "evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+        "same_exposure_group": "B04-B24"
+      },
+      "source_observation": {
+        "date": "2026-10-03",
+        "pose_view_camera": "Standing front three-quarter outdoors; approximately chest-level",
+        "visible_features": "Deep chest; substantial leg shafts; pale lower legs and splaying foot hair; dark torso; pale chest sides/dark throat; long pendant ear fringe; pale muzzle/brows",
+        "limitations": "Tail partly cropped at left; grass hides toes; perspective foreshortens torso; B24 same exposure in separate encoding",
+        "recommended_uses": [
+          "standing_pose",
+          "visible_anatomy",
+          "styling"
+        ],
+        "full_restrictions": [
+          "Excellent front-leg clearance, chest pattern and groomed face; useful standing stance. Same photographic exposure as B24 for evidence counting.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Tail partly cropped at left; grass hides toes; perspective foreshortens torso; B24 same exposure in separate encoding"
+        ]
+      },
+      "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B04.json",
+      "inspection_sha256": "dd7da906a0e61eb4cdbd84eac3c97fea3318813d5a874c4e6cd4d8d3ba890797"
+    },
+    {
+      "id": "B29",
+      "character": "Buddy",
+      "path": "Characters/Buddy/Photos/buddy-29.jpeg",
+      "filename": "buddy-29.jpeg",
+      "sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+      "archived_source_path": "03_Asset_Library/Characters/Buddy/buddy-29.jpeg",
+      "same_exposure_group": null,
+      "use": "Side stride, torso length, leg clearance and tail curve",
+      "approval_status": "unknown",
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Best available lateral body-length, tail-length/carriage and walking-pose reference; weak fine landmarks because blurred and not neutral standing.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Motion blur and lifted legs; cannot establish neutral back slope, exact leg ratios or gait timing from still"
+        ],
+        "inspection_sha256": "c671664ca5e4e2e07bfd3049ea641c3a1645742fb8290494e67a17f7ed213ea9",
+        "source_sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B29.json"
+      },
+      "source_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose",
+          "resting_pose",
+          "styling"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Best available lateral body-length, tail-length/carriage and walking-pose reference; weak fine landmarks because blurred and not neutral standing.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state."
+        ],
+        "evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md"
+      },
+      "source_observation": {
+        "date": "2026-10-03",
+        "pose_view_camera": "Left-facing walking side view indoors; near body-level",
+        "visible_features": "Elongated dark trunk; projecting muzzle/pendant ears; pale lower legs; dark tapering tail held low with gentle curve; underside hair fringe",
+        "limitations": "Motion blur and lifted legs; cannot establish neutral back slope, exact leg ratios or gait timing from still",
+        "recommended_uses": [
+          "pose",
+          "visible_anatomy"
+        ],
+        "full_restrictions": [
+          "Best available lateral body-length, tail-length/carriage and walking-pose reference; weak fine landmarks because blurred and not neutral standing.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Motion blur and lifted legs; cannot establish neutral back slope, exact leg ratios or gait timing from still"
+        ]
+      },
+      "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B29.json",
+      "inspection_sha256": "c671664ca5e4e2e07bfd3049ea641c3a1645742fb8290494e67a17f7ed213ea9"
+    }
+  ],
+  "reference_policy_sha256": "76a920b0e9d58fe9e41ca5a0aae27008c95850393b888be15269e71a0c4863b6",
+  "exposure_groups": [
+    "N19",
+    "N29",
+    "B04-B24",
+    "B29"
+  ],
+  "restrictions": [
+    "N35 excludes anatomy",
+    "B08 styling only",
+    "B25 unavailable",
+    "B30 supplemental rest only, unused",
+    "Multiple encodings one exposure",
+    "Humans provisional"
+  ],
+  "generations": [
+    {
+      "id": "staging-v002.png",
+      "arguments": {
+        "prompt": "Use case: illustration-story. Draw a two-row grayscale staging storyboard, separate wide panels without text. Originals 1/2 Neet 3/4 Buddy govern likeness, visible anatomy only. Neet full narrow fawn body, fine long legs large triangular ears tiny nearflush nub, Buddy moderately elongated full body substantial legs clearance visible neck soft hanging ears moustache brows, dark slender tail. Smooth close coat contours no fur hatching except Buddy regional muzzle ears brows. TOP PANEL: kitchen at dog eye height. Two tiny salt/pepper shakers on floor in front of open low spice cupboard. Buddy stands full side threequarter left, lowering nose toward salt shaker as if nudged it. Neet stands right gazing down at both with grave disappointment. All paws on floor, neither dog touches other. Heather's cropped kneeling body behind cupboard door reaches to back shelf, human appearance provisional. BOTTOM PANEL: wide living room. Neet stands in left foreground nose close to low rain-streaked window, four paws floor. Buddy stands near closed front door at right looking back toward Neet inviting a walk; distant cropped Heather holds two leashes, not attached yet. Mild rain gray garden outside. Give every dog continuous neck spine ribcage pelvis four owned limbs and real support; anatomy fully drawn with clean occlusion, no floating paws. No dialogue balloons, no text. Warm domestic humor conveyed by dog attention and distance.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-29.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg"
+        ],
+        "transparent_background": false
+      },
+      "output_hint": "Generated images are saved to /Users/sagar/.codex/generated_images/01a105f1-001a-72c2-a6b0-946f77ac52dc as /Users/sagar/.codex/generated_images/01a105f1-001a-72c2-a6b0-946f77ac52dc/exec-05b72483-7651-418a-ab5c-4cf6ecbb5425.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "output_path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E026-the-homecoming-blues/staging-v002.png",
+      "path": "Productions/E026-the-homecoming-blues/staging-v002.png",
+      "sha256": "37bce2e838babc216ee7c109f953f400334a6d346d0abdb8628fe85aee8a47a0",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "source_output_path": "/Users/sagar/.codex/generated_images/01a105f1-001a-72c2-a6b0-946f77ac52dc/exec-05b72483-7651-418a-ab5c-4cf6ecbb5425.png",
+      "model": "unknown",
+      "seed": "unknown",
+      "inputs": [
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+          "role": "original photo anatomy authority",
+          "intended_use": "Visible regions only under copied effective policy"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-29.jpeg",
+          "sha256": "dedcc7d8bcbc5da7e2441352200025606fc971644d0cbacd24e8465db8dcdc16",
+          "role": "original photo anatomy authority",
+          "intended_use": "Visible regions only under copied effective policy"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+          "sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+          "role": "original photo anatomy authority",
+          "intended_use": "Visible regions only under copied effective policy"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+          "sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+          "role": "original photo anatomy authority",
+          "intended_use": "Visible regions only under copied effective policy"
+        }
+      ],
+      "status": "superseded_external",
+      "preserved_output_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S026-expanded/staging-v002.png"
+    },
+    {
+      "id": "staging-v003.png",
+      "arguments": {
+        "prompt": "Correct this drawn staging sheet only, keep two panels and camera/anatomical construction. TOP: pepper shaker must stand upright alongside salt, no spilled pepper. Buddy nose touches side of salt, nudging gently toward Neet, not on cap. BOTTOM: Buddy head turns LEFT looking toward Neet at window, not right to Heather. His body stays by door. Across both panels remove all engraved hair hatching from dogs torsos into broad smooth flat gray/tan areas, clean smooth body silhouettes. Keep Buddy facial/ear furnishings only, pale distal paws, substantial legs real clearance full moderately elongated torso. Preserve Neet fine legs full torso projecting muzzle large triangular ears tiny nearflush nub. No text. This remains staging, not finished illustration.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E026-the-homecoming-blues/staging-v002.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png"
+        ],
+        "transparent_background": false
+      },
+      "output_hint": "Generated images are saved to /Users/sagar/.codex/generated_images/01a105f1-001a-72c2-a6b0-946f77ac52dc as /Users/sagar/.codex/generated_images/01a105f1-001a-72c2-a6b0-946f77ac52dc/exec-827a5e4e-a366-423c-bcda-8fedfc7a6f7c.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "output_path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E026-the-homecoming-blues/staging-v003.png",
+      "path": "Productions/E026-the-homecoming-blues/staging-v003.png",
+      "sha256": "c7adcb754c9da82b600edb0869d4350ba812acef8029adf134db2f7f03d69828",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "source_output_path": "/Users/sagar/.codex/generated_images/01a105f1-001a-72c2-a6b0-946f77ac52dc/exec-827a5e4e-a366-423c-bcda-8fedfc7a6f7c.png",
+      "model": "unknown",
+      "seed": "unknown",
+      "inputs": [
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E026-the-homecoming-blues/staging-v002.png",
+          "sha256": "37bce2e838babc216ee7c109f953f400334a6d346d0abdb8628fe85aee8a47a0",
+          "role": "generated edit target or staging",
+          "intended_use": "composition or surface interpretation only",
+          "preserved_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S026-expanded/staging-v002.png"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "sha256": "19be9a85760177405bbedd26644a7e0eb9c7945709e43825d201ff2fa91742b9",
+          "role": "body finish only",
+          "intended_use": "composition or surface interpretation only"
+        }
+      ],
+      "status": "author_inspected_staging"
+    },
+    {
+      "id": "spice-art-v001.png",
+      "arguments": {
+        "prompt": "Use case: illustration-story. Finished warm editorial watercolor/gouache with restrained pen contours. Original photos are anatomy/likeness authority; generated staging only controls pose/layout, E001 image only supplies BODY FINISH. Use completely smooth broad color washes on dog torsos necks and legs: NO curled strokes, engraved hatch, directional hairs or rough outlines. Neet golden fawn full narrow torso fine long legs large broad triangular ears projecting cream muzzle irregular cream bib tiny nearflush rounded nub. Buddy full moderately elongated charcoal torso, real neck, substantial legs real clearance, close dark body, pale distal feet, cream muzzle beard brows and soft hanging ear furnishings ONLY. Slender dark modestly fringed tail. No extra limbs, no lettering. N35 excludes anatomy, B08 styling-only, B25 unavailable, B30 supplemental rest unused; B04/B24 one exposure. No exact measurements or scale from photos; humans provisional. FINISH ONLY TOP kitchen panel of image1 as ONE standalone landscape image, do not include lower rainy scene, do not include borders. Preserve dogs supported poses and cupboard. Buddy just nudged salt toward Neet and now gazes down; two upright tiny salt and pepper shakers on floor, no spills. Neet grave disappointment looking at them. Cropped kneeling Heather behind open low cupboard. Natural warm kitchen colors, calm full frame composition. Image2 finish only, photos3-5 govern anatomy.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E026-the-homecoming-blues/staging-v003.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg"
+        ],
+        "transparent_background": false
+      },
+      "output_hint": "Generated images are saved to /Users/sagar/.codex/generated_images/01a105f1-001a-72c2-a6b0-946f77ac52dc as /Users/sagar/.codex/generated_images/01a105f1-001a-72c2-a6b0-946f77ac52dc/exec-295e8c86-7ae3-473b-a34b-7c1be7cd677c.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "output_path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E026-the-homecoming-blues/spice-art-v001.png",
+      "path": "Productions/E026-the-homecoming-blues/spice-art-v001.png",
+      "sha256": "47a2a1e83b61e89a999b333e5d1f7bf0e21cb391b6819cf8b58ad3c7817fddbc",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "source_output_path": "/Users/sagar/.codex/generated_images/01a105f1-001a-72c2-a6b0-946f77ac52dc/exec-295e8c86-7ae3-473b-a34b-7c1be7cd677c.png",
+      "model": "unknown",
+      "seed": "unknown",
+      "inputs": [
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E026-the-homecoming-blues/staging-v003.png",
+          "sha256": "c7adcb754c9da82b600edb0869d4350ba812acef8029adf134db2f7f03d69828",
+          "role": "generated edit target or staging",
+          "intended_use": "composition or surface interpretation only"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "sha256": "19be9a85760177405bbedd26644a7e0eb9c7945709e43825d201ff2fa91742b9",
+          "role": "body finish only",
+          "intended_use": "composition or surface interpretation only"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+          "role": "original photo anatomy authority",
+          "intended_use": "Visible regions only under copied effective policy"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+          "sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+          "role": "original photo anatomy authority",
+          "intended_use": "Visible regions only under copied effective policy"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+          "sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+          "role": "original photo anatomy authority",
+          "intended_use": "Visible regions only under copied effective policy"
+        }
+      ],
+      "status": "superseded_external",
+      "preserved_output_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S026-expanded/spice-art-v001.png"
+    },
+    {
+      "id": "rain-art-v001.png",
+      "arguments": {
+        "prompt": "Use case: illustration-story. Finished warm editorial watercolor/gouache with restrained pen contours. Original photos are anatomy/likeness authority; generated staging only controls pose/layout, E001 image only supplies BODY FINISH. Use completely smooth broad color washes on dog torsos necks and legs: NO curled strokes, engraved hatch, directional hairs or rough outlines. Neet golden fawn full narrow torso fine long legs large broad triangular ears projecting cream muzzle irregular cream bib tiny nearflush rounded nub. Buddy full moderately elongated charcoal torso, real neck, substantial legs real clearance, close dark body, pale distal feet, cream muzzle beard brows and soft hanging ear furnishings ONLY. Slender dark modestly fringed tail. No extra limbs, no lettering. N35 excludes anatomy, B08 styling-only, B25 unavailable, B30 supplemental rest unused; B04/B24 one exposure. No exact measurements or scale from photos; humans provisional. FINISH ONLY BOTTOM rainy living room panel of image1 as ONE standalone landscape image, do not include kitchen scene or borders. Neet nose near low window foreground LEFT, Buddy by closed front door RIGHT looks back toward Neet, cropped Heather holds two unattached leashes. Quiet gray rain outside, gentle warm home light. Preserve connected anatomy and four owned supported paws each. For BODY SURFACES use image2 exact simplified smooth untextured cel-painted planes, no jagged shaggy silhouettes or hatch anywhere on body. Photos3-5 anatomy.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E026-the-homecoming-blues/staging-v003.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg"
+        ],
+        "transparent_background": false
+      },
+      "output_hint": "Generated images are saved to /Users/sagar/.codex/generated_images/01a105f1-001a-72c2-a6b0-946f77ac52dc as /Users/sagar/.codex/generated_images/01a105f1-001a-72c2-a6b0-946f77ac52dc/exec-4587a9ea-acb8-4f51-bd54-9f7324b0cb59.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "output_path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E026-the-homecoming-blues/rain-art-v001.png",
+      "path": "Productions/E026-the-homecoming-blues/rain-art-v001.png",
+      "sha256": "1522b2c55314a83a2f28fa50a06cbd4f46e6cd5afb056b252265be9af6b6ae06",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "source_output_path": "/Users/sagar/.codex/generated_images/01a105f1-001a-72c2-a6b0-946f77ac52dc/exec-4587a9ea-acb8-4f51-bd54-9f7324b0cb59.png",
+      "model": "unknown",
+      "seed": "unknown",
+      "inputs": [
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E026-the-homecoming-blues/staging-v003.png",
+          "sha256": "c7adcb754c9da82b600edb0869d4350ba812acef8029adf134db2f7f03d69828",
+          "role": "generated edit target or staging",
+          "intended_use": "composition or surface interpretation only"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "sha256": "19be9a85760177405bbedd26644a7e0eb9c7945709e43825d201ff2fa91742b9",
+          "role": "body finish only",
+          "intended_use": "composition or surface interpretation only"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+          "role": "original photo anatomy authority",
+          "intended_use": "Visible regions only under copied effective policy"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+          "sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+          "role": "original photo anatomy authority",
+          "intended_use": "Visible regions only under copied effective policy"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+          "sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+          "role": "original photo anatomy authority",
+          "intended_use": "Visible regions only under copied effective policy"
+        }
+      ],
+      "status": "superseded_external",
+      "preserved_output_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S026-expanded/rain-art-v001.png"
+    },
+    {
+      "id": "dance-art-v003.png",
+      "arguments": {
+        "prompt": "Precise finish correction. IMAGE1 is edit target; preserve exact entire scene composition, all dog geometry, expressions, paw placement, rug sofa television and lighting. Replace ALL wavy engraved short hair strokes on Neet golden body neck chest legs and Buddy charcoal body/neck/leg shafts with perfectly smooth broad cel-painted color planes. Use image2 only as surface finish example, not proportions. Smooth clean body silhouettes, no fur spikes. Buddy regional muzzle beard brows ear hair can remain, paw furnishings modest. Neet nub remains tiny smooth close-rump bump. Retain tan forehead, projecting muzzle, triangular ears. Do not change poses. Photo3 Neet and photos4/5 Buddy are original likeness authority. Generated pictures are not anatomy evidence. N35 excludes anatomy B08 styling-only B25 unavailable B30 rest-only unused B04/B24 one exposure. No text.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E026-the-homecoming-blues/illustration-v002.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg"
+        ],
+        "transparent_background": false
+      },
+      "output_hint": "Generated images are saved to /Users/sagar/.codex/generated_images/01a105f1-001a-72c2-a6b0-946f77ac52dc as /Users/sagar/.codex/generated_images/01a105f1-001a-72c2-a6b0-946f77ac52dc/exec-0f4dda0d-d707-4c30-9705-6005011e2e64.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "output_path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E026-the-homecoming-blues/dance-art-v003.png",
+      "path": "Productions/E026-the-homecoming-blues/dance-art-v003.png",
+      "sha256": "5ced469dc4811eab55e97663a0ef6f19274c1021a8a5f8c610ce9eae11aa75a5",
+      "dimensions": [
+        1448,
+        1086
+      ],
+      "source_output_path": "/Users/sagar/.codex/generated_images/01a105f1-001a-72c2-a6b0-946f77ac52dc/exec-0f4dda0d-d707-4c30-9705-6005011e2e64.png",
+      "model": "unknown",
+      "seed": "unknown",
+      "inputs": [
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E026-the-homecoming-blues/illustration-v002.png",
+          "sha256": "4e7a0f3b6c5cd77864d95f172602ec65d4d70637fe126c5fe6fbea2fb597b54f",
+          "role": "generated edit target or staging",
+          "intended_use": "composition or surface interpretation only"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "sha256": "19be9a85760177405bbedd26644a7e0eb9c7945709e43825d201ff2fa91742b9",
+          "role": "body finish only",
+          "intended_use": "composition or surface interpretation only"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+          "role": "original photo anatomy authority",
+          "intended_use": "Visible regions only under copied effective policy"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+          "sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+          "role": "original photo anatomy authority",
+          "intended_use": "Visible regions only under copied effective policy"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+          "sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+          "role": "original photo anatomy authority",
+          "intended_use": "Visible regions only under copied effective policy"
+        }
+      ],
+      "status": "superseded_external",
+      "preserved_output_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S026-expanded/dance-art-v003.png"
+    },
+    {
+      "id": "dance-art-v004.png",
+      "arguments": {
+        "prompt": "IMAGE1 edit target. Redraw ONLY both dogs' body coat surfaces as PERFECTLY FLAT CEL ANIMATION COLOR AREAS, visibly exactly like smooth Neet and charcoal Buddy bodies in IMAGE2. Remove EVERY fur line, every wavy curl, etched scribble, speckled hair texture, scratchy highlight, ALL jagged little hair contour spikes on torso, neck, legs, chest. Use solid base color plus two simple smooth shadow shapes; not watercolor brush texture on bodies. This is a conspicuous required change: existing coat remains much too hairy. Preserve exact pose, body volume, anatomy, feet, faces, eyes, props, setting and whole composition of image1. Only Buddy muzzle brows and ears keep hair strands. Tiny Neet nub rounded smooth, slim Buddy tail smooth dark. Do not copy image2 scene or poses. No text.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E026-the-homecoming-blues/dance-art-v003.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png"
+        ],
+        "transparent_background": false
+      },
+      "output_hint": "Generated images are saved to /Users/sagar/.codex/generated_images/01a105f1-001a-72c2-a6b0-946f77ac52dc as /Users/sagar/.codex/generated_images/01a105f1-001a-72c2-a6b0-946f77ac52dc/exec-ecb4b056-5b43-412e-b91f-c97b37a27a2b.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "output_path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E026-the-homecoming-blues/dance-art-v004.png",
+      "path": "Productions/E026-the-homecoming-blues/dance-art-v004.png",
+      "sha256": "175f2a74c6e27d324e001d27438e27d2391c9d9e621a45a5fd1ee24437a34ed6",
+      "dimensions": [
+        1448,
+        1086
+      ],
+      "source_output_path": "/Users/sagar/.codex/generated_images/01a105f1-001a-72c2-a6b0-946f77ac52dc/exec-ecb4b056-5b43-412e-b91f-c97b37a27a2b.png",
+      "model": "unknown",
+      "seed": "unknown",
+      "inputs": [
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E026-the-homecoming-blues/dance-art-v003.png",
+          "sha256": "5ced469dc4811eab55e97663a0ef6f19274c1021a8a5f8c610ce9eae11aa75a5",
+          "role": "generated edit target or staging",
+          "intended_use": "composition or surface interpretation only",
+          "preserved_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S026-expanded/dance-art-v003.png"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "sha256": "19be9a85760177405bbedd26644a7e0eb9c7945709e43825d201ff2fa91742b9",
+          "role": "body finish only",
+          "intended_use": "composition or surface interpretation only"
+        }
+      ],
+      "status": "pending_independent_review"
+    },
+    {
+      "id": "spice-art-v002.png",
+      "arguments": {
+        "prompt": "IMAGE1 edit target. Redraw ONLY both dogs' body coat surfaces as PERFECTLY FLAT CEL ANIMATION COLOR AREAS, visibly exactly like smooth Neet and charcoal Buddy bodies in IMAGE2. Remove EVERY fur line, every wavy curl, etched scribble, speckled hair texture, scratchy highlight, ALL jagged little hair contour spikes on torso, neck, legs, chest. Use solid base color plus two simple smooth shadow shapes; not watercolor brush texture on bodies. This is a conspicuous required change: existing coat remains much too hairy. Preserve exact pose, body volume, anatomy, feet, faces, eyes, props, setting and whole composition of image1. Only Buddy muzzle brows and ears keep hair strands. Tiny Neet nub rounded smooth, slim Buddy tail smooth dark. Do not copy image2 scene or poses. No text.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E026-the-homecoming-blues/spice-art-v001.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png"
+        ],
+        "transparent_background": false
+      },
+      "output_hint": "Generated images are saved to /Users/sagar/.codex/generated_images/01a105f1-001a-72c2-a6b0-946f77ac52dc as /Users/sagar/.codex/generated_images/01a105f1-001a-72c2-a6b0-946f77ac52dc/exec-85dfb320-f4bf-47fd-bf66-e8369a859781.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "output_path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E026-the-homecoming-blues/spice-art-v002.png",
+      "path": "Productions/E026-the-homecoming-blues/spice-art-v002.png",
+      "sha256": "ea5ed5239a10eb47e1e6bf14118bf053b448e987a5bc051b477deb2e905c6763",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "source_output_path": "/Users/sagar/.codex/generated_images/01a105f1-001a-72c2-a6b0-946f77ac52dc/exec-85dfb320-f4bf-47fd-bf66-e8369a859781.png",
+      "model": "unknown",
+      "seed": "unknown",
+      "inputs": [
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E026-the-homecoming-blues/spice-art-v001.png",
+          "sha256": "47a2a1e83b61e89a999b333e5d1f7bf0e21cb391b6819cf8b58ad3c7817fddbc",
+          "role": "generated edit target or staging",
+          "intended_use": "composition or surface interpretation only",
+          "preserved_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S026-expanded/spice-art-v001.png"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "sha256": "19be9a85760177405bbedd26644a7e0eb9c7945709e43825d201ff2fa91742b9",
+          "role": "body finish only",
+          "intended_use": "composition or surface interpretation only"
+        }
+      ],
+      "status": "pending_independent_review"
+    },
+    {
+      "id": "rain-art-v002.png",
+      "arguments": {
+        "prompt": "IMAGE1 edit target. Redraw ONLY both dogs' body coat surfaces as PERFECTLY FLAT CEL ANIMATION COLOR AREAS, visibly exactly like smooth Neet and charcoal Buddy bodies in IMAGE2. Remove EVERY fur line, every wavy curl, etched scribble, speckled hair texture, scratchy highlight, ALL jagged little hair contour spikes on torso, neck, legs, chest. Use solid base color plus two simple smooth shadow shapes; not watercolor brush texture on bodies. This is a conspicuous required change: existing coat remains much too hairy. Preserve exact pose, body volume, anatomy, feet, faces, eyes, props, setting and whole composition of image1. Only Buddy muzzle brows and ears keep hair strands. Tiny Neet nub rounded smooth, slim Buddy tail smooth dark. Do not copy image2 scene or poses. No text.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E026-the-homecoming-blues/rain-art-v001.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png"
+        ],
+        "transparent_background": false
+      },
+      "output_hint": "Generated images are saved to /Users/sagar/.codex/generated_images/01a105f1-001a-72c2-a6b0-946f77ac52dc as /Users/sagar/.codex/generated_images/01a105f1-001a-72c2-a6b0-946f77ac52dc/exec-e38a126b-7ecc-4449-aef2-c86badc17c30.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "output_path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E026-the-homecoming-blues/rain-art-v002.png",
+      "path": "Productions/E026-the-homecoming-blues/rain-art-v002.png",
+      "sha256": "b2ce5153d657650cbbba658f25eac48d2217e6ff764f1eb77c2be925e1977c40",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "source_output_path": "/Users/sagar/.codex/generated_images/01a105f1-001a-72c2-a6b0-946f77ac52dc/exec-e38a126b-7ecc-4449-aef2-c86badc17c30.png",
+      "model": "unknown",
+      "seed": "unknown",
+      "inputs": [
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E026-the-homecoming-blues/rain-art-v001.png",
+          "sha256": "1522b2c55314a83a2f28fa50a06cbd4f46e6cd5afb056b252265be9af6b6ae06",
+          "role": "generated edit target or staging",
+          "intended_use": "composition or surface interpretation only",
+          "preserved_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S026-expanded/rain-art-v001.png"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "sha256": "19be9a85760177405bbedd26644a7e0eb9c7945709e43825d201ff2fa91742b9",
+          "role": "body finish only",
+          "intended_use": "composition or surface interpretation only"
+        }
+      ],
+      "status": "pending_independent_review"
+    }
+  ],
+  "staging_inspection": {
+    "models_opened": [
+      "Productions/Library-Refinement/model-standing-v002.png",
+      "Productions/Library-Refinement/model-rest-action-v002.png"
+    ],
+    "observations": [
+      "Original N19 N29 B04 B29 opened, continuous bodies and leg clearance compared.",
+      "Existing dance drawn staging inspected: two separate dogs, three supports each and lifted forepaw.",
+      "New staging-v002 pepper spill contradicted text; corrected in staging-v003. Both standing dogs four owned connected legs, Buddy nose near salt; bottom Neet window/Buddy doorway spatial beat clear.",
+      "Finish v001/v003 texture remained hairy; explicit cel surface edit removed torso curls. Whole outputs rechecked for pose/prop continuity."
+    ],
+    "independent_clearance": false
+  },
+  "approval": "unapproved",
+  "publication": "not_published",
+  "preserved_inputs": [
+    {
+      "original_path": "Productions/E026-the-homecoming-blues/staging-v002.png",
+      "preserved_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S026-expanded/staging-v002.png",
+      "sha256": "37bce2e838babc216ee7c109f953f400334a6d346d0abdb8628fe85aee8a47a0",
+      "reason": "superseded finish/staging; input provenance preserved"
+    },
+    {
+      "original_path": "Productions/E026-the-homecoming-blues/spice-art-v001.png",
+      "preserved_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S026-expanded/spice-art-v001.png",
+      "sha256": "47a2a1e83b61e89a999b333e5d1f7bf0e21cb391b6819cf8b58ad3c7817fddbc",
+      "reason": "superseded finish/staging; input provenance preserved"
+    },
+    {
+      "original_path": "Productions/E026-the-homecoming-blues/rain-art-v001.png",
+      "preserved_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S026-expanded/rain-art-v001.png",
+      "sha256": "1522b2c55314a83a2f28fa50a06cbd4f46e6cd5afb056b252265be9af6b6ae06",
+      "reason": "superseded finish/staging; input provenance preserved"
+    },
+    {
+      "original_path": "Productions/E026-the-homecoming-blues/dance-art-v003.png",
+      "preserved_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S026-expanded/dance-art-v003.png",
+      "sha256": "5ced469dc4811eab55e97663a0ef6f19274c1021a8a5f8c610ce9eae11aa75a5",
+      "reason": "superseded finish/staging; input provenance preserved"
+    },
+    {
+      "original_path": "Productions/E026-the-homecoming-blues/illustration-v001.png",
+      "preserved_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S026-expanded/illustration-v001.png",
+      "sha256": "9b452301c09271fcb122d60d78f7afb8825e0cc2aa25ec9d2561e34bcdd5a395",
+      "reason": "superseded finish/staging; input provenance preserved"
+    },
+    {
+      "original_path": "Productions/E026-the-homecoming-blues/illustration-v002.png",
+      "preserved_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S026-expanded/illustration-v002.png",
+      "sha256": "4e7a0f3b6c5cd77864d95f172602ec65d4d70637fe126c5fe6fbea2fb597b54f",
+      "reason": "superseded finish/staging; input provenance preserved"
+    }
+  ]
+}

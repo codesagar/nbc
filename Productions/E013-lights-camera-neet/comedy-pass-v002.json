@@ -1,0 +1,99 @@
+{
+  "story": "S013",
+  "sources": [
+    {
+      "path": "Stories/S013-lights-camera-neet.md",
+      "role": "previous working version",
+      "sha256": "d7828689c7444a7574d7f49f079681694d39fd2b7a6e1e2f05577ea84b99363c",
+      "recovery": "NBC-before-expanded-refinement-2026-10-04_035505Z.tar.gz#NBC/Stories/S013-lights-camera-neet.md"
+    },
+    {
+      "path": "02_Story_Library/Legacy_Chapters/14-lights-camera-neet.md",
+      "sha256": "9dc7f5b85e6c251cabf0c66ac526a7c91eb8d2091d2581e538e86a8c56a05fda",
+      "read_complete": true
+    },
+    {
+      "path": "90_Archive/2026-10-03-elevenlabs-recovery/Raw_Exports/reader-52.txt",
+      "sha256": "dfa98410ff1813b6ff92a4f679e4253f6625f41bea112f3d7eeab96bc8025783",
+      "read_complete": true
+    }
+  ],
+  "central_comic_situation": "Attacking a stuffed dog wins a real acting job; Neet mistakes repeated takes for failed escape.",
+  "wants": {
+    "Neet": "Stop perceived intruder and claim star status",
+    "Buddy": "Watch from a quiet unobstructed spot"
+  },
+  "preserved": [
+    "samosa smell",
+    "collar escape",
+    "prop tug and toppling",
+    "Heather permission before handler",
+    "actor chase",
+    "praise",
+    "banyan gang boast",
+    "several takes ending"
+  ],
+  "changes": [
+    [
+      "Buddy found a spot beside Heather where a coil of cable would not catch his feet. He could see the actors from there, and he intended to keep it.",
+      "Buddy found a spot beside Heather where a coil of cable would not catch his feet. He could see the actors from there, and he intended to keep it.\n\nA crew member set a folding chair directly in front of him. Buddy moved around it. The crew member moved the chair. Buddy moved again. They finally arrived at an arrangement in which the man had a chair and Buddy had his feet."
+    ],
+    [
+      "As the director called for another rehearsal, Neet let out an excited bark, startling the crew.",
+      "The actor ran past. Then he walked back and ran past again.\n\n\u201cHe keeps escaping in the wrong direction,\u201d Neet told Buddy.\n\n\u201cHe keeps coming back,\u201d Buddy said. \u201cI don\u2019t think he wants to escape.\u201d\n\nAs the director called for another rehearsal, Neet let out an excited bark, startling the crew."
+    ],
+    [
+      "To Neet, however, this was no prop. It was an intruder.",
+      "To Neet, however, this was no prop. It was an intruder.\n\nThe retriever did not blink.\n\n\u201cVery confident,\u201d Neet muttered.\n\n\u201cVery washable,\u201d said Buddy."
+    ],
+    [
+      "\u201cYou mean\u2026?\u201d",
+      "\u201cYou mean\u2026?\u201d\n\nHeather looked down at Neet. \u201cYou\u2019ve been here five minutes. I\u2019ve apologized twice.\u201d"
+    ],
+    [
+      "Someone ought to let the actor finish.",
+      "Someone ought to let the actor finish.\n\nThe folding chair had meanwhile become vacant. Buddy stepped into its shade and planted himself between its legs. At last, the view was entirely his."
+    ],
+    [
+      "\u201cLet\u2019s keep it!\u201d",
+      "\u201cLet\u2019s keep it!\u201d\n\nThe actor bent over, hands on his knees. Neet waited for him to walk back to the start. When he didn\u2019t, Neet gave one questioning bark.\n\n\u201cNo,\u201d Heather said. \u201cHe\u2019s caught enough.\u201d"
+    ],
+    [
+      "The gang barked their approval. Buddy lay beneath the command post and closed his eyes. He knew this performance would have several takes.",
+      "The gang barked their approval. Buddy lay beneath the command post and closed his eyes.\n\n\u201cStart with the part where the big dog falls over,\u201d Shadow said.\n\nNeet drew a breath.\n\nBuddy opened one eye. \u201cIt\u2019s a short part. The dog was excellent at staying down.\u201d\n\nNeet began again from the beginning. Buddy tucked his nose between his paws. He knew this performance would have several takes."
+    ]
+  ],
+  "variants": {
+    "legacy_and_reader52": "Read both in full; same narrative, acquisition heading differs only; no meaningful alternative needing separate refinement or illustrations."
+  },
+  "connected": [
+    "Stories/S012-the-great-neighborhood-dog-games.md",
+    "Stories/S014-neet-and-buddys-barber-battle.md"
+  ],
+  "ending": "Preserve several-takes joke, build Shadow request and Buddy plush callback into it.",
+  "full_reread_comparison": {
+    "complete": true,
+    "story_sha256": "a8073e1a1adc870749f6061d53a99e99632866bc1c97d326d48508e22f90a6d7",
+    "comparison": "Read complete revised primary after embeds and compared both originals and previous working text. All source incidents remain: samosas, bark interruption, collar escape, prop tug/topple, casting, chase, actor praise, home boast. Heather permission repair retained from prior working edition. Added brief Buddy chair contest and payoff, repeated-run misunderstanding, washable reply, apology count and final retelling callback. No change to historical Heather/dogs household, rank, chronology or tail-metaphor source contradiction. No meaningful alternative: reader52 duplicates legacy narrative. Buddy sits after setup image to support later rise; chase picture occurs after moving into empty chair shade and before cut. Prose remains compact; added jokes arise from movie apparatus rather than unrelated banter."
+  },
+  "illustration_plan": [
+    {
+      "image": "setup-art-v002.png",
+      "anchor": "after Behave yourself",
+      "state": "collared/leashed Neet smells samosas; Buddy standing beside occupied chair before sitting",
+      "contribution": "conflicting wants and practical obstruction"
+    },
+    {
+      "image": "prop-art-v004.png",
+      "anchor": "after Is this part of the scene",
+      "state": "Neet collar escaped, tugging already toppled toy before Heather scoops him up",
+      "contribution": "preserved central physical gag composition with corrected coats"
+    },
+    {
+      "image": "chase-art-v003.png",
+      "anchor": "after At last, the view was entirely his",
+      "state": "actor running with Neet behind; Buddy in empty chair shade; before Cut",
+      "contribution": "parallel successes; contrasting scale and motion"
+    }
+  ]
+}

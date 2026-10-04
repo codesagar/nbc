@@ -1,0 +1,24 @@
+{
+  "staging": {
+    "prompt": "Use case illustration-story. DRAW an actual two-panel grayscale staging storyboard, each panel wide landscape, stacked vertically. No text. Input photos 1-2 are Neet standing visible anatomy, 3-4 Buddy standing visible anatomy, 5 Buddy compact curl POSE ONLY; use other photos for hidden construction. No calibrated dimensions. Neet full narrow torso, fine long legs, large broad triangular ears, tiny tail nub, projecting muzzle. Buddy moderately elongated continuous torso/neck, substantial legs, real clearance, modest head, hanging ear flaps and regional muzzle/brow furnishings. Short smooth body contours. Panel TOP: Istanbul airport lounge. Buddy curls comfortably on a broad low gray recliner, his whole C-shaped body supported on seat, nose tucked just beneath one front paw; paws connect naturally, hindlegs folded. Neet stands with all four feet on floor beside the recliner, nose aimed to an inviting buffet in background at right, ears alert. Conflict: sleep versus food. Windows show airport apron, no invented skyline. Panel BOTTOM: closer low viewpoint at lounge towel counter, after shower. Neet stands on floor on four legs, tiny body wrapped loosely in a white towel; towel edge has slipped OVER one forepaw (fabric covers that paw, not a fifth leg). Neet freezes, ears erect, chin slightly lowered, trying to preserve dignity. Heather crouches beside him, fully dressed colorful blouse and trousers, one hand gently lifting towel edge away from trapped paw. Human physical appearance provisional, cropped face. A private shower room's opaque outer door behind is closed. No naked person, no visible shower body. Clear canine connected bodies, correct limb roots/weight support/occlusion, full scene drawn not schematic. No engraved hair or dense crosshatching.",
+    "referenced_image_paths": [
+      "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+      "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-29.jpeg",
+      "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+      "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-23.jpeg",
+      "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-20.jpg"
+    ],
+    "transparent_background": false
+  },
+  "olive": {
+    "prompt": "Use case precise-object-edit. Edit image1 existing olive reveal illustration ONLY to correct coat finish. Preserve composition, every dog's pose/anatomy/eyes/ears/limbs/feet/tails, upholstery, napkin and olives on TOP cushion, airport window/aircraft, all spatial relationships and colors. Replace directional engraved/wavy hair strokes across Neet body/neck/legs and Buddy torso/neck/upper legs with quiet smooth contiguous color washes and gently modeled planes. No curly ridges, crosshatching or raised shag contours. Neet has very short smooth coat and tiny nub. Buddy close charcoal body coat must remain distinct from his pale regional muzzle beard/brows and hanging ear furnishings; retain those regional strands and small paw furnishings, not shaved face. Image2 secondary BODY FINISH ONLY calibration, do not copy its characters/anatomy/setting. Images3-5 original photos anatomical visible-region authority, no measurements, B04/B24 one exposure. No changes to object state or anatomy. No text.",
+    "referenced_image_paths": [
+      "/Users/sagar/Documents/ChatGPT/NBC/Productions/E024-the-istanbul-layover-debacle/illustration-v002.png",
+      "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+      "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+      "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+      "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-23.jpeg"
+    ],
+    "transparent_background": false
+  }
+}

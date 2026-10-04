@@ -1,0 +1,81 @@
+{
+  "story_id": "S008",
+  "episode_id": "E008-garden-rebirth-with-chaos",
+  "reviewer": "fresh_reading008",
+  "status": "accepted",
+  "story": {
+    "path": "Stories/S008-garden-rebirth-with-chaos.md",
+    "sha256": "19f1cf7def57052ef54dbcc3b3813cac1eb2286d81d6c05779b111717e849024",
+    "read_in_full": true,
+    "meaningful_alternatives": []
+  },
+  "images": [
+    {
+      "path": "Productions/E008-garden-rebirth-with-chaos/illustration-v002.png",
+      "sha256": "114d9546390dcc011919c6e9aed070aaccf64baeac8ceb96dad74d6e5ffca3c9",
+      "status": "accepted",
+      "finding": "Raised Buddy forepaw remains inside the disturbed bare bed before he turns toward the terrace; the returned squirrel is on the wall. Torn tomato packet and scattered seeds show Neet's earlier mistake, while the chai is correctly on the stool behind him. The image pauses the decision before Buddy takes the long way around."
+    },
+    {
+      "path": "Productions/E008-garden-rebirth-with-chaos/gnome-art-v004.png",
+      "sha256": "3b5ca56bf412b0c73a60a2f89da568cb7c91aec0e172a47c9efc3a0e6ac5fe10",
+      "status": "accepted",
+      "finding": "Neet studies an intact smiling gnome; Buddy directs attention toward empty pots, matching his refusal to entertain the same argument about every pot. This distinct tableau occurs before the attack and subsequent chip, with no later damage revealed early."
+    },
+    {
+      "path": "Productions/E008-garden-rebirth-with-chaos/hose-art-v003.png",
+      "sha256": "886695b6d1c77e52feb31862ec253f96f9969752adfa378fcd7eff9c00129094",
+      "status": "accepted",
+      "finding": "Neet stands on all four paws facing isolated drops from the closed nozzle; the trellis and newly planted bed are bare, and the lime remains a sapling. This visual pause follows “He had won” and precedes Heather reopening the spray, preserving the reversal."
+    }
+  ],
+  "method": {
+    "reader_url": "http://127.0.0.1:56824/Stories/S008-garden-rebirth-with-chaos.md",
+    "rendered_inspection": "Opened actual local reader in Codex in-app browser and inspected 14 sequential overlapping viewport screenshots from title through provenance, at normal 1280 by 720 viewport. Read every narrative paragraph and saw all three embedded images in their actual positions, including full upper/lower image areas where they extended beyond a viewport. No zoom reduction or source-only substitute.",
+    "source_comparison": "Read complete current story, complete comedy-pass-v002.json, visual-review-v002.json findings and status, and complete original legacy-ch09 directly from preserved pre-reorganization archive. Reviewed current writing/production/character guidance.",
+    "independence": "Reviewer neither wrote this story nor generated its artwork; owns only this reading record."
+  },
+  "findings": [
+    {
+      "area": "Preservation and household",
+      "status": "accepted",
+      "finding": "Original nursery return, seeds in chai, squirrel damage to carrot bed, Dorito ears, gnome assault and flailing rescue, hose combat, tomato/spinach planting, lime sapling, trellis, and sunset bench remain in original causal order. Heather-only historical household is preserved. No meaningful alternative exists in this story or its comparison record."
+    },
+    {
+      "area": "Comedy and voices",
+      "status": "accepted",
+      "finding": "Buddy liking the nursery because it asked nothing of him establishes his comfort motive. Heather's lunch-in-breakfast response is specific to the seed accident. Neet's concern about the smiling gnome and his temporary hose victory express disproportionate earnestness without constant shouting. Buddy's pot-with-a-face line and avoidance of the remaining pots supply dry restraint."
+    },
+    {
+      "area": "Buddy agency",
+      "status": "accepted",
+      "finding": "Buddy abandons chosen shade to chase the squirrel, causes soil damage, prepares a second attempt, notices the untouched row, deliberately stops, and chooses the longer safe route. His later dry shade is a small earned success. He does more than comment on Neet."
+    },
+    {
+      "area": "Cause, timing and complementary images",
+      "status": "accepted",
+      "finding": "The three images offer different beats: simultaneous material aftermath, an opponent's infuriating immobility, and false victory. Their pauses fit paragraph boundaries without splitting attribution; each action resumes afterward. Bare beds prevent implausible immediate germination; the attack precedes the final chipped-gnome reference."
+    },
+    {
+      "area": "Emotional payoff",
+      "status": "accepted",
+      "finding": "Heather finishes the garden and relocates her cup, a practical callback. Sunset slowing and Buddy resting on her lap remain warm; gently returning Neet's paw to the bench closes his unfinished gnome vigilance without a forced final wisecrack. Leaving this ending unillustrated avoids crowding it."
+    },
+    {
+      "area": "Closed findings",
+      "status": "accepted",
+      "finding": "All three current image hashes match independent accepted review. Rendered pictures visibly maintain smooth torso coats, readable grounded construction, correct cup location, intact pre-attack gnome, and stopped-water/bare-bed state. No material reading or text-image finding remains open. Detailed native-resolution photographic comparison remains the separately completed visual review, not a claim of this reading pass."
+    }
+  ],
+  "visual_review": {
+    "path": "Productions/E008-garden-rebirth-with-chaos/visual-review-v002.json",
+    "sha256": "372980bf0ff9b960bb7a16a5f01c33787a77dd0eaa03a21a3ac68970579d00e4"
+  },
+  "unresolved_findings": [],
+  "required_corrections": [],
+  "approval": "unapproved",
+  "publication": "not_published",
+  "limitations": [
+    "Reading acceptance is editorial review, not owner approval or proof of exact physical measurements."
+  ]
+}

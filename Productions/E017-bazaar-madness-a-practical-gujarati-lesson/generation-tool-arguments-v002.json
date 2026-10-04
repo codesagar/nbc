@@ -1,0 +1,83 @@
+{
+  "staging": {
+    "prompt": "Use case: illustration-story. Draw a two-panel pencil construction storyboard, wide page. Original photos establish dog identity: Neet tan full narrow torso, fine long legs, large broad triangular ears, tiny nub; Buddy moderately elongated charcoal torso, substantial legs with clearance, furnished pale muzzle and brows and hanging ears, low tapered tail. Panel 1 in Gujarati bazaar: Neet on all four feet looks delighted while elderly jalebi vendor reaches down and pats his head; Buddy stands aside amused. Jalebi pan on high stall behind, safely away. Heather cropped skirt/legs behind dogs holding their two loose separate leashes. Panel 2 fruit stall: Buddy all four feet planted, chest proud, looking up at fruit seller showing two raised fingers; Neet beside him looking interested at bananas on high stall. NO banana in mouth yet. Leashes go to cropped Heather hand above. Chirag optional background medium reddish pariah dog, longer tail, clearly separate. Make continuous connected dog spines, ribcages, pelvis, limb roots and grounded paws legible. No words, no speech bubbles. Photos supplied are anatomy authority only, not scene.",
+    "referenced_image_paths": [
+      "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+      "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-29.jpeg",
+      "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+      "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg"
+    ],
+    "transparent_background": false
+  },
+  "jalebi": {
+    "prompt": "Use case: sketch-to-render. Finish ONLY the LEFT panel of supplied staging sheet as one standalone landscape storybook illustration (no panel border). Gujarati bazaar scene at exact instant elderly jalebi seller squats and pats Neet's head; small tan Neet delighted, Buddy stands amused beside him; cropped Heather behind with two slack separate leashes connected to collars. Preserve this layout and connected four grounded legs per dog from staging. High stall behind holds orange jalebis in tray; stove/pan safely high away from dogs. Human likeness provisional. Input 1 staging is composition only; photos 2-4 establish anatomy; last image ONLY smooth BODY FINISH, never anatomy, other dog, park, or scene. Neet must have fine long legs, full narrow torso and neck, broad triangular ears, tiny nub; short SMOOTH tan coat with cream bib. Buddy moderately elongated continuous charcoal torso, neck, substantial pale lower legs with real clearance, projecting pale furnished muzzle and brows, softly hanging regionally furnished ears. Photographic regional moustache/ears/paws permitted; torso must use smooth restrained paint shapes, NO raised shag silhouette, no curled hatching or long coat strokes. Warm sunny watercolor environment with clean smoothly painted animals. No text, lettering, speech bubbles or motion symbols. No Chirag needed in crop. Do not copy sketch hatching into fur.",
+    "referenced_image_paths": [
+      "/Users/sagar/Documents/ChatGPT/NBC/Productions/E017-bazaar-madness-a-practical-gujarati-lesson/staging-v002.png",
+      "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+      "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+      "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+      "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png"
+    ],
+    "transparent_background": false
+  },
+  "price": {
+    "prompt": "Use case: sketch-to-render. Finish ONLY RIGHT panel of staging sheet as one standalone landscape illustration. Gujarati banana stall; fruit seller to right holds up precisely two fingers replying to Buddy's successful price question. Buddy foreground proudly stands on all four feet looking at seller; Neet beside him watches bananas, NO food in either mouth yet. Heather's cropped hand and legs at left hold two loose separate leashes, each collar connected; never leash passing through bodies. Preserve connected grounded dog construction of sketch but add breathing room between dogs. Omit background Chirag rather than crowding. Input1 staging composition only; original photos2-4 identity authority; last image ONLY smooth body finish, NOT anatomy or park scene. Neet smooth short tan coat cream chest, full narrow torso, fine long legs and broad triangular ears, tiny nub. Buddy moderately elongated charcoal torso with smooth short paint surfaces, substantial legs and visible ground clearance, pale regional brows/moustache/chin, softly hanging furnished ears. Warm bazaar watercolor backdrop, smooth painted animals. No raised body shag, no long engraved coat strokes, no curl texture. Preserve local muzzle and ear furnishings shown in photos. Provisional human likeness. No words, no captions, no speech bubbles, no panels or motion marks.",
+    "referenced_image_paths": [
+      "/Users/sagar/Documents/ChatGPT/NBC/Productions/E017-bazaar-madness-a-practical-gujarati-lesson/staging-v002.png",
+      "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+      "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+      "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+      "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png"
+    ],
+    "transparent_background": false
+  },
+  "cow": {
+    "prompt": "Use case: precise-object-edit. Correct this existing cow-stop illustration with minimal changes. Input1 edit target. Preserve exact composition, market, cow, facial expressions, chapati still held by its edge in Neet's mouth, and dog limb poses. Add a thin simple collar and a clearly connected dropped leash to Neet trailing loosely behind on ground toward left. Add Buddy collar with leash trailing rearward out of left frame toward offscreen Heather. Keep lines off legs, visibly slack. Smooth both dogs' torso coat finish: replace long raised/engraved coat strokes with restrained smooth painted shapes; Neet very short smooth tan coat, no shag; Buddy short close dark torso with only photo-documented regional pale moustache/beard/brows and hanging ear furnishings. Keep body proportions and paws. Images2-4 original photos are identity authority; last image smooth BODY FINISH only never anatomy or composition. Do not change cow, bread state, background, or action. No text or symbols.",
+    "referenced_image_paths": [
+      "/Users/sagar/Documents/ChatGPT/NBC/Productions/E017-bazaar-madness-a-practical-gujarati-lesson/illustration-v001.png",
+      "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+      "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+      "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+      "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png"
+    ],
+    "transparent_background": false
+  },
+  "jalebi_correction": {
+    "prompt": "Edit target first image. Preserve scene, poses, expression, human hands, jalebi tray and anatomy. TWO corrections essential: 1) Both dogs' body coats must be flat smooth painted color fields as in second image BODY FINISH ONLY: completely remove all engraved fur strokes and all raised tufts on torsos, neck sides, thighs. Short smooth Neet chest too. Buddy can retain facial moustache, eyebrows, hanging ear furnishings and restrained ankle furnishings only. Do NOT remove Buddy's regional face identity. Subtle watercolor paper grain permitted but no drawn coat strands. 2) Correct Buddy leash: remove both black strands descending from Heather's right hand toward Buddy rump/tail; draw ONE loose curving black leash from her right hand directly to the visible ring at Buddy's neck collar, with unobstructed path across empty background beside his head. Neet's brown leash remains unchanged. No other changes. Smooth flat cel-painted bodies, gentle gradient light, crisp silhouette.",
+    "referenced_image_paths": [
+      "/Users/sagar/.codex/generated_images/01a1059d-7576-7ad2-b8a1-da80a2f2a6ed/exec-62c0b562-cf04-4148-968e-3e85bfb19a5f.png",
+      "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png"
+    ],
+    "transparent_background": false
+  },
+  "price_correction": {
+    "prompt": "Edit target first image. Preserve market price scene, fruit seller two-finger gesture, dog poses and anatomy, background. Essential corrections: completely repaint dog BODY coats as flat clean smooth color fields with softly blended light, matching second image BODY FINISH ONLY. Remove engraved/curled fur strokes and raised tufts on dog torsos, thighs and neck sides. Neet is short smooth tan including cream chest, broad ears, tiny nub (remove upward curling tail tip). Buddy body is close-groomed charcoal, but preserve LOCAL furnished pale muzzle, brows, hanging ears and modest paws. Do not make Buddy face bare. Fix leashes: remove erroneous dark strap ending at Buddy's back and brown strap appearing to connect Buddy collar toward Neet body. TWO separate leashes must descend from Heather's hand: dark directly ends at Buddy neck collar behind his ear; brown travels in empty background above Buddy's back, then above Neet's back, ending at Neet neck collar. No strap may terminate on a torso. Everything else remains unchanged. No lettering.",
+    "referenced_image_paths": [
+      "/Users/sagar/.codex/generated_images/01a1059d-7576-7ad2-b8a1-da80a2f2a6ed/exec-dbcd4bdd-1bd8-4a53-a6ba-a275dc315ac8.png",
+      "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png"
+    ],
+    "transparent_background": false
+  },
+  "cow_correction": {
+    "prompt": "Edit target first image. Preserve every object, animal anatomy, pose, connected leashes, expression and chapati-mouth contact. Repaint ONLY both DOGS body coat surfaces as clean smooth flat cel-painted shapes with gently blended light like BODY FINISH in second image. Remove ALL engraved hair strokes, curls and hatching from Neet's torso/head/chest and Buddy's torso/thighs/neck sides. Neet clean smooth outline with tiny nub. Buddy must KEEP local furnished muzzle, eyebrows, ear flaps and modest paw hair; no torso tufts. This is a short-coat finish correction, not an anatomy redesign. Change Neet collar/leash red to plain brown; Buddy collar/leash blue to charcoal gray for continuity. Keep everything else, including watercolor market and cow, unchanged.",
+    "referenced_image_paths": [
+      "/Users/sagar/.codex/generated_images/01a1059d-7576-7ad2-b8a1-da80a2f2a6ed/exec-001709be-e9d3-4066-b9b3-da1855d98ce9.png",
+      "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png"
+    ],
+    "transparent_background": false
+  },
+  "jalebi_leash": {
+    "prompt": "Make one precise correction only to first image: Buddy's black leash. Erase current curved black leash from Heather's right hand down to Buddy's back. Draw a SINGLE slack black strap diagonally from that same hand (near x1135,y155) toward Buddy's neck collar behind his right ear (near x937,y493). The entire path should stay in the open light background ABOVE Buddy's back and terminate at a small visible metal ring ON THE NECK COLLAR, not at the back. Gentle sag only; do not go anywhere near tail or torso. Keep all other pixels/visual features as close as possible: smooth dog coats, faces, regional furnishings, all legs, vendor hand pat, Neet brown leash, warm bazaar, lighting and crop. No new items or text.",
+    "referenced_image_paths": [
+      "/Users/sagar/.codex/generated_images/01a1059d-7576-7ad2-b8a1-da80a2f2a6ed/exec-9adca5f2-dcf1-488b-8caa-425d882b0f89.png"
+    ],
+    "transparent_background": false
+  },
+  "price_leash": {
+    "prompt": "First image edit, one correction only. Buddy black leash currently wrongly terminates at his upper back near x350,y485. Erase that entire black strap from Heather's hand to back. Replace with one black slack strap from the same hand near x250,y130 diagonally down-right to a metal clasp visibly ON Buddy's neck collar at x550,y482. The strap may cross the brown strap in empty background but must NOT end at back. Keep brown leash to Neet unchanged; it runs behind Buddy and emerges toward Neet neck. Do not change dogs, faces, body proportions, paws, short smooth body coats, regional muzzle and ear furnishings, market, seller two fingers or overall framing. No additional edits.",
+    "referenced_image_paths": [
+      "/Users/sagar/.codex/generated_images/01a1059d-7576-7ad2-b8a1-da80a2f2a6ed/exec-e172969a-3e5d-49c3-9436-38a159111421.png"
+    ],
+    "transparent_background": false
+  }
+}

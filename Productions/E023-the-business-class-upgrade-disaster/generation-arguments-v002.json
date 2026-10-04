@@ -1,0 +1,41 @@
+{
+  "staging": {
+    "prompt": "Use case: illustration-story. Draw a THREE PANEL rough pencil storyboard sheet for the Business Class Upgrade Disaster, no text. Original photos inputs 1-4 are sole anatomy authority; input5 BODY FINISH ONLY no anatomy. Panel1: daytime luxurious blue business class seat by oval window, Buddy resting belly-down fully supported on broad cushion, forelegs stretched straight ahead yet not reaching edge; amazed content face; no other dog. Panel2: after meal a suited older passenger holding a napkin to his wet face, Heather offers a full stack of napkins, Neet seated on adjacent seat sheepish; champagne glass on table away from his mouth; human likeness provisional. Panel3: dim night cabin Neet upright sitting on carpet aisle looking up at Buddy reclining on seat, blanket pushed aside; both bodies complete/support clear. Neet narrow full smooth fawn torso, fine legs, broad triangular upright ears, cream bib, nub. Buddy moderately elongated full close charcoal torso, substantial legs, real neck, pale muzzle/brows and regional ear/paw furnishings. Show connected spine ribcage pelvis limb roots and contact. Smooth unhatched dog body fields; no engraved fur, no shaggy body contours. N35 not anatomy, B08 styling only, B25 absent, B30 supplemental rest only; none supplied. No captions, no lettering.",
+    "referenced_image_paths": [
+      "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-5.jpeg",
+      "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+      "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+      "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-19.jpg",
+      "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png"
+    ],
+    "transparent_background": false
+  },
+  "staging_correction": {
+    "prompt": "Edit this drawn storyboard, preserve top and bottom-right panels and all their dog construction. Correct ONLY bottom-left scene: REMOVE standing Neet holding napkins and REMOVE Buddy sitting in that scene. Add Heather, an adult human woman with brown hair and a colorful modest long-sleeved blouse, seated in the middle airplane seat extending ONE human hand holding the napkin stack to the older suited man. Her other hand rests in her lap. Small tan Neet sits naturally on haunches on the cushion beside her, all four paws supported, no object held, looking sheepishly toward the man. The man wipes his face with a napkin. No dog holds any napkins. Human appearance provisional. Clear arm ownership and seats, no extra limbs. Keep pencil storyboard style, THREE panels, no text. Top setup is before takeoff, remove wing/cloud flight view and show indistinct terminal through window.",
+    "referenced_image_paths": [
+      "/Users/sagar/Documents/ChatGPT/NBC/Productions/E023-the-business-class-upgrade-disaster/staging-v002.png"
+    ],
+    "transparent_background": false
+  },
+  "floor": {
+    "prompt": "Use case: precise-object-edit. Finish correction of input1, preserving exact business cabin composition, dogs' poses and all connected anatomy, blanket and night lighting. Change ONLY painted body finish on BOTH dogs: remove the engraved curling hair strokes, raised shagginess, stripe-like individual hair and coarse furry body contours. Neet entire fawn body, neck and legs must be smooth clean soft wash color planes with unbroken smooth outline, full narrow torso and fine limbs. Buddy torso, shoulder and haunch must be smooth close charcoal coat color planes; PRESERVE regional furnished muzzle, brows, pendant ear fringe and light paw furnishings. Input2 is BODY FINISH ONLY: smooth painted wash/cel-like color fields, not anatomy or scene. Input3 Neet and input4 Buddy original photos are anatomical authority; no pose change. Input5 Buddy resting photo supports only visible face/paw/furnishings, no body proportions. No text. Preserve the existing appealing expressions. No newly added fur texture. Human likeness not involved.",
+    "referenced_image_paths": [
+      "/Users/sagar/Documents/ChatGPT/NBC/Productions/E023-the-business-class-upgrade-disaster/illustration-v001.png",
+      "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+      "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-5.jpeg",
+      "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+      "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-19.jpg"
+    ],
+    "transparent_background": false
+  },
+  "comfort": {
+    "prompt": "Use case: sketch-to-render. Create ONE finished landscape watercolor story illustration based ONLY on TOP panel of input1 inspected storyboard; no other panels. Buddy lies belly-down on huge plush blue business class airline seat, both forelegs extended, paws still well short of cushion edge, delighted by the amount of legroom. Whole moderately elongated connected body supported, back and folded haunch clear, neck real and head modest. Terminal visible through oval window, BEFORE takeoff. No humans or Neet. Original Buddy photos inputs2/3 are sole anatomy/furnishing authority. Input4 BODY FINISH ONLY. Smooth charcoal torso and neck color planes with restrained shading; absolutely no individual hair strokes or engraved fur on body, no raised shag silhouette. Retain pale cream moustache/beard, curved brows, pendant regional ear fringe, warm light distal legs/paw furnishings. Preserve clean scene silhouette and characterful surprised pleasure. Warm inviting soft watercolor cabin, no text, no frames, no comparison layout.",
+    "referenced_image_paths": [
+      "/Users/sagar/Documents/ChatGPT/NBC/Productions/E023-the-business-class-upgrade-disaster/staging-v003.png",
+      "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+      "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-19.jpg",
+      "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png"
+    ],
+    "transparent_background": false
+  }
+}

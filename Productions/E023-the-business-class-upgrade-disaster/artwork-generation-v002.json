@@ -1,0 +1,604 @@
+{
+  "story_id": "S023",
+  "tool": "built-in image_gen.imagegen",
+  "model": "unknown",
+  "seed": "unknown",
+  "references": [
+    {
+      "id": "N05",
+      "character": "Neet",
+      "path": "Characters/Neet/Photos/neet-5.jpeg",
+      "filename": "neet-5.jpeg",
+      "sha256": "4a975becfbbb30eba156a048bdc6cd464ef9816fe894e8882e1088517d6a1b0e",
+      "archived_source_path": "03_Asset_Library/Characters/Neet/neet-5.jpeg",
+      "same_exposure_group": null,
+      "use": "Unclothed upright sitting anatomy",
+      "approval_status": "unknown",
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "styling"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Excellent seated geometry, neck, muzzle projection and leg reference.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Seated geometry only; far side and tail concealed; Buddy-like dog background is blurred"
+        ],
+        "inspection_sha256": "9271cf81276480ce1bb2f7de2053da9440bf661212a27fb32809603b7c073f91",
+        "source_sha256": "4a975becfbbb30eba156a048bdc6cd464ef9816fe894e8882e1088517d6a1b0e",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N05.json"
+      },
+      "source_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose",
+          "resting_pose",
+          "styling"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Excellent seated geometry, neck, muzzle projection and leg reference.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state."
+        ],
+        "evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md"
+      },
+      "source_observation": {
+        "date": "2026-10-03",
+        "pose_view_camera": "Unclothed seated three-quarter; near head level",
+        "visible_features": "Tall chest and neck; long straight forelegs; compact feet; folded substantial thigh; projecting muzzle; pale chin bib; ear cups",
+        "limitations": "Seated geometry only; far side and tail concealed; Buddy-like dog background is blurred",
+        "recommended_uses": [
+          "sitting_pose",
+          "visible_anatomy",
+          "styling"
+        ],
+        "full_restrictions": [
+          "Excellent seated geometry, neck, muzzle projection and leg reference.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Seated geometry only; far side and tail concealed; Buddy-like dog background is blurred"
+        ]
+      },
+      "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N05.json",
+      "inspection_sha256": "9271cf81276480ce1bb2f7de2053da9440bf661212a27fb32809603b7c073f91"
+    },
+    {
+      "id": "N19",
+      "character": "Neet",
+      "path": "Characters/Neet/Photos/neet-19.jpeg",
+      "filename": "neet-19.jpeg",
+      "sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+      "archived_source_path": "03_Asset_Library/Characters/Neet/neet-19.jpeg",
+      "same_exposure_group": null,
+      "use": "Primary body-level side standing and tail nub",
+      "approval_status": "unknown",
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "styling",
+          "standing_pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Primary standing body proportions, paws, hocks and stub silhouette; head is not a pure profile.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Head rotated; far limbs overlap; uncalibrated camera offers no measurements; room light subdued"
+        ],
+        "inspection_sha256": "b2c6db0a5af6a885d993cbd986cc2759b9461e693fbcabd8aa96bce1eb5ea901",
+        "source_sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N19.json"
+      },
+      "source_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose",
+          "resting_pose",
+          "styling"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Primary standing body proportions, paws, hocks and stub silhouette; head is not a pure profile.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state."
+        ],
+        "evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md"
+      },
+      "source_observation": {
+        "date": "2026-10-03",
+        "pose_view_camera": "Standing left-facing side with head toward camera; near body-level",
+        "visible_features": "Tiny short tan rump nub; near-square qualitative standing impression; long slender legs; full ribcage/thigh; moderate ventral rise; smooth short coat",
+        "limitations": "Head rotated; far limbs overlap; uncalibrated camera offers no measurements; room light subdued",
+        "recommended_uses": [
+          "standing_pose",
+          "visible_anatomy",
+          "styling"
+        ],
+        "full_restrictions": [
+          "Primary standing body proportions, paws, hocks and stub silhouette; head is not a pure profile.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Head rotated; far limbs overlap; uncalibrated camera offers no measurements; room light subdued"
+        ]
+      },
+      "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N19.json",
+      "inspection_sha256": "b2c6db0a5af6a885d993cbd986cc2759b9461e693fbcabd8aa96bce1eb5ea901"
+    },
+    {
+      "id": "B04",
+      "character": "Buddy",
+      "path": "Characters/Buddy/Photos/buddy-4.jpg",
+      "filename": "buddy-4.jpg",
+      "sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+      "archived_source_path": "03_Asset_Library/Characters/Buddy/buddy-4.jpg",
+      "same_exposure_group": "B04-B24",
+      "use": "Primary frontal standing and groomed facial pattern",
+      "approval_status": "unknown",
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "styling",
+          "standing_pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Excellent front-leg clearance, chest pattern and groomed face; useful standing stance. Same photographic exposure as B24 for evidence counting.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Tail partly cropped at left; grass hides toes; perspective foreshortens torso; B24 same exposure in separate encoding"
+        ],
+        "inspection_sha256": "dd7da906a0e61eb4cdbd84eac3c97fea3318813d5a874c4e6cd4d8d3ba890797",
+        "source_sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B04.json"
+      },
+      "source_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose",
+          "resting_pose",
+          "styling"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Excellent front-leg clearance, chest pattern and groomed face; useful standing stance. Same photographic exposure as B24 for evidence counting.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state."
+        ],
+        "evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+        "same_exposure_group": "B04-B24"
+      },
+      "source_observation": {
+        "date": "2026-10-03",
+        "pose_view_camera": "Standing front three-quarter outdoors; approximately chest-level",
+        "visible_features": "Deep chest; substantial leg shafts; pale lower legs and splaying foot hair; dark torso; pale chest sides/dark throat; long pendant ear fringe; pale muzzle/brows",
+        "limitations": "Tail partly cropped at left; grass hides toes; perspective foreshortens torso; B24 same exposure in separate encoding",
+        "recommended_uses": [
+          "standing_pose",
+          "visible_anatomy",
+          "styling"
+        ],
+        "full_restrictions": [
+          "Excellent front-leg clearance, chest pattern and groomed face; useful standing stance. Same photographic exposure as B24 for evidence counting.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Tail partly cropped at left; grass hides toes; perspective foreshortens torso; B24 same exposure in separate encoding"
+        ]
+      },
+      "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B04.json",
+      "inspection_sha256": "dd7da906a0e61eb4cdbd84eac3c97fea3318813d5a874c4e6cd4d8d3ba890797"
+    },
+    {
+      "id": "B19",
+      "character": "Buddy",
+      "path": "Characters/Buddy/Photos/buddy-19.jpg",
+      "filename": "buddy-19.jpg",
+      "sha256": "201ec36498d5aaa85ef6e44a9176c333587d95797279a689237ccb49090ee521",
+      "archived_source_path": "03_Asset_Library/Characters/Buddy/buddy-19.jpg",
+      "same_exposure_group": null,
+      "use": "Chin-down resting with messy facial furnishings",
+      "approval_status": "unknown",
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "resting_pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Excellent low face, ear-root tufts, muzzle sweep and head-between-paws reference; poor global proportions.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Nearest face enlarged by perspective; rear blurred; limbs folded; no neutral head/body proportions"
+        ],
+        "inspection_sha256": "6686639617369f80387a581720cb9d28a2f0f5cf940da025eadf8b420095dfd2",
+        "source_sha256": "201ec36498d5aaa85ef6e44a9176c333587d95797279a689237ccb49090ee521",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B19.json"
+      },
+      "source_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose",
+          "resting_pose",
+          "styling"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Excellent low face, ear-root tufts, muzzle sweep and head-between-paws reference; poor global proportions.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state."
+        ],
+        "evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md"
+      },
+      "source_observation": {
+        "date": "2026-10-03",
+        "pose_view_camera": "Chin down on forepaws; very low frontal close view",
+        "visible_features": "Pale muzzle strands/beard compressed; warm pale paws; paired brow arcs; dark eye surrounds; long hanging ear fringe; upward wispy roots",
+        "limitations": "Nearest face enlarged by perspective; rear blurred; limbs folded; no neutral head/body proportions",
+        "recommended_uses": [
+          "resting_pose",
+          "visible_anatomy",
+          "facial_expression"
+        ],
+        "full_restrictions": [
+          "Excellent low face, ear-root tufts, muzzle sweep and head-between-paws reference; poor global proportions.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Nearest face enlarged by perspective; rear blurred; limbs folded; no neutral head/body proportions"
+        ]
+      },
+      "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B19.json",
+      "inspection_sha256": "6686639617369f80387a581720cb9d28a2f0f5cf940da025eadf8b420095dfd2"
+    }
+  ],
+  "exposure_groups": [
+    "N05",
+    "N19",
+    "B04-B24",
+    "B19"
+  ],
+  "restrictions": [
+    "N35 excludes anatomy",
+    "B08 styling only",
+    "B25 unavailable",
+    "B30 supplemental resting only",
+    "One exposure counts once",
+    "Human appearances and generated models remain provisional"
+  ],
+  "model_inspection": {
+    "paths": [
+      "Productions/Library-Refinement/model-standing-v002.png",
+      "Productions/Library-Refinement/model-rest-action-v002.png"
+    ],
+    "observations": "Opened rendered models beside N05 N19 B04 B19. Models retain regional facial furnishings and connected full trunks; original photos remain anatomical authority. Models carry excessive body texture, not propagated as finish authority."
+  },
+  "finish_reference": {
+    "path": "Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+    "sha256": "19be9a85760177405bbedd26644a7e0eb9c7945709e43825d201ff2fa91742b9",
+    "role": "BODY FINISH ONLY, not anatomy"
+  },
+  "calls": [
+    {
+      "id": "staging",
+      "tool_arguments": {
+        "prompt": "Use case: illustration-story. Draw a THREE PANEL rough pencil storyboard sheet for the Business Class Upgrade Disaster, no text. Original photos inputs 1-4 are sole anatomy authority; input5 BODY FINISH ONLY no anatomy. Panel1: daytime luxurious blue business class seat by oval window, Buddy resting belly-down fully supported on broad cushion, forelegs stretched straight ahead yet not reaching edge; amazed content face; no other dog. Panel2: after meal a suited older passenger holding a napkin to his wet face, Heather offers a full stack of napkins, Neet seated on adjacent seat sheepish; champagne glass on table away from his mouth; human likeness provisional. Panel3: dim night cabin Neet upright sitting on carpet aisle looking up at Buddy reclining on seat, blanket pushed aside; both bodies complete/support clear. Neet narrow full smooth fawn torso, fine legs, broad triangular upright ears, cream bib, nub. Buddy moderately elongated full close charcoal torso, substantial legs, real neck, pale muzzle/brows and regional ear/paw furnishings. Show connected spine ribcage pelvis limb roots and contact. Smooth unhatched dog body fields; no engraved fur, no shaggy body contours. N35 not anatomy, B08 styling only, B25 absent, B30 supplemental rest only; none supplied. No captions, no lettering.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-5.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-19.jpg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png"
+        ],
+        "transparent_background": false
+      },
+      "inputs": [
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-5.jpeg",
+          "sha256": "4a975becfbbb30eba156a048bdc6cd464ef9816fe894e8882e1088517d6a1b0e",
+          "role": "original photograph anatomy within full policy"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+          "role": "original photograph anatomy within full policy"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+          "sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+          "role": "original photograph anatomy within full policy"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-19.jpg",
+          "sha256": "201ec36498d5aaa85ef6e44a9176c333587d95797279a689237ccb49090ee521",
+          "role": "original photograph anatomy within full policy"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "sha256": "19be9a85760177405bbedd26644a7e0eb9c7945709e43825d201ff2fa91742b9",
+          "role": "BODY FINISH ONLY"
+        }
+      ],
+      "model": "unknown",
+      "seed": "unknown",
+      "output": {
+        "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E023-the-business-class-upgrade-disaster/staging-v002.png",
+        "sha256": "be868afbe79bfc32a722f36fd8189569117f3dad5f833c0917874d3fb46f79c0",
+        "dimensions": [
+          1536,
+          1024
+        ],
+        "format": "PNG"
+      }
+    },
+    {
+      "id": "staging_correction",
+      "tool_arguments": {
+        "prompt": "Edit this drawn storyboard, preserve top and bottom-right panels and all their dog construction. Correct ONLY bottom-left scene: REMOVE standing Neet holding napkins and REMOVE Buddy sitting in that scene. Add Heather, an adult human woman with brown hair and a colorful modest long-sleeved blouse, seated in the middle airplane seat extending ONE human hand holding the napkin stack to the older suited man. Her other hand rests in her lap. Small tan Neet sits naturally on haunches on the cushion beside her, all four paws supported, no object held, looking sheepishly toward the man. The man wipes his face with a napkin. No dog holds any napkins. Human appearance provisional. Clear arm ownership and seats, no extra limbs. Keep pencil storyboard style, THREE panels, no text. Top setup is before takeoff, remove wing/cloud flight view and show indistinct terminal through window.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E023-the-business-class-upgrade-disaster/staging-v002.png"
+        ],
+        "transparent_background": false
+      },
+      "inputs": [
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E023-the-business-class-upgrade-disaster/staging-v002.png",
+          "sha256": "be868afbe79bfc32a722f36fd8189569117f3dad5f833c0917874d3fb46f79c0",
+          "role": "edit target or staging as identified explicitly in exact prompt"
+        }
+      ],
+      "model": "unknown",
+      "seed": "unknown",
+      "output": {
+        "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E023-the-business-class-upgrade-disaster/staging-v003.png",
+        "sha256": "24f9c0a30bd55a666d7231ce99c46ea0e704cd7ab4d916c998d719cf2e511832",
+        "dimensions": [
+          1536,
+          1024
+        ],
+        "format": "PNG"
+      }
+    },
+    {
+      "id": "floor",
+      "tool_arguments": {
+        "prompt": "Use case: precise-object-edit. Finish correction of input1, preserving exact business cabin composition, dogs' poses and all connected anatomy, blanket and night lighting. Change ONLY painted body finish on BOTH dogs: remove the engraved curling hair strokes, raised shagginess, stripe-like individual hair and coarse furry body contours. Neet entire fawn body, neck and legs must be smooth clean soft wash color planes with unbroken smooth outline, full narrow torso and fine limbs. Buddy torso, shoulder and haunch must be smooth close charcoal coat color planes; PRESERVE regional furnished muzzle, brows, pendant ear fringe and light paw furnishings. Input2 is BODY FINISH ONLY: smooth painted wash/cel-like color fields, not anatomy or scene. Input3 Neet and input4 Buddy original photos are anatomical authority; no pose change. Input5 Buddy resting photo supports only visible face/paw/furnishings, no body proportions. No text. Preserve the existing appealing expressions. No newly added fur texture. Human likeness not involved.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E023-the-business-class-upgrade-disaster/illustration-v001.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-5.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-19.jpg"
+        ],
+        "transparent_background": false
+      },
+      "inputs": [
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E023-the-business-class-upgrade-disaster/illustration-v001.png",
+          "sha256": "77ee01c2ca549939367002b875a9326f20c0f87ddfc7fccde3b37890528dcd75",
+          "role": "edit target or staging as identified explicitly in exact prompt"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "sha256": "19be9a85760177405bbedd26644a7e0eb9c7945709e43825d201ff2fa91742b9",
+          "role": "BODY FINISH ONLY"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-5.jpeg",
+          "sha256": "4a975becfbbb30eba156a048bdc6cd464ef9816fe894e8882e1088517d6a1b0e",
+          "role": "original photograph anatomy within full policy"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+          "sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+          "role": "original photograph anatomy within full policy"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-19.jpg",
+          "sha256": "201ec36498d5aaa85ef6e44a9176c333587d95797279a689237ccb49090ee521",
+          "role": "original photograph anatomy within full policy"
+        }
+      ],
+      "model": "unknown",
+      "seed": "unknown",
+      "output": {
+        "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E023-the-business-class-upgrade-disaster/floor-art-v002.png",
+        "sha256": "d9330b63405292d8c55bc7b715c7b952d454a76f76f7c5d5589ee2ce82b3c455",
+        "dimensions": [
+          1448,
+          1086
+        ],
+        "format": "PNG"
+      }
+    },
+    {
+      "id": "comfort",
+      "tool_arguments": {
+        "prompt": "Use case: sketch-to-render. Create ONE finished landscape watercolor story illustration based ONLY on TOP panel of input1 inspected storyboard; no other panels. Buddy lies belly-down on huge plush blue business class airline seat, both forelegs extended, paws still well short of cushion edge, delighted by the amount of legroom. Whole moderately elongated connected body supported, back and folded haunch clear, neck real and head modest. Terminal visible through oval window, BEFORE takeoff. No humans or Neet. Original Buddy photos inputs2/3 are sole anatomy/furnishing authority. Input4 BODY FINISH ONLY. Smooth charcoal torso and neck color planes with restrained shading; absolutely no individual hair strokes or engraved fur on body, no raised shag silhouette. Retain pale cream moustache/beard, curved brows, pendant regional ear fringe, warm light distal legs/paw furnishings. Preserve clean scene silhouette and characterful surprised pleasure. Warm inviting soft watercolor cabin, no text, no frames, no comparison layout.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E023-the-business-class-upgrade-disaster/staging-v003.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-19.jpg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png"
+        ],
+        "transparent_background": false
+      },
+      "inputs": [
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E023-the-business-class-upgrade-disaster/staging-v003.png",
+          "sha256": "24f9c0a30bd55a666d7231ce99c46ea0e704cd7ab4d916c998d719cf2e511832",
+          "role": "edit target or staging as identified explicitly in exact prompt"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+          "sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+          "role": "original photograph anatomy within full policy"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-19.jpg",
+          "sha256": "201ec36498d5aaa85ef6e44a9176c333587d95797279a689237ccb49090ee521",
+          "role": "original photograph anatomy within full policy"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "sha256": "19be9a85760177405bbedd26644a7e0eb9c7945709e43825d201ff2fa91742b9",
+          "role": "BODY FINISH ONLY"
+        }
+      ],
+      "model": "unknown",
+      "seed": "unknown",
+      "output": {
+        "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E023-the-business-class-upgrade-disaster/comfort-art-v002.png",
+        "sha256": "160e0b1d7747f70ad1db3066d1cb8173e34925f4e416c62faa3a452e6d389496",
+        "dimensions": [
+          1536,
+          1024
+        ],
+        "format": "PNG"
+      }
+    },
+    {
+      "id": "comfort_correction",
+      "tool_arguments": {
+        "prompt": "Precise finish edit: input1 composition and Buddy anatomy must remain identical. REMOVE ALL the dense engraved hair strokes and fuzzy raised body contour from Buddy torso, neck, shoulders, upper legs and haunch. Replace these regions with smooth softly shaded charcoal painted color fields exactly as the smooth dog bodies in input2. This is crucial, not merely less texture: NO individual body hairs, no scratch lines, no mottled curly coat. Preserve regional pale muzzle/beard, eyebrows, ear fringe and paw fringe as in input1. Smooth painted body with existing proportions, tan chest fields and light distal legs. Input2 BODY FINISH ONLY, do not import scene or other animals. Keep joyful expression, cushion contacts, terminal view, whole composition and watercolor setting. No text.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E023-the-business-class-upgrade-disaster/comfort-art-v002.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png"
+        ],
+        "transparent_background": false
+      },
+      "inputs": [
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E023-the-business-class-upgrade-disaster/comfort-art-v002.png",
+          "sha256": "160e0b1d7747f70ad1db3066d1cb8173e34925f4e416c62faa3a452e6d389496",
+          "role": "edit target or staging as identified explicitly in exact prompt"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "sha256": "19be9a85760177405bbedd26644a7e0eb9c7945709e43825d201ff2fa91742b9",
+          "role": "BODY FINISH ONLY"
+        }
+      ],
+      "model": "unknown",
+      "seed": "unknown",
+      "output": {
+        "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E023-the-business-class-upgrade-disaster/comfort-art-v003.png",
+        "sha256": "aacc36f026c7596b1c5075cfc8edfcbc5c91637603060e0333ea070eac5e1a87",
+        "dimensions": [
+          1536,
+          1024
+        ],
+        "format": "PNG"
+      }
+    },
+    {
+      "id": "napkins_correction",
+      "tool_arguments": {
+        "prompt": "Precise body finish correction input1. Keep humans, napkins, cabin, pose, all anatomy, expressions and composition EXACTLY. Replace ONLY Neet's coat rendering with clean smooth painted color fields like the tan dog body in input2. Neet has an extremely short smooth coat: remove all long hair tufts on throat/chest, all neck fur strands, all hair hatching on shoulder/flank/thigh. Make his body silhouette smooth and his cream bib a smooth irregular COLOR PATCH, not fur. Smooth fawn planes and soft shadow, no furry engraving. Keep fine legs, broad ears, modest head, real narrow torso and tiny nub. Input2 is BODY FINISH ONLY not anatomy. No added objects.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E023-the-business-class-upgrade-disaster/napkins-art-v002.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png"
+        ],
+        "transparent_background": false
+      },
+      "inputs": [
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E023-the-business-class-upgrade-disaster/napkins-art-v002.png",
+          "sha256": "b0006635b611073d0e623967af0677a60bb8bb4f12cb405317f7da2a3eee7fc4",
+          "role": "edit target or staging as identified explicitly in exact prompt"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "sha256": "19be9a85760177405bbedd26644a7e0eb9c7945709e43825d201ff2fa91742b9",
+          "role": "BODY FINISH ONLY"
+        }
+      ],
+      "model": "unknown",
+      "seed": "unknown",
+      "output": {
+        "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E023-the-business-class-upgrade-disaster/napkins-art-v003.png",
+        "sha256": "ff7175dbbf9deb91a9e79af91f098f4f758aff328825eb176cd17013e72856bb",
+        "dimensions": [
+          1536,
+          1024
+        ],
+        "format": "PNG"
+      }
+    }
+  ],
+  "status": "proposed_pending_independent_review",
+  "tool_validation_error": "Initial staging attempt used six references and failed before generation: referenced_image_paths must contain at most 5 paths. Removed generated model input; successful exact arguments retained.",
+  "writer_inspection": {
+    "staging": "Opened v002; rejected middle panel because dog held napkins and setup showed flight. v003 inspected: corrected human hand, terminal at setup, connected bodies and support clear.",
+    "floor": "Preserved successful seat/aisle composition, corrected visibly engraved body hair. New smooth fawn silhouette and close charcoal torso, regional Buddy furnishings retained.",
+    "comfort": "Initial v002 carried detailed furry body. v003 replaces this with restrained smooth body paint; full folded haunch/forelimb support, no edge overlap.",
+    "napkins": "Initial v002 had long chest strands. v003 smooth cream bib and fawn planes preserve natural sitting paws and haunch. Humans each have two owned arms; napkin stack in Heather hand.",
+    "scope": "Writer proposal inspection only; independent visual and rendered full reading remain pending."
+  },
+  "selected_images": [
+    {
+      "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E023-the-business-class-upgrade-disaster/comfort-art-v003.png",
+      "sha256": "aacc36f026c7596b1c5075cfc8edfcbc5c91637603060e0333ea070eac5e1a87"
+    },
+    {
+      "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E023-the-business-class-upgrade-disaster/napkins-art-v003.png",
+      "sha256": "ff7175dbbf9deb91a9e79af91f098f4f758aff328825eb176cd17013e72856bb"
+    },
+    {
+      "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E023-the-business-class-upgrade-disaster/floor-art-v002.png",
+      "sha256": "d9330b63405292d8c55bc7b715c7b952d454a76f76f7c5d5589ee2ce82b3c455"
+    }
+  ],
+  "archive_mappings": [
+    {
+      "former_path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E023-the-business-class-upgrade-disaster/illustration-v001.png",
+      "external_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S023-expanded-v002/illustration-v001.png",
+      "sha256": "77ee01c2ca549939367002b875a9326f20c0f87ddfc7fccde3b37890528dcd75",
+      "reason": "Superseded/rejected finish or staging; historical exact generation records preserved."
+    },
+    {
+      "former_path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E023-the-business-class-upgrade-disaster/staging-v001.png",
+      "external_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S023-expanded-v002/staging-v001.png",
+      "sha256": "2a6f6996a604ce7ce3e43dcacf71d11cf2402f157aa3766c22963a2f547cc5a6",
+      "reason": "Superseded/rejected finish or staging; historical exact generation records preserved."
+    },
+    {
+      "former_path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E023-the-business-class-upgrade-disaster/staging-v002.png",
+      "external_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S023-expanded-v002/staging-v002.png",
+      "sha256": "be868afbe79bfc32a722f36fd8189569117f3dad5f833c0917874d3fb46f79c0",
+      "reason": "Superseded/rejected finish or staging; historical exact generation records preserved."
+    },
+    {
+      "former_path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E023-the-business-class-upgrade-disaster/comfort-art-v002.png",
+      "external_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S023-expanded-v002/comfort-art-v002.png",
+      "sha256": "160e0b1d7747f70ad1db3066d1cb8173e34925f4e416c62faa3a452e6d389496",
+      "reason": "Superseded/rejected finish or staging; historical exact generation records preserved."
+    },
+    {
+      "former_path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E023-the-business-class-upgrade-disaster/napkins-art-v002.png",
+      "external_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S023-expanded-v002/napkins-art-v002.png",
+      "sha256": "b0006635b611073d0e623967af0677a60bb8bb4f12cb405317f7da2a3eee7fc4",
+      "reason": "Superseded/rejected finish or staging; historical exact generation records preserved."
+    }
+  ]
+}

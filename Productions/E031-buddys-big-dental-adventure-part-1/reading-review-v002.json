@@ -1,0 +1,87 @@
+{
+  "story_id": "S031",
+  "version": 2,
+  "status": "accepted",
+  "reviewer": "fresh complete-reading reviewer reader031; did not write story or generate artwork",
+  "story": {
+    "path": "Stories/S031-buddys-big-dental-adventure-part-1.md",
+    "sha256": "cb13da014df24c8bac833c58f77d2b664fdff2257543f53be66a60eaf5af4cf5"
+  },
+  "images": [
+    {
+      "path": "Productions/E031-buddys-big-dental-adventure-part-1/waiting-art-v003.png",
+      "sha256": "cc34b498cecf1ce46836b080f342dba9cc74b9145621b79907e534c78b0598c2"
+    },
+    {
+      "path": "Productions/E031-buddys-big-dental-adventure-part-1/handoff-art-v003.png",
+      "sha256": "91a06745c5ddb961c6b51650e0d7cf998c41f89cd4f3e7be83bdc9722394ac4c"
+    },
+    {
+      "path": "Productions/E031-buddys-big-dental-adventure-part-1/dream-art-v003.png",
+      "sha256": "96178dfe19843a0876b88c9afd4b11d9d24f4ff84ca3a5635c1b437182944ebf"
+    }
+  ],
+  "inspection_method": {
+    "surface": "cua in-app browser",
+    "url": "http://127.0.0.1:56824/Stories/S031-buddys-big-dental-adventure-part-1.md",
+    "viewport": "1280 x 720; default reading size",
+    "coverage": "Read full rendered accessibility text and sequential overlapping viewport screenshots from title through primary ending, refinement record and complete source provenance. Inspected all three embedded pictures across their full reading-size extent. No meaningful alternatives present.",
+    "screenshots_inspected": 13,
+    "supporting_records": [
+      "Productions/E031-buddys-big-dental-adventure-part-1/comedy-pass-v002.json",
+      "Productions/E031-buddys-big-dental-adventure-part-1/visual-review-v002.json"
+    ],
+    "rereview": {
+      "surface": "cua Chrome browser; in-app browser unavailable on resumed pass",
+      "viewport": "1800 x 1042 screenshot; default reader font and width",
+      "coverage": "Fresh complete accessibility text plus eight overlapping reading-size screenshots from title to final source hash; all primary prose, three complete embedded images, ending and provenance inspected. No meaningful alternatives present.",
+      "result": "Exact-state correction visibly matches handoff art and preserves timing; all prior humor, causal and emotional findings reaffirmed."
+    }
+  },
+  "findings": [
+    "Buddy has clear agency: he seeks reassurance, protects the Dane privacy, protects his blue toy, and accepts comfort from the vet. Neet remains exuberantly intrusive without erasing Buddy voice.",
+    "Gappy creates the wrong reassurance; private sock punctures the legend admiration; the blue-one claim interrupts abandonment panic with a crisp reversal. Paragraph spacing keeps those beats legible.",
+    "Waiting-room art follows the sock legend line and precedes the Dane denial; it reinforces admiring versus weary expressions without inventing an extracted sock.",
+    "Handoff image follows the explicit lowered-paw and sitting transition, with Buddy looking back before his reluctant step. No blue toy is invented; both dogs now match the stated narrative state.",
+    "Dream art follows Buddy paw-wave question and precedes the cool-dog/gold-tooth dialogue. It introduces neither gold tooth nor literal gravy boat; wavy border and ensemble differentiate dream from clinic reality.",
+    "Three images contribute ensemble misunderstanding, toy-ownership reaction and changed dream state; they are complementary rather than repeated anxious portraits.",
+    "The closing gravy-boat pickup concern carries Heather attachment through the absurdity and preserves Part 1 cliffhanger. The ending has clear space before editorial material.",
+    "Independent visual record accepts all three unchanged exact image hashes with no open anatomy findings. Reading-specific state discrepancy S031-RR-001 is now explicitly closed after rendered correction inspection.",
+    "Footer preserves manuscript Chapter 32, archive identity and explicit unapproved status; no alternatives omitted."
+  ],
+  "material_findings": [
+    {
+      "id": "S031-RR-001",
+      "status": "closed",
+      "category": "exact_narrative_state",
+      "image": "Productions/E031-buddys-big-dental-adventure-part-1/handoff-art-v003.png",
+      "evidence": "The rendered text says Neet is still standing in the lobby, waves, and then lowers his waving paw. The immediately following handoff illustration shows Neet seated on his haunches with two straight forelegs; no sitting action occurs in the text.",
+      "required_action": "Use a fresh story-specific writer to state the small sitting transition after he lowers his paw, or correct the image to the stated standing pose. Preserve the successful toy-ownership reversal. Repeat the affected reading and refresh hashes.",
+      "original_story": {
+        "path": "Stories/S031-buddys-big-dental-adventure-part-1.md",
+        "sha256": "782461f83cc5c7079770c869954bcbc2e9c27cec1f09021fbc429c3a280df09f"
+      },
+      "resolution": "Fresh author added: Neet lowered his waving paw and sat down. Updated alt text also says he sits. Full corrected rendered reread verified the explicit transition before the unchanged seated handoff picture; the blue-toy reversal and subsequent reluctant step remain clear.",
+      "verified_story_sha256": "cb13da014df24c8bac833c58f77d2b664fdff2257543f53be66a60eaf5af4cf5"
+    }
+  ],
+  "open_findings": [],
+  "approval_status": "unapproved",
+  "publication_status": "not_published",
+  "closed_findings": [
+    {
+      "id": "S031-RR-001",
+      "status": "closed",
+      "category": "exact_narrative_state",
+      "image": "Productions/E031-buddys-big-dental-adventure-part-1/handoff-art-v003.png",
+      "evidence": "The rendered text says Neet is still standing in the lobby, waves, and then lowers his waving paw. The immediately following handoff illustration shows Neet seated on his haunches with two straight forelegs; no sitting action occurs in the text.",
+      "required_action": "Use a fresh story-specific writer to state the small sitting transition after he lowers his paw, or correct the image to the stated standing pose. Preserve the successful toy-ownership reversal. Repeat the affected reading and refresh hashes.",
+      "original_story": {
+        "path": "Stories/S031-buddys-big-dental-adventure-part-1.md",
+        "sha256": "782461f83cc5c7079770c869954bcbc2e9c27cec1f09021fbc429c3a280df09f"
+      },
+      "resolution": "Fresh author added: Neet lowered his waving paw and sat down. Updated alt text also says he sits. Full corrected rendered reread verified the explicit transition before the unchanged seated handoff picture; the blue-toy reversal and subsequent reluctant step remain clear.",
+      "verified_story_sha256": "cb13da014df24c8bac833c58f77d2b664fdff2257543f53be66a60eaf5af4cf5"
+    }
+  ]
+}

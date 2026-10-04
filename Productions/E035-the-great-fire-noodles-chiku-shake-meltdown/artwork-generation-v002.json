@@ -1,0 +1,960 @@
+{
+  "tool": "image_gen.imagegen",
+  "mode": "built_in",
+  "model": "unknown",
+  "seed": "unknown",
+  "calls": [
+    {
+      "id": "stagingArgs",
+      "tool_arguments": {
+        "prompt": "Use case: illustration-story. Draw a FOUR PANEL pencil storyboard, 2x2 grid, entire bodies readable, no text, not finished art. Original images 1-4 govern dog identity; image5 ONLY smooth body finish target (ignore its giant dog and setting). Neet tan smooth short coat, full narrow torso, fine long legs, broad triangular ears, tiny nub. Buddy moderately long full charcoal torso, substantial legs and clearance, pale muzzle/brows/chest/lower legs, softly hanging ears, photographed tidy regional furnishings, never shag torso. Panel1 kitchen: Neet all four paws on broad low stool observing cooking counter; Buddy on floor backing away with limp noodle wrapper in his mouth; cropped Sagar apron and hand adding red chili spoon to pan. Panel2 balcony doorway: Buddy just untangled from curtain, standing beside and guarding his small metal bowl of plain noodles; table above holds two red noodle/paneer plates, two glasses, string lights; Neet standing by second plain bowl; no nibble yet. Panel3 night sidewalk: Neet chest down chin nearly on pavement after two-inch crawl, rear legs folded naturally; Buddy seated alongside with deliberately open yawning mouth. Loose leashes attach to collars and lead to cropped humans' legs, small warmly lit shake shop behind, no lettering. Panel4 home floor: Neet all four feet on floor lapping at metal bowl held steady against wall by one coherent cropped Sagar hand; Buddy standing separately with shake dot on nose, his own bowl nearby. Draw spine/ribcage/pelvis and individually owned supports clearly; no floating limbs. The four pictures must be distinct complete framed scenes with consistent dogs.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-25.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-15.jpg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png"
+        ],
+        "transparent_background": false
+      },
+      "original_output": "/Users/sagar/.codex/generated_images/01a1065b-831b-7e02-9ec7-a49d432a734d/exec-13672d28-2acd-498c-b983-a220895d3c96.png",
+      "output": "Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/staging-v002.png",
+      "output_sha256": "1422f019d8c592f5af1fac6332d1ad74d9681643321ab1abe099fe4a8ab800dd",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "inputs": [
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+          "role": "original likeness authority"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-25.jpeg",
+          "sha256": "67530c2ebc1baa412f76a825a7bd2369cebf72a101e7f45836fefa0fcae90ca4",
+          "role": "original likeness authority"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-15.jpg",
+          "sha256": "947aca933769ac618dd657fd6a8491a8c67ff6997c289d76f87ec0167b07a923",
+          "role": "original likeness authority"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+          "sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+          "role": "original likeness authority"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "sha256": "19be9a85760177405bbedd26644a7e0eb9c7945709e43825d201ff2fa91742b9",
+          "role": "body-finish only, no anatomy authority"
+        }
+      ]
+    },
+    {
+      "id": "pourArgs",
+      "tool_arguments": {
+        "prompt": "Use case: precise-object-edit. Retain image1's entire composition, two dogs, exact full anatomy/positions/markings, kitchen, one pouring hand/jug/stream, exactly four cups two small two regular, stopped blender and light. Correct ONLY engraved curly interior coat texture on both dogs: smooth flat restrained watercolor tonal washes with no curls, scratches, hatching, shag contours or raised body hairs. Neet is entirely short smooth coat, including neck/chest, tiny near-flush nub. Buddy torso/upper legs smooth close coat; preserve photographed tidy regional muzzle moustache/brows/ear furnishings and lower paws. Image2 is BODY FINISH ONLY target for smooth tonal dog coats; do not import its dogs anatomy, giant dog, scene or objects. Original photos3-5 remain identity authority. Keep medium painted storybook look, not photo. No other changes.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/illustration-v002.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-15.jpg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg"
+        ],
+        "transparent_background": false
+      },
+      "original_output": "/Users/sagar/.codex/generated_images/01a1065b-831b-7e02-9ec7-a49d432a734d/exec-e60627c6-7b4e-43c0-b9f9-03ebaeca15c1.png",
+      "output": "Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/p04-pour-art-v003.png",
+      "output_sha256": "39bb40679d1518f0dbdf7a200e105ef03b71b312bb28c47a4283d82917f2e0cd",
+      "dimensions": [
+        1448,
+        1086
+      ],
+      "format": "PNG",
+      "inputs": [
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/illustration-v002.png",
+          "sha256": "810686cec3bcfea39432ec77c6981d48bc0b5a5bbbeb10de667d052f31378baf",
+          "role": "generated staging or edit target, no anatomy authority"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "sha256": "19be9a85760177405bbedd26644a7e0eb9c7945709e43825d201ff2fa91742b9",
+          "role": "body-finish only, no anatomy authority"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+          "role": "original likeness authority"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-15.jpg",
+          "sha256": "947aca933769ac618dd657fd6a8491a8c67ff6997c289d76f87ec0167b07a923",
+          "role": "original likeness authority"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+          "sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+          "role": "original likeness authority"
+        }
+      ]
+    },
+    {
+      "id": "stagingCorrectionArgs",
+      "tool_arguments": {
+        "prompt": "Use case: precise-object-edit. This is a DRAWN STAGING sheet, correct construction before painting. Preserve all four panels and their dogs/poses, except: bottom-right bowl must REST FLAT ON FLOOR against baseboard, with human fingertips bracing its outer rim; lower Neet head/muzzle naturally via neck to reach floor bowl, all four paws stay grounded. No floating elevated bowl. Bottom-left Neet leash must clearly attach to COLLAR at back of neck, not spine; retain chin on pavement and connected prone body. Top-right add understated cropped seated woman's lower legs beside one table chair and standing man's trouser legs near other, human distress offscreen; no extra dogs/props. Remove all dense coat hatching from dog torsos throughout to reveal smooth simple anatomical masses; Buddy regional brows/muzzle/ears/paws stay furnished. Keep everything else including four-paw supports on stool.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/staging-v002.png"
+        ],
+        "transparent_background": false
+      },
+      "original_output": "/Users/sagar/.codex/generated_images/01a1065b-831b-7e02-9ec7-a49d432a734d/exec-362eaf7d-2d03-4976-956e-40d9ccbbd94f.png",
+      "output": "Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/staging-v003.png",
+      "output_sha256": "810a1232032947be2cef5c57ed634ab979284bc8ef3197dcba93ed0bc726fd68",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "inputs": [
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/staging-v002.png",
+          "sha256": "1422f019d8c592f5af1fac6332d1ad74d9681643321ab1abe099fe4a8ab800dd",
+          "role": "generated staging or edit target, no anatomy authority"
+        }
+      ]
+    },
+    {
+      "id": "chiliArgs",
+      "tool_arguments": {
+        "prompt": "Use case: illustration-story. Finished full-page landscape watercolor story illustration of TOP LEFT storyboard scene ONLY, no grid, no text. Images1-4 original photos govern identity; image5 body-finish-only reference for smooth flat tonal dog coat; image6 staging composition. Home kitchen cooking error: Neet all four fine paws supported on broad low stool beside counter, full narrow tan torso, large triangular ears perked at red chili paste spoon being emptied into pan by one coherent cropped Sagar hand attached to apron-clad torso at left. Buddy foreground backing away carrying limp empty noodle wrapper; full moderately elongated charcoal torso and substantial legs/clearance, hanging ears, pale short moustache/brows/chest/distal paws. Keep stool physically separate from Buddy legs, sensible counter support, pan on stove. Warm domestic comedy, no flames/disaster symbolism. Keep restrained creamy watercolor background detail. Dogs' short torso coats MUST be smooth tonal washes like image5, zero engraved swirls/curls/hatching/body strands, smooth contour. Neet chest/neck short smooth too, tiny nub flush to rump. Buddy ONLY regional muzzle/brows/ears/paw furnishings remain individual fine hairs. Dogs anatomy controlled by ORIGINAL photos, not style sample. No giant dog, no text, no extra paws, no human face required.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-15.jpg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/staging-v002.png"
+        ],
+        "transparent_background": false
+      },
+      "original_output": "/Users/sagar/.codex/generated_images/01a1065b-831b-7e02-9ec7-a49d432a734d/exec-f03e4006-cfaa-4b15-9895-1b7202f35a43.png",
+      "output": "Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/p01-chili-art-v002.png",
+      "output_sha256": "93bc9422c72d063e58bb837da111cc5daece1ad1e47032d2d41f0d1b412622b4",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "inputs": [
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+          "role": "original likeness authority"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-15.jpg",
+          "sha256": "947aca933769ac618dd657fd6a8491a8c67ff6997c289d76f87ec0167b07a923",
+          "role": "original likeness authority"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+          "sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+          "role": "original likeness authority"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "sha256": "19be9a85760177405bbedd26644a7e0eb9c7945709e43825d201ff2fa91742b9",
+          "role": "body-finish only, no anatomy authority"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/staging-v002.png",
+          "sha256": "1422f019d8c592f5af1fac6332d1ad74d9681643321ab1abe099fe4a8ab800dd",
+          "role": "generated staging or edit target, no anatomy authority"
+        }
+      ]
+    },
+    {
+      "id": "pourCorrectionArgs",
+      "tool_arguments": {
+        "prompt": "Use case: precise-object-edit. IMPORTANT actual failed correction: image1 still has a dense maze of curly squiggles etched over both dogs' torsos. REMOVE EVERY ONE OF THOSE INTERIOR LINES. Repaint entire Neet tan body and cream neck/chest and entire Buddy charcoal trunk as clean flat gouache planes with broad smooth shadows exactly like dog body finish in image2. Smooth uniform untextured short coat surfaces. Do not merely lower contrast: erase the squiggles completely, including thighs, shoulders and chest. Preserve Buddy pale muzzle moustache/brows and small ear hairs. Image2 BODY FINISH ONLY, do not copy anatomy/scene. KEEP image1 anatomy, every paw and silhouette, heads, tiny Neet nub, Buddy seated haunch, exactly four cups two small/two large, jug stream, hand, kitchen and all composition UNCHANGED. Final coats should look like clean cel-painted animation, zero hair strokes anywhere on torso.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/p04-pour-art-v003.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png"
+        ],
+        "transparent_background": false
+      },
+      "original_output": "/Users/sagar/.codex/generated_images/01a1065b-831b-7e02-9ec7-a49d432a734d/exec-37e41c5c-99fb-4216-b102-c7112d5500e9.png",
+      "output": "Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/p04-pour-art-v004.png",
+      "output_sha256": "403b8f9c7281d509b6e3de1ff9d3ab83b9e65284cf7600b3e61fad0f5afc534d",
+      "dimensions": [
+        1448,
+        1086
+      ],
+      "format": "PNG",
+      "inputs": [
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/p04-pour-art-v003.png",
+          "sha256": "39bb40679d1518f0dbdf7a200e105ef03b71b312bb28c47a4283d82917f2e0cd",
+          "role": "generated staging or edit target, no anatomy authority"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "sha256": "19be9a85760177405bbedd26644a7e0eb9c7945709e43825d201ff2fa91742b9",
+          "role": "body-finish only, no anatomy authority"
+        }
+      ]
+    },
+    {
+      "id": "dinnerArgs",
+      "tool_arguments": {
+        "prompt": "Use case: illustration-story. Paint TOP RIGHT scene of image5 as ONE complete landscape illustration, no grid, no lettering. Image1 Neet original, images2-3 Buddy originals govern anatomy. Image4 BODY FINISH ONLY: clean flat gouache/animation broad tonal washes on dogs, no engraving, curls, hatching, short-coat hair lines. Image5 drawn staging. Balcony dinner night, string lights; two plates spicy paneer/noodles and water glasses on table; cropped seated Heather lower legs and standing Sagar trouser legs imply humans recovering offscreen. Buddy has just untangled nose from sheer doorway curtain and returned to guard his metal bowl of plain pale noodles, one paw close beside bowl. Body extends fully behind shoulder with actual substantial leg clearance, continuous long torso, correct owned four feet. Neet stands by his separate plain noodle bowl looking curiously up at adult table, all fine legs grounded, full narrow torso, broad triangular ears, tiny nub. Preserve distinct curtain/table/threshold spaces. Smooth close coats on both dog trunks, short smooth Neet neck/chest too. Buddy pale brows, modest muzzle moustache, hanging ears and paw hairs only regionally. Warm affectionate absurd dinner, no catastrophe effects. No new props, dog costume or giant dog.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-15.jpg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/staging-v003.png"
+        ],
+        "transparent_background": false
+      },
+      "original_output": "/Users/sagar/.codex/generated_images/01a1065b-831b-7e02-9ec7-a49d432a734d/exec-8ea9fab0-3093-49ab-9cca-70df937b8b2f.png",
+      "output": "Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/p02-dinner-art-v002.png",
+      "output_sha256": "8b96b151d57b7356f9e2cf46d8a225b00d7932d219ac756da88e66c4fb353ba4",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "inputs": [
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+          "role": "original likeness authority"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-15.jpg",
+          "sha256": "947aca933769ac618dd657fd6a8491a8c67ff6997c289d76f87ec0167b07a923",
+          "role": "original likeness authority"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+          "sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+          "role": "original likeness authority"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "sha256": "19be9a85760177405bbedd26644a7e0eb9c7945709e43825d201ff2fa91742b9",
+          "role": "body-finish only, no anatomy authority"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/staging-v003.png",
+          "sha256": "810a1232032947be2cef5c57ed634ab979284bc8ef3197dcba93ed0bc726fd68",
+          "role": "generated staging or edit target, no anatomy authority"
+        }
+      ]
+    },
+    {
+      "id": "sidewalkArgs",
+      "tool_arguments": {
+        "prompt": "Use case: illustration-story. ONE landscape finished painting, bottom-left scene of image5 only, no grid, no text. Image1 Neet original prone posture and image2 Neet standing identity; image3 Buddy seated original authority. Image4 body finish-only clean smooth flat gouache tonal planes, image5 drawn scene construction. Night sidewalk outside warmly lit small shake shop, cropped Sagar and Heather lower legs at edges. Neet prone, chin low on pavement after dramatic two-inch crawl, two fine forelegs forward and folded rear limbs supporting connected full narrow torso, broad triangular ears and near-flush tiny nub. Buddy seated beside him, front paws grounded, clear continuous chest-neck-torso to folded haunches, hanging ears and deliberately prolonged open-mouth yawn. Loose leashes clearly attached at collars behind NECKS, not spines, then rise to cropped humans. No purchase bag/cup/shake yet. Dogs giving a theatrical begging performance. Neet fully smooth short tan/cream coat with no neck fluff; Buddy close charcoal torso with regional pale muzzle/brows/ear/paw furnishings as original, never hairy entire body. All dog body areas clean smooth broad watercolor/gouache planes with zero curly etching, hatching, engraved fur, scratch lines. Soft detailed warm shop background, naturally supported anatomy. No third dog or speech bubbles.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-25.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-15.jpg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/staging-v003.png"
+        ],
+        "transparent_background": false
+      },
+      "original_output": "/Users/sagar/.codex/generated_images/01a1065b-831b-7e02-9ec7-a49d432a734d/exec-a6f38f7d-0cf1-4c4d-8c76-8ac44a90b6bb.png",
+      "output": "Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/p03-sidewalk-art-v002.png",
+      "output_sha256": "531c33be8ca85d5998ff563fb0d0441c7b4379e198e64f7e9bf5f187e57d74ab",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "inputs": [
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-25.jpeg",
+          "sha256": "67530c2ebc1baa412f76a825a7bd2369cebf72a101e7f45836fefa0fcae90ca4",
+          "role": "original likeness authority"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+          "role": "original likeness authority"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-15.jpg",
+          "sha256": "947aca933769ac618dd657fd6a8491a8c67ff6997c289d76f87ec0167b07a923",
+          "role": "original likeness authority"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "sha256": "19be9a85760177405bbedd26644a7e0eb9c7945709e43825d201ff2fa91742b9",
+          "role": "body-finish only, no anatomy authority"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/staging-v003.png",
+          "sha256": "810a1232032947be2cef5c57ed634ab979284bc8ef3197dcba93ed0bc726fd68",
+          "role": "generated staging or edit target, no anatomy authority"
+        }
+      ]
+    },
+    {
+      "id": "bowlArgs",
+      "tool_arguments": {
+        "prompt": "Use case: illustration-story. ONE landscape finished image of bottom-right construction in image5, no grid or text. Images1-3 original Neet/Buddy photos identity authority, image4 body-finish-only smooth flat gouache tonal planes, image5 drawn staging. Home kitchen floor after shake: Neet all four fine paws grounded, lowering muzzle via connected neck into small metal bowl RESTING FLAT ON FLOOR at wall baseboard. Cropped coherent Sagar forearm/hand braces OUTSIDE bowl rim, not inside drink, not lifting bowl; fingertips pressing outside to keep it still. Neet tan full narrow smooth torso, large triangular ears, tiny near-flush nub; no collar needed. Buddy stands separately near his own bowl, shake dot on nose, full continuous moderately long charcoal torso with substantial legs and actual clearance; pale furnished muzzle and brows, hanging ears and regional lower paws. Buddy own bowl contains only tan shake residue NO NOODLES. Show small shake splash on Neet forepaw if visible, no dramatic spill. Warm domestic comedy, bowl control has become helpful service. Both short torso coats absolutely smooth flat painted planes like image4; no curly lines, engraving, hatching, body hair texture or shag edges. Preserve Buddy regional moustache/ear/brow furnishings. Floor contact and clear limb ownership, no extra dog or human face.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-15.jpg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/staging-v003.png"
+        ],
+        "transparent_background": false
+      },
+      "original_output": "/Users/sagar/.codex/generated_images/01a1065b-831b-7e02-9ec7-a49d432a734d/exec-070b586b-69ed-4f51-a07b-4a70f2ce1db6.png",
+      "output": "Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/p05-bowl-art-v002.png",
+      "output_sha256": "ca5f6f2106d1746348b179ce6f73fdce4cd20ea2cb78605dd3778db8f663d6ed",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "inputs": [
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+          "role": "original likeness authority"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-15.jpg",
+          "sha256": "947aca933769ac618dd657fd6a8491a8c67ff6997c289d76f87ec0167b07a923",
+          "role": "original likeness authority"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+          "sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+          "role": "original likeness authority"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "sha256": "19be9a85760177405bbedd26644a7e0eb9c7945709e43825d201ff2fa91742b9",
+          "role": "body-finish only, no anatomy authority"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/staging-v003.png",
+          "sha256": "810a1232032947be2cef5c57ed634ab979284bc8ef3197dcba93ed0bc726fd68",
+          "role": "generated staging or edit target, no anatomy authority"
+        }
+      ]
+    },
+    {
+      "id": "chiliCorrectionArgs",
+      "tool_arguments": {
+        "prompt": "Use case: precise-object-edit. Image1 is BODY FINISH-ONLY target: its dog torso painting has smooth flat cel-painted color planes. EDIT IMAGE2 kitchen scene to use that exact clean surface treatment on BOTH dog torsos. Keep image2 entire composition, anatomies, four paws, stool, wrapper, hand, spoon, pan, furniture unchanged. REPAINT dogs fully with flat gouache planes: ERASE all short fur strokes, curls, scratches, etched lines, hatching, wispy volume from Neet tan torso/thighs/neck/cream chest and Buddy charcoal trunk/upper legs/neck. Smooth clean outlines. Neet tiny nub must not be tufted. Preserve Buddy ONLY regional pale moustache/brows, hanging ear fringe and lower paw furnishings; retain same markings and face structure. This is a decisive style correction, not subtle softening. Bodies should look as smooth as image1's tan dog, no hair lines visible on trunks anywhere. No new dogs or objects.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/p01-chili-art-v002.png"
+        ],
+        "transparent_background": false
+      },
+      "original_output": "/Users/sagar/.codex/generated_images/01a1065b-831b-7e02-9ec7-a49d432a734d/exec-9a511332-f380-4971-b8c6-cb8f2c563791.png",
+      "output": "Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/p01-chili-art-v003.png",
+      "output_sha256": "8bdd25a942c4ded17863912236ed818a93137a849c4b9bf76964696c009fd36c",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "inputs": [
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "sha256": "19be9a85760177405bbedd26644a7e0eb9c7945709e43825d201ff2fa91742b9",
+          "role": "body-finish only, no anatomy authority"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/p01-chili-art-v002.png",
+          "sha256": "93bc9422c72d063e58bb837da111cc5daece1ad1e47032d2d41f0d1b412622b4",
+          "role": "generated staging or edit target, no anatomy authority"
+        }
+      ]
+    },
+    {
+      "id": "dinnerCorrectionArgs",
+      "tool_arguments": {
+        "prompt": "Use case: precise-object-edit. Image1 BODY FINISH ONLY smooth flat cel-painted gouache reference. Edit image2 balcony scene: REPAINT both dog trunks and Neet neck/chest/legs as completely smooth flat painted tonal planes like image1. ERASE all individual fur lines, hatching, scratchy/engraved marks and coarse hairs. Smooth short-coat silhouette. Buddy retains ONLY regional furnished muzzle moustache/brows/hanging ear margins/paws; keep pale chest markings. Keep full identity/anatomy/limb ownership, all poses, bowls/noodles, curtain, two humans' cropped legs, two human plates, table, lights, composition unchanged. Not merely softening texture; replace dog surfaces with clean animation-style paint. No other changes.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/p02-dinner-art-v002.png"
+        ],
+        "transparent_background": false
+      },
+      "original_output": "/Users/sagar/.codex/generated_images/01a1065b-831b-7e02-9ec7-a49d432a734d/exec-f2fe4e38-8b0e-4307-838c-f12f8e6def15.png",
+      "output": "Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/p02-dinner-art-v003.png",
+      "output_sha256": "db3483f74c27ba90088ea994e87e45a1fa38f7a6ed616d07c80b3e05d140c011",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "inputs": [
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "sha256": "19be9a85760177405bbedd26644a7e0eb9c7945709e43825d201ff2fa91742b9",
+          "role": "body-finish only, no anatomy authority"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/p02-dinner-art-v002.png",
+          "sha256": "8b96b151d57b7356f9e2cf46d8a225b00d7932d219ac756da88e66c4fb353ba4",
+          "role": "generated staging or edit target, no anatomy authority"
+        }
+      ]
+    },
+    {
+      "id": "bowlCorrectionArgs",
+      "tool_arguments": {
+        "prompt": "Use case: precise-object-edit. Image1 BODY FINISH ONLY target has clean smooth flat cel-painted gouache dog surfaces. EDIT image2 bowl scene: ERASE all short fur strokes/curls/etching/hatching/individual hairs from both dogs' torsos, Neet entire body/chest/neck/legs, Buddy neck/trunk/upper legs. Repaint as smooth clean broad color planes exactly like image1. Smooth short-coat contours. Preserve Buddy photographed pale regional muzzle moustache/brows/ear/paw furnishings. Preserve ALL anatomy, poses, four paws, tiny Neet nub, markings, small shake dot on Buddy nose, Neet muzzle lapping, coherent hand outside rim, TWO bowls flat on floor, tan shake residue and entire room. Do not add or shift objects. Decisive repaint to clean animation-style coat, not a subtle blur or decrease in texture contrast.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/p05-bowl-art-v002.png"
+        ],
+        "transparent_background": false
+      },
+      "original_output": "/Users/sagar/.codex/generated_images/01a1065b-831b-7e02-9ec7-a49d432a734d/exec-b48417b0-eacd-490f-a7b6-6d38fef69474.png",
+      "output": "Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/p05-bowl-art-v003.png",
+      "output_sha256": "6c63075496c9d828a789870711b0f8a4b8d34fef261009c10f91a1ef749b2f4e",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "inputs": [
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "sha256": "19be9a85760177405bbedd26644a7e0eb9c7945709e43825d201ff2fa91742b9",
+          "role": "body-finish only, no anatomy authority"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/p05-bowl-art-v002.png",
+          "sha256": "ca5f6f2106d1746348b179ce6f73fdce4cd20ea2cb78605dd3778db8f663d6ed",
+          "role": "generated staging or edit target, no anatomy authority"
+        }
+      ]
+    },
+    {
+      "id": "sidewalkCorrectionArgs",
+      "tool_arguments": {
+        "prompt": "Use case: precise-object-edit. Image1 BODY FINISH ONLY smooth flat gouache/cel dog coats. Correct image2 sidewalk scene. FIRST fix Buddy black leash: remove current black strap and metal clip above his head entirely. Draw leash attached to visible collar ring at LEFT SIDE OF HIS NECK, with slack curve going OUTSIDE his left ear toward upper frame; no leash or clip touches top of head. SECOND repaint dog coats as clean smooth flat animation-style color planes like image1. ERASE every fur stroke/engraving/hatching/curl on Neet torso/neck/legs and Buddy neck/trunk/upper legs. No shag volume, smooth contours. Retain Buddy regional brows, muzzle moustache, ear/paw furnishings and pale chest markings. Neet fine forelegs stretch forward to paws, not stubby puppy legs, full torso with chin low to pavement. Keep both facial expressions, Buddy prolonged yawn, all limb ownership, sidewalk/shop/cropped humans, Neet collar/leash, poses and composition unchanged. No extra animals or purchases.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/p03-sidewalk-art-v002.png"
+        ],
+        "transparent_background": false
+      },
+      "original_output": "/Users/sagar/.codex/generated_images/01a1065b-831b-7e02-9ec7-a49d432a734d/exec-cdf9ad1d-ca30-4cba-a76c-9a7e29f78f26.png",
+      "output": "Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/p03-sidewalk-art-v003.png",
+      "output_sha256": "b28965d75a08b73f9fa173a4fcde79da75506816c7562300436031337a34099a",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "inputs": [
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "sha256": "19be9a85760177405bbedd26644a7e0eb9c7945709e43825d201ff2fa91742b9",
+          "role": "body-finish only, no anatomy authority"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/p03-sidewalk-art-v002.png",
+          "sha256": "531c33be8ca85d5998ff563fb0d0441c7b4379e198e64f7e9bf5f187e57d74ab",
+          "role": "generated staging or edit target, no anatomy authority"
+        }
+      ]
+    },
+    {
+      "id": "bowlGroomArgs",
+      "tool_arguments": {
+        "prompt": "Use case: precise-object-edit. Tiny LOCAL grooming correction ONLY to Buddy face in image1. Original photo2 governs close-groomed Buddy moustache and brows. Add restrained visible pale short moustache strands swept out/down at both sides of Buddy projecting muzzle and a short pale chin beard; retain modest light brow hairs and thin soft ear-margin hairs. Currently his muzzle looks hairless; restore those localized photographed furnishings. Do not enlarge skull or muzzle volume. KEEP all other pixels/composition/anatomy/poses/markings/smooth flat torso coats, Neet, all legs, bowl floor support, hand, shake unchanged. Do not add hair strokes or texture anywhere on the charcoal trunk, neck or Neet. Preserve clean painted finish everywhere outside Buddy small face regions.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/p05-bowl-art-v003.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-15.jpg"
+        ],
+        "transparent_background": false
+      },
+      "original_output": "/Users/sagar/.codex/generated_images/01a1065b-831b-7e02-9ec7-a49d432a734d/exec-570c2d7c-d426-4e61-821b-c9c9dd88193a.png",
+      "output": "Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/p05-bowl-art-v004.png",
+      "output_sha256": "11d19b0c936836aeaf4ef9b68706b917b675733e78d19e78bda89a5c249ae67a",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "inputs": [
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/p05-bowl-art-v003.png",
+          "sha256": "6c63075496c9d828a789870711b0f8a4b8d34fef261009c10f91a1ef749b2f4e",
+          "role": "generated staging or edit target, no anatomy authority"
+        },
+        {
+          "path": "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-15.jpg",
+          "sha256": "947aca933769ac618dd657fd6a8491a8c67ff6997c289d76f87ec0167b07a923",
+          "role": "original likeness authority"
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "id": "N19",
+      "character": "Neet",
+      "path": "Characters/Neet/Photos/neet-19.jpeg",
+      "filename": "neet-19.jpeg",
+      "sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+      "archived_source_path": "03_Asset_Library/Characters/Neet/neet-19.jpeg",
+      "same_exposure_group": null,
+      "use": "Primary body-level side standing and tail nub",
+      "approval_status": "unknown",
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "styling",
+          "standing_pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Primary standing body proportions, paws, hocks and stub silhouette; head is not a pure profile.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Head rotated; far limbs overlap; uncalibrated camera offers no measurements; room light subdued"
+        ],
+        "inspection_sha256": "b2c6db0a5af6a885d993cbd986cc2759b9461e693fbcabd8aa96bce1eb5ea901",
+        "source_sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N19.json"
+      },
+      "source_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose",
+          "resting_pose",
+          "styling"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Primary standing body proportions, paws, hocks and stub silhouette; head is not a pure profile.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state."
+        ],
+        "evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md"
+      },
+      "source_observation": {
+        "date": "2026-10-03",
+        "pose_view_camera": "Standing left-facing side with head toward camera; near body-level",
+        "visible_features": "Tiny short tan rump nub; near-square qualitative standing impression; long slender legs; full ribcage/thigh; moderate ventral rise; smooth short coat",
+        "limitations": "Head rotated; far limbs overlap; uncalibrated camera offers no measurements; room light subdued",
+        "recommended_uses": [
+          "standing_pose",
+          "visible_anatomy",
+          "styling"
+        ],
+        "full_restrictions": [
+          "Primary standing body proportions, paws, hocks and stub silhouette; head is not a pure profile.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Head rotated; far limbs overlap; uncalibrated camera offers no measurements; room light subdued"
+        ]
+      },
+      "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N19.json",
+      "inspection_sha256": "b2c6db0a5af6a885d993cbd986cc2759b9461e693fbcabd8aa96bce1eb5ea901"
+    },
+    {
+      "id": "N25",
+      "character": "Neet",
+      "path": "Characters/Neet/Photos/neet-25.jpeg",
+      "filename": "neet-25.jpeg",
+      "sha256": "67530c2ebc1baa412f76a825a7bd2369cebf72a101e7f45836fefa0fcae90ca4",
+      "archived_source_path": "03_Asset_Library/Characters/Neet/neet-25.jpeg",
+      "same_exposure_group": null,
+      "use": "Sternal rest with extended fine forelegs",
+      "approval_status": "unknown",
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose",
+          "resting_pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Excellent prone posture and forward paws; useful lateral ear spread.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Hindfeet and tail concealed; plush partly covers toes; cannot supply standing leg/trunk ratios"
+        ],
+        "inspection_sha256": "0e493b84294cbe31f8e7e484b1ce100d8bd7370e2de36f46b35f73b2eab5f99e",
+        "source_sha256": "67530c2ebc1baa412f76a825a7bd2369cebf72a101e7f45836fefa0fcae90ca4",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N25.json"
+      },
+      "source_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose",
+          "resting_pose",
+          "styling"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Excellent prone posture and forward paws; useful lateral ear spread.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state."
+        ],
+        "evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md"
+      },
+      "source_observation": {
+        "date": "2026-10-03",
+        "pose_view_camera": "Sternal recline on mat; front three-quarter at raised camera",
+        "visible_features": "Extended narrow forelegs; small paws; full torso; pale chest; ears diagonally outward",
+        "limitations": "Hindfeet and tail concealed; plush partly covers toes; cannot supply standing leg/trunk ratios",
+        "recommended_uses": [
+          "resting_pose",
+          "visible_anatomy",
+          "pose"
+        ],
+        "full_restrictions": [
+          "Excellent prone posture and forward paws; useful lateral ear spread.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Hindfeet and tail concealed; plush partly covers toes; cannot supply standing leg/trunk ratios"
+        ]
+      },
+      "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N25.json",
+      "inspection_sha256": "0e493b84294cbe31f8e7e484b1ce100d8bd7370e2de36f46b35f73b2eab5f99e"
+    },
+    {
+      "id": "N29",
+      "character": "Neet",
+      "path": "Characters/Neet/Photos/neet-29.jpeg",
+      "filename": "neet-29.jpeg",
+      "sha256": "dedcc7d8bcbc5da7e2441352200025606fc971644d0cbacd24e8465db8dcdc16",
+      "archived_source_path": "03_Asset_Library/Characters/Neet/neet-29.jpeg",
+      "same_exposure_group": null,
+      "use": "Frontal standing chest and leg clearance",
+      "approval_status": "unknown",
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "styling",
+          "standing_pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Primary frontal standing proportions, leg slenderness, head/body scale and chest markings.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Body depth foreshortened; tail hidden; light/shadow affect colors; exact ratios unknown"
+        ],
+        "inspection_sha256": "af30873f7f392d2503a668667ed619b8d183d685403e25977ce3fe23d9359802",
+        "source_sha256": "dedcc7d8bcbc5da7e2441352200025606fc971644d0cbacd24e8465db8dcdc16",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N29.json"
+      },
+      "source_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose",
+          "resting_pose",
+          "styling"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Primary frontal standing proportions, leg slenderness, head/body scale and chest markings.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state."
+        ],
+        "evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md"
+      },
+      "source_observation": {
+        "date": "2026-10-03",
+        "pose_view_camera": "Frontal standing outdoors; near chest-height with slight elevation",
+        "visible_features": "Long thin foreleg columns; narrow front; small compact dark-clawed paws; large ears; pale throat and central bib; tan torso",
+        "limitations": "Body depth foreshortened; tail hidden; light/shadow affect colors; exact ratios unknown",
+        "recommended_uses": [
+          "standing_pose",
+          "visible_anatomy",
+          "styling"
+        ],
+        "full_restrictions": [
+          "Primary frontal standing proportions, leg slenderness, head/body scale and chest markings.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Body depth foreshortened; tail hidden; light/shadow affect colors; exact ratios unknown"
+        ]
+      },
+      "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N29.json",
+      "inspection_sha256": "af30873f7f392d2503a668667ed619b8d183d685403e25977ce3fe23d9359802"
+    },
+    {
+      "id": "B15",
+      "character": "Buddy",
+      "path": "Characters/Buddy/Photos/buddy-15.jpg",
+      "filename": "buddy-15.jpg",
+      "sha256": "947aca933769ac618dd657fd6a8491a8c67ff6997c289d76f87ec0167b07a923",
+      "archived_source_path": "03_Asset_Library/Characters/Buddy/buddy-15.jpg",
+      "same_exposure_group": null,
+      "use": "Uncostumed upright sitting with close-groomed face",
+      "approval_status": "unknown",
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "styling"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Excellent uncostumed upright sit and folded rear-thigh shape; useful underlying facial taper.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Bed rim hides front feet; perspective compresses torso; no standing ratios"
+        ],
+        "inspection_sha256": "4aff983a24dc33e82ba89c8c2806a346fe68f7f659414aadd57e15d2ea8deaf5",
+        "source_sha256": "947aca933769ac618dd657fd6a8491a8c67ff6997c289d76f87ec0167b07a923",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B15.json"
+      },
+      "source_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose",
+          "resting_pose",
+          "styling"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Excellent uncostumed upright sit and folded rear-thigh shape; useful underlying facial taper.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state."
+        ],
+        "evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md"
+      },
+      "source_observation": {
+        "date": "2026-10-03",
+        "pose_view_camera": "Upright seated in bed; elevated three-quarter with upward gaze",
+        "visible_features": "Compact close-groomed ear flaps; pale brows/muzzle and chest sides; dark throat; full haunch; pale hindfoot; small dark tail at haunch",
+        "limitations": "Bed rim hides front feet; perspective compresses torso; no standing ratios",
+        "recommended_uses": [
+          "sitting_pose",
+          "visible_anatomy",
+          "styling"
+        ],
+        "full_restrictions": [
+          "Excellent uncostumed upright sit and folded rear-thigh shape; useful underlying facial taper.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Bed rim hides front feet; perspective compresses torso; no standing ratios"
+        ]
+      },
+      "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B15.json",
+      "inspection_sha256": "4aff983a24dc33e82ba89c8c2806a346fe68f7f659414aadd57e15d2ea8deaf5"
+    },
+    {
+      "id": "B29",
+      "character": "Buddy",
+      "path": "Characters/Buddy/Photos/buddy-29.jpeg",
+      "filename": "buddy-29.jpeg",
+      "sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+      "archived_source_path": "03_Asset_Library/Characters/Buddy/buddy-29.jpeg",
+      "same_exposure_group": null,
+      "use": "Side stride, torso length, leg clearance and tail curve",
+      "approval_status": "unknown",
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Best available lateral body-length, tail-length/carriage and walking-pose reference; weak fine landmarks because blurred and not neutral standing.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Motion blur and lifted legs; cannot establish neutral back slope, exact leg ratios or gait timing from still"
+        ],
+        "inspection_sha256": "c671664ca5e4e2e07bfd3049ea641c3a1645742fb8290494e67a17f7ed213ea9",
+        "source_sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B29.json"
+      },
+      "source_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose",
+          "resting_pose",
+          "styling"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Best available lateral body-length, tail-length/carriage and walking-pose reference; weak fine landmarks because blurred and not neutral standing.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state."
+        ],
+        "evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md"
+      },
+      "source_observation": {
+        "date": "2026-10-03",
+        "pose_view_camera": "Left-facing walking side view indoors; near body-level",
+        "visible_features": "Elongated dark trunk; projecting muzzle/pendant ears; pale lower legs; dark tapering tail held low with gentle curve; underside hair fringe",
+        "limitations": "Motion blur and lifted legs; cannot establish neutral back slope, exact leg ratios or gait timing from still",
+        "recommended_uses": [
+          "pose",
+          "visible_anatomy"
+        ],
+        "full_restrictions": [
+          "Best available lateral body-length, tail-length/carriage and walking-pose reference; weak fine landmarks because blurred and not neutral standing.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Motion blur and lifted legs; cannot establish neutral back slope, exact leg ratios or gait timing from still"
+        ]
+      },
+      "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B29.json",
+      "inspection_sha256": "c671664ca5e4e2e07bfd3049ea641c3a1645742fb8290494e67a17f7ed213ea9"
+    }
+  ],
+  "restrictions": [
+    "N35 excludes anatomy",
+    "B08 styling only",
+    "B25 unavailable",
+    "B30 supplemental rest only",
+    "One exposure counts once regardless of encoding",
+    "Generated models and style references are interpretations only",
+    "Human appearance provisional without supplied references"
+  ],
+  "exposure_count": 5,
+  "exposure_groups": {
+    "N19": "N19",
+    "N25": "N25",
+    "N29": "N29",
+    "B15": "B15",
+    "B29": "B29"
+  },
+  "model_inspection": {
+    "path": "Productions/Library-Refinement/model-standing-v002.png",
+    "sha256": "c4c6b607727759b347f93ccef664b0ac4b9a8ade512908343748fb9e2a96e9b6",
+    "observations": "Opened rendered front/side/three-quarter models beside eligible originals. Connected torso and supports useful, body stroke texture superseded by finish-only sample."
+  },
+  "writer_inspection": {
+    "staging-v002.png": "Four actual drawn scenes; payoff bowl incorrectly raised, sidewalk leash attach unclear; corrected before finish of affected scenes.",
+    "staging-v003.png": "Payoff bowl contacts floor, head lowered with connected neck; human lower legs locate dinner; scene constructions usable.",
+    "p01-chili-art-v003.png": "Four supports on broad stool, wrapper mouth contact, Buddy walking supports and long torso, cropped hand spoon/pan; smooth body planes replace coarse coat.",
+    "p02-dinner-art-v003.png": "Both full four-legged bodies grounded beside respective plain bowls; curtain behind Buddy and meal above; smooth body planes and regional pale furnishings.",
+    "p03-sidewalk-art-v003.png": "Chin-down prone Neet supported by folded rear body and forward paws; Buddy grounded sit/yawn, collar attachment now outside head, smooth bodies.",
+    "p04-pour-art-v004.png": "Retained composition four cups two small/two regular, one stream/hand, connected sitting and standing bodies; original curly coat finally removed in second correction.",
+    "p05-bowl-art-v004.png": "Floor-supported bowl and external bracing fingertips remain coherent; all four Neet feet owned and supported, Buddy four feet with far hind partly occluded. Smooth torso retained after local moustache restoration, pale nose shake dot and two separate bowls readable."
+  },
+  "review_status": "proposed_only_pending_independent_visual_review",
+  "archive_mapping": [
+    {
+      "former_path": "Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/p05-bowl-art-v002.png",
+      "archived_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/expanded-work/S035/superseded/p05-bowl-art-v002.png",
+      "sha256": "ca5f6f2106d1746348b179ce6f73fdce4cd20ea2cb78605dd3778db8f663d6ed",
+      "reason": "Superseded coat finish or staging construction; historical evidence retained."
+    },
+    {
+      "former_path": "Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/illustration-v002.png",
+      "archived_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/expanded-work/S035/superseded/illustration-v002.png",
+      "sha256": "810686cec3bcfea39432ec77c6981d48bc0b5a5bbbeb10de667d052f31378baf",
+      "reason": "Superseded coat finish or staging construction; historical evidence retained."
+    },
+    {
+      "former_path": "Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/p05-bowl-art-v003.png",
+      "archived_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/expanded-work/S035/superseded/p05-bowl-art-v003.png",
+      "sha256": "6c63075496c9d828a789870711b0f8a4b8d34fef261009c10f91a1ef749b2f4e",
+      "reason": "Superseded coat finish or staging construction; historical evidence retained."
+    },
+    {
+      "former_path": "Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/p02-dinner-art-v002.png",
+      "archived_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/expanded-work/S035/superseded/p02-dinner-art-v002.png",
+      "sha256": "8b96b151d57b7356f9e2cf46d8a225b00d7932d219ac756da88e66c4fb353ba4",
+      "reason": "Superseded coat finish or staging construction; historical evidence retained."
+    },
+    {
+      "former_path": "Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/staging-v002.png",
+      "archived_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/expanded-work/S035/superseded/staging-v002.png",
+      "sha256": "1422f019d8c592f5af1fac6332d1ad74d9681643321ab1abe099fe4a8ab800dd",
+      "reason": "Superseded coat finish or staging construction; historical evidence retained."
+    },
+    {
+      "former_path": "Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/p03-sidewalk-art-v002.png",
+      "archived_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/expanded-work/S035/superseded/p03-sidewalk-art-v002.png",
+      "sha256": "531c33be8ca85d5998ff563fb0d0441c7b4379e198e64f7e9bf5f187e57d74ab",
+      "reason": "Superseded coat finish or staging construction; historical evidence retained."
+    },
+    {
+      "former_path": "Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/p01-chili-art-v002.png",
+      "archived_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/expanded-work/S035/superseded/p01-chili-art-v002.png",
+      "sha256": "93bc9422c72d063e58bb837da111cc5daece1ad1e47032d2d41f0d1b412622b4",
+      "reason": "Superseded coat finish or staging construction; historical evidence retained."
+    },
+    {
+      "former_path": "Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/p04-pour-art-v003.png",
+      "archived_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/expanded-work/S035/superseded/p04-pour-art-v003.png",
+      "sha256": "39bb40679d1518f0dbdf7a200e105ef03b71b312bb28c47a4283d82917f2e0cd",
+      "reason": "Superseded coat finish or staging construction; historical evidence retained."
+    }
+  ],
+  "selected_outputs": [
+    "p01-chili-art-v003.png",
+    "p02-dinner-art-v003.png",
+    "p03-sidewalk-art-v003.png",
+    "p04-pour-art-v004.png",
+    "p05-bowl-art-v004.png"
+  ],
+  "retained_composition": {
+    "original": "illustration-v002.png",
+    "replacement": "p04-pour-art-v004.png",
+    "reason": "Retained entire counted-four-cups staging and scene; corrected material engraved torso coat finish, no new narrative replacement."
+  },
+  "failed_attempts": [
+    {
+      "tool_arguments": {
+        "prompt": "Use case: illustration-story. Finished full-page landscape watercolor story illustration of TOP LEFT storyboard scene ONLY, no grid, no text. Images1-4 original photos govern identity; image5 body-finish-only reference for smooth flat tonal dog coat; image6 staging composition. Home kitchen cooking error: Neet all four fine paws supported on broad low stool beside counter, full narrow tan torso, large triangular ears perked at red chili paste spoon being emptied into pan by one coherent cropped Sagar hand attached to apron-clad torso at left. Buddy foreground backing away carrying limp empty noodle wrapper; full moderately elongated charcoal torso and substantial legs/clearance, hanging ears, pale short moustache/brows/chest/distal paws. Keep stool physically separate from Buddy legs, sensible counter support, pan on stove. Warm domestic comedy, no flames/disaster symbolism. Keep restrained creamy watercolor background detail. Dogs' short torso coats MUST be smooth tonal washes like image5, zero engraved swirls/curls/hatching/body strands, smooth contour. Neet chest/neck short smooth too, tiny nub flush to rump. Buddy ONLY regional muzzle/brows/ears/paw furnishings remain individual fine hairs. Dogs anatomy controlled by ORIGINAL photos, not style sample. No giant dog, no text, no extra paws, no human face required.",
+        "referenced_image_paths": [
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-25.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-15.jpg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "/Users/sagar/Documents/ChatGPT/NBC/Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/staging-v002.png"
+        ],
+        "transparent_background": false
+      },
+      "error": "referenced_image_paths must contain at most 5 paths",
+      "output": null,
+      "resolution": "Removed unused N25 from chili refs. Prompt numbering remained stale in this one call; actual ordered inputs pinned in successful call; rendered result inspected and subsequently finish-corrected."
+    }
+  ]
+}

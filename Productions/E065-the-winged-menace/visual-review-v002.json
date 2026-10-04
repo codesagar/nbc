@@ -1,0 +1,342 @@
+{
+  "episode": "E065-the-winged-menace",
+  "reviewer": "visual065 independent non-generating reviewer",
+  "reviewed_at": "2026-10-04T16:27:34.803105+00:00",
+  "independence": "Reviewer did not generate or edit any artwork or story. Owns only this review record.",
+  "status": "accepted",
+  "story": {
+    "path": "Stories/S065-the-winged-menace.md",
+    "sha256": "4cb369e25e8bd944229636e40699fe7d36d90ce389546c54a4fad5efc3b77604",
+    "complete_revised_text_read": true,
+    "meaningful_alternatives": "None in complete current story."
+  },
+  "images": [
+    {
+      "path": "Productions/E065-the-winged-menace/armrest-v005.png",
+      "sha256": "34ba05ac4a3f040f90147d156548549d1efae5de7457a6dd331e465f8762f89b",
+      "dimensions": [
+        1448,
+        1086
+      ],
+      "status": "accepted",
+      "decision": "accepted",
+      "inspection": "Actual full image opened with detail=original at native output dimensions; suspect coat regions additionally opened as unscaled native crops.",
+      "findings": [
+        "Neet has a continuous neck, full narrow trunk and connected pelvis; both fine hindlegs terminate at separately grounded compact paws. Overlapping compact forepaws rest on the sofa arm, with bent forelegs traceable to shoulders. No floating or spare limb.",
+        "Broad triangular ears, projecting muzzle, irregular pale chest and tiny rump nub correspond qualitatively to N19/N29. Large expressive eyes are provisional stylization without an enlarged puppy skull.",
+        "Neet body shading is genuinely smooth broad shapes with clean contours; Buddy dark torso is likewise smooth, with furnishings confined to ear/muzzle/brow/distal-paw regions. No material curly coat pattern is visible in this version.",
+        "Buddy lies fully supported beneath the table; front paws and chin are together, haunch is connected, rear paw and tapered dark tail remain separately readable. Table occlusion is coherent.",
+        "Tiny fly against empty wall, Neet raised scrutiny and Buddy low unimpressed rest make the contrasting priorities immediately readable. Ivory sofa, green ottoman, dining table, wood floor and daylight are consistent domestic staging."
+      ]
+    },
+    {
+      "path": "Productions/E065-the-winged-menace/nap-v006.png",
+      "sha256": "1b7cb3eb33c07cabc4fd841db949dadcb52c1d829ee126dfa463ba404f41a0f0",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "status": "accepted",
+      "decision": "accepted",
+      "inspection": "Actual full image opened detail=original at native output dimensions; native unscaled concern crop also opened.",
+      "findings": [
+        "Actual full native replacement and unscaled concern crop inspected. Charcoal neck, flank, haunch and tail now use broad smooth color fields; repeated engraved/curl texture removed. Regional ear, brow, muzzle and paw furnishings remain distinct. No material body shag or renewed curls found.",
+        "Continuous elongated torso and substantial folded haunch remain connected. Two forepaws lie on floor; folded rear paw pads have readable roots/ownership. Head turned upward connects through visible neck. Body and paws remain supported, no floating limb or fusion.",
+        "Sagar holds rolled magazine above dog without contact; fly remains airborne, Neet absent during bedroom retreat. Buddy upward glance makes the interrupted rest readable. Table/chair occlusion and daylight floor support remain coherent. Human appearance provisional."
+      ]
+    },
+    {
+      "path": "Productions/E065-the-winged-menace/payoff-v005.png",
+      "sha256": "b02755a0e17a875aa9f2bbab7366757c063cf32d2ccbbe5e7e4192375463535e",
+      "dimensions": [
+        1774,
+        887
+      ],
+      "status": "accepted",
+      "decision": "accepted",
+      "inspection": "Actual full image opened detail=original at native output dimensions; native unscaled concern crop also opened.",
+      "findings": [
+        "Actual full native replacement and unscaled concern crop inspected. Neet face, shoulder, torso, thigh and limbs now show clean broad tan/cream shading without former pale wavy engraved hairs. Buddy body likewise smooth dark fields, with regional ear/muzzle/brow/distal-paw furnishings retained. No material residual curly body finish found.",
+        "Neet head and side meet floor; two bent forelegs and two folded hindlegs retain distinct ownership and connected torso/hip geometry. Fine limbs, broad triangular ears and projecting muzzle preserved. Buddy chest/forepaws and folded rear body remain floor-supported separately from Neet; no new anatomy defect.",
+        "Quiet magazine watch remains legible, with both dogs calm beside ivory sofa and green ottoman. Magazine is on floor and fly absent at the exact final state. The full image maintains a distinct closing beat relative to alarm and nap pictures."
+      ]
+    }
+  ],
+  "reference_evidence": [
+    {
+      "id": "N19",
+      "path": "Characters/Neet/Photos/neet-19.jpeg",
+      "sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+      "same_exposure_group": null,
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "styling",
+          "standing_pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Primary standing body proportions, paws, hocks and stub silhouette; head is not a pure profile.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Head rotated; far limbs overlap; uncalibrated camera offers no measurements; room light subdued"
+        ],
+        "inspection_sha256": "b2c6db0a5af6a885d993cbd986cc2759b9461e693fbcabd8aa96bce1eb5ea901",
+        "source_sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N19.json"
+      },
+      "inspection": "Original file opened independently with detail=original; tool display resized high-resolution photograph, no calibrated measurements inferred."
+    },
+    {
+      "id": "N25",
+      "path": "Characters/Neet/Photos/neet-25.jpeg",
+      "sha256": "67530c2ebc1baa412f76a825a7bd2369cebf72a101e7f45836fefa0fcae90ca4",
+      "same_exposure_group": null,
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose",
+          "resting_pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Excellent prone posture and forward paws; useful lateral ear spread.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Hindfeet and tail concealed; plush partly covers toes; cannot supply standing leg/trunk ratios"
+        ],
+        "inspection_sha256": "0e493b84294cbe31f8e7e484b1ce100d8bd7370e2de36f46b35f73b2eab5f99e",
+        "source_sha256": "67530c2ebc1baa412f76a825a7bd2369cebf72a101e7f45836fefa0fcae90ca4",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N25.json"
+      },
+      "inspection": "Original file opened independently with detail=original; tool display resized high-resolution photograph, no calibrated measurements inferred."
+    },
+    {
+      "id": "N29",
+      "path": "Characters/Neet/Photos/neet-29.jpeg",
+      "sha256": "dedcc7d8bcbc5da7e2441352200025606fc971644d0cbacd24e8465db8dcdc16",
+      "same_exposure_group": null,
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "styling",
+          "standing_pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Primary frontal standing proportions, leg slenderness, head/body scale and chest markings.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Body depth foreshortened; tail hidden; light/shadow affect colors; exact ratios unknown"
+        ],
+        "inspection_sha256": "af30873f7f392d2503a668667ed619b8d183d685403e25977ce3fe23d9359802",
+        "source_sha256": "dedcc7d8bcbc5da7e2441352200025606fc971644d0cbacd24e8465db8dcdc16",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N29.json"
+      },
+      "inspection": "Original file opened independently with detail=original; tool display resized high-resolution photograph, no calibrated measurements inferred."
+    },
+    {
+      "id": "B19",
+      "path": "Characters/Buddy/Photos/buddy-19.jpg",
+      "sha256": "201ec36498d5aaa85ef6e44a9176c333587d95797279a689237ccb49090ee521",
+      "same_exposure_group": null,
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "resting_pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Excellent low face, ear-root tufts, muzzle sweep and head-between-paws reference; poor global proportions.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Nearest face enlarged by perspective; rear blurred; limbs folded; no neutral head/body proportions"
+        ],
+        "inspection_sha256": "6686639617369f80387a581720cb9d28a2f0f5cf940da025eadf8b420095dfd2",
+        "source_sha256": "201ec36498d5aaa85ef6e44a9176c333587d95797279a689237ccb49090ee521",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B19.json"
+      },
+      "inspection": "Original file opened independently with detail=original; tool display resized high-resolution photograph, no calibrated measurements inferred."
+    },
+    {
+      "id": "B29",
+      "path": "Characters/Buddy/Photos/buddy-29.jpeg",
+      "sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+      "same_exposure_group": null,
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Best available lateral body-length, tail-length/carriage and walking-pose reference; weak fine landmarks because blurred and not neutral standing.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Motion blur and lifted legs; cannot establish neutral back slope, exact leg ratios or gait timing from still"
+        ],
+        "inspection_sha256": "c671664ca5e4e2e07bfd3049ea641c3a1645742fb8290494e67a17f7ed213ea9",
+        "source_sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B29.json"
+      },
+      "inspection": "Original file opened independently with detail=original; tool display resized high-resolution photograph, no calibrated measurements inferred."
+    }
+  ],
+  "construction_evidence": [
+    {
+      "path": "Productions/E065-the-winged-menace/rough-v001.png",
+      "sha256": "4b27b2cb1771b61608c687e8b938979426b5822d3f4c8385a169fc97d2b788a0",
+      "dimensions": [
+        1448,
+        1086
+      ]
+    },
+    {
+      "path": "Productions/E065-the-winged-menace/staging-v003.png",
+      "sha256": "85cadc21d4005677dd206aa5f7fef91facf45596537d50de758bf08a5cf56b88",
+      "dimensions": [
+        1774,
+        887
+      ]
+    },
+    {
+      "path": "Productions/Library-Refinement/model-finish-calibration-v004.png",
+      "sha256": "193dc8f81770a87933c6c599fce5a04f3c51cfbe21898459be2b511e989910a3",
+      "dimensions": [
+        1448,
+        1086
+      ]
+    }
+  ],
+  "construction_inspection": "All listed drawn staging and model files actually opened. Construction transfers coherently to finals; generated model is provisional interpretation only. Its obvious curly finish is not authority to retain final body curls.",
+  "global_restrictions": [
+    "N35 excludes anatomy",
+    "B08 styling only",
+    "B25 unavailable",
+    "B30 supplemental resting evidence only",
+    "One exposure counts once"
+  ],
+  "open_findings": [],
+  "complete_illustrated_reading": "Pending separate fresh rendered reading; visual acceptance does not establish complete reading or owner approval.",
+  "approval": "unapproved",
+  "publication": "not_published",
+  "review_history": [
+    {
+      "reviewed_at": "2026-10-04T16:21:49.077689+00:00",
+      "status": "needs_rework",
+      "images": [
+        {
+          "path": "Productions/E065-the-winged-menace/armrest-v005.png",
+          "sha256": "34ba05ac4a3f040f90147d156548549d1efae5de7457a6dd331e465f8762f89b",
+          "dimensions": [
+            1448,
+            1086
+          ],
+          "status": "accepted",
+          "decision": "accepted",
+          "inspection": "Actual full image opened with detail=original at native output dimensions; suspect coat regions additionally opened as unscaled native crops.",
+          "findings": [
+            "Neet has a continuous neck, full narrow trunk and connected pelvis; both fine hindlegs terminate at separately grounded compact paws. Overlapping compact forepaws rest on the sofa arm, with bent forelegs traceable to shoulders. No floating or spare limb.",
+            "Broad triangular ears, projecting muzzle, irregular pale chest and tiny rump nub correspond qualitatively to N19/N29. Large expressive eyes are provisional stylization without an enlarged puppy skull.",
+            "Neet body shading is genuinely smooth broad shapes with clean contours; Buddy dark torso is likewise smooth, with furnishings confined to ear/muzzle/brow/distal-paw regions. No material curly coat pattern is visible in this version.",
+            "Buddy lies fully supported beneath the table; front paws and chin are together, haunch is connected, rear paw and tapered dark tail remain separately readable. Table occlusion is coherent.",
+            "Tiny fly against empty wall, Neet raised scrutiny and Buddy low unimpressed rest make the contrasting priorities immediately readable. Ivory sofa, green ottoman, dining table, wood floor and daylight are consistent domestic staging."
+          ]
+        },
+        {
+          "path": "Productions/E065-the-winged-menace/nap-v005.png",
+          "sha256": "ab562de23a3de43d2b8c9897ac584a9c71be808701c254ca86552d72444a82bc",
+          "dimensions": [
+            1536,
+            1024
+          ],
+          "status": "needs_rework",
+          "decision": "needs_rework",
+          "inspection": "Actual full image opened with detail=original at native output dimensions; suspect coat regions additionally opened as unscaled native crops.",
+          "findings": [
+            "Buddy head and neck join a moderately elongated substantial torso; chest and two forepaws are grounded, two folded hindfeet have readable ownership beneath the haunch and the tapering tail continues from the rump. No material support defect found.",
+            "Upward gaze toward Sagar and held rolled magazine depicts the interrupted nap; missing Neet matches his bedroom retreat. The single fly, table legs and empty floor preserve the ordinary domestic chase. Cropped human hand/shoe appearance remains provisional.",
+            "Material finish defect: Buddy entire charcoal flank and haunch retain dense fine curved/engraved hair strokes, clearly visible at native pixels around x475-840 y590-750. These follow hair directions and make repeated curls; they are not random watercolor paper grain. Fine shag also remains along parts of shoulder/back/belly. B29 supports a close body coat, not this repeated curled texture. Repaint the torso/upper legs/neck as smooth tonal fields while retaining regional face/ear/paw furnishings."
+          ]
+        },
+        {
+          "path": "Productions/E065-the-winged-menace/payoff-v004.png",
+          "sha256": "3780cff723bb3b9242cde891b41e42984a5ba75b1678407e48592d3d7bb7fdbc",
+          "dimensions": [
+            1774,
+            887
+          ],
+          "status": "needs_rework",
+          "decision": "needs_rework",
+          "inspection": "Actual full image opened with detail=original at native output dimensions; suspect coat regions additionally opened as unscaled native crops.",
+          "findings": [
+            "Neet lies on a supported side, head resting on floor; two front limbs and two folded rear limbs have traceable ownership. His full trunk and fine limbs remain connected. Buddy separate chest/forepaws and folded rear body are floor-supported without body fusion.",
+            "The rolled magazine on the floor, Neet watchful open eye, Buddy calm rest, ivory sofa and green ottoman correctly depict the final settled state. This supplies a complementary quiet payoff after the elevated alarm and interrupted nap.",
+            "Material finish defect: repeated pale wavy/engraved coat strands remain across Neet tan torso, shoulder and thigh, plainly visible in native detail x360-810 y385-545. Buddy dark flank/shoulder also retains faint hairlike patterning. Broad color patches improved the finish but did not remove the curly strokes. Neet short smooth coat must be smooth tonal color rather than patterned fur; smooth Buddy short body regions likewise, preserving regional furnished facial/ear/paw hair."
+          ]
+        }
+      ],
+      "open_findings": [
+        {
+          "id": "S065-V2-NAP-COAT",
+          "image": "nap-v005.png",
+          "severity": "material",
+          "status": "open",
+          "required_correction": "Remove repeated engraved curls and shag from Buddy short body regions, preserving actual pose and regional furnishings; independently inspect actual replacement."
+        },
+        {
+          "id": "S065-V2-PAYOFF-COAT",
+          "image": "payoff-v004.png",
+          "severity": "material",
+          "status": "open",
+          "required_correction": "Remove pale curled coat pattern from Neet and faint patterned short coat on Buddy; independently inspect actual replacement."
+        }
+      ],
+      "source_sha256": "00b3b10067f5e98526940c479bc393a128f993d76a1e7410b429e7f2743fdaac",
+      "preserved_source": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S065-superseded-expanded/visual-review-v002-before-reinspection-00b3b10067f5.json"
+    }
+  ],
+  "closed_findings": [
+    {
+      "id": "S065-V2-NAP-COAT",
+      "image": "nap-v005.png",
+      "severity": "material",
+      "status": "closed",
+      "required_correction": "Remove repeated engraved curls and shag from Buddy short body regions, preserving actual pose and regional furnishings; independently inspect actual replacement.",
+      "resolved_by": "Productions/E065-the-winged-menace/nap-v006.png",
+      "replacement_sha256": "1b7cb3eb33c07cabc4fd841db949dadcb52c1d829ee126dfa463ba404f41a0f0",
+      "resolution": "Independent actual replacement native full and concern-region inspection confirms texture correction; whole-image anatomy/support/scene rechecked."
+    },
+    {
+      "id": "S065-V2-PAYOFF-COAT",
+      "image": "payoff-v004.png",
+      "severity": "material",
+      "status": "closed",
+      "required_correction": "Remove pale curled coat pattern from Neet and faint patterned short coat on Buddy; independently inspect actual replacement.",
+      "resolved_by": "Productions/E065-the-winged-menace/payoff-v005.png",
+      "replacement_sha256": "b02755a0e17a875aa9f2bbab7366757c063cf32d2ccbbe5e7e4192375463535e",
+      "resolution": "Independent actual replacement native full and concern-region inspection confirms texture correction; whole-image anatomy/support/scene rechecked."
+    }
+  ],
+  "reinspection": "Retained armrest-v005 SHA verified unchanged from actual native acceptance. Both replacements opened in full and native concern crops. Generator assurances were not used as proof."
+}

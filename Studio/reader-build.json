@@ -1,0 +1,2871 @@
+{
+  "generator": "Studio/build_reader.py",
+  "image_settings": "webp-1600-q90-thumb560-q82-v1",
+  "source_shelf_sha256": "ecfeba9443fc1c71aced0e9a5e27850f5630a3852cddca503b98fc217c7cfaf8",
+  "html_pages": 74,
+  "primary_stories": 70,
+  "complete_alternatives": 3,
+  "unique_illustrations": 241,
+  "reader_bytes": 72041246,
+  "stories": [
+    {
+      "id": "S001",
+      "source": "Stories/S001-meet-neet-and-buddy.md",
+      "source_sha256": "a262715e914336a56ccbf22b0e65305c595a7407924c5fec19c66e6a3b69ab44",
+      "exports": {
+        "primary": {
+          "page": "stories/S001-meet-neet-and-buddy.html",
+          "images": 3,
+          "rendered_text_sha256": "53cda13ad592aad77976e1d2edcb33923dfd1e62865e5bce7d9a0aaba2f70af5",
+          "reading_minutes": 4
+        }
+      }
+    },
+    {
+      "id": "S002",
+      "source": "Stories/S002-the-flight-to-india.md",
+      "source_sha256": "e4dd8ace78b176b6b1500d23922625b7bb8f4077cdbd573519f878891bca0d5b",
+      "exports": {
+        "primary": {
+          "page": "stories/S002-the-flight-to-india.html",
+          "images": 3,
+          "rendered_text_sha256": "50ed6e2d72d4b201aecc591264058a82df0542297d52f3ae349264b1dcfafceb",
+          "reading_minutes": 4
+        }
+      }
+    },
+    {
+      "id": "S003",
+      "source": "Stories/S003-arrival-in-india.md",
+      "source_sha256": "770aef1340adb76719c828c3f040a9a395c1d81ce0ac67110c528f6a022a03be",
+      "exports": {
+        "primary": {
+          "page": "stories/S003-arrival-in-india.html",
+          "images": 3,
+          "rendered_text_sha256": "e4d08d2fa97b82f5fa30f92f6a6e1191f40c1b6d919b15725cbddd31dcaa9242",
+          "reading_minutes": 6
+        }
+      }
+    },
+    {
+      "id": "S004",
+      "source": "Stories/S004-uttarayan-day-one.md",
+      "source_sha256": "d2c2f36db62efca3f6b62b71f4de18f5225adcaa2e2b0c1ec98d3ac19dd3b4f6",
+      "exports": {
+        "primary": {
+          "page": "stories/S004-uttarayan-day-one.html",
+          "images": 3,
+          "rendered_text_sha256": "559baa922636c11205eb660aa1eb069eadee885198be9ec560d8e40c6fa84568",
+          "reading_minutes": 5
+        }
+      }
+    },
+    {
+      "id": "S005",
+      "source": "Stories/S005-uttarayan-night-magic.md",
+      "source_sha256": "0052f55f294e37ecc82498bef0de2717a62c45b61ce5e95055a869f9c8a6bbe6",
+      "exports": {
+        "primary": {
+          "page": "stories/S005-uttarayan-night-magic.html",
+          "images": 3,
+          "rendered_text_sha256": "48f37e22b48864f9e8d306a41e506c087c16fa91c58888afd60caa9bc6c11a92",
+          "reading_minutes": 4
+        }
+      }
+    },
+    {
+      "id": "S006",
+      "source": "Stories/S006-the-bazaar-adventure.md",
+      "source_sha256": "a1f15f834fbf8595d72300239bcdfd064ba48741095c7db1714a34403bcf2d8d",
+      "exports": {
+        "primary": {
+          "page": "stories/S006-the-bazaar-adventure.html",
+          "images": 3,
+          "rendered_text_sha256": "92d06cfdf48df698744cc38e1380f060aa5922b31dd756174e8294b8f1c36347",
+          "reading_minutes": 4
+        }
+      }
+    },
+    {
+      "id": "S007",
+      "source": "Stories/S007-the-monkey-menace.md",
+      "source_sha256": "17e39c9772f625475cf32e8cd77dd1888a372c20304af6d49ff4730b72055600",
+      "exports": {
+        "primary": {
+          "page": "stories/S007-the-monkey-menace.html",
+          "images": 3,
+          "rendered_text_sha256": "ab945b56a227d29f5ae6565967b58a51477d3d6a359a7347a876124807c22081",
+          "reading_minutes": 6
+        }
+      }
+    },
+    {
+      "id": "S008",
+      "source": "Stories/S008-garden-rebirth-with-chaos.md",
+      "source_sha256": "19f1cf7def57052ef54dbcc3b3813cac1eb2286d81d6c05779b111717e849024",
+      "exports": {
+        "primary": {
+          "page": "stories/S008-garden-rebirth-with-chaos.html",
+          "images": 3,
+          "rendered_text_sha256": "ce8d7a234c0965314483b82bab3d102727682dad87d3f31a8edd8cc0d81fb595",
+          "reading_minutes": 5
+        }
+      }
+    },
+    {
+      "id": "S009",
+      "source": "Stories/S009-neet-the-general.md",
+      "source_sha256": "b48245aa0de3afe8599b5dba82712e94bcdc0bffa958ff758684ce4129b1875a",
+      "exports": {
+        "primary": {
+          "page": "stories/S009-neet-the-general.html",
+          "images": 3,
+          "rendered_text_sha256": "df2588fb82ef78fe3cf33d3cd3d03c3ad49a5bf1f90a6431327d6a9868fc2f1f",
+          "reading_minutes": 6
+        }
+      }
+    },
+    {
+      "id": "S010",
+      "source": "Stories/S010-neets-gang-faces-the-night-stalkers.md",
+      "source_sha256": "555e767362f8414344f1bb0303f3bf48ca84a991f8b7fe6caeecfb0f043c6044",
+      "exports": {
+        "primary": {
+          "page": "stories/S010-neets-gang-faces-the-night-stalkers.html",
+          "images": 3,
+          "rendered_text_sha256": "9ca32cf942545c64bbc9da5e8c720b42e7221246fd50ad394ef798603923682f",
+          "reading_minutes": 6
+        }
+      }
+    },
+    {
+      "id": "S011",
+      "source": "Stories/S011-neets-gang-to-the-rescue.md",
+      "source_sha256": "f58e4a4a82fa9b4f66bdc26b40f27429fc636a9454b813b8bcf399a2a3063869",
+      "exports": {
+        "primary": {
+          "page": "stories/S011-neets-gang-to-the-rescue.html",
+          "images": 3,
+          "rendered_text_sha256": "c0b1c1391bfe5b5eeedfef1839b621dbf113cd57f195e4ff79f0e548e1c3f7cd",
+          "reading_minutes": 5
+        }
+      }
+    },
+    {
+      "id": "S012",
+      "source": "Stories/S012-the-great-neighborhood-dog-games.md",
+      "source_sha256": "17724424a56a534b82a6379780f3c1b52549423329d8e54815f540d5a919e766",
+      "exports": {
+        "primary": {
+          "page": "stories/S012-the-great-neighborhood-dog-games.html",
+          "images": 3,
+          "rendered_text_sha256": "667e7adc6ee566a153bebc9226c36ba47c0d717f8a954e42e816775886d011d1",
+          "reading_minutes": 6
+        }
+      }
+    },
+    {
+      "id": "S013",
+      "source": "Stories/S013-lights-camera-neet.md",
+      "source_sha256": "a8073e1a1adc870749f6061d53a99e99632866bc1c97d326d48508e22f90a6d7",
+      "exports": {
+        "primary": {
+          "page": "stories/S013-lights-camera-neet.html",
+          "images": 3,
+          "rendered_text_sha256": "b9f9c9eb9d83a1591f33bbda0fffb62587fb1ba43c9e95dda6276cd91446f9aa",
+          "reading_minutes": 5
+        }
+      }
+    },
+    {
+      "id": "S014",
+      "source": "Stories/S014-neet-and-buddys-barber-battle.md",
+      "source_sha256": "9720c1364d6398f6e6c421c5cbbe7316d10870e633f3c4adcaa20b7d01b6710a",
+      "exports": {
+        "primary": {
+          "page": "stories/S014-neet-and-buddys-barber-battle.html",
+          "images": 3,
+          "rendered_text_sha256": "3f6788051787ccb1d68ef4b2ea6853d0e9718ea8fce70281248b9d240c86b325",
+          "reading_minutes": 5
+        }
+      }
+    },
+    {
+      "id": "S015",
+      "source": "Stories/S015-the-dazzling-dog-fashion-show.md",
+      "source_sha256": "597a3e1e1b0b2a73dc5a2efc171470d10e9eaea0a1611954c265336b294aa5f9",
+      "exports": {
+        "primary": {
+          "page": "stories/S015-the-dazzling-dog-fashion-show.html",
+          "images": 3,
+          "rendered_text_sha256": "7644ab95680d7da5ca7a42680524beb4688beecc4786dfbb151ba1746f268d1e",
+          "reading_minutes": 5
+        }
+      }
+    },
+    {
+      "id": "S016",
+      "source": "Stories/S016-neet-and-buddy-learn-gujarati.md",
+      "source_sha256": "011a67329c00d6b04fb39495bf044a78864312412f63343283b9d98ca573a954",
+      "exports": {
+        "primary": {
+          "page": "stories/S016-neet-and-buddy-learn-gujarati.html",
+          "images": 2,
+          "rendered_text_sha256": "58dd6b07591bb716ee94ec9cf2f37cbf0951eab5d44e1cd26c9efa115ae57ad8",
+          "reading_minutes": 4
+        }
+      }
+    },
+    {
+      "id": "S017",
+      "source": "Stories/S017-bazaar-madness-a-practical-gujarati-lesson.md",
+      "source_sha256": "10dca946d66c709e1ea4e4b8dcbc18b13e5120b6b5d0a8d42ba9d368657a6aa5",
+      "exports": {
+        "primary": {
+          "page": "stories/S017-bazaar-madness-a-practical-gujarati-lesson.html",
+          "images": 3,
+          "rendered_text_sha256": "417a2e384abeaf0d0e8553da5b8fa637745a4cf27112fc711b907b3ee2e1d682",
+          "reading_minutes": 5
+        }
+      }
+    },
+    {
+      "id": "S018",
+      "source": "Stories/S018-buddys-big-elocution-debacle.md",
+      "source_sha256": "f506c53c4f2013d0ecfa51f1f2bb3782d0cfeaadf3148398845cbacc6ab8f0f4",
+      "exports": {
+        "primary": {
+          "page": "stories/S018-buddys-big-elocution-debacle.html",
+          "images": 3,
+          "rendered_text_sha256": "9fd673ef3225869b93fec17a33e3b28ee8466a39c5b6565d06871e19063663d2",
+          "reading_minutes": 5
+        }
+      }
+    },
+    {
+      "id": "S019",
+      "source": "Stories/S019-the-great-mosquito-war.md",
+      "source_sha256": "741ee24f213310248abee2e577a95c193e29110b40844734bbfef7a7d4f15a69",
+      "exports": {
+        "primary": {
+          "page": "stories/S019-the-great-mosquito-war.html",
+          "images": 3,
+          "rendered_text_sha256": "cf6c3678fc76730011d0568cf464af79dc7e6a6024e1885cc7a337f623c60105",
+          "reading_minutes": 4
+        }
+      }
+    },
+    {
+      "id": "S020",
+      "source": "Stories/S020-the-great-nighttime-bark-off.md",
+      "source_sha256": "af624721e3a2fc787ea0eccd411994ec7ce144787f420cc69fddaae6a36d3a2d",
+      "exports": {
+        "primary": {
+          "page": "stories/S020-the-great-nighttime-bark-off.html",
+          "images": 3,
+          "rendered_text_sha256": "ca45e1421640bdf5ca2d9c388bd8c027badb574a8e75268ced4c7746f8c27554",
+          "reading_minutes": 5
+        }
+      }
+    },
+    {
+      "id": "S021",
+      "source": "Stories/S021-the-bittersweet-goodbye.md",
+      "source_sha256": "de413bf7787dc6fa4627c80f8377f4af306cb5aa3f1b3bd41a5e7c935edaf8c2",
+      "exports": {
+        "primary": {
+          "page": "stories/S021-the-bittersweet-goodbye.html",
+          "images": 3,
+          "rendered_text_sha256": "5766bb3be7b0379e33d457e9a2d39e5616aff60e6252c2fb8247aa035a94100b",
+          "reading_minutes": 6
+        }
+      }
+    },
+    {
+      "id": "S022",
+      "source": "Stories/S022-the-lounge-and-airport-madness.md",
+      "source_sha256": "a62e7f353864191dfe29020915ef6e89e6852a59ebd74645675b067ade6bc782",
+      "exports": {
+        "primary": {
+          "page": "stories/S022-the-lounge-and-airport-madness.html",
+          "images": 3,
+          "rendered_text_sha256": "8fbb4b81f033713e0090bb7d10b7c2917690895da3fe1d218a2aa88205bc8010",
+          "reading_minutes": 5
+        }
+      }
+    },
+    {
+      "id": "S023",
+      "source": "Stories/S023-the-business-class-upgrade-disaster.md",
+      "source_sha256": "99b2ebc7d0d54f1c2aabc13c654ee28cc1436d4eb4e730a52eed798c27e3a407",
+      "exports": {
+        "primary": {
+          "page": "stories/S023-the-business-class-upgrade-disaster.html",
+          "images": 3,
+          "rendered_text_sha256": "fce084eb4f5f223e1b0caf02668932c3ef17f513d5ea25e160d645eba49770d8",
+          "reading_minutes": 5
+        }
+      }
+    },
+    {
+      "id": "S024",
+      "source": "Stories/S024-the-istanbul-layover-debacle.md",
+      "source_sha256": "7a3b62757a239dc9712547e6b93c3d2db7a8192d51427c40197c2a1c4c42952c",
+      "exports": {
+        "primary": {
+          "page": "stories/S024-the-istanbul-layover-debacle.html",
+          "images": 3,
+          "rendered_text_sha256": "86516335397aad237aa369eeae9cc99c0e80dcf47b230f2490403378ae1786cd",
+          "reading_minutes": 4
+        }
+      }
+    },
+    {
+      "id": "S025",
+      "source": "Stories/S025-the-return-to-the-u-s-immigration-madness.md",
+      "source_sha256": "18a10d4626016457c5551125f88e1dd7073bed28a4c5c6b42f907fa66f97bc2a",
+      "exports": {
+        "primary": {
+          "page": "stories/S025-the-return-to-the-u-s-immigration-madness.html",
+          "images": 3,
+          "rendered_text_sha256": "2a817ddf6b46a43b2ccbd13d8e3aecb481225dcfc2880ae00d5b0342bed6efed",
+          "reading_minutes": 4
+        }
+      }
+    },
+    {
+      "id": "S026",
+      "source": "Stories/S026-the-homecoming-blues.md",
+      "source_sha256": "ff553fe3a1a6cee4a363265f1a15e700525f8d0b6a8a8c19f915ea81f0057eb5",
+      "exports": {
+        "primary": {
+          "page": "stories/S026-the-homecoming-blues.html",
+          "images": 3,
+          "rendered_text_sha256": "820fba92dd2b550236abf0f1668ca88cc90f44061e2dd9d41a95feca99cef17b",
+          "reading_minutes": 4
+        }
+      }
+    },
+    {
+      "id": "S027",
+      "source": "Stories/S027-heathers-birthday-and-the-aquarium-chaos.md",
+      "source_sha256": "a4f5836ead946e4c9050f39d79f11d55033b96e9398333f47f48b48beabad4c0",
+      "exports": {
+        "primary": {
+          "page": "stories/S027-heathers-birthday-and-the-aquarium-chaos.html",
+          "images": 3,
+          "rendered_text_sha256": "66eb9eb0a459f5a9584223118a31a7593e0b3e67bbc7010778c147bc0a8572f0",
+          "reading_minutes": 5
+        }
+      }
+    },
+    {
+      "id": "S028",
+      "source": "Stories/S028-the-birthday-get-together-and-the-sheera-cake-saga.md",
+      "source_sha256": "9b7c53b899e8990fb3336be4ccb07f28b3ee8e61455c705e804ecd84366d9d69",
+      "exports": {
+        "primary": {
+          "page": "stories/S028-the-birthday-get-together-and-the-sheera-cake-saga.html",
+          "images": 3,
+          "rendered_text_sha256": "5a7432bb791fb43c4dab042cfb9aacb86b15c0d5c301493f141c3a11a27db13e",
+          "reading_minutes": 5
+        }
+      }
+    },
+    {
+      "id": "S029",
+      "source": "Stories/S029-winter-woes-and-the-battle-of-the-backyard.md",
+      "source_sha256": "3c054dfd26a11acc2ddc631331209936d0dd409d912470d5115f8a39c84b0943",
+      "exports": {
+        "primary": {
+          "page": "stories/S029-winter-woes-and-the-battle-of-the-backyard.html",
+          "images": 3,
+          "rendered_text_sha256": "a4cabb0daafa4d8a100e831caeaac0db238e6e74e562a72f38a3ff94592f1999",
+          "reading_minutes": 4
+        }
+      }
+    },
+    {
+      "id": "S030",
+      "source": "Stories/S030-the-temple-visit-and-the-great-gujarati-thali-feast.md",
+      "source_sha256": "c62967b152009c40867d16c65158abeaaa5207a3697b099de91c4de3d5ac1a7b",
+      "exports": {
+        "primary": {
+          "page": "stories/S030-the-temple-visit-and-the-great-gujarati-thali-feast.html",
+          "images": 3,
+          "rendered_text_sha256": "6ff133c3143767b440fb2924413dddd99e2a8b751652f488811545701fcbe8ad",
+          "reading_minutes": 5
+        }
+      }
+    },
+    {
+      "id": "S031",
+      "source": "Stories/S031-buddys-big-dental-adventure-part-1.md",
+      "source_sha256": "cb13da014df24c8bac833c58f77d2b664fdff2257543f53be66a60eaf5af4cf5",
+      "exports": {
+        "primary": {
+          "page": "stories/S031-buddys-big-dental-adventure-part-1.html",
+          "images": 3,
+          "rendered_text_sha256": "8ce55d447a1a2d8ca4c3cc22bc4d963fef403ec67076bddee872ffa259a4f578",
+          "reading_minutes": 3
+        }
+      }
+    },
+    {
+      "id": "S032",
+      "source": "Stories/S032-buddys-big-dental-adventure-part-2.md",
+      "source_sha256": "b82190fe128ea0ffb2ceeb5025843b741681f231d0733e5f85bcf6ca6c1da6d4",
+      "exports": {
+        "primary": {
+          "page": "stories/S032-buddys-big-dental-adventure-part-2.html",
+          "images": 4,
+          "rendered_text_sha256": "1cccb7c8be2eb452fa9c8561efc115ba428104018091bf3883c8d139f29de7c8",
+          "reading_minutes": 4
+        }
+      }
+    },
+    {
+      "id": "S033",
+      "source": "Stories/S033-buddy-and-the-golden-glory.md",
+      "source_sha256": "54b215acfa6bef07fdf0d3769b7fceca022ccf6b3f0058f893869b8243aed4f1",
+      "exports": {
+        "primary": {
+          "page": "stories/S033-buddy-and-the-golden-glory.html",
+          "images": 3,
+          "rendered_text_sha256": "ccdb07a3671e1fdc4b706025b122a323fb2fa0664fb9de5975a5ebbdeb6c3876",
+          "reading_minutes": 4
+        }
+      }
+    },
+    {
+      "id": "S034",
+      "source": "Stories/S034-the-stealth-games-begin.md",
+      "source_sha256": "94efee898daaee04028cad5a795cfa17c1713480dc9ad642901c943801605ea9",
+      "exports": {
+        "primary": {
+          "page": "stories/S034-the-stealth-games-begin.html",
+          "images": 5,
+          "rendered_text_sha256": "fb6eac1a6211c46db5774e1ec0d3fc943ea6d433308e9f1cc9f4dfa175e9e26a",
+          "reading_minutes": 6
+        },
+        "alternative": {
+          "page": "stories/S034-the-stealth-games-begin-alternative.html",
+          "images": 2,
+          "rendered_text_sha256": "0e4f3990451c05665a0c97bd850d897075a488ab9c8813a2d7cfed82bc19af52",
+          "reading_minutes": 6
+        }
+      }
+    },
+    {
+      "id": "S035",
+      "source": "Stories/S035-the-great-fire-noodles-chiku-shake-meltdown.md",
+      "source_sha256": "3efbf14799024db4a91261f2813535bae6642943813eac4a8607b0d46060767f",
+      "exports": {
+        "primary": {
+          "page": "stories/S035-the-great-fire-noodles-chiku-shake-meltdown.html",
+          "images": 5,
+          "rendered_text_sha256": "5bd16964299aa9c85758c95624f96b8eb1dd1ce6f56634b061cea77902c1acd0",
+          "reading_minutes": 7
+        }
+      }
+    },
+    {
+      "id": "S036",
+      "source": "Stories/S036-the-royal-house-hunt-and-the-negotiation-of-dreams.md",
+      "source_sha256": "8491923cd668f262fe6667c982c05909ae906ab2ac86a085ce168cefdc2cb1ee",
+      "exports": {
+        "primary": {
+          "page": "stories/S036-the-royal-house-hunt-and-the-negotiation-of-dreams.html",
+          "images": 5,
+          "rendered_text_sha256": "a9e20b88163d7b7e9cca8c321d26c34b9b0d56741bad325d21c23a0a7d0ee046",
+          "reading_minutes": 9
+        }
+      }
+    },
+    {
+      "id": "S037",
+      "source": "Stories/S037-the-midnight-storm-and-the-royal-snack-emergency.md",
+      "source_sha256": "50aaaa103a6a1b8a23a1992296c88411dfa583b6790118a2fda483b312c11a60",
+      "exports": {
+        "primary": {
+          "page": "stories/S037-the-midnight-storm-and-the-royal-snack-emergency.html",
+          "images": 5,
+          "rendered_text_sha256": "6889afc75f30476f3b49f03c04667b56669907f351eb33c8348b65bbad7146b9",
+          "reading_minutes": 7
+        }
+      }
+    },
+    {
+      "id": "S038",
+      "source": "Stories/S038-the-smoky-mountain-escapade.md",
+      "source_sha256": "5066e73e36dc75b54b0ebd2bf0ec009d1c9a8239dde8fa637498fce96718fd9e",
+      "exports": {
+        "primary": {
+          "page": "stories/S038-the-smoky-mountain-escapade.html",
+          "images": 5,
+          "rendered_text_sha256": "aec94072431023ad29e71171adc4b7e864dd0f7f771cd3dfc43a84e8df7ea812",
+          "reading_minutes": 8
+        },
+        "alternative": {
+          "page": "stories/S038-the-smoky-mountain-escapade-alternative.html",
+          "images": 2,
+          "rendered_text_sha256": "224db42181a2b3b914cec810ac70b0e964250c1788ba7def70c8c4071c358e9b",
+          "reading_minutes": 9
+        }
+      }
+    },
+    {
+      "id": "S039",
+      "source": "Stories/S039-welcome-to-austin-the-great-inspection.md",
+      "source_sha256": "e376117dc13b2c3b09a190e8c53421c706d09769501b4009dd0af995c3448f78",
+      "exports": {
+        "primary": {
+          "page": "stories/S039-welcome-to-austin-the-great-inspection.html",
+          "images": 5,
+          "rendered_text_sha256": "ed03c531c305150b2476d658606a88fb477318a97e3bd8021653d589b86e9dca",
+          "reading_minutes": 7
+        }
+      }
+    },
+    {
+      "id": "S040",
+      "source": "Stories/S040-the-first-neighborhood-expedition.md",
+      "source_sha256": "39cef96d67f5bfcadbee44eabbe8b594fc8d3262a81d4a4187dc19a5ca8c0e96",
+      "exports": {
+        "primary": {
+          "page": "stories/S040-the-first-neighborhood-expedition.html",
+          "images": 5,
+          "rendered_text_sha256": "0008109ef7177de9e712b1a8b0b65c45fec005394fb06d68df41b6289ef0c9b3",
+          "reading_minutes": 7
+        }
+      }
+    },
+    {
+      "id": "S041",
+      "source": "Stories/S041-the-epic-furniture-fiesta.md",
+      "source_sha256": "de0daa43cf9b06e985ad6b6fffe212140b05af77ed1ceb33c35e617b3e4ab556",
+      "exports": {
+        "primary": {
+          "page": "stories/S041-the-epic-furniture-fiesta.html",
+          "images": 5,
+          "rendered_text_sha256": "52ff6d96e75d71a9833973f777555fbf4574ae8143ec700de74c7f6aeced5dca",
+          "reading_minutes": 7
+        }
+      }
+    },
+    {
+      "id": "S042",
+      "source": "Stories/S042-the-day-the-bark-stood-still.md",
+      "source_sha256": "96fc2d22e34bac7a08e9ee7dbeeece0219a437f507e7e58f3d70b79162d6eea5",
+      "exports": {
+        "primary": {
+          "page": "stories/S042-the-day-the-bark-stood-still.html",
+          "images": 3,
+          "rendered_text_sha256": "e678db563f700f5c87fee3e5c05d10810cc6f27f39e489a4d6c7d2b70048c2b1",
+          "reading_minutes": 7
+        }
+      }
+    },
+    {
+      "id": "S043",
+      "source": "Stories/S043-the-great-laundry-day-uprising.md",
+      "source_sha256": "464c0a88c0091fb370613de072e8c083ff3783d7934c9dd916bf65113010b02a",
+      "exports": {
+        "primary": {
+          "page": "stories/S043-the-great-laundry-day-uprising.html",
+          "images": 3,
+          "rendered_text_sha256": "6157e0237462dcf06ae84d9efc61a1d30d77555ae5ca877c1aa9ddb470ee5bc6",
+          "reading_minutes": 6
+        }
+      }
+    },
+    {
+      "id": "S044",
+      "source": "Stories/S044-the-vacuum-wars.md",
+      "source_sha256": "dd0e1ede5932a48ad26a2460b552651760c596602ac6b56fb04d41775e873587",
+      "exports": {
+        "primary": {
+          "page": "stories/S044-the-vacuum-wars.html",
+          "images": 3,
+          "rendered_text_sha256": "4ced50106b2227900affea60f49704e9050ec3111167bb898d5ca11888929dc8",
+          "reading_minutes": 5
+        }
+      }
+    },
+    {
+      "id": "S045",
+      "source": "Stories/S045-the-robot-vacuum-coup.md",
+      "source_sha256": "268aa224e913c0fddd0f990e8570b456ae5d0d6974a1af0c767bfc4ba46c62e5",
+      "exports": {
+        "primary": {
+          "page": "stories/S045-the-robot-vacuum-coup.html",
+          "images": 3,
+          "rendered_text_sha256": "1715a33b8e3bcfb8c17e3015069b03fa19c42199e52800f0915fff65f198fe36",
+          "reading_minutes": 5
+        }
+      }
+    },
+    {
+      "id": "S046",
+      "source": "Stories/S046-the-rainbow-drill.md",
+      "source_sha256": "a9b04e9329c935ac415b3d45e549c293f9dc08ac4464589f66df5000a030dab2",
+      "exports": {
+        "primary": {
+          "page": "stories/S046-the-rainbow-drill.html",
+          "images": 3,
+          "rendered_text_sha256": "ff895a3d2b42616e7b3426c4d5c11ea0c589e49d010ed8413ff38f27f58657b6",
+          "reading_minutes": 7
+        }
+      }
+    },
+    {
+      "id": "S047",
+      "source": "Stories/S047-the-kings-birthday.md",
+      "source_sha256": "bed1e2380048147f0e226e91e09820e790fdbc337bd4b9389c21225a154ac71c",
+      "exports": {
+        "primary": {
+          "page": "stories/S047-the-kings-birthday.html",
+          "images": 3,
+          "rendered_text_sha256": "5aa2419b7d11beaf8dadb9f80afd939f4a8ee9989ec020e8fb60284abaed24c5",
+          "reading_minutes": 7
+        }
+      }
+    },
+    {
+      "id": "S048",
+      "source": "Stories/S048-the-fall-of-a-quarter-star.md",
+      "source_sha256": "987dd74fba9528ce07d03264b06bbf0fb45e39538692f0d780e012512a53611d",
+      "exports": {
+        "primary": {
+          "page": "stories/S048-the-fall-of-a-quarter-star.html",
+          "images": 3,
+          "rendered_text_sha256": "9b7703c3e28c6e5f1967e8e7691de55533406f1a6c7394adb80a0b4e437bb073",
+          "reading_minutes": 5
+        }
+      }
+    },
+    {
+      "id": "S049",
+      "source": "Stories/S049-the-great-vet-escapade.md",
+      "source_sha256": "ba3d3fff1027f71d46e7335a506aae6ceef60309e255a40af762c266c82b574d",
+      "exports": {
+        "primary": {
+          "page": "stories/S049-the-great-vet-escapade.html",
+          "images": 4,
+          "rendered_text_sha256": "0572f9154daa15c7cc1c8f990d75d98a4f4dcef64d5d6db220ac25ed06fb3491",
+          "reading_minutes": 5
+        }
+      }
+    },
+    {
+      "id": "S050",
+      "source": "Stories/S050-the-redemption-crusade-of-the-4-25-star-general.md",
+      "source_sha256": "ae8d76294e369a15af914f1feeb81de5abd1b743346841bb251a309c1cd52775",
+      "exports": {
+        "primary": {
+          "page": "stories/S050-the-redemption-crusade-of-the-4-25-star-general.html",
+          "images": 4,
+          "rendered_text_sha256": "bb31197285a9934afbf7b89d73f8ab8b7620a8a1e1b9b1900ddee368235e331e",
+          "reading_minutes": 5
+        }
+      }
+    },
+    {
+      "id": "S051",
+      "source": "Stories/S051-the-redemption-of-the-star.md",
+      "source_sha256": "793b78779782a59dd83694be4baf2585a6583454c1828ba34a462efc025bfe96",
+      "exports": {
+        "primary": {
+          "page": "stories/S051-the-redemption-of-the-star.html",
+          "images": 3,
+          "rendered_text_sha256": "70ffbb1bb1ff9b3c8e1ca4f1b35172b4ac538e7de349de096e54f67ce2c38220",
+          "reading_minutes": 5
+        }
+      }
+    },
+    {
+      "id": "S052",
+      "source": "Stories/S052-the-arrival-of-ganesha.md",
+      "source_sha256": "6905b3ce6ad042f60e96de04124e488fbc040ca45eb99728c65635a6650d025a",
+      "exports": {
+        "primary": {
+          "page": "stories/S052-the-arrival-of-ganesha.html",
+          "images": 4,
+          "rendered_text_sha256": "a7d8659edcca72b4a336c7cb25d7657e7c3ebba0d2a4e8f3c1df6c989d8dadd7",
+          "reading_minutes": 6
+        }
+      }
+    },
+    {
+      "id": "S053",
+      "source": "Stories/S053-the-midnight-counsel-of-ganesha.md",
+      "source_sha256": "bcbe99469b5c2dc714cab1fd75a3753121046f63ac0203ef1355dadc6930cc99",
+      "exports": {
+        "primary": {
+          "page": "stories/S053-the-midnight-counsel-of-ganesha.html",
+          "images": 3,
+          "rendered_text_sha256": "6bf07248a6a2131563761e0f90c3874b5fe2e5f64d92b3543ac8f6e340c8a49b",
+          "reading_minutes": 5
+        }
+      }
+    },
+    {
+      "id": "S054",
+      "source": "Stories/S054-the-visarjan-protocol.md",
+      "source_sha256": "bd0f20974ac86c3e84166c86dc329c14d4f47c67b906c3fb47e9da26c1b96ccd",
+      "exports": {
+        "primary": {
+          "page": "stories/S054-the-visarjan-protocol.html",
+          "images": 3,
+          "rendered_text_sha256": "76228aabbb96adedfdafd91f2548ef026f19bda2ec0d1e599840b2818f7d0881",
+          "reading_minutes": 4
+        }
+      }
+    },
+    {
+      "id": "S055",
+      "source": "Stories/S055-the-invisible-mentor.md",
+      "source_sha256": "73c74f2ced09f21d680687c4e2b926f810df69db848382b726e7ca6cecc0e0dd",
+      "exports": {
+        "primary": {
+          "page": "stories/S055-the-invisible-mentor.html",
+          "images": 3,
+          "rendered_text_sha256": "ba2fdcdb90f201aca4533c694eae93cbae1f70f27d893cee565ef1328a03d09d",
+          "reading_minutes": 4
+        }
+      }
+    },
+    {
+      "id": "S056",
+      "source": "Stories/S056-the-day-trip-to-pedernales-falls.md",
+      "source_sha256": "5a27cc72a139bc4a2bcce31e7ebb409fe90cc01e189da789cea74bf1ef3ee207",
+      "exports": {
+        "primary": {
+          "page": "stories/S056-the-day-trip-to-pedernales-falls.html",
+          "images": 4,
+          "rendered_text_sha256": "428cf3e1895cfa0cf1620a479de14625ef7db9f3eb67e8e6905018fc388b1304",
+          "reading_minutes": 10
+        }
+      }
+    },
+    {
+      "id": "S057",
+      "source": "Stories/S057-the-tunnel-to-india-or-faith-vs-physics.md",
+      "source_sha256": "c2056b688f4b53c76ef590a15eee482bc2ea10cf0dce038e433d1b75e3d7969b",
+      "exports": {
+        "primary": {
+          "page": "stories/S057-the-tunnel-to-india-or-faith-vs-physics.html",
+          "images": 3,
+          "rendered_text_sha256": "bdd7a97ab8a59b58c7636a9438ac8d9c53d02503713cae3bdac77016e1fd36ec",
+          "reading_minutes": 10
+        }
+      }
+    },
+    {
+      "id": "S058",
+      "source": "Stories/S058-the-era-of-the-cool-ball.md",
+      "source_sha256": "532f87676fa63de3ad1db5d469f24fd97d624e099168f6521cb455bb902ec296",
+      "exports": {
+        "primary": {
+          "page": "stories/S058-the-era-of-the-cool-ball.html",
+          "images": 3,
+          "rendered_text_sha256": "0d7d0a28244d1125416731564abce2518aef9f41fb1ce0594190825b2ccc6e6e",
+          "reading_minutes": 11
+        }
+      }
+    },
+    {
+      "id": "S059",
+      "source": "Stories/S059-the-fire-conspiracy.md",
+      "source_sha256": "97f57f5e9efd0d2d4500f435a4a5c6a300b9240dba23873ae5fc37321ec34e9d",
+      "exports": {
+        "primary": {
+          "page": "stories/S059-the-fire-conspiracy.html",
+          "images": 5,
+          "rendered_text_sha256": "4fd5a7f8d1b4f91083fdff6e15af41e1a3b04a41b1f063337ab8185d3faad6c9",
+          "reading_minutes": 11
+        }
+      }
+    },
+    {
+      "id": "S060",
+      "source": "Stories/S060-the-barkgpt-protocol.md",
+      "source_sha256": "fd2c643cc9650aac40638c9687c04eba53e9cc5da172a56d675cf73635b2ef28",
+      "exports": {
+        "primary": {
+          "page": "stories/S060-the-barkgpt-protocol.html",
+          "images": 5,
+          "rendered_text_sha256": "4d9de0fe9b4ce5cabf6bbd38d93f73fd9d5f2c3e198ea847f5748f1851124c61",
+          "reading_minutes": 9
+        }
+      }
+    },
+    {
+      "id": "S061",
+      "source": "Stories/S061-the-dragon-the-satellites-and-the-spider.md",
+      "source_sha256": "e3c168192042e9e05d0b4183cef5b1b78fcbaf1be0de22d387f30202e8f69f69",
+      "exports": {
+        "primary": {
+          "page": "stories/S061-the-dragon-the-satellites-and-the-spider.html",
+          "images": 3,
+          "rendered_text_sha256": "5bb473cec70a1d6791219a1b7875cfb7dae6160ac17ae4302227783bfddefe02",
+          "reading_minutes": 6
+        }
+      }
+    },
+    {
+      "id": "S062",
+      "source": "Stories/S062-tooth-rituals-leaf-wars-and-balcony-betrayals-as-told-by-neet-defender-of-the-realm-drama-enthusiast.md",
+      "source_sha256": "efe0e3e5674163a17323278c9a0d99e1261efa26be85f13274766d8bbb7c457e",
+      "exports": {
+        "primary": {
+          "page": "stories/S062-tooth-rituals-leaf-wars-and-balcony-betrayals-as-told-by-neet-defender-of-the-realm-drama-enthusiast.html",
+          "images": 3,
+          "rendered_text_sha256": "9a6bf4058f342252b046679df73f12150aa0ae89a2a2468d29896b9862a953f3",
+          "reading_minutes": 7
+        }
+      }
+    },
+    {
+      "id": "S063",
+      "source": "Stories/S063-the-field-trip-to-love-high-and-the-gospel-of-good-ass-prana.md",
+      "source_sha256": "68ea91c01b5bcf3257c49c89e06006dd41468c1e7692439662e95b4e4093a234",
+      "exports": {
+        "primary": {
+          "page": "stories/S063-the-field-trip-to-love-high-and-the-gospel-of-good-ass-prana.html",
+          "images": 3,
+          "rendered_text_sha256": "6ad583d0d420371862280993944a86e1075873cbdc7d1e3a65b4d10e251ee0e0",
+          "reading_minutes": 6
+        }
+      }
+    },
+    {
+      "id": "S064",
+      "source": "Stories/S064-the-great-paneer-balcony-scandal.md",
+      "source_sha256": "198413a49287f88206290c5e8ad4e5fec277e7e62a56ca6e087c320fdcb191c8",
+      "exports": {
+        "primary": {
+          "page": "stories/S064-the-great-paneer-balcony-scandal.html",
+          "images": 3,
+          "rendered_text_sha256": "272a76bd866b5e0119eec1ed0bf613bca1826332914174e5d8174a297bbc8d08",
+          "reading_minutes": 6
+        }
+      }
+    },
+    {
+      "id": "S065",
+      "source": "Stories/S065-the-winged-menace.md",
+      "source_sha256": "4cb369e25e8bd944229636e40699fe7d36d90ce389546c54a4fad5efc3b77604",
+      "exports": {
+        "primary": {
+          "page": "stories/S065-the-winged-menace.html",
+          "images": 3,
+          "rendered_text_sha256": "596ad90c12559b85f77492f5bb9220da0e532a4a91f8da8653aad457242fa17a",
+          "reading_minutes": 5
+        }
+      }
+    },
+    {
+      "id": "S066",
+      "source": "Stories/S066-the-psychic-roti-and-the-ball-of-destiny.md",
+      "source_sha256": "892f6e86e84702795ef2442e1a9e95f941e808abcd74aaf1cd4af52255c63dc9",
+      "exports": {
+        "primary": {
+          "page": "stories/S066-the-psychic-roti-and-the-ball-of-destiny.html",
+          "images": 3,
+          "rendered_text_sha256": "53e9f021a53189363efb132aefeab4772c3533109c29ab2613b1b0bec78606c8",
+          "reading_minutes": 5
+        }
+      }
+    },
+    {
+      "id": "S067",
+      "source": "Stories/S067-the-scandal-of-sweet-kulfi.md",
+      "source_sha256": "e6c4d3e91fd4862f29d23f731b0c5d532fc652240dc1758892ead1d5d49acf14",
+      "exports": {
+        "primary": {
+          "page": "stories/S067-the-scandal-of-sweet-kulfi.html",
+          "images": 3,
+          "rendered_text_sha256": "0ccfc0d219227f95c5d9261c2c45f188930c1ed039903af9dc9e5c9d4982224b",
+          "reading_minutes": 5
+        }
+      }
+    },
+    {
+      "id": "S068",
+      "source": "Stories/S068-the-piedmont-park-wedding.md",
+      "source_sha256": "58314562fa4714cfeb563fa2bedcd5d9aba2b9fa513477081059bb1b4e49fe2c",
+      "exports": {
+        "primary": {
+          "page": "stories/S068-the-piedmont-park-wedding.html",
+          "images": 3,
+          "rendered_text_sha256": "c3abf7571554d9715ed5d6f7121d1f9737e5529a8a09a95aca0629b932c0acb1",
+          "reading_minutes": 6
+        }
+      }
+    },
+    {
+      "id": "S069",
+      "source": "Stories/S069-the-festival-of-lights.md",
+      "source_sha256": "352f2340a0b894f1b58ef00c8c5c02723af607f026f5ecf6256eb43bd0553430",
+      "exports": {
+        "primary": {
+          "page": "stories/S069-the-festival-of-lights.html",
+          "images": 3,
+          "rendered_text_sha256": "944d6d769029d25e02b9b813da0163f4748e4dfccaeb5c8b7f9fdfea6f65a34f",
+          "reading_minutes": 12
+        }
+      }
+    },
+    {
+      "id": "S070",
+      "source": "Stories/S070-the-great-houston-expedition.md",
+      "source_sha256": "a1e823075c1babcd9be9d931d1e7cf244354c3bf33663e416342fcc11d967095",
+      "exports": {
+        "primary": {
+          "page": "stories/S070-the-great-houston-expedition.html",
+          "images": 5,
+          "rendered_text_sha256": "3b87993b355e33e645454223dbacc0cab951cab54185b88cc2e5f9c450b89184",
+          "reading_minutes": 12
+        },
+        "alternative": {
+          "page": "stories/S070-the-great-houston-expedition-alternative.html",
+          "images": 6,
+          "rendered_text_sha256": "6ee2957c90b67dbb984e46c66ed4c11c5c4d30701fa63e3032f9fefe7349611b",
+          "reading_minutes": 18
+        }
+      }
+    }
+  ],
+  "image_derivatives": {
+    "Productions/E001-meet-neet-and-buddy/breakfast-art-v002.png": {
+      "source_sha256": "aea635c0f280ba4611a1ddff3ddc2f1bfbff67b21541881356814cd4101ca484",
+      "file": "images/aea635c0f280ba4611a1.webp",
+      "thumbnail": "images/aea635c0f280ba4611a1-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "9129658fa877a5bcb6b0d78a98e20e825b8f334a8a500fcc711e8d091db2cbf0"
+    },
+    "Productions/E001-meet-neet-and-buddy/max-art-v005.png": {
+      "source_sha256": "19be9a85760177405bbedd26644a7e0eb9c7945709e43825d201ff2fa91742b9",
+      "file": "images/19be9a85760177405bbe.webp",
+      "thumbnail": "images/19be9a85760177405bbe-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "013e4fb43c9669c0ae6aa036a6a35ba09b8159d34d971cb3acb03e22d6aa3975"
+    },
+    "Productions/E001-meet-neet-and-buddy/illustration-v002.png": {
+      "source_sha256": "48b3e0cd536ae9759c7b6e09be78159d4fdead9b7cad96f71fb483787d769985",
+      "file": "images/48b3e0cd536ae9759c7b.webp",
+      "thumbnail": "images/48b3e0cd536ae9759c7b-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "sha256": "d9e9d5781077b00c6406eef342cce312cb413b8595a91dc8ce1c8bfe67b3214d"
+    },
+    "Productions/E002-the-flight-to-india/packing-v002.png": {
+      "source_sha256": "84e622475614e041901cbea0e59679f4b6c2e31ad561a3d7f6302e2749964999",
+      "file": "images/84e622475614e041901c.webp",
+      "thumbnail": "images/84e622475614e041901c-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "sha256": "1b1a563ac0c42574de0ea6f3a6469dd9bfb2f63aab989eaa926ce1cf93c222ec"
+    },
+    "Productions/E002-the-flight-to-india/illustration-v002.png": {
+      "source_sha256": "576e5cf6137b6f9763fe29aa4c60d0cd375d7a9464d9f09bef3bf19644f212bd",
+      "file": "images/576e5cf6137b6f9763fe.webp",
+      "thumbnail": "images/576e5cf6137b6f9763fe-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "sha256": "516c90a792e3a0a332667fd149cac8b38f63c6052072ea44418fd15518ac90eb"
+    },
+    "Productions/E002-the-flight-to-india/snacks-v002.png": {
+      "source_sha256": "dbbf6c8532acf9cf7d8b6682a1a3425fcb0dd0cd88318cf522b74257be352fec",
+      "file": "images/dbbf6c8532acf9cf7d8b.webp",
+      "thumbnail": "images/dbbf6c8532acf9cf7d8b-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "sha256": "66ecf1aed2e2d934d83b0eb70bd85d34de225a49b1f15d304915e0e80e366a86"
+    },
+    "Productions/E003-arrival-in-india/courtyard-art-v001.png": {
+      "source_sha256": "244271cdf4219b66c34ba60b136773dae74ca6de5091699afd34c582a5e461e5",
+      "file": "images/244271cdf4219b66c34b.webp",
+      "thumbnail": "images/244271cdf4219b66c34b-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "sha256": "3269e68148f3a96d35b424a10b40f5f31ca71e19d91fce9d711722a2621b6cb4"
+    },
+    "Productions/E003-arrival-in-india/illustration-v002.png": {
+      "source_sha256": "705d0befed59324a5b4128d49673e6924e6346c67440ab02b404da4df799935f",
+      "file": "images/705d0befed59324a5b41.webp",
+      "thumbnail": "images/705d0befed59324a5b41-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "sha256": "c2ee35f4652a28ec6d3118567cb5d9259e235ec9b7266aa86c65220e580f4eb4"
+    },
+    "Productions/E003-arrival-in-india/window-art-v002.png": {
+      "source_sha256": "daf2351a825c0b9e52e2bd6e98ad919f807fc34d0b4ac1ab6e88e4772063aec2",
+      "file": "images/daf2351a825c0b9e52e2.webp",
+      "thumbnail": "images/daf2351a825c0b9e52e2-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "cecae9792dac6ed053814ca44fc540e51c41c74443ebb2960d3be5948719fd31"
+    },
+    "Productions/E004-uttarayan-day-one/sunbeam-art-v002.png": {
+      "source_sha256": "ff75c8e6cccf4f16c8382b33829e49309b105997e29eb7190a5360e441636b6a",
+      "file": "images/ff75c8e6cccf4f16c838.webp",
+      "thumbnail": "images/ff75c8e6cccf4f16c838-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "2c094c298ae5b3442b122161e275d817d18f8026faa01e20916a2fc274bc97f9"
+    },
+    "Productions/E004-uttarayan-day-one/illustration-v008.png": {
+      "source_sha256": "1e791fcdfeaff76b30ac038e6f2a5e5eff529b557f10679d8a6a74ba9a9d1d6a",
+      "file": "images/1e791fcdfeaff76b30ac.webp",
+      "thumbnail": "images/1e791fcdfeaff76b30ac-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "sha256": "6ac58441978e849ec4542ca9495c78eabba3c3728f2677ab3ef57965ca599427"
+    },
+    "Productions/E004-uttarayan-day-one/cheer-art-v002.png": {
+      "source_sha256": "b57683acd58c6ae161c0e54dfd460802ee70d4a512dac71efbf041eac33c6012",
+      "file": "images/b57683acd58c6ae161c0.webp",
+      "thumbnail": "images/b57683acd58c6ae161c0-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "c43c109ea39b0384e517e5e44d2273d54f3f81639bb48c2d14e4887e12e6f0f4"
+    },
+    "Productions/E005-uttarayan-night-magic/illustration-v003.png": {
+      "source_sha256": "a87c17530da8bc0c79849c52cf61ed0ac07439ee0a40572e655a22a328b88b17",
+      "file": "images/a87c17530da8bc0c7984.webp",
+      "thumbnail": "images/a87c17530da8bc0c7984-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "sha256": "652e9cb3ba2ae9d48a238d841d03c0a7eb45365cbe5365577ac7548336b47121"
+    },
+    "Productions/E005-uttarayan-night-magic/illustration-pakora-v003.png": {
+      "source_sha256": "c8bb264853a16491d5e03b249b9dbe5b0eb43364468a11cf0e87533675308219",
+      "file": "images/c8bb264853a16491d5e0.webp",
+      "thumbnail": "images/c8bb264853a16491d5e0-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "sha256": "2e108732e8a1c1d95cfa2cee9f0390d1ec8d764b54cbf41343374d2a185c94c6"
+    },
+    "Productions/E005-uttarayan-night-magic/illustration-rest-v003.png": {
+      "source_sha256": "f1b93c711e550d87a6fe4ac0476545e7ec8ff70f80e4f8281f286f9e3c830b13",
+      "file": "images/f1b93c711e550d87a6fe.webp",
+      "thumbnail": "images/f1b93c711e550d87a6fe-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "434fab032aac451e43611e87f4440e0bc1d853ecc7700abb4d163cf0bed7b60d"
+    },
+    "Productions/E006-the-bazaar-adventure/spice-art-v002.png": {
+      "source_sha256": "23242a7506b06882091505458ffbbf4826523578e19827cb2d96e24954485313",
+      "file": "images/23242a7506b068820915.webp",
+      "thumbnail": "images/23242a7506b068820915-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "6b12c667696b7c7ab791f84d7731d39b52c2e80a2a001e239df8b34c67eae4d1"
+    },
+    "Productions/E006-the-bazaar-adventure/illustration-v003.png": {
+      "source_sha256": "5433bde7dc584b0dcf3a27e472297841c40f001b175386a14a0238ad36788da1",
+      "file": "images/5433bde7dc584b0dcf3a.webp",
+      "thumbnail": "images/5433bde7dc584b0dcf3a-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "sha256": "396c3c7596b74244935017a7e27d0eb58203ced79d17cb47f2c7af5e644e6e4d"
+    },
+    "Productions/E006-the-bazaar-adventure/cow-art-v002.png": {
+      "source_sha256": "19b59b7173e1fea64a7fd0596ccbc7dfcd05a526897992bf8c0fa49572777d8e",
+      "file": "images/19b59b7173e1fea64a7f.webp",
+      "thumbnail": "images/19b59b7173e1fea64a7f-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "55224278f0056b859ca3cfd085059b1f108584dcfb9c5daee48d0999576fa13f"
+    },
+    "Productions/E007-the-monkey-menace/arrival-art-v003.png": {
+      "source_sha256": "3904c516fd2ff942165d077991d5955ffce777bcda7e864855380f51c6b1fa0f",
+      "file": "images/3904c516fd2ff942165d.webp",
+      "thumbnail": "images/3904c516fd2ff942165d-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "9e98b4513ff66649208c22818077a0bafe261c10a24dba05a2c5945827b05a8d"
+    },
+    "Productions/E007-the-monkey-menace/bark-art-v004.png": {
+      "source_sha256": "dd92a76513fc5843b8eda18399615bb5a08bcd72966fc18c7550e2ceca9d7b3a",
+      "file": "images/dd92a76513fc5843b8ed.webp",
+      "thumbnail": "images/dd92a76513fc5843b8ed-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "6579c2eb6b270b4a7800db7316dc346878133d5724c9e99b37d9aae8fb79ef17"
+    },
+    "Productions/E007-the-monkey-menace/aftermath-art-v002.png": {
+      "source_sha256": "809d88d6f1ffe68712ca1c2555ac6c7147dc4049d52c081fa0a0fca948f924c8",
+      "file": "images/809d88d6f1ffe68712ca.webp",
+      "thumbnail": "images/809d88d6f1ffe68712ca-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "sha256": "03e2b5fedf7211b27c7f0cf75ec6e9c9a1c6fe9ea9a00297d770d4aefdeb10e9"
+    },
+    "Productions/E008-garden-rebirth-with-chaos/illustration-v002.png": {
+      "source_sha256": "114d9546390dcc011919c6e9aed070aaccf64baeac8ceb96dad74d6e5ffca3c9",
+      "file": "images/114d9546390dcc011919.webp",
+      "thumbnail": "images/114d9546390dcc011919-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "sha256": "015c229b97bca57ffb303648029df251f642ff9245af7428f5b181f2e0c92084"
+    },
+    "Productions/E008-garden-rebirth-with-chaos/gnome-art-v004.png": {
+      "source_sha256": "3b5ca56bf412b0c73a60a2f89da568cb7c91aec0e172a47c9efc3a0e6ac5fe10",
+      "file": "images/3b5ca56bf412b0c73a60.webp",
+      "thumbnail": "images/3b5ca56bf412b0c73a60-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "sha256": "4edf76a2082e561813a4c71075c75ab15ee0f4b7726d76e17f6cfeebc9e7fd63"
+    },
+    "Productions/E008-garden-rebirth-with-chaos/hose-art-v003.png": {
+      "source_sha256": "886695b6d1c77e52feb31862ec253f96f9969752adfa378fcd7eff9c00129094",
+      "file": "images/886695b6d1c77e52feb3.webp",
+      "thumbnail": "images/886695b6d1c77e52feb3-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "39da172fc3407e35eb6b8938d91d025ca420d934542030e713f99331d20b5514"
+    },
+    "Productions/E009-neet-the-general/command-art-v001.png": {
+      "source_sha256": "4d617543dfdd07cece799f7f9cb95afc2c0d5e5cea78d3a2b7d67446b3ac60c3",
+      "file": "images/4d617543dfdd07cece79.webp",
+      "thumbnail": "images/4d617543dfdd07cece79-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "79eacc050085395c9ae30fbc826c2dc7bc6dda70c0303e67299a4bdf124630f8"
+    },
+    "Productions/E009-neet-the-general/diplomacy-art-v005.png": {
+      "source_sha256": "91e05d40b778606ddeab33fdb635eac6da2704d368784cbb086e8c6671f84f92",
+      "file": "images/91e05d40b778606ddeab.webp",
+      "thumbnail": "images/91e05d40b778606ddeab-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "05bcd879ff8248d4674f287448376c223c2547f057471cef4ba09526baed8a67"
+    },
+    "Productions/E009-neet-the-general/rest-art-v003.png": {
+      "source_sha256": "0cf6fe69bc46ab6bb6c7c4f0dfe3e3d94a452084f24e4a990090cd93242d8196",
+      "file": "images/0cf6fe69bc46ab6bb6c7.webp",
+      "thumbnail": "images/0cf6fe69bc46ab6bb6c7-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "f190a67a83b6574f5ba46b4d720da030d3e9fb4c5e47e161c865ceff15c877eb"
+    },
+    "Productions/E010-neets-gang-faces-the-night-stalkers/inspection-art-v002.png": {
+      "source_sha256": "0e7940ffba926c60920891ba96f840645c69eaf8d48f6c6c2231c3e3e73bdb8b",
+      "file": "images/0e7940ffba926c609208.webp",
+      "thumbnail": "images/0e7940ffba926c609208-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "ff438e7aba5c9de0e75ab36c8f54d1ebec06913e6ff2e988618a5b6e9e0a04ed"
+    },
+    "Productions/E010-neets-gang-faces-the-night-stalkers/defense-art-v002.png": {
+      "source_sha256": "c07b9baeb91c9f775d3421f86731a887b20c0596ffbfa8dc6e2d2bac65c87907",
+      "file": "images/c07b9baeb91c9f775d34.webp",
+      "thumbnail": "images/c07b9baeb91c9f775d34-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "3e41f18009aa0992bf8a5655ce51f16ae932afbe7de656269186ba7f0879ab37"
+    },
+    "Productions/E010-neets-gang-faces-the-night-stalkers/illustration-v003.png": {
+      "source_sha256": "74548827d6c16b1855bd4b39ce186902d00ac8b28894184393039dede5eb916e",
+      "file": "images/74548827d6c16b1855bd.webp",
+      "thumbnail": "images/74548827d6c16b1855bd-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "sha256": "8134ba2b8e0bc7407e6b1729e4f1b33a6650bac1122ff8848a53793a77f9943d"
+    },
+    "Productions/E011-neets-gang-to-the-rescue/bananas-art-v002.png": {
+      "source_sha256": "4beabc11025a147d9c18e39d098572c673a5907ab1d8d22f5095fd37e9432338",
+      "file": "images/4beabc11025a147d9c18.webp",
+      "thumbnail": "images/4beabc11025a147d9c18-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "bfbf41b2c3245d2e3ae711803b5aaf780ee4f071e9db3d3d6561c3ac49251732"
+    },
+    "Productions/E011-neets-gang-to-the-rescue/comfort-art-v003.png": {
+      "source_sha256": "dcef6ac617f44c29872971f0bd51b8e19a1ce3a5d59210c32cdadab3fadccbde",
+      "file": "images/dcef6ac617f44c298729.webp",
+      "thumbnail": "images/dcef6ac617f44c298729-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "eabe822035eb9a24101d28e142f765309882c86e25d825e3a8c2bda3c5103f29"
+    },
+    "Productions/E011-neets-gang-to-the-rescue/illustration-v002.png": {
+      "source_sha256": "9b98bf67a992b4129ef5617c54fb371a01594babb02832fa7d78ebebbe33febb",
+      "file": "images/9b98bf67a992b4129ef5.webp",
+      "thumbnail": "images/9b98bf67a992b4129ef5-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "sha256": "985dedfc45d2f7d46f9447da2f495afa7620e78d5ba2ba8bfbf9fda2bafd93d4"
+    },
+    "Productions/E012-the-great-neighborhood-dog-games/setup-art-v002.png": {
+      "source_sha256": "605d16ea1418ed535f9e21c8eaab618d30fdc07b5f47394cab36a5ad8837e0f4",
+      "file": "images/605d16ea1418ed535f9e.webp",
+      "thumbnail": "images/605d16ea1418ed535f9e-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "e79458d49f811cdfbba08e375e9e5834e888463acfe1eaf37d19f8b819c83473"
+    },
+    "Productions/E012-the-great-neighborhood-dog-games/beam-art-v003.png": {
+      "source_sha256": "3e7e875c5dc5cc3647d48147243f2780d3cd714a2ca99ee71485eab1c1d0d488",
+      "file": "images/3e7e875c5dc5cc3647d4.webp",
+      "thumbnail": "images/3e7e875c5dc5cc3647d4-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "sha256": "2fa2cf36f3c46c36155cc6118a3ec567d4a87d403dc64cb1c06a576b142f4a56"
+    },
+    "Productions/E012-the-great-neighborhood-dog-games/payoff-art-v002.png": {
+      "source_sha256": "d9654d7f6d800d8aa8f8a9bf44d77a6bf1fe3f7a2db4725db5cf1390d56f8454",
+      "file": "images/d9654d7f6d800d8aa8f8.webp",
+      "thumbnail": "images/d9654d7f6d800d8aa8f8-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "8a1ea5b437367c7afa9fae5a4ec1f3c7bcb958f3476e04ef88b2a6cda090ac9d"
+    },
+    "Productions/E013-lights-camera-neet/setup-art-v002.png": {
+      "source_sha256": "831a990b113ca0a119034055caf83b42af36af20539e058d0281b630a9317ecb",
+      "file": "images/831a990b113ca0a11903.webp",
+      "thumbnail": "images/831a990b113ca0a11903-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "b09b2e5fc32cda19c7c6402787ee65db0d4273bb17865ac7d42f197efdf700e2"
+    },
+    "Productions/E013-lights-camera-neet/prop-art-v004.png": {
+      "source_sha256": "aa0def6c2b6133c5120f195a83d01f921e0fdee7386598a9bd3e8af42f1f137f",
+      "file": "images/aa0def6c2b6133c5120f.webp",
+      "thumbnail": "images/aa0def6c2b6133c5120f-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "sha256": "cfddabf201dd24c3147c319a1e494d31c88c9ab7f3888ac83df30213dbb292c5"
+    },
+    "Productions/E013-lights-camera-neet/chase-art-v003.png": {
+      "source_sha256": "59c849c202c28825a73b0311e576d9d0e73b6d2f3f4352820460e31e7aee3714",
+      "file": "images/59c849c202c28825a73b.webp",
+      "thumbnail": "images/59c849c202c28825a73b-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "018e5102ba08509fbab2d2c1938cf405fe7b5ffbe332d556248ca6422a29cfd9"
+    },
+    "Productions/E014-neet-and-buddys-barber-battle/arrival-art-v004.png": {
+      "source_sha256": "10c0f8f7f282defdcbb7660b84a2b202387b82b28a828a2ea5b93289d18e1c64",
+      "file": "images/10c0f8f7f282defdcbb7.webp",
+      "thumbnail": "images/10c0f8f7f282defdcbb7-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "sha256": "831c1e5adde0595773c2423b76ce3182b82a48f57261c54c508b04b89836b3d4"
+    },
+    "Productions/E014-neet-and-buddys-barber-battle/illustration-v003.png": {
+      "source_sha256": "42417ac9c0ebbf5107518187f1406133934ffab092ef4dce7542f76f879013f3",
+      "file": "images/42417ac9c0ebbf510751.webp",
+      "thumbnail": "images/42417ac9c0ebbf510751-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "sha256": "84edd5aeba89946103e5b8c380900f37d3e7fce9e83796c85cf6e67c42867df5"
+    },
+    "Productions/E014-neet-and-buddys-barber-battle/mirror-art-v003.png": {
+      "source_sha256": "82eccb4d857562404f78ea881a87537d1268116e5da77b73e43eb7db4745b17d",
+      "file": "images/82eccb4d857562404f78.webp",
+      "thumbnail": "images/82eccb4d857562404f78-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "sha256": "d50c4fea237f4cc71e10ac71108dc2ff24fc6f4fda3f40f4be6287811833309d"
+    },
+    "Productions/E015-the-dazzling-dog-fashion-show/preparation-art-v003.png": {
+      "source_sha256": "eec8b7a748f29ac8c5670804f9efc2b26e108c8abc31af71ea253b1c599a61e6",
+      "file": "images/eec8b7a748f29ac8c567.webp",
+      "thumbnail": "images/eec8b7a748f29ac8c567-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "297bd231b17695bb7b675a99d512cc1b915b797dc63f165956e94bc9b2b009c0"
+    },
+    "Productions/E015-the-dazzling-dog-fashion-show/runway-art-v003.png": {
+      "source_sha256": "44980113e75582edac141fea6135e03252bf9d51bf4840694c15f69302b87a48",
+      "file": "images/44980113e75582edac14.webp",
+      "thumbnail": "images/44980113e75582edac14-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "sha256": "b721fa914150f39929f31dd43e4c45c943137b54bf06ae93936b13a511c0e9b1"
+    },
+    "Productions/E015-the-dazzling-dog-fashion-show/trophy-art-v004.png": {
+      "source_sha256": "7243607ebadc9c0d896ec0f02d5651b93c5bea7105f9c5faf6056318c1e9c285",
+      "file": "images/7243607ebadc9c0d896e.webp",
+      "thumbnail": "images/7243607ebadc9c0d896e-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "368cbe3197739d9ffc749cd9fd90fabb0105a73ab5925cc5b440e0a1698de3df"
+    },
+    "Productions/E016-neet-and-buddy-learn-gujarati/lesson-art-v003.png": {
+      "source_sha256": "bdebba2aa7aa06c0bfe90f9f7279515417c389b556d71dd740161c4ca8b75eae",
+      "file": "images/bdebba2aa7aa06c0bfe9.webp",
+      "thumbnail": "images/bdebba2aa7aa06c0bfe9-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "sha256": "34cdb0a0c68258d5db4891f35249623da5b4f14919115062e265de6698f15187"
+    },
+    "Productions/E016-neet-and-buddy-learn-gujarati/closing-art-v002.png": {
+      "source_sha256": "9b044a2a7167bb22eebc1958a5a865bccd94f6109f31655e0aa37b269216b93e",
+      "file": "images/9b044a2a7167bb22eebc.webp",
+      "thumbnail": "images/9b044a2a7167bb22eebc-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "81661c7dcc20d7d18dd02d1a9d4d8d23eed512aec0d705f349066a44ed3ec920"
+    },
+    "Productions/E017-bazaar-madness-a-practical-gujarati-lesson/jalebi-art-v005.png": {
+      "source_sha256": "ce6532648af46e1077028673bf4e7f2766a6f83c9f6624672f3d6594f4e02239",
+      "file": "images/ce6532648af46e107702.webp",
+      "thumbnail": "images/ce6532648af46e107702-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "84ae53251db8738843744a319111fd2be2e4ff98cf90f0c8f448031ff6b8c9b6"
+    },
+    "Productions/E017-bazaar-madness-a-practical-gujarati-lesson/price-art-v004.png": {
+      "source_sha256": "52a15b14a558e4cab574af14e1c32e1cad178945f50117dcaf6a75770f332988",
+      "file": "images/52a15b14a558e4cab574.webp",
+      "thumbnail": "images/52a15b14a558e4cab574-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "4d210ae1ef31371cdbf94874a88f900899760eb9034f170ba436531d5547dd00"
+    },
+    "Productions/E017-bazaar-madness-a-practical-gujarati-lesson/cow-art-v003.png": {
+      "source_sha256": "b9557964c03bb6a84431d0a798ad0e4900529470d5fba0e81e94ae407dc29965",
+      "file": "images/b9557964c03bb6a84431.webp",
+      "thumbnail": "images/b9557964c03bb6a84431-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "sha256": "d5237910b65de0f78fd9fb6a33a16d13db5388b6fa068f26a09951f8783d19e9"
+    },
+    "Productions/E018-buddys-big-elocution-debacle/practice-art-v002.png": {
+      "source_sha256": "60503e4b3b023539f483d5ae083d815913a77ce952e91a549e50feb5cc893482",
+      "file": "images/60503e4b3b023539f483.webp",
+      "thumbnail": "images/60503e4b3b023539f483-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "9a7102cbc53ccb067d0cb0477b3bd306c38d488cd51c91bc45a0b57153f025e1"
+    },
+    "Productions/E018-buddys-big-elocution-debacle/illustration-v006.png": {
+      "source_sha256": "3cbf1533ddc4ac42f3a4c9bf36ca15cc7f4389124a1e0d9da5d210de2c034785",
+      "file": "images/3cbf1533ddc4ac42f3a4.webp",
+      "thumbnail": "images/3cbf1533ddc4ac42f3a4-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "sha256": "893387b6fb706557c5b3f9c7b3ee343735a0a058ad3be67267352bb633883fea"
+    },
+    "Productions/E018-buddys-big-elocution-debacle/trophy-art-v002.png": {
+      "source_sha256": "5e717a78eb32b22cfa75840f1ef398af6dbe4e7f049356817fbff5fe62d7659f",
+      "file": "images/5e717a78eb32b22cfa75.webp",
+      "thumbnail": "images/5e717a78eb32b22cfa75-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "91bc418bf8185fcf2e967249990b8ee2b25d7eeda56d313a4cb308735f11f58e"
+    },
+    "Productions/E019-the-great-mosquito-war/nose-art-v003.png": {
+      "source_sha256": "cc5a0dd8e78b87b34748210974b027aa3b5a0cb9d4382b57d3fdac06bcab1b3e",
+      "file": "images/cc5a0dd8e78b87b34748.webp",
+      "thumbnail": "images/cc5a0dd8e78b87b34748-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "c015315d81afc54dbb7ae6fcc9b4b616aa3e9e14af198c617d43bef6a44c94cd"
+    },
+    "Productions/E019-the-great-mosquito-war/illustration-v002.png": {
+      "source_sha256": "012cbfab020b71b52f882c9c7b31d45829624733e6223ce26abe7e4b6c46ab7f",
+      "file": "images/012cbfab020b71b52f88.webp",
+      "thumbnail": "images/012cbfab020b71b52f88-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "sha256": "e3d35089909d122968f7ae9d956cbb9d48f665120d9c025bfaf11a361712921a"
+    },
+    "Productions/E019-the-great-mosquito-war/shelter-art-v003.png": {
+      "source_sha256": "264b2b8ff0839b13ae85d3a9faca31165607566c68de30273a2a3219c4b5f92f",
+      "file": "images/264b2b8ff0839b13ae85.webp",
+      "thumbnail": "images/264b2b8ff0839b13ae85-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "828b5a36d8e3dd0e55266e75eca5058c215db64e35f5fbf2e64a23d85952cc0d"
+    },
+    "Productions/E020-the-great-nighttime-bark-off/gathering-art-v002.png": {
+      "source_sha256": "d37b27e3dbbc4d87cd5e8f44787478b4e1707e165e50dc27a454db669335c3c8",
+      "file": "images/d37b27e3dbbc4d87cd5e.webp",
+      "thumbnail": "images/d37b27e3dbbc4d87cd5e-thumb.webp",
+      "width": 1600,
+      "height": 900,
+      "sha256": "f99bad61a8103475f507ae808267bec41eb189f0817c53c4d2ab44c8a2f66e69"
+    },
+    "Productions/E020-the-great-nighttime-bark-off/echo-art-v002.png": {
+      "source_sha256": "10808b22491feb650572221b6be799bd34afaa8ab8443e261c41acca1cf072e3",
+      "file": "images/10808b22491feb650572.webp",
+      "thumbnail": "images/10808b22491feb650572-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "5b928abe834686daedd94b0de21347af4759ff0420bf2f7ac613930672e6d5f6"
+    },
+    "Productions/E020-the-great-nighttime-bark-off/illustration-v004.png": {
+      "source_sha256": "14a6e41f3cbdee08f299ce55f5caf0fbc2fca5ae3713382a740888dec3c549e2",
+      "file": "images/14a6e41f3cbdee08f299.webp",
+      "thumbnail": "images/14a6e41f3cbdee08f299-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "sha256": "baac241fbbe4da94e268b9b91168ecca2247d27ee0fe9c29b991fa4177f9ff65"
+    },
+    "Productions/E021-the-bittersweet-goodbye/illustration-v004.png": {
+      "source_sha256": "8c392cc8efe7262126ab083ac7bbfd7e47b9262403f7cb67a2769d5de3e9295e",
+      "file": "images/8c392cc8efe7262126ab.webp",
+      "thumbnail": "images/8c392cc8efe7262126ab-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "sha256": "4143850dc1b0a3900f57426f5b90ddf776f40600762032a668f4c63f2586b2da"
+    },
+    "Productions/E021-the-bittersweet-goodbye/airport-art-v003.png": {
+      "source_sha256": "2052fb90b50b15b60109ac47c843af3fc3dc8b68041810e1934eb6b2bdb8a43a",
+      "file": "images/2052fb90b50b15b60109.webp",
+      "thumbnail": "images/2052fb90b50b15b60109-thumb.webp",
+      "width": 1600,
+      "height": 800,
+      "sha256": "c12fd06f0867770ee5f5123264b9b29d9b54efc68988f18c4a049e1d79549452"
+    },
+    "Productions/E021-the-bittersweet-goodbye/arrival-art-v004.png": {
+      "source_sha256": "c9efd5b262bb14f99ea3f4ee77c542bcb75c8a7130d52e773ad83309c164cb5b",
+      "file": "images/c9efd5b262bb14f99ea3.webp",
+      "thumbnail": "images/c9efd5b262bb14f99ea3-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "24472e65c1789e25c71fe9d205c8e86f44b11c467c5b8843356e43168f8225d8"
+    },
+    "Productions/E022-the-lounge-and-airport-madness/samosa-art-v002.png": {
+      "source_sha256": "6fc13d976a88c4b50d2e15bfd062763c0af45bd426a97bc4b168ca78ef72810a",
+      "file": "images/6fc13d976a88c4b50d2e.webp",
+      "thumbnail": "images/6fc13d976a88c4b50d2e-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "cfe660e48224b9af932f7aac6eb01b401fdc2c42b1bf82bf6192622b4071f332"
+    },
+    "Productions/E022-the-lounge-and-airport-madness/recliner-art-v004.png": {
+      "source_sha256": "aa1ddee340e8f5108fbf9373c335e324f29e88f963a85e7968f61d4b2d0db2a0",
+      "file": "images/aa1ddee340e8f5108fbf.webp",
+      "thumbnail": "images/aa1ddee340e8f5108fbf-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "sha256": "a9c12b700b3c3c4c86c5fa25b4bb3be93382eb0ac88221b2be655ec85a479e2b"
+    },
+    "Productions/E022-the-lounge-and-airport-madness/watch-art-v002.png": {
+      "source_sha256": "a8b95b745c43d2d1745997f635f89efee89d533a1e4716235fc4506af1198f1d",
+      "file": "images/a8b95b745c43d2d17459.webp",
+      "thumbnail": "images/a8b95b745c43d2d17459-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "d85af89f145499424e146063417652c377db55c4024cc58cda2f7c18d1f1d3d0"
+    },
+    "Productions/E023-the-business-class-upgrade-disaster/comfort-art-v003.png": {
+      "source_sha256": "aacc36f026c7596b1c5075cfc8edfcbc5c91637603060e0333ea070eac5e1a87",
+      "file": "images/aacc36f026c7596b1c50.webp",
+      "thumbnail": "images/aacc36f026c7596b1c50-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "43f9c9c5c333eee4fa6df9777da96fd8b091d6dfce656443c17efd0626bb5f00"
+    },
+    "Productions/E023-the-business-class-upgrade-disaster/napkins-art-v003.png": {
+      "source_sha256": "ff7175dbbf9deb91a9e79af91f098f4f758aff328825eb176cd17013e72856bb",
+      "file": "images/ff7175dbbf9deb91a9e7.webp",
+      "thumbnail": "images/ff7175dbbf9deb91a9e7-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "01526ab94c402c46e98f33ab2e37a08898694c90b879e7277f3f9269bdae921c"
+    },
+    "Productions/E023-the-business-class-upgrade-disaster/floor-art-v002.png": {
+      "source_sha256": "d9330b63405292d8c55bc7b715c7b952d454a76f76f7c5d5589ee2ce82b3c455",
+      "file": "images/d9330b63405292d8c55b.webp",
+      "thumbnail": "images/d9330b63405292d8c55b-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "sha256": "5ecc1927f325aeac8d788fb42c8106b44fde4a1afbd32b46125a9b697de1e5f0"
+    },
+    "Productions/E024-the-istanbul-layover-debacle/lounge-art-v003.png": {
+      "source_sha256": "fb1fd35b2bb20b672e4bcfeef35cfd58615b1c08ba8577e4cfed89a4654ffb99",
+      "file": "images/fb1fd35b2bb20b672e4b.webp",
+      "thumbnail": "images/fb1fd35b2bb20b672e4b-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "13ceaad2421ee5964ed578a1bdf41809f1191f2cbccead58d7753278f9323424"
+    },
+    "Productions/E024-the-istanbul-layover-debacle/towel-art-v003.png": {
+      "source_sha256": "73bf73679e890b69595f4d5f6e178501ddf5b55d947defc6e9bc04053b172fc7",
+      "file": "images/73bf73679e890b69595f.webp",
+      "thumbnail": "images/73bf73679e890b69595f-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "4e1b938929cbbba4fbac4714618517aa69b471cc87bad21348fc349d49ac1971"
+    },
+    "Productions/E024-the-istanbul-layover-debacle/olive-art-v004.png": {
+      "source_sha256": "f24325a48ed949e96a16a07e897480a77b73c28cb977516ce73deedfb5f11cb9",
+      "file": "images/f24325a48ed949e96a16.webp",
+      "thumbnail": "images/f24325a48ed949e96a16-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "sha256": "f2fa0f2a6893f39dd6315901224c139361336d0450640d751ab1af7c2d179b25"
+    },
+    "Productions/E025-the-return-to-the-u-s-immigration-madness/checkpoint-art-v003.png": {
+      "source_sha256": "30acf900207b89db22eeaed6a941ffd4d4a56daec0c391767b82d630abafec6c",
+      "file": "images/30acf900207b89db22ee.webp",
+      "thumbnail": "images/30acf900207b89db22ee-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "cb75a9f934fa736d3e10487c665699e8d0845dbdd0d44cfe3edf9aec1d3d1baa"
+    },
+    "Productions/E025-the-return-to-the-u-s-immigration-madness/carousel-art-v002.png": {
+      "source_sha256": "bff7c35764cdea896cbe3596c709ccf5cfb849373cbab7b1e0405886c4841e17",
+      "file": "images/bff7c35764cdea896cbe.webp",
+      "thumbnail": "images/bff7c35764cdea896cbe-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "sha256": "17c4e252aacdb161ef4eb28d75a1feda45524d2698304f3356097cf52601d904"
+    },
+    "Productions/E025-the-return-to-the-u-s-immigration-madness/detection-art-v003.png": {
+      "source_sha256": "9d4a9a133890926d9af689fdffe8538f985eac888ddfdac344d363ffa0e42772",
+      "file": "images/9d4a9a133890926d9af6.webp",
+      "thumbnail": "images/9d4a9a133890926d9af6-thumb.webp",
+      "width": 1600,
+      "height": 800,
+      "sha256": "3cacfe47cba2d2c39e22d6c8095809dc5ad774d099c7eb8d2a30e8d2be69509a"
+    },
+    "Productions/E026-the-homecoming-blues/spice-art-v002.png": {
+      "source_sha256": "ea5ed5239a10eb47e1e6bf14118bf053b448e987a5bc051b477deb2e905c6763",
+      "file": "images/ea5ed5239a10eb47e1e6.webp",
+      "thumbnail": "images/ea5ed5239a10eb47e1e6-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "c0e2fdf4575af4f8b5aeaf718a138cc931fd3c52fd6293c9b8d8cf8ef7d31355"
+    },
+    "Productions/E026-the-homecoming-blues/dance-art-v004.png": {
+      "source_sha256": "175f2a74c6e27d324e001d27438e27d2391c9d9e621a45a5fd1ee24437a34ed6",
+      "file": "images/175f2a74c6e27d324e00.webp",
+      "thumbnail": "images/175f2a74c6e27d324e00-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "sha256": "0e8ce41436a37dff24ac24ec3c9387b8633f3146e912c150e90ea04e9eb09cc9"
+    },
+    "Productions/E026-the-homecoming-blues/rain-art-v002.png": {
+      "source_sha256": "b2ce5153d657650cbbba658f25eac48d2217e6ff764f1eb77c2be925e1977c40",
+      "file": "images/b2ce5153d657650cbbba.webp",
+      "thumbnail": "images/b2ce5153d657650cbbba-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "d5cc031d12c1a0888de4d93fdd8e984f6f0ca97cb9fa5ee6cb0c5ecd8fca0c15"
+    },
+    "Productions/E027-heathers-birthday-and-the-aquarium-chaos/jellyfish-art-v002.png": {
+      "source_sha256": "caa440793975c024c5838aad74ee1d4603c396b3b94eb83c19ec22ddaf8e4aa8",
+      "file": "images/caa440793975c024c583.webp",
+      "thumbnail": "images/caa440793975c024c583-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "2ba8374c76ab1754f760a61fd6a46da4e23380466e7f87d43d4dda169a8f4bed"
+    },
+    "Productions/E027-heathers-birthday-and-the-aquarium-chaos/shark-art-v003.png": {
+      "source_sha256": "b1705e27e296446b0f6d937d74f27c009fa0a3b36dadc32bd242b6079590f929",
+      "file": "images/b1705e27e296446b0f6d.webp",
+      "thumbnail": "images/b1705e27e296446b0f6d-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "sha256": "98872d86ace3fbd7bc2a1f9431b4c81080ff2777b91fc1bd4b784669c78932b9"
+    },
+    "Productions/E027-heathers-birthday-and-the-aquarium-chaos/otter-art-v002.png": {
+      "source_sha256": "dd256e456e2028a2cd2f3efe4de680a369b9b9d43ccbf22bbc1b89d5c395a848",
+      "file": "images/dd256e456e2028a2cd2f.webp",
+      "thumbnail": "images/dd256e456e2028a2cd2f-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "ba2c75731c9caddd191b92cf70a2d49086145ba831568c88a2958a6b5615e4c0"
+    },
+    "Productions/E028-the-birthday-get-together-and-the-sheera-cake-saga/setup-v004.png": {
+      "source_sha256": "e79df6041b6d5bb20438b7fc93b92fe4920b159b1a5c82271435cfcbf2e88a7a",
+      "file": "images/e79df6041b6d5bb20438.webp",
+      "thumbnail": "images/e79df6041b6d5bb20438-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "11667b41cece07d6e0125f1d14c66abdfcc27d999010c1e8e86704bfb2daf5d0"
+    },
+    "Productions/E028-the-birthday-get-together-and-the-sheera-cake-saga/ankle-v003.png": {
+      "source_sha256": "42d580d4dc04e3e41a45e3b9f053993f0ec0b1c676d7bde3801ff3365b83f278",
+      "file": "images/42d580d4dc04e3e41a45.webp",
+      "thumbnail": "images/42d580d4dc04e3e41a45-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "c94d125da098151e44b2ab2ee7aa6b3970bafb5989db82529471a29461abc669"
+    },
+    "Productions/E028-the-birthday-get-together-and-the-sheera-cake-saga/cake-v002.png": {
+      "source_sha256": "af259cea1e2b3d05407232aba5c04bf1a29b119a6bcb9785cff40ce87a3deb45",
+      "file": "images/af259cea1e2b3d054072.webp",
+      "thumbnail": "images/af259cea1e2b3d054072-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "sha256": "a040cb363791c8e05051c25c5fff7c117ef29bb88fdffffa60eda132c1bd7e3e"
+    },
+    "Productions/E029-winter-woes-and-the-battle-of-the-backyard/snow-art-v003.png": {
+      "source_sha256": "bfcc32f6d9aefd527dcca09ecadf3eff6b6e6e931580f2c69408a3c5afc1c459",
+      "file": "images/bfcc32f6d9aefd527dcc.webp",
+      "thumbnail": "images/bfcc32f6d9aefd527dcc-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "f9ce9e8b6d73acbf22b133d3f36bcf12a231d7773eaa4bfe2b768dc8c9a8aff8"
+    },
+    "Productions/E029-winter-woes-and-the-battle-of-the-backyard/circles-art-v003.png": {
+      "source_sha256": "21d51108ee5acdfaeab13bf55b342318e7f6c30f4c8367975401cd315428f021",
+      "file": "images/21d51108ee5acdfaeab1.webp",
+      "thumbnail": "images/21d51108ee5acdfaeab1-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "8099138576b80539064decfeaaa6a721d8f6e55d4298d60e6e7790ed5448ebbb"
+    },
+    "Productions/E029-winter-woes-and-the-battle-of-the-backyard/warm-art-v004.png": {
+      "source_sha256": "185341ac02b3109a79794ba2c3feb32de77cf4980f288349c3e9497eccf1279c",
+      "file": "images/185341ac02b3109a7979.webp",
+      "thumbnail": "images/185341ac02b3109a7979-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "sha256": "0bb25bbfe91f387d798d2527bb270876949e50fcab152f3746d9a1ef5943663a"
+    },
+    "Productions/E030-the-temple-visit-and-the-great-gujarati-thali-feast/lion-art-v003.png": {
+      "source_sha256": "48e81e73044167336e5f9e1639db9a08078e79032b3de7b1cd46a9e1011a21d7",
+      "file": "images/48e81e73044167336e5f.webp",
+      "thumbnail": "images/48e81e73044167336e5f-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "sha256": "90053f3e081e551bfa4ad262637dcd179e41e04d23e59c4110d851ce033b8b22"
+    },
+    "Productions/E030-the-temple-visit-and-the-great-gujarati-thali-feast/cafe-art-v003.png": {
+      "source_sha256": "2eb4de7e8498e5af5e91c7d565cec9ad02f5d8799b91cd0047685de66eea3810",
+      "file": "images/2eb4de7e8498e5af5e91.webp",
+      "thumbnail": "images/2eb4de7e8498e5af5e91-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "7bf63f7373a935237aae2277c9c3cdda16ce13768d9729a4af0e7a1afd48f13b"
+    },
+    "Productions/E030-the-temple-visit-and-the-great-gujarati-thali-feast/snack-art-v002.png": {
+      "source_sha256": "678cdf726d4ed1267fd44da03fce08fcb2084a829975b373824c7ec0217c615b",
+      "file": "images/678cdf726d4ed1267fd4.webp",
+      "thumbnail": "images/678cdf726d4ed1267fd4-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "0b619b3870247886de801ddab10548ccfa8878781aff7d5c1d58c29a4506f7bc"
+    },
+    "Productions/E031-buddys-big-dental-adventure-part-1/waiting-art-v003.png": {
+      "source_sha256": "cc34b498cecf1ce46836b080f342dba9cc74b9145621b79907e534c78b0598c2",
+      "file": "images/cc34b498cecf1ce46836.webp",
+      "thumbnail": "images/cc34b498cecf1ce46836-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "sha256": "b6a8c9833acd981308bebac171c250941ec56bc8ca6dbafc7bdbe75342feea2c"
+    },
+    "Productions/E031-buddys-big-dental-adventure-part-1/handoff-art-v003.png": {
+      "source_sha256": "91a06745c5ddb961c6b51650e0d7cf998c41f89cd4f3e7be83bdc9722394ac4c",
+      "file": "images/91a06745c5ddb961c6b5.webp",
+      "thumbnail": "images/91a06745c5ddb961c6b5-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "428d34d1adca38f12dad38217aa219b8c0c8de8f0a9c72e722c5c1b4a41612e6"
+    },
+    "Productions/E031-buddys-big-dental-adventure-part-1/dream-art-v003.png": {
+      "source_sha256": "96178dfe19843a0876b88c9afd4b11d9d24f4ff84ca3a5635c1b437182944ebf",
+      "file": "images/96178dfe19843a0876b8.webp",
+      "thumbnail": "images/96178dfe19843a0876b8-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "9b7aacaeca1a2e5ca69c80e82eef58b289a35e9acb81f2169e85577926ad6b1a"
+    },
+    "Productions/E032-buddys-big-dental-adventure-part-2/recovery-art-v003.png": {
+      "source_sha256": "234fd50f9c01198161fd9b44d11039f515d687f1cebe9ced312aff979889709f",
+      "file": "images/234fd50f9c01198161fd.webp",
+      "thumbnail": "images/234fd50f9c01198161fd-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "1f18d26b081b303afedf213909f564f867f4bcca0dd10cd7f7cef308da1b506b"
+    },
+    "Productions/E032-buddys-big-dental-adventure-part-2/pickup-art-v003.png": {
+      "source_sha256": "73cb4b42cabd925107aebbfa702c00d425b72c9c0582016e9735cd677c5b41ac",
+      "file": "images/73cb4b42cabd925107ae.webp",
+      "thumbnail": "images/73cb4b42cabd925107ae-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "4980b15caf4bc769b56de059bb19b881e83183cfbc550bf3e5917fbd22822e77"
+    },
+    "Productions/E032-buddys-big-dental-adventure-part-2/bush-art-v003.png": {
+      "source_sha256": "d423cd0d52db23c5c01e30280a7582f35e79bd460d1d9979eb86d1b4c4243bff",
+      "file": "images/d423cd0d52db23c5c01e.webp",
+      "thumbnail": "images/d423cd0d52db23c5c01e-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "7a0f04a64fc1e8165f7997fb32f4f0d05d09b0e3b5fd9c85e5f051f66fa3abe1"
+    },
+    "Productions/E032-buddys-big-dental-adventure-part-2/gold-art-v006.png": {
+      "source_sha256": "b22983e4079e7d648a4c420e0b0cfd01972151bdb11eaabd93306cfe9d3ec20e",
+      "file": "images/b22983e4079e7d648a4c.webp",
+      "thumbnail": "images/b22983e4079e7d648a4c-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "sha256": "9dc1df3c2ff5805f103e745d4228046bbf9af3ca5ad5f41e17990fa0b2eda68b"
+    },
+    "Productions/E033-buddy-and-the-golden-glory/opening-art-v006.png": {
+      "source_sha256": "7157e77c36139880529dd95b12249f30f343dbaefefdd387e40344dc2690e42c",
+      "file": "images/7157e77c36139880529d.webp",
+      "thumbnail": "images/7157e77c36139880529d-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "f44e0821198567ba7d9400a5af655533119fe45f2157ed9459f60f0fa5d53381"
+    },
+    "Productions/E033-buddy-and-the-golden-glory/crowd-art-v010.png": {
+      "source_sha256": "6779302972ed3e6bd5bf063e55b819e1cef21179a5f414504f0083440252eae2",
+      "file": "images/6779302972ed3e6bd5bf.webp",
+      "thumbnail": "images/6779302972ed3e6bd5bf-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "sha256": "b11426616d933962ce30c1f8b6d8a5b1f6c2c70fe987c4f94f154b66b82c28c0"
+    },
+    "Productions/E033-buddy-and-the-golden-glory/fork-art-v010.png": {
+      "source_sha256": "a381d75ff0355e8e20de5dcf3754ec661f6a43cac97424d3fbf74ffcc5cc808b",
+      "file": "images/a381d75ff0355e8e20de.webp",
+      "thumbnail": "images/a381d75ff0355e8e20de-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "702b0134e02288987d2ba2d51bc4c46618ab33e85606b1428b482733a010b788"
+    },
+    "Productions/E034-the-stealth-games-begin/p01-bath-art-v003.png": {
+      "source_sha256": "99cce0eff23831e4e46c3bbc96db441130c4b3784ef503aaf5540fa41e3317bf",
+      "file": "images/99cce0eff23831e4e46c.webp",
+      "thumbnail": "images/99cce0eff23831e4e46c-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "5e923bcfd85f79928b821ae7f37f7de29acdea2159173f0a456c3bc71b8fc5e5"
+    },
+    "Productions/E034-the-stealth-games-begin/p02-beanie-art-v003.png": {
+      "source_sha256": "4041fd3f2bfb71b026d32b08ffa27f2ead66874cf986bd3609b0b6366df37a58",
+      "file": "images/4041fd3f2bfb71b026d3.webp",
+      "thumbnail": "images/4041fd3f2bfb71b026d3-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "3283c179ec41da0639ea7c40371af854404de7449fd8fcaf3a6ea6952db996a1"
+    },
+    "Productions/E034-the-stealth-games-begin/p03-todd-art-v004.png": {
+      "source_sha256": "f6fff490dca37e5216115f61027b02a9b068d138164eeb3ed70c2c843bd2b772",
+      "file": "images/f6fff490dca37e521611.webp",
+      "thumbnail": "images/f6fff490dca37e521611-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "aed33f036475014b8ea441090f719b548e9ae73e0a913c88ba6a9a7193458b2e"
+    },
+    "Productions/E034-the-stealth-games-begin/p04-ficus-art-v003.png": {
+      "source_sha256": "8907ae0ec02495d43268cd1a3990c37a1c1810d13f9038d23b03a3cdfa9165c4",
+      "file": "images/8907ae0ec02495d43268.webp",
+      "thumbnail": "images/8907ae0ec02495d43268-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "fee55b3167a67c8d7a0beb30042bbd6a70c776b5b95065199e0f495a4dcf238b"
+    },
+    "Productions/E034-the-stealth-games-begin/p05-stairs-art-v004.png": {
+      "source_sha256": "e3b22eb4183074404266f24fd1036ead7690c640ad6e6f44a99fbe240bf6db21",
+      "file": "images/e3b22eb4183074404266.webp",
+      "thumbnail": "images/e3b22eb4183074404266-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "9f3c400b28d9ba145b438e013486828b3c01896d4c7d099594cfb731df595097"
+    },
+    "Productions/E034-the-stealth-games-begin/a01-diplomacy-art-v003.png": {
+      "source_sha256": "cf30883c31f267089da9ed5698dcb32db97611ca95fbbef7e8b5a0c40ee2d94b",
+      "file": "images/cf30883c31f267089da9.webp",
+      "thumbnail": "images/cf30883c31f267089da9-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "be3b3beca5ea1df6b9f61c4d04d55b6ecb5bc9106a847232f41d7107f6b673bb"
+    },
+    "Productions/E034-the-stealth-games-begin/a02-leaf-art-v004.png": {
+      "source_sha256": "deb31f1cab5e225320392e8743a94633f21716391ad341b848d30c9bda82421c",
+      "file": "images/deb31f1cab5e22532039.webp",
+      "thumbnail": "images/deb31f1cab5e22532039-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "8012209e78b0371854330964f485befa59180baf676e36a1dd9b76689ebb8bee"
+    },
+    "Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/p01-chili-art-v003.png": {
+      "source_sha256": "8bdd25a942c4ded17863912236ed818a93137a849c4b9bf76964696c009fd36c",
+      "file": "images/8bdd25a942c4ded17863.webp",
+      "thumbnail": "images/8bdd25a942c4ded17863-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "808aadc84d203cd52c423c76a12454724a2952b9081994d32bb998b46783b3bd"
+    },
+    "Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/p02-dinner-art-v003.png": {
+      "source_sha256": "db3483f74c27ba90088ea994e87e45a1fa38f7a6ed616d07c80b3e05d140c011",
+      "file": "images/db3483f74c27ba90088e.webp",
+      "thumbnail": "images/db3483f74c27ba90088e-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "ccb75d1844898e2036014beb9ec24cb04ab7e33b27e005aaedb12cf42ce622c4"
+    },
+    "Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/p03-sidewalk-art-v003.png": {
+      "source_sha256": "b28965d75a08b73f9fa173a4fcde79da75506816c7562300436031337a34099a",
+      "file": "images/b28965d75a08b73f9fa1.webp",
+      "thumbnail": "images/b28965d75a08b73f9fa1-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "c34e3283dea6a26be09d859dfcb54e62ce0fac33d37ff897b2107881a33854ee"
+    },
+    "Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/p04-pour-art-v004.png": {
+      "source_sha256": "403b8f9c7281d509b6e3de1ff9d3ab83b9e65284cf7600b3e61fad0f5afc534d",
+      "file": "images/403b8f9c7281d509b6e3.webp",
+      "thumbnail": "images/403b8f9c7281d509b6e3-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "sha256": "318607b48b3816a40e86157ec1a4c362c94ba64400e62810066394b8ab05e82d"
+    },
+    "Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/p05-bowl-art-v004.png": {
+      "source_sha256": "11d19b0c936836aeaf4ef9b68706b917b675733e78d19e78bda89a5c249ae67a",
+      "file": "images/11d19b0c936836aeaf4e.webp",
+      "thumbnail": "images/11d19b0c936836aeaf4e-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "5290b34c9e7edf9dd6f3cce4d731db649f042ccef6fba8d62ef63ef4b6871fbf"
+    },
+    "Productions/E036-the-royal-house-hunt-and-the-negotiation-of-dreams/p01-wishlist-art-v003.png": {
+      "source_sha256": "3af45b3bc753131d08001e698e9486ddd9be5ea9e9e04971b42007b885d051b3",
+      "file": "images/3af45b3bc753131d0800.webp",
+      "thumbnail": "images/3af45b3bc753131d0800-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "83a1340baab999a98925e2f25c857bc7c96952ea5011d668614a201487d45e64"
+    },
+    "Productions/E036-the-royal-house-hunt-and-the-negotiation-of-dreams/p02-pantry-art-v003.png": {
+      "source_sha256": "cb6ed8e7bf91dc8ea7cbfc410e011ab1ccc39cca9cbf78a1e9cdba4eac55c0d9",
+      "file": "images/cb6ed8e7bf91dc8ea7cb.webp",
+      "thumbnail": "images/cb6ed8e7bf91dc8ea7cb-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "7a4215df59f76bc99852682e7e615e5ac7b4d46c7ae80ba0d2fd83d36a4a457f"
+    },
+    "Productions/E036-the-royal-house-hunt-and-the-negotiation-of-dreams/p03-discovery-art-v004.png": {
+      "source_sha256": "05cad16881700731f5735ed1118e2d931d175b51d1c8a33e219a4b5f5f725cf4",
+      "file": "images/05cad16881700731f573.webp",
+      "thumbnail": "images/05cad16881700731f573-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "4119243d96c0dfb9c3c9b99d9f6b2bc2120af9ecaa3c312232af16f2019c1654"
+    },
+    "Productions/E036-the-royal-house-hunt-and-the-negotiation-of-dreams/p04-moving-art-v004.png": {
+      "source_sha256": "3f12b1f1643075a289572efde6153626c097e89537dea460c3d14d576e9f66a4",
+      "file": "images/3f12b1f1643075a28957.webp",
+      "thumbnail": "images/3f12b1f1643075a28957-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "223ffd958914a4fbd97bf7fff2037a1c0cb7d9673cb890eb59f6b65cf42ab67e"
+    },
+    "Productions/E036-the-royal-house-hunt-and-the-negotiation-of-dreams/p05-patio-art-v003.png": {
+      "source_sha256": "0d62fa903ea5dcbeb731b9497189acaa77bd07889738b1fed0419ab7951c1796",
+      "file": "images/0d62fa903ea5dcbeb731.webp",
+      "thumbnail": "images/0d62fa903ea5dcbeb731-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "27e0e5bf6e338bec8f39f96d955f51ffef0e4d8e4c29e840bd4867ee79fa7232"
+    },
+    "Productions/E037-the-midnight-storm-and-the-royal-snack-emergency/p01-bedroom-art-v001.png": {
+      "source_sha256": "a54503df9a0a15ee46e25f0ea24de5337a80145c1ca5558852071a8f36d3465f",
+      "file": "images/a54503df9a0a15ee46e2.webp",
+      "thumbnail": "images/a54503df9a0a15ee46e2-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "sha256": "fa173f2474becd6393d2566dcfc28a3444a4e949a7492445d484b5f231bbb726"
+    },
+    "Productions/E037-the-midnight-storm-and-the-royal-snack-emergency/p02-kitchen-art-v003.png": {
+      "source_sha256": "2a8b0c0be8a690e061306fc89e35cc65459cad196c83688730f31dcd49fafb8e",
+      "file": "images/2a8b0c0be8a690e06130.webp",
+      "thumbnail": "images/2a8b0c0be8a690e06130-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "sha256": "39134171e4062ef60b11ec1bffe68d71582366db759033d36973ce5a305c69f7"
+    },
+    "Productions/E037-the-midnight-storm-and-the-royal-snack-emergency/p03-blanket-art-v002.png": {
+      "source_sha256": "ca995268061ef54fc6de3080da1ccd1fdd10467b0e8afb7bc04f69fbdb5a56a1",
+      "file": "images/ca995268061ef54fc6de.webp",
+      "thumbnail": "images/ca995268061ef54fc6de-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "sha256": "33be51e9edb3036c7b201325a437f62deaa2723ec576ee7622f6e15126dcfbdd"
+    },
+    "Productions/E037-the-midnight-storm-and-the-royal-snack-emergency/p04-bowl-art-v003.png": {
+      "source_sha256": "cad9e16da45acbd60ee3da4ba072d5965199ca47d443c624d912ec2a169307ec",
+      "file": "images/cad9e16da45acbd60ee3.webp",
+      "thumbnail": "images/cad9e16da45acbd60ee3-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "3f761a7edfdae760238bd9680f03cc55fe1787c9ffbd94c7019f509b95b719bf"
+    },
+    "Productions/E037-the-midnight-storm-and-the-royal-snack-emergency/p05-morning-art-v003.png": {
+      "source_sha256": "f35e836d37dc42d408483a3060fb57e18de5201cb4f099ab7429c714044a3ee3",
+      "file": "images/f35e836d37dc42d40848.webp",
+      "thumbnail": "images/f35e836d37dc42d40848-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "sha256": "112b131cc1f1a82584b94813b5a69ed5c23d1ca8a4313c36d09bddaffe03dead"
+    },
+    "Productions/E038-the-smoky-mountain-escapade/p01-departure-art-v003.png": {
+      "source_sha256": "66687160eb42fdbb0c22ccfd088723cc5c1ca36aef975e063727ce2aa498526e",
+      "file": "images/66687160eb42fdbb0c22.webp",
+      "thumbnail": "images/66687160eb42fdbb0c22-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "c587f39309abd838090017e4a9e57e09dc9f060b0b694902a00f353d2070b3e9"
+    },
+    "Productions/E038-the-smoky-mountain-escapade/p02-bridge-art-v003.png": {
+      "source_sha256": "40cad75d382521d198fee5f4dfdf6f8f05506fc3a1c176cf5d50ca1506777506",
+      "file": "images/40cad75d382521d198fe.webp",
+      "thumbnail": "images/40cad75d382521d198fe-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "187c8ad4bf439d1529302ff3ea473ae5db274a53e5aef37737ec8f687bc2ab94"
+    },
+    "Productions/E038-the-smoky-mountain-escapade/p03-lights-art-v003.png": {
+      "source_sha256": "7c51fd5c4f9010769f8d766d4c20f897a15a15af31e34b247319e112df1374e8",
+      "file": "images/7c51fd5c4f9010769f8d.webp",
+      "thumbnail": "images/7c51fd5c4f9010769f8d-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "b2a7cc985afc2377df0c11630995ef5dd3bf66c7e3a9e2ff67bd050f60bc2481"
+    },
+    "Productions/E038-the-smoky-mountain-escapade/p04-bear-art-v005.png": {
+      "source_sha256": "1cf3a68d635ce81b403d9bc8838697b6baf73d21b4d51a0daaee1c84f28ddec1",
+      "file": "images/1cf3a68d635ce81b403d.webp",
+      "thumbnail": "images/1cf3a68d635ce81b403d-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "a62ec07a20f26d5724d1f0cdec31062f47c8761618231cd10a26d0112d799359"
+    },
+    "Productions/E038-the-smoky-mountain-escapade/p05-turkeys-art-v003.png": {
+      "source_sha256": "be3dc10d8582db337685d39684f9cb9e8a0b57e64384bd6f0c6e7a385979d6c7",
+      "file": "images/be3dc10d8582db337685.webp",
+      "thumbnail": "images/be3dc10d8582db337685-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "854f848a41d49d58e0b25f1c0ffa3c2c758e67f7e4d8bc149a85c95963c5947d"
+    },
+    "Productions/E038-the-smoky-mountain-escapade/a01-keurig-art-v003.png": {
+      "source_sha256": "8b5ffd6f33f75b3b52aaeae08de2debb64d2657f8cbdb35ce9c3db6a174505be",
+      "file": "images/8b5ffd6f33f75b3b52aa.webp",
+      "thumbnail": "images/8b5ffd6f33f75b3b52aa-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "1414c5eaedc307a7492627ed1fc7e43a7187d08d8a5b238142f36ef5ac2229c7"
+    },
+    "Productions/E038-the-smoky-mountain-escapade/a02-crust-art-v003.png": {
+      "source_sha256": "4f749476f94dc1c9e98c494507572e86fbac25fcfadc8734ab6b43053bfc33a6",
+      "file": "images/4f749476f94dc1c9e98c.webp",
+      "thumbnail": "images/4f749476f94dc1c9e98c-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "ed13bf6fd2cc98b98bdd517fca3d6962c7e2e0f548eff4ab762d690e23a2c2fa"
+    },
+    "Productions/E039-welcome-to-austin-the-great-inspection/kitchen-art-v002.png": {
+      "source_sha256": "7a8d1410d4b3c48be4e9ca716725a1f1b454439a1b931944bf8180714f2528e9",
+      "file": "images/7a8d1410d4b3c48be4e9.webp",
+      "thumbnail": "images/7a8d1410d4b3c48be4e9-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "edc87e38886435ffa6179f8e865bd4a2e4ba2218b3fff8cdc49dc32edf1d4190"
+    },
+    "Productions/E039-welcome-to-austin-the-great-inspection/flowerpot-art-v002.png": {
+      "source_sha256": "38b7851802c251cfdd6b4d94a5df13b59e5796dc0aa062ffd5d84e5342dc4bcb",
+      "file": "images/38b7851802c251cfdd6b.webp",
+      "thumbnail": "images/38b7851802c251cfdd6b-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "a75b5dd4ac33b7162875963743a3e4cc100f060ecda2848ca06ecc9d8efcd378"
+    },
+    "Productions/E039-welcome-to-austin-the-great-inspection/fence-art-v004.png": {
+      "source_sha256": "fd82e099de6497446721ec0331950737e44e52f7744f42d03efe17a08aea2c28",
+      "file": "images/fd82e099de6497446721.webp",
+      "thumbnail": "images/fd82e099de6497446721-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "0a494689d4b629a764d0fd4546ef84f4f675d5bcfebb0a23aaef0559fbb21aed"
+    },
+    "Productions/E039-welcome-to-austin-the-great-inspection/unpacking-art-v004.png": {
+      "source_sha256": "88473d1c568a5d7531b95f96558dee182f24a35d15509a4f6ea7392f3c0a0abb",
+      "file": "images/88473d1c568a5d7531b9.webp",
+      "thumbnail": "images/88473d1c568a5d7531b9-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "9860d143b79b3377162fed90ceb8afc77f46d4d31e1f468bb863163c3ec117ec"
+    },
+    "Productions/E039-welcome-to-austin-the-great-inspection/pizza-art-v002.png": {
+      "source_sha256": "88dfd9b06553394606522e954a08ea6763946196b2fa7063480f524694dae3d1",
+      "file": "images/88dfd9b0655339460652.webp",
+      "thumbnail": "images/88dfd9b0655339460652-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "a49ef95df7d6bc7344b57d830e7965c7ef6a8c671a42ee06c67803e7cf9ac960"
+    },
+    "Productions/E040-the-first-neighborhood-expedition/pumpkin-art-v004.png": {
+      "source_sha256": "71caf83c08e586d88078a39b8740509019b79dfa529fe9bfdf4b7973386b18c9",
+      "file": "images/71caf83c08e586d88078.webp",
+      "thumbnail": "images/71caf83c08e586d88078-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "17d8fd222207e099c8f2f7f5245a521c79e46b6956018fc449c5b9c8c59ce5ae"
+    },
+    "Productions/E040-the-first-neighborhood-expedition/bouquet-art-v003.png": {
+      "source_sha256": "f56988f85b6af8b7a69da93ac87908c1867019f627ed62b20249398ebc560421",
+      "file": "images/f56988f85b6af8b7a69d.webp",
+      "thumbnail": "images/f56988f85b6af8b7a69d-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "ac0cd52464a8688162db187ed478eb6347bd6a21a37e1a54ef8224d1bda0ba06"
+    },
+    "Productions/E040-the-first-neighborhood-expedition/shepherd-art-v003.png": {
+      "source_sha256": "381e7056b18a40aae9d01bc50d1ce1843c89031ab96181cd65f65bf4cf572856",
+      "file": "images/381e7056b18a40aae9d0.webp",
+      "thumbnail": "images/381e7056b18a40aae9d0-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "cb8119cebe778f9d1afeb71b18d865759bd20f0ea78372bfbc10968f36568561"
+    },
+    "Productions/E040-the-first-neighborhood-expedition/mailbox-art-v003.png": {
+      "source_sha256": "9236276b4a23fe9108626a7d33caf9ae32d2c69f42a26dbf44b9eb700e2548ab",
+      "file": "images/9236276b4a23fe910862.webp",
+      "thumbnail": "images/9236276b4a23fe910862-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "7d8b584786ee06e0ff3b4986b6402071bb71524275d178142fab6278809776da"
+    },
+    "Productions/E040-the-first-neighborhood-expedition/home-art-v003.png": {
+      "source_sha256": "1223c5427965d362754357809fbcf16cda19436c14b27385b936c1bdb87ecb88",
+      "file": "images/1223c5427965d3627543.webp",
+      "thumbnail": "images/1223c5427965d3627543-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "33ef13d2723027718e0e2d69a0cbfa9c37edf1efcb0def294fcdfb1419085f46"
+    },
+    "Productions/E041-the-epic-furniture-fiesta/showroom-art-v006.png": {
+      "source_sha256": "6861709d755102ceac381078159a8a3c6314e7dc68bb0fc93597b4f54325e45a",
+      "file": "images/6861709d755102ceac38.webp",
+      "thumbnail": "images/6861709d755102ceac38-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "664fc0815c8f47985b00204dad18177e43a38a369fbe837ec95a84e899950d16"
+    },
+    "Productions/E041-the-epic-furniture-fiesta/curtain-art-v004.png": {
+      "source_sha256": "bf0e9da210aad8f3ecace10c540b25526d1b2494b63f2b097ea7fa0607429f90",
+      "file": "images/bf0e9da210aad8f3ecac.webp",
+      "thumbnail": "images/bf0e9da210aad8f3ecac-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "216e234397aefce90a8f476d9a1a1f1121d47be8ab4fc1deae0653c5c99d0741"
+    },
+    "Productions/E041-the-epic-furniture-fiesta/captain-art-v005.png": {
+      "source_sha256": "7706ca64f223ce71513d61b5ab76d715655940618010a3b2d59effc0262ae229",
+      "file": "images/7706ca64f223ce71513d.webp",
+      "thumbnail": "images/7706ca64f223ce71513d-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "6441adb52bd5ab3940108e0307a328ce1a4fee3fc06edaa4881b8e732ebf36cb"
+    },
+    "Productions/E041-the-epic-furniture-fiesta/desk-art-v005.png": {
+      "source_sha256": "01ff199520d3fbb2d02c22e4f0ef18685aa1054a795102d73aeb313a939182b3",
+      "file": "images/01ff199520d3fbb2d02c.webp",
+      "thumbnail": "images/01ff199520d3fbb2d02c-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "3955f45a02f93222de610558836f476b10e74f3396dece230890ca3e09715a67"
+    },
+    "Productions/E041-the-epic-furniture-fiesta/shrine-art-v005.png": {
+      "source_sha256": "096f0d7926a70b6fe7ab3723726679ebad73c96d99993c2c6e35a4be708a0627",
+      "file": "images/096f0d7926a70b6fe7ab.webp",
+      "thumbnail": "images/096f0d7926a70b6fe7ab-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "074019e1aba905bb3e1f4260391a72bbb6bab1ec5e1997b6337422a2ecc9a986"
+    },
+    "Productions/E042-the-day-the-bark-stood-still/morning-art-v004.png": {
+      "source_sha256": "77c21c7db4a6581a47d31df167dd852fcc9ff61d9828f0c6d067e1a35a4c41fe",
+      "file": "images/77c21c7db4a6581a47d3.webp",
+      "thumbnail": "images/77c21c7db4a6581a47d3-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "ab9ab763aab240fa56a17924102f70f59ecea4920573188b7f09dfbeb7c15b89"
+    },
+    "Productions/E042-the-day-the-bark-stood-still/kitchen-art-v003.png": {
+      "source_sha256": "1e9a41df3aa3111f6cbd031c7190281424fbfea91fb8acbf34921f916c758cf6",
+      "file": "images/1e9a41df3aa3111f6cbd.webp",
+      "thumbnail": "images/1e9a41df3aa3111f6cbd-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "2dc4df24120284dc06b84a573de2a7415ce7fbd179cd444e57a4c1c6d9784bc5"
+    },
+    "Productions/E042-the-day-the-bark-stood-still/stairs-art-v006.png": {
+      "source_sha256": "9640937add3fbf9089d5b6a804dad2075abdb01969a280efcbc962c35aaed242",
+      "file": "images/9640937add3fbf9089d5.webp",
+      "thumbnail": "images/9640937add3fbf9089d5-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "ff5f7793cd08366ef2602bdc59d333f95388eac2885b6a47d60c19e9faeea769"
+    },
+    "Productions/E043-the-great-laundry-day-uprising/sock-art-v004.png": {
+      "source_sha256": "69bc6aa71f0a34ffb8694309ffc41fa62fa3ee6b9bdb3e22cad77a7c877a31f1",
+      "file": "images/69bc6aa71f0a34ffb869.webp",
+      "thumbnail": "images/69bc6aa71f0a34ffb869-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "79f98040a9e35b8a395a4af8e705f7eb99536116cbe0da2eae1abb5bc0c0c2db"
+    },
+    "Productions/E043-the-great-laundry-day-uprising/dryer-art-v002.png": {
+      "source_sha256": "c8cb31fa2bc9af8cb56ce348f9b0c0fe7eccfbc5b53960b39262db8103b4a2d6",
+      "file": "images/c8cb31fa2bc9af8cb56c.webp",
+      "thumbnail": "images/c8cb31fa2bc9af8cb56c-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "66e1726bcfbce848c4b30058077aac006e3949955ff5d146f3e6a6f00a9ea56e"
+    },
+    "Productions/E043-the-great-laundry-day-uprising/folding-art-v002.png": {
+      "source_sha256": "c11cf9716b4f969c0a81d4065563d3e5b01d711a28e66e7261346f37e4f93e39",
+      "file": "images/c11cf9716b4f969c0a81.webp",
+      "thumbnail": "images/c11cf9716b4f969c0a81-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "81b50826e33a69f2a2d82c1a39dc0109a2acab9c182e59290843a3a282b2f6dc"
+    },
+    "Productions/E044-the-vacuum-wars/sock-retreat-art-v004.png": {
+      "source_sha256": "8eecc68ca393cc83d166926200951a721507133c6a2a2591a9a2768cfd2ae1b7",
+      "file": "images/8eecc68ca393cc83d166.webp",
+      "thumbnail": "images/8eecc68ca393cc83d166-thumb.webp",
+      "width": 1600,
+      "height": 569,
+      "sha256": "c28c91199293381d8d21f35580f8e69b960506b1c9dbb23edccbcc46c37324e9"
+    },
+    "Productions/E044-the-vacuum-wars/illustration-v004.png": {
+      "source_sha256": "5a2658aec2d5bed050813a8bd64bdae7f1b8aa5ffa0341c13bfb2a392199fb21",
+      "file": "images/5a2658aec2d5bed05081.webp",
+      "thumbnail": "images/5a2658aec2d5bed05081-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "a833a10f0159efcb75cefa549e848b9e8f9115cbf5f490e76dac2d643b48d878"
+    },
+    "Productions/E044-the-vacuum-wars/muddy-victory-art-v004.png": {
+      "source_sha256": "9f9d6bb4d06361d1a542c8ebb65eb73609e253a657002b75721dc1aef86b0ff1",
+      "file": "images/9f9d6bb4d06361d1a542.webp",
+      "thumbnail": "images/9f9d6bb4d06361d1a542-thumb.webp",
+      "width": 1600,
+      "height": 800,
+      "sha256": "ef62ef3489d0ee040bdd10fee17ab623802d83d7718799a091d5eec5f7fed1cb"
+    },
+    "Productions/E045-the-robot-vacuum-coup/first-contact-art-v004.png": {
+      "source_sha256": "6a313a3979450fcd98df58a089f7aed4ac8bd68bd02c9d5914f9c43043e0e201",
+      "file": "images/6a313a3979450fcd98df.webp",
+      "thumbnail": "images/6a313a3979450fcd98df-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "f96b2aa8b5057982bccc283fec4b3174a4154d6974a3e912baf6672ca667b1ca"
+    },
+    "Productions/E045-the-robot-vacuum-coup/morning-art-v003.png": {
+      "source_sha256": "2529ab47a035f4259f74dce4f967adff0a6242b76af55941b595f0e443fa068b",
+      "file": "images/2529ab47a035f4259f74.webp",
+      "thumbnail": "images/2529ab47a035f4259f74-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "c3e11874d0fde1aaa471c3a87e2ea735c218d5dde697ed1a3be425080c571e60"
+    },
+    "Productions/E045-the-robot-vacuum-coup/treaty-art-v003.png": {
+      "source_sha256": "1c7be6a29fed3bb0141004486e507385975630b3a881b3d102f67fe03da70abb",
+      "file": "images/1c7be6a29fed3bb01410.webp",
+      "thumbnail": "images/1c7be6a29fed3bb01410-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "930b1e5339f837f67d1566d01cb86f45805004bd4a2dc5e81224ca41b92ad4cc"
+    },
+    "Productions/E046-the-rainbow-drill/storm-art-v004.png": {
+      "source_sha256": "9d2a98141b6a06dc8326744e5e51dac5c530663724320a0da1cf1d7bfe76feeb",
+      "file": "images/9d2a98141b6a06dc8326.webp",
+      "thumbnail": "images/9d2a98141b6a06dc8326-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "820847fb4a75f1a00da60891f46f5d625386bfa4b9d68e8aba71ea49f7e23d35"
+    },
+    "Productions/E046-the-rainbow-drill/cleaning-art-v004.png": {
+      "source_sha256": "1055a5234c2c4df1b477b6fe8d759abb23157fe74864d93491483eee00979481",
+      "file": "images/1055a5234c2c4df1b477.webp",
+      "thumbnail": "images/1055a5234c2c4df1b477-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "33533c28c0c1af9f60962b0adc03005ac86f683d341e87d30c727696c176b9c1"
+    },
+    "Productions/E046-the-rainbow-drill/rainbow-art-v003.png": {
+      "source_sha256": "472cfdc6163c84c90034f0e90b4574c8e38384394d5a70c78d5e58e92153b027",
+      "file": "images/472cfdc6163c84c90034.webp",
+      "thumbnail": "images/472cfdc6163c84c90034-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "ae8f7a4fc178096f45584ef26a811fb2df491e366f3f1ed8f6d5e93b382ecca8"
+    },
+    "Productions/E047-the-kings-birthday/dawn-art-v002.png": {
+      "source_sha256": "6ad1ae5a64a5fce848cd82957416737f3dfc1919261392e4da68f2ec60a554c3",
+      "file": "images/6ad1ae5a64a5fce848cd.webp",
+      "thumbnail": "images/6ad1ae5a64a5fce848cd-thumb.webp",
+      "width": 1600,
+      "height": 800,
+      "sha256": "04bb7c1bfd5510d6dab19e10d0653e4d74a6f45be5e45851017727f92e4e9424"
+    },
+    "Productions/E047-the-kings-birthday/hats-art-v003.png": {
+      "source_sha256": "c337c286e487e57203a1771d1946ecaf29cb9134bdef34a7365b4080e520c49d",
+      "file": "images/c337c286e487e57203a1.webp",
+      "thumbnail": "images/c337c286e487e57203a1-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "sha256": "11d4258ccfb60190fd8393b0f33335a9217ecc889e47910c9f99d603b59131b3"
+    },
+    "Productions/E047-the-kings-birthday/sock-art-v002.png": {
+      "source_sha256": "e361ab7c704451beda4f6f382e73fcd9b42ee5110f11b4b01348bf0ac9fbe179",
+      "file": "images/e361ab7c704451beda4f.webp",
+      "thumbnail": "images/e361ab7c704451beda4f-thumb.webp",
+      "width": 1600,
+      "height": 900,
+      "sha256": "5ffe85564c1517163f245466e5a49a47b432b1a06ad9d705c18732f055b4dda2"
+    },
+    "Productions/E048-the-fall-of-a-quarter-star/fence-art-v003.png": {
+      "source_sha256": "5a8b0c8a1da4576391d64d606663c0bfb76534a52ccf5b48b59689af69140a45",
+      "file": "images/5a8b0c8a1da4576391d6.webp",
+      "thumbnail": "images/5a8b0c8a1da4576391d6-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "a1e46f510bddfdb8108ea41969bd0f4e0de0efca274d45e937576d6e47015c4b"
+    },
+    "Productions/E048-the-fall-of-a-quarter-star/closet-art-v003.png": {
+      "source_sha256": "6ba5b39d44e2cce1af57bc02a2e5840beb5418ce003ded0c9b84f4e5049e6c68",
+      "file": "images/6ba5b39d44e2cce1af57.webp",
+      "thumbnail": "images/6ba5b39d44e2cce1af57-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "dae30cbb14038748901dffe60ad205a81c7fdc1f7f0cc4258f343f470c1f183b"
+    },
+    "Productions/E048-the-fall-of-a-quarter-star/snack-art-v003.png": {
+      "source_sha256": "81fa6e8d9f8a614685d253ef87d49b06cc0e1046cf1e51e43267c042c2849a76",
+      "file": "images/81fa6e8d9f8a614685d2.webp",
+      "thumbnail": "images/81fa6e8d9f8a614685d2-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "05470f52784cedc5ee1939a3908d43c2fcdfc11d7586d9f770e8cb7cf9041a51"
+    },
+    "Productions/E049-the-great-vet-escapade/doorway-art-v005.png": {
+      "source_sha256": "c13c9396943e6b88261b53b088f090ccef76cc64ddcdf1140ef743860bd91523",
+      "file": "images/c13c9396943e6b88261b.webp",
+      "thumbnail": "images/c13c9396943e6b88261b-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "13d180435804fb5bb9f9c64ee3564811a4b637c20dee00bd8de1f6b32da13e2b"
+    },
+    "Productions/E049-the-great-vet-escapade/buddy-paw-art-v002.png": {
+      "source_sha256": "2b0ea528985b116f00f56fe5cde4b1fc59992d3d4ab954d5dc8e39e062a0e09d",
+      "file": "images/2b0ea528985b116f00f5.webp",
+      "thumbnail": "images/2b0ea528985b116f00f5-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "7cc27bcf01932e919dd7148085aecb0f67537861f97e98a2dbd2ba387f30339e"
+    },
+    "Productions/E049-the-great-vet-escapade/neet-paw-art-v002.png": {
+      "source_sha256": "97a48844d0286cf80b15cbe96f93093a3d0ef2d28fddb2ea8fba24db910bb0a3",
+      "file": "images/97a48844d0286cf80b15.webp",
+      "thumbnail": "images/97a48844d0286cf80b15-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "28962154ae8e238f900fc415073f0b2e48ac5147a2b87766e4e884ec3e65a190"
+    },
+    "Productions/E049-the-great-vet-escapade/cookie-paw-art-v003.png": {
+      "source_sha256": "8413b70fb8bbcff0fc5458270bed47801f27493cb3fb44e8868aaa36dfd0557e",
+      "file": "images/8413b70fb8bbcff0fc54.webp",
+      "thumbnail": "images/8413b70fb8bbcff0fc54-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "87d2e6413765dd211907ec027eba1fa17605fed0c9b821920daaaf7be0696ace"
+    },
+    "Productions/E050-the-redemption-crusade-of-the-4-25-star-general/bag-art-v004.png": {
+      "source_sha256": "177ace15388bd07998744a64b63228421ce729f673dbed3d4f3346286b96c4ce",
+      "file": "images/177ace15388bd0799874.webp",
+      "thumbnail": "images/177ace15388bd0799874-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "sha256": "2093b4d284f5ecd1c6fbb9907cf8d8ac421770c00a3d59c6028a80cf8ba255c8"
+    },
+    "Productions/E050-the-redemption-crusade-of-the-4-25-star-general/box-art-v003.png": {
+      "source_sha256": "6d377359890f7c568e369213f37a410dd72db50555378c22734b0b65f2cb402a",
+      "file": "images/6d377359890f7c568e36.webp",
+      "thumbnail": "images/6d377359890f7c568e36-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "90b9ccfed58791fa5c32863af071a1830ade16e5ec2fafbdd1254d7f3543ece0"
+    },
+    "Productions/E050-the-redemption-crusade-of-the-4-25-star-general/tree-art-v003.png": {
+      "source_sha256": "0b4064de3a21cd99a12c556398e6f28e1ab4d7862eff31b3d24ff486ca422fe4",
+      "file": "images/0b4064de3a21cd99a12c.webp",
+      "thumbnail": "images/0b4064de3a21cd99a12c-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "4a0cb2e5b6e83569246435328f892beda6ac05d6f7e260512710123bcf1e552a"
+    },
+    "Productions/E050-the-redemption-crusade-of-the-4-25-star-general/rest-art-v003.png": {
+      "source_sha256": "d7b3ab8055a3d14491d17f2ede175216323c2b08a2b3db0f32c6b1b899133b28",
+      "file": "images/d7b3ab8055a3d14491d1.webp",
+      "thumbnail": "images/d7b3ab8055a3d14491d1-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "1386e998d5dd90dad0157e34764570b65e5c3a674f81d3bf4efeff2e0224d932"
+    },
+    "Productions/E051-the-redemption-of-the-star/alarm-art-v003.png": {
+      "source_sha256": "a8ae5b0d8f33f0a0a8bccddf91891b844b44d9e91df496a8524b18e1f50b7951",
+      "file": "images/a8ae5b0d8f33f0a0a8bc.webp",
+      "thumbnail": "images/a8ae5b0d8f33f0a0a8bc-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "a01d61fc55099f0f5b9bcc866255a0abf9ce7c84a4bf0918b38d2fce7d86c64f"
+    },
+    "Productions/E051-the-redemption-of-the-star/aftermath-art-v004.png": {
+      "source_sha256": "da42ce1bd3cbede1e83c40af239c3d971dda8d1cc3e4ca6edc0ad030ec0eea3c",
+      "file": "images/da42ce1bd3cbede1e83c.webp",
+      "thumbnail": "images/da42ce1bd3cbede1e83c-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "sha256": "fe873fa6b3989f817ee3071e6806e58ba72334d6aaf2bc74270a7606d9ee9667"
+    },
+    "Productions/E051-the-redemption-of-the-star/tribunal-art-v003.png": {
+      "source_sha256": "8b9b9f3622e68c6b5972d1b1725e9f259b6b83d08275053d5a95158497cd1ccc",
+      "file": "images/8b9b9f3622e68c6b5972.webp",
+      "thumbnail": "images/8b9b9f3622e68c6b5972-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "9d8ac4219d75e364c50372a682787dafa9b465d9334bea31aef5389a9100be08"
+    },
+    "Productions/E052-the-arrival-of-ganesha/apple-art-v002.png": {
+      "source_sha256": "23107455ce71e7049571f6e211369774298f884db0591cf51f851cdcec2bf503",
+      "file": "images/23107455ce71e7049571.webp",
+      "thumbnail": "images/23107455ce71e7049571-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "024e11bd9571d28af2760ac8bd10a9bb9a3aaba70eaf080fd297aed224bb04d8"
+    },
+    "Productions/E052-the-arrival-of-ganesha/choir-art-v005.png": {
+      "source_sha256": "9dfcae9e03a22f700da41047f65740e554b3b262e43d06aedea22ec250eecbc3",
+      "file": "images/9dfcae9e03a22f700da4.webp",
+      "thumbnail": "images/9dfcae9e03a22f700da4-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "b48dc9f2c67cf6f4f56e77ac679925f314510cf1d2b56f4a54c1bb7e8b9f9379"
+    },
+    "Productions/E052-the-arrival-of-ganesha/offering-art-v003.png": {
+      "source_sha256": "1a3ff4ab4947cc7335b8e90d1cc1670fa344917d833bfc917fafb3c0e55becd8",
+      "file": "images/1a3ff4ab4947cc7335b8.webp",
+      "thumbnail": "images/1a3ff4ab4947cc7335b8-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "sha256": "f31090a1f255e99961cca41a0c2eeb3c68a55c1e05cf0abec27e9c6a89efb9fc"
+    },
+    "Productions/E052-the-arrival-of-ganesha/evening-art-v002.png": {
+      "source_sha256": "7d912eb3589f2e7ef4fc29eb16ad66e7ab06feccffee317bb4efe75bc4d5d358",
+      "file": "images/7d912eb3589f2e7ef4fc.webp",
+      "thumbnail": "images/7d912eb3589f2e7ef4fc-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "a4ecbf2d31ff633d378113b20ea257c7c9a6d841d9d877f6484837d79a559f37"
+    },
+    "Productions/E053-the-midnight-counsel-of-ganesha/modaks-art-v004.png": {
+      "source_sha256": "8fb609edd22107b86cfccb5dc6e9835060654d84cd6c36dd3f9bdf72574301ce",
+      "file": "images/8fb609edd22107b86cfc.webp",
+      "thumbnail": "images/8fb609edd22107b86cfc-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "sha256": "93a1e1fc419ba31916192de5971574567ab75abd90b7649656dcf94566a3375a"
+    },
+    "Productions/E053-the-midnight-counsel-of-ganesha/study-art-v004.png": {
+      "source_sha256": "7da4e8abca99f7edd3dd1e6bf73d5708c55a685f57cdb959662f7b553c3f56ef",
+      "file": "images/7da4e8abca99f7edd3dd.webp",
+      "thumbnail": "images/7da4e8abca99f7edd3dd-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "0f58540e58200e4797e525ed442f74365c9592135ee25948def2771b7ffd6cf3"
+    },
+    "Productions/E053-the-midnight-counsel-of-ganesha/counsel-art-v004.png": {
+      "source_sha256": "1a3a764c41773e044abd4e645279ebf09a059ff7bcdfada7c64df9b34f918474",
+      "file": "images/1a3a764c41773e044abd.webp",
+      "thumbnail": "images/1a3a764c41773e044abd-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "sha256": "fab666e74d415c560559e0e20627c23384a45c2bb20b215156ea51249ca33b72"
+    },
+    "Productions/E054-the-visarjan-protocol/morning-art-v003.png": {
+      "source_sha256": "6c032fb199846efd13ad27982fbcc41f051f7eecff4b2b7165f3698ed9cb17dc",
+      "file": "images/6c032fb199846efd13ad.webp",
+      "thumbnail": "images/6c032fb199846efd13ad-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "c3b947cc69fd36608015c5aa7c573f84c25b13eb91e42412ae91fadd372831be"
+    },
+    "Productions/E054-the-visarjan-protocol/shore-art-v004.png": {
+      "source_sha256": "829ce98f4f7f44a71c6a373328fdc2118bb2e3c407f6c70d0f5c41fbefb3e4c9",
+      "file": "images/829ce98f4f7f44a71c6a.webp",
+      "thumbnail": "images/829ce98f4f7f44a71c6a-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "70c61ee5e618f24e6f1f039d814eca6be574aa07600e884daa9786b552d6d7b6"
+    },
+    "Productions/E054-the-visarjan-protocol/closing-art-v005.png": {
+      "source_sha256": "b8555904c45b254af108a3547bf11dd0037a865dd3cad5b601069365be251be9",
+      "file": "images/b8555904c45b254af108.webp",
+      "thumbnail": "images/b8555904c45b254af108-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "sha256": "cb6b6c7b332a9205b81e37b7ca6198e2a97ce5a7e5955d95fc0532ea0db3ca9c"
+    },
+    "Productions/E055-the-invisible-mentor/lunch-art-v004.png": {
+      "source_sha256": "19301242269260a46acd4a8dbef2d462361e72ee07ab287d3a418ef21c6fc5ea",
+      "file": "images/19301242269260a46acd.webp",
+      "thumbnail": "images/19301242269260a46acd-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "313ca5b4b4431f008f557e9db373700509cbad2ed1ca57a0d77bbea35a422ee4"
+    },
+    "Productions/E055-the-invisible-mentor/zen-art-v005.png": {
+      "source_sha256": "96fa422e0c670f9396f650e3e2bdbfa2bef27b620b3ee049cf7d8a247e0dbb61",
+      "file": "images/96fa422e0c670f9396f6.webp",
+      "thumbnail": "images/96fa422e0c670f9396f6-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "6120e110bce2eefaeb310c1127e90a76c704a97ff22441d90d1fa5b2ad9f0ab3"
+    },
+    "Productions/E055-the-invisible-mentor/night-art-v004.png": {
+      "source_sha256": "11abe914a250f554625b18226a35ec34da34dc5a4552f7287bbdd9d922deb1f1",
+      "file": "images/11abe914a250f554625b.webp",
+      "thumbnail": "images/11abe914a250f554625b-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "sha256": "1fbe098b8e028390763aec60631a8d8866128224794a3b6d75c36fe3edd6aabe"
+    },
+    "Productions/E056-the-day-trip-to-pedernales-falls/cow-art-v005.png": {
+      "source_sha256": "ea3e8d7ecc2a96cd7f08127aad1b6b8c7ea492693e947e3ba3d2d7eaa74822c4",
+      "file": "images/ea3e8d7ecc2a96cd7f08.webp",
+      "thumbnail": "images/ea3e8d7ecc2a96cd7f08-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "sha256": "0a00fade1a2d7055760e0cbcbe25ce504b260f568030667bbeaab38042322014"
+    },
+    "Productions/E056-the-day-trip-to-pedernales-falls/stairs-art-v005.png": {
+      "source_sha256": "f0de097a511157b1dd23fc754501696b9e991cf631d72a5e3dd394a546bbb901",
+      "file": "images/f0de097a511157b1dd23.webp",
+      "thumbnail": "images/f0de097a511157b1dd23-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "sha256": "e773072495388925aefa3532286f4e2a17ef20c01fd22871cfbe92504122748f"
+    },
+    "Productions/E056-the-day-trip-to-pedernales-falls/photo-art-v004.png": {
+      "source_sha256": "94cd1e473724c55f25d3ad673123f1c94f6ed91afbd2b8b11f77e4e20d7761c1",
+      "file": "images/94cd1e473724c55f25d3.webp",
+      "thumbnail": "images/94cd1e473724c55f25d3-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "sha256": "fb6c223aedd0d12413a79c797102579519d368353725284170c6c4acf5afc026"
+    },
+    "Productions/E056-the-day-trip-to-pedernales-falls/paw-art-v003.png": {
+      "source_sha256": "b56978131c7050d890aee9068151b140614fed7e320585d0325d8b3c494c1225",
+      "file": "images/b56978131c7050d890ae.webp",
+      "thumbnail": "images/b56978131c7050d890ae-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "sha256": "6e5894d62de3612d7c06416d4cf0fc0b13d6c173774ef464d70a0935c36f2ca2"
+    },
+    "Productions/E057-the-tunnel-to-india-or-faith-vs-physics/illustration-v004.png": {
+      "source_sha256": "f24529404b87303379f5114baf34ce7db5129c80b5d73407cb03571d4f365bb3",
+      "file": "images/f24529404b87303379f5.webp",
+      "thumbnail": "images/f24529404b87303379f5-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "sha256": "7f975dd7ba895e0bce077efbd95297e6311dae8a9625e4891b750037710665e7"
+    },
+    "Productions/E057-the-tunnel-to-india-or-faith-vs-physics/speech-art-v003.png": {
+      "source_sha256": "1d9e6300987b68dbbfe7c1ab72047b10d7072a2022575f32c678662a28f52530",
+      "file": "images/1d9e6300987b68dbbfe7.webp",
+      "thumbnail": "images/1d9e6300987b68dbbfe7-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "sha256": "db22677b8045a9d043d4145bef95fc470ff7b00b34711c2849cf8eb169892ad2"
+    },
+    "Productions/E057-the-tunnel-to-india-or-faith-vs-physics/delegation-art-v004.png": {
+      "source_sha256": "cfd75f4b17ada58df482c6da455542ad4f610be3ae9faa431c7ac0098792f1af",
+      "file": "images/cfd75f4b17ada58df482.webp",
+      "thumbnail": "images/cfd75f4b17ada58df482-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "sha256": "640e29992b5a2a1a8ae87133a510ecad4e7f3364eb5cf7846a6e811bdfa9bd19"
+    },
+    "Productions/E058-the-era-of-the-cool-ball/discovery-coat-v004.png": {
+      "source_sha256": "068fb9cea95871006fa1e7e1d03b9116cdf97a058c30370a5de1e663d616c2ef",
+      "file": "images/068fb9cea95871006fa1.webp",
+      "thumbnail": "images/068fb9cea95871006fa1-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "sha256": "834bba4b8be820218af26b94cf18b694890edda93a69f1498c3881edbb121de5"
+    },
+    "Productions/E058-the-era-of-the-cool-ball/window-wrong-moon-v002.png": {
+      "source_sha256": "0dcdd9a58225d952c3452f08613becd938cdfb1c7c7e6b844079d74889973453",
+      "file": "images/0dcdd9a58225d952c345.webp",
+      "thumbnail": "images/0dcdd9a58225d952c345-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "c09a249c0e05c1e868ef92528fcd8908e63caf22fe91a995af25094754072f41"
+    },
+    "Productions/E058-the-era-of-the-cool-ball/buddys-turn-v003.png": {
+      "source_sha256": "b08bf40edabf2dc5385e4e9cf06378ac88b171380deeaaba531fe29e2d2d579f",
+      "file": "images/b08bf40edabf2dc5385e.webp",
+      "thumbnail": "images/b08bf40edabf2dc5385e-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "55c3ef1e63deeeafd8f3f590ae5ace435dff18937e7ab7d48c5f57e5b3473d5b"
+    },
+    "Productions/E059-the-fire-conspiracy/p01-purchase-art-v003.png": {
+      "source_sha256": "c3afb775adef938a1ff7749e97a3651ac578d682b3cdb022aad24c5520ba0d73",
+      "file": "images/c3afb775adef938a1ff7.webp",
+      "thumbnail": "images/c3afb775adef938a1ff7-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "sha256": "334feccd7a3e6aff622cf1079d8b1d21fc3a18074fc9156fee07d3c01ac5ddcc"
+    },
+    "Productions/E059-the-fire-conspiracy/p02-setup-art-v003.png": {
+      "source_sha256": "474dbc3340c2f71738354ad521a4b8b98f1aef387f45f8b5f17e73720bc28ef2",
+      "file": "images/474dbc3340c2f7173835.webp",
+      "thumbnail": "images/474dbc3340c2f7173835-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "sha256": "5cbeda343ede972975e509ec0b25f299e79bb2894134feb664d03d9e57ac0bb4"
+    },
+    "Productions/E059-the-fire-conspiracy/p03-boundary-art-v004.png": {
+      "source_sha256": "5493c520dfa3642f7b56455bf6d548b92da9d42de7bb671a913cdeb9c996707c",
+      "file": "images/5493c520dfa3642f7b56.webp",
+      "thumbnail": "images/5493c520dfa3642f7b56-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "sha256": "f10a1012e1b8aa4c948bc34381fba6b0d71b149b840284f9e8bcdee8e0db2fbd"
+    },
+    "Productions/E059-the-fire-conspiracy/p04-neighbor-art-v003.png": {
+      "source_sha256": "56c89375012268e5fcfc39ca6a50b885de5e8bdbedfab051b11c4047c2d70dbb",
+      "file": "images/56c89375012268e5fcfc.webp",
+      "thumbnail": "images/56c89375012268e5fcfc-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "sha256": "694a55790980ce54ae9ad5aa5bee18f9da807665bfea75a7e75d988eb2febeca"
+    },
+    "Productions/E059-the-fire-conspiracy/p05-extinguishing-art-v003.png": {
+      "source_sha256": "233f6e353f9314293c481f7a69f44c1b9f1bac8a524551c32797d345ad9b5fb0",
+      "file": "images/233f6e353f9314293c48.webp",
+      "thumbnail": "images/233f6e353f9314293c48-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "sha256": "8a86e89421d45bdf6e5ad21ccea1e7af4576cc735690fb6367f4a2e0e000a519"
+    },
+    "Productions/E060-the-barkgpt-protocol/helper-introduction-v003.png": {
+      "source_sha256": "71bf5277a5b9134139caae42c0c414d1a2403ee92ecd8c59a00e82efc9ab342b",
+      "file": "images/71bf5277a5b9134139ca.webp",
+      "thumbnail": "images/71bf5277a5b9134139ca-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "sha256": "426cdc54c18bf778daf8070bafa3399088e86c732cfdbe89e0d35694658a760f"
+    },
+    "Productions/E060-the-barkgpt-protocol/storm-comfort-v004.png": {
+      "source_sha256": "2d833aa77f19c7ab54e3f50d43d91511cea2c5c2bc55fdfd2dc076c250be945b",
+      "file": "images/2d833aa77f19c7ab54e3.webp",
+      "thumbnail": "images/2d833aa77f19c7ab54e3-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "sha256": "7436a3ce1b30a4ec051e98c123b98beed89c4f192ae3fea2234c33884b032417"
+    },
+    "Productions/E060-the-barkgpt-protocol/ball-trade-v003.png": {
+      "source_sha256": "161a76259c96c6564993c97cbe617d1439643afad47ee2b2921966792aca64a7",
+      "file": "images/161a76259c96c6564993.webp",
+      "thumbnail": "images/161a76259c96c6564993-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "sha256": "00962ac71f08828068e992d5a4f8350c1c431f504104374dff3b923a7593f1a9"
+    },
+    "Productions/E060-the-barkgpt-protocol/scheme-coat-v005.png": {
+      "source_sha256": "182840e46eed6e15905e29b9eee25eef1b942dcfe667af984219f0d2ddcaa8a9",
+      "file": "images/182840e46eed6e15905e.webp",
+      "thumbnail": "images/182840e46eed6e15905e-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "sha256": "d2f064a33dc4c3ee6e9a82a79a82ea6cc019412f95268ce3ecda3f1b0bf3e347"
+    },
+    "Productions/E060-the-barkgpt-protocol/photo-squeak-v003.png": {
+      "source_sha256": "fd4ec61a1c0f4096a67a59dabccd2ad33755ccdec77930a62b11c2bdb3afdf05",
+      "file": "images/fd4ec61a1c0f4096a67a.webp",
+      "thumbnail": "images/fd4ec61a1c0f4096a67a-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "sha256": "a6bebc8dd856800e42282ac420423cca936cc9d7c9768c84e2b25452c3478b2b"
+    },
+    "Productions/E061-the-dragon-the-satellites-and-the-spider/setup-v004.png": {
+      "source_sha256": "35e0d01a2166d2f32886999319546a7d35bb17fed4e9daed9e6a69e771c74c84",
+      "file": "images/35e0d01a2166d2f32886.webp",
+      "thumbnail": "images/35e0d01a2166d2f32886-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "406c8f060ce5f4ee1b83832495e8c4b8d76941981b859413d772423821677c41"
+    },
+    "Productions/E061-the-dragon-the-satellites-and-the-spider/fire-v005.png": {
+      "source_sha256": "7f7ab421360025a80011223e545a53ed1036313ccd6b34933720e64b36929b3d",
+      "file": "images/7f7ab421360025a80011.webp",
+      "thumbnail": "images/7f7ab421360025a80011-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "f9298f90cb21ba2ad9cc684e8671f0b2f808ed4bec4ad9611530b797cbd37546"
+    },
+    "Productions/E061-the-dragon-the-satellites-and-the-spider/spider-v006.png": {
+      "source_sha256": "b15b724d4205d6c4a57e8fedfe6941b7ea136f7ffdae44ce9cbbd78093bdcaa3",
+      "file": "images/b15b724d4205d6c4a57e.webp",
+      "thumbnail": "images/b15b724d4205d6c4a57e-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "ef25d42ff89cba50a2286cbaaa56ea68d41386ad29b04d7eb28605bb5b880894"
+    },
+    "Productions/E062-tooth-rituals-leaf-wars-and-balcony-betrayals-as-told-by-neet-defender-of-the-realm-drama-enthusiast/tooth-art-v002.png": {
+      "source_sha256": "b5d235acea9aa849066c1002aa5fc27a4ce7254c115f258d6e8b421d542270ba",
+      "file": "images/b5d235acea9aa849066c.webp",
+      "thumbnail": "images/b5d235acea9aa849066c-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "52ea1ef1431bdd277f7bc7de76e22560ef53f455a6f07482e1a3dee035b13078"
+    },
+    "Productions/E062-tooth-rituals-leaf-wars-and-balcony-betrayals-as-told-by-neet-defender-of-the-realm-drama-enthusiast/leaf-art-v004.png": {
+      "source_sha256": "2069eee64bb5f084101a4e4daa11959075b5c60323e802800e60e8906884b058",
+      "file": "images/2069eee64bb5f084101a.webp",
+      "thumbnail": "images/2069eee64bb5f084101a-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "db360f58bf88a8845017f855e2477c5983bbd0b9798e8748d97f9e46748e2554"
+    },
+    "Productions/E062-tooth-rituals-leaf-wars-and-balcony-betrayals-as-told-by-neet-defender-of-the-realm-drama-enthusiast/balcony-art-v003.png": {
+      "source_sha256": "6b349d7d93d66ba238a519a57b7c1a557e8f83f567b132b1f326db734354b50a",
+      "file": "images/6b349d7d93d66ba238a5.webp",
+      "thumbnail": "images/6b349d7d93d66ba238a5-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "3ffaf00a55a661b0d233131d4a4cbfcb5867fcdeb6f413f40942eff742e984d3"
+    },
+    "Productions/E063-the-field-trip-to-love-high-and-the-gospel-of-good-ass-prana/morning-art-v004.png": {
+      "source_sha256": "8aaa0ee9cebb72729fb7a84d8b3859423b3d54f1c9715c23ad9dc70547978f04",
+      "file": "images/8aaa0ee9cebb72729fb7.webp",
+      "thumbnail": "images/8aaa0ee9cebb72729fb7-thumb.webp",
+      "width": 1600,
+      "height": 800,
+      "sha256": "33f7e5bdfdfc4dec2fb0c70eeadfdace9dbe417dac1c13749499046ddbbf5f15"
+    },
+    "Productions/E063-the-field-trip-to-love-high-and-the-gospel-of-good-ass-prana/fetch-art-v004.png": {
+      "source_sha256": "ead6e3bfe9b44b2d1f1d56a116b9c806d001975368c7ab36aec8a6f01b79cb24",
+      "file": "images/ead6e3bfe9b44b2d1f1d.webp",
+      "thumbnail": "images/ead6e3bfe9b44b2d1f1d-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "sha256": "818b98dff251a3192a3d191a196097c3ced728a8eb3c9d4a1a01471cf1af0a9e"
+    },
+    "Productions/E063-the-field-trip-to-love-high-and-the-gospel-of-good-ass-prana/sheera-art-v004.png": {
+      "source_sha256": "9a478a84467c0c91455d912fc84cfce518587bc6167b3bd09c143624f7a4b7a4",
+      "file": "images/9a478a84467c0c91455d.webp",
+      "thumbnail": "images/9a478a84467c0c91455d-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "sha256": "b6b740663cb6c08cef287264af7e3c446fadcc996dfcbbe058329f062e7ec98a"
+    },
+    "Productions/E064-the-great-paneer-balcony-scandal/balcony-v003.png": {
+      "source_sha256": "1f56bd1fcb0fcf92f77259b179bf1cda0f93967a42abbc73c0cdd29191a00a1a",
+      "file": "images/1f56bd1fcb0fcf92f772.webp",
+      "thumbnail": "images/1f56bd1fcb0fcf92f772-thumb.webp",
+      "width": 1600,
+      "height": 800,
+      "sha256": "f6ae9eee97e3def6aeee2efb7517557aea3e537c4a15fbc13801415ac10e26b3"
+    },
+    "Productions/E064-the-great-paneer-balcony-scandal/training-v003.png": {
+      "source_sha256": "0967d78d35b4bbd1aded49e74719a55b0025e613e354f83b5301ed4bb60f9429",
+      "file": "images/0967d78d35b4bbd1aded.webp",
+      "thumbnail": "images/0967d78d35b4bbd1aded-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "sha256": "f9475123bb4d6da2640223feea9633cbd5ffffa680fbd51b9026e11eaa3f8dab"
+    },
+    "Productions/E064-the-great-paneer-balcony-scandal/payoff-v003.png": {
+      "source_sha256": "58be2db01ea050c1efac20f685bd08ba3c64cbb5a84eef3e94c976a2c9c4b0ec",
+      "file": "images/58be2db01ea050c1efac.webp",
+      "thumbnail": "images/58be2db01ea050c1efac-thumb.webp",
+      "width": 1600,
+      "height": 800,
+      "sha256": "09c8e8fe4d7e88284489dcd6a610946e921e4001af0646995e665560a9933871"
+    },
+    "Productions/E065-the-winged-menace/armrest-v005.png": {
+      "source_sha256": "34ba05ac4a3f040f90147d156548549d1efae5de7457a6dd331e465f8762f89b",
+      "file": "images/34ba05ac4a3f040f9014.webp",
+      "thumbnail": "images/34ba05ac4a3f040f9014-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "sha256": "bb34e08c4889955fcc0f6fef3970f83bdeace52395b64d1a091d7d457ecfa97f"
+    },
+    "Productions/E065-the-winged-menace/nap-v006.png": {
+      "source_sha256": "1b7cb3eb33c07cabc4fd841db949dadcb52c1d829ee126dfa463ba404f41a0f0",
+      "file": "images/1b7cb3eb33c07cabc4fd.webp",
+      "thumbnail": "images/1b7cb3eb33c07cabc4fd-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "adc96851a4a691d30ae1c275633ec8946e777032f3479ff584de62f95e7a7e81"
+    },
+    "Productions/E065-the-winged-menace/payoff-v005.png": {
+      "source_sha256": "b02755a0e17a875aa9f2bbab7366757c063cf32d2ccbbe5e7e4192375463535e",
+      "file": "images/b02755a0e17a875aa9f2.webp",
+      "thumbnail": "images/b02755a0e17a875aa9f2-thumb.webp",
+      "width": 1600,
+      "height": 800,
+      "sha256": "400749ea35cb8715ec70303aefb66795278627d3d65aa1bce4a2dc922e393d23"
+    },
+    "Productions/E066-the-psychic-roti-and-the-ball-of-destiny/scene01-v003.png": {
+      "source_sha256": "2534a180564b7a3251424f3c12c37ad088e804d4329a9757df53b96b5580269b",
+      "file": "images/2534a180564b7a325142.webp",
+      "thumbnail": "images/2534a180564b7a325142-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "ef5bf79263d166b31878c565d7d08e13ad90a3307af3ce04c8d4bda9275ce3b6"
+    },
+    "Productions/E066-the-psychic-roti-and-the-ball-of-destiny/scene02-v005.png": {
+      "source_sha256": "40bb98f27e1193e9bdd907e762dcec208106cb2d561048cd678fc50afd2d733e",
+      "file": "images/40bb98f27e1193e9bdd9.webp",
+      "thumbnail": "images/40bb98f27e1193e9bdd9-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "f3a78bd8b036ff4d6834de299da8257693ee803298ba018e475ee767a7d9aa3b"
+    },
+    "Productions/E066-the-psychic-roti-and-the-ball-of-destiny/scene03-v005.png": {
+      "source_sha256": "c37bec4971b49746bde07c0150faab9ce0e85b42315996b034435d2b1f60a024",
+      "file": "images/c37bec4971b49746bde0.webp",
+      "thumbnail": "images/c37bec4971b49746bde0-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "8cd723ecc2d1f74755d83745547a9cc8116942ce43442c5507e2c8ec4c0f5c8f"
+    },
+    "Productions/E067-the-scandal-of-sweet-kulfi/scene01-v003.png": {
+      "source_sha256": "9810e2ea7f286be7be89b1431c0d6bd7786e8d96104d2762e4d25441146dbf22",
+      "file": "images/9810e2ea7f286be7be89.webp",
+      "thumbnail": "images/9810e2ea7f286be7be89-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "5fe56f0142321df996e375ecac92af422230fa3513cfb49e6d166d16de11e548"
+    },
+    "Productions/E067-the-scandal-of-sweet-kulfi/scene02-v003.png": {
+      "source_sha256": "02da3ed0ae365d54aa6d083aa7f8ecf1159ae8753cfdd0b54740e0de7be909b0",
+      "file": "images/02da3ed0ae365d54aa6d.webp",
+      "thumbnail": "images/02da3ed0ae365d54aa6d-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "sha256": "490ec1dab21831a686289b375c6f6596ab8e29b0f7b7a32f61928b2c20381a2e"
+    },
+    "Productions/E067-the-scandal-of-sweet-kulfi/scene03-v003.png": {
+      "source_sha256": "31c07c4e25ab6f34cb3466a02d3ea2182f1e5a929a000396b0370274d4455a25",
+      "file": "images/31c07c4e25ab6f34cb34.webp",
+      "thumbnail": "images/31c07c4e25ab6f34cb34-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "ae339d0b70541b7cae7204f5c1cb99239980eab79d1ccfe833ce3738f6b00ffd"
+    },
+    "Productions/E068-the-piedmont-park-wedding/rings-art-v005.png": {
+      "source_sha256": "6b93ea618b10d3ee7dd4cb1cbb21c4daa123ac30fb5f3f046f58265a22f9f208",
+      "file": "images/6b93ea618b10d3ee7dd4.webp",
+      "thumbnail": "images/6b93ea618b10d3ee7dd4-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "f6985555960f587ef3db43fc32c8930e8b14b5a3b2c4ae1898f4eeff7f8b74df"
+    },
+    "Productions/E068-the-piedmont-park-wedding/dance-art-v003.png": {
+      "source_sha256": "d9cea50a8d37ceee476b0e01707768fa732530a4c895c6a7db2d471389437f26",
+      "file": "images/d9cea50a8d37ceee476b.webp",
+      "thumbnail": "images/d9cea50a8d37ceee476b-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "e8f43ab98f671ead9f04ab57364a5bea68202de4f48bbd2bfa83a100b19370eb"
+    },
+    "Productions/E068-the-piedmont-park-wedding/picnic-art-v004.png": {
+      "source_sha256": "27acca1bc0a6c373cad4058063e05c0817dbf730de7ea5407fab80c56f14056f",
+      "file": "images/27acca1bc0a6c373cad4.webp",
+      "thumbnail": "images/27acca1bc0a6c373cad4-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "f76d02abb270bcb326f1572774b18fafd4c42852c79e7193c8df125e712c1237"
+    },
+    "Productions/E069-the-festival-of-lights/scene01-shop-v005.png": {
+      "source_sha256": "a00d64bd07597f99a588bb61c686160ea4ca5a17be9cc6dbb9da9bada77f4904",
+      "file": "images/a00d64bd07597f99a588.webp",
+      "thumbnail": "images/a00d64bd07597f99a588-thumb.webp",
+      "width": 1600,
+      "height": 589,
+      "sha256": "b9f4e9e3fe2c48f9c2c2d591873010b02513dc09c796960c79965cebd283728f"
+    },
+    "Productions/E069-the-festival-of-lights/scene02-door-v005.png": {
+      "source_sha256": "2046cc131df60c9dd6cd9ae48717aad458fb7cd923fca7786a178d65e1e170a5",
+      "file": "images/2046cc131df60c9dd6cd.webp",
+      "thumbnail": "images/2046cc131df60c9dd6cd-thumb.webp",
+      "width": 1600,
+      "height": 589,
+      "sha256": "9485b64c1beccdcc23991ef668c91d11f5b04850ebbfa1540c7d7696399c2ada"
+    },
+    "Productions/E069-the-festival-of-lights/scene03-home-v002.png": {
+      "source_sha256": "315cb1f26e61e30cb375f93ed83c679ad054b98c7baebead8354fbf7e60ef07c",
+      "file": "images/315cb1f26e61e30cb375.webp",
+      "thumbnail": "images/315cb1f26e61e30cb375-thumb.webp",
+      "width": 1600,
+      "height": 590,
+      "sha256": "a6c6ff3833acfa846e1540338fc1a71a29a9415dffb59f56c1718a94e181300c"
+    },
+    "Productions/E070-the-great-houston-expedition/jerky-art-v004.png": {
+      "source_sha256": "9a25612541703ee86b60f9ae68a9d082004429cb3bc80d7d52b166ed496c2e5d",
+      "file": "images/9a25612541703ee86b60.webp",
+      "thumbnail": "images/9a25612541703ee86b60-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "168807a4a357b94617d424bcec36c035c1765daff84127fcb0667dd0fcb0430d"
+    },
+    "Productions/E070-the-great-houston-expedition/door-art-v003.png": {
+      "source_sha256": "451634512a4d5be0215ab2482aef7cd006e457121c26f4d8d7965b991eefdf59",
+      "file": "images/451634512a4d5be0215a.webp",
+      "thumbnail": "images/451634512a4d5be0215a-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "sha256": "04bf1958b9c312f5c33a8ac2cc260c2ca6b72ba84d9bbbb997e6a49d71e89728"
+    },
+    "Productions/E070-the-great-houston-expedition/skyline-art-v003.png": {
+      "source_sha256": "e03f6f4176a51da1ecd28968530c378ffb09d2f1bebee7202b2e4c61b67e377d",
+      "file": "images/e03f6f4176a51da1ecd2.webp",
+      "thumbnail": "images/e03f6f4176a51da1ecd2-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "c61ad5ce56ff783008c21b9a4f6ac70997cef6f15ad330c785cf5bcf42675b9d"
+    },
+    "Productions/E070-the-great-houston-expedition/eggs-art-v004.png": {
+      "source_sha256": "7d5d4706df29ae601635c54f2100f5ef9a2fe25396d256349f479789bebdd24d",
+      "file": "images/7d5d4706df29ae601635.webp",
+      "thumbnail": "images/7d5d4706df29ae601635-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "7936d661fa75e0a8c897d42a88b4dd29aca890b4a29c233f68090dea7b7140e8"
+    },
+    "Productions/E070-the-great-houston-expedition/park-art-v004.png": {
+      "source_sha256": "1d5bca8540dd43a0ca0862ff586bc349746f35fa2e333deb464765f0f33ede26",
+      "file": "images/1d5bca8540dd43a0ca08.webp",
+      "thumbnail": "images/1d5bca8540dd43a0ca08-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "2f7b1b019a4d1e6844aa665b686ebc5cdd96b095847bc2d3a92f3ec12145335a"
+    },
+    "Productions/E070-the-great-houston-expedition/dinner-art-v002.png": {
+      "source_sha256": "315123b9dacf7f8c27daa9b14a3acebd4a314b80937d6a61ceffd6127277a87a",
+      "file": "images/315123b9dacf7f8c27da.webp",
+      "thumbnail": "images/315123b9dacf7f8c27da-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "6945f02716db13bdfc9dbd19eb07121ec2373c38206d0791cedcfaf5bc309757"
+    }
+  },
+  "source_policy": "Exact narrative text and image placement retained; named archival sections hidden from reader; complete variants separate; source Markdown and production originals untouched. Shorter-version omission notes remain in source only. Narrative epilogues retained."
+}

@@ -1,0 +1,115 @@
+{
+  "story_id": "S010",
+  "version": 2,
+  "sources": [
+    {
+      "archive": "/Users/sagar/Documents/ChatGPT/NBC_Archives/NBC-before-expanded-refinement-2026-10-04_035505Z.tar.gz",
+      "member": "NBC/Stories/S010-neets-gang-faces-the-night-stalkers.md",
+      "sha256": "51088cb1dfb5fa0a157e901e6e4992cf7981e41932c10339b27e066d1259e338",
+      "read_complete": true
+    },
+    {
+      "archive": "/Users/sagar/Documents/ChatGPT/NBC_Archives/NBC-before-refinement-2026-10-03_200659.tar.gz",
+      "member": "NBC/Stories/S010-neets-gang-faces-the-night-stalkers.md",
+      "sha256": "eff33c741a38092132cc23ed02382d8527b576cf9e7764a7c0f8e975c3362a79",
+      "read_complete": true
+    },
+    {
+      "archive": "/Users/sagar/Documents/ChatGPT/NBC_Archives/NBC-before-reorganization-2026-10-03_182825.tar.gz",
+      "member": "NBC/02_Story_Library/Legacy_Chapters/11-neet-s-gang-faces-the-night-stalkers.md",
+      "sha256": "aa9835fa5ec499df23e17ffa7b89a98ba33539aa48beeba1dab34dd5d81adb8d",
+      "read_complete": true
+    },
+    {
+      "archive": "/Users/sagar/Documents/ChatGPT/NBC_Archives/NBC-before-reorganization-2026-10-03_182825.tar.gz",
+      "member": "NBC/90_Archive/2026-10-03-elevenlabs-recovery/Raw_Exports/reader-55.txt",
+      "sha256": "2c1c281005856cfb484eb7fc49e23a344ffcc2eafea034fe44bc68db21d1c255",
+      "read_complete": true
+    },
+    {
+      "path": "Stories/S009-neet-the-general.md",
+      "sha256": "9a525b9b6dbde62c38d54799cd03cb6a2512865d20f0e12244716a8c16ee0909",
+      "read_complete": true,
+      "role": "connected episode context only"
+    },
+    {
+      "path": "Stories/S011-neets-gang-to-the-rescue.md",
+      "sha256": "0b64df1b6a832b1bfec2923b501ef1c501b7afa6bbc0ddd1cfdbcb7df2689acd",
+      "read_complete": true,
+      "role": "connected episode context only"
+    }
+  ],
+  "previous_working_sha256": "51088cb1dfb5fa0a157e901e6e4992cf7981e41932c10339b27e066d1259e338",
+  "revised_sha256": "555e767362f8414344f1bb0303f3bf48ca84a991f8b7fe6caeecfb0f043c6044",
+  "central_comic_situation": "A real defense succeeds while Neet treats repeated food inspection as the indispensable command function.",
+  "intended_feeling": "Temporary tension relieved by practical courage and affectionate absurdity.",
+  "wants": {
+    "Neet": "Protect gang and be seen commanding every detail.",
+    "Buddy": "Rest near home, keep food safe, and make sure companions are safe."
+  },
+  "preserved": [
+    "Moonless banyan setting and Heather historical household",
+    "Shadow alarm, mastiff insult/lunge, Shadow interception and eventual pin",
+    "Chikki trips terrier and joins Buddy against greyhound",
+    "Neet ankle attack and boxer branch stumble",
+    "Retreat, food inventory, Neet redundant order, Heather flashlight check",
+    "Prior revision compassionate close and Buddy warning route"
+  ],
+  "changes": [
+    "Food inspections setup and secure/still payoff",
+    "Buddy independently holds position despite startling himself; blocks both routes with Chikki support",
+    "Branch gets Neet approval without changing fight outcome",
+    "Heather hears Neet from inside; Neet mistakes concern for praise of range"
+  ],
+  "ending": "Buddy checks friends and Heather before food, confirms security, closes eyes as Neet prepares another announcement.",
+  "variants": {
+    "assessment": "Legacy chapter and reader55 have same full incident sequence and ending; acquisition formatting differs, no meaningful alternative to illustrate.",
+    "independent_variant_read_complete": true
+  },
+  "complete_reread_comparison": {
+    "performed": true,
+    "original": "All distinctive conflict incidents and final safety retained; previous removal of canine sweating/excessive praise maintained. No merging of variants.",
+    "previous": "Prior practical Buddy defense and Heather welfare check preserved, with modest comic expansion rather than replacement.",
+    "voice": "Neet theatrical, Buddy practical and briefly brave, Chikki active support, Heather affectionate but checks wellbeing.",
+    "lost_incidents": [],
+    "changed_meaning": "No conflict outcome, household, chronology, rank or claimed owner approval resolved.",
+    "image_state_correction": "Split aftermath inventory and return to rest so standing picture comes before Buddy lies down again."
+  },
+  "approval": "unapproved",
+  "publication": "not_published",
+  "illustration_plan": [
+    {
+      "path": "Productions/E010-neets-gang-faces-the-night-stalkers/inspection-art-v002.png",
+      "sha256": "0e7940ffba926c60920891ba96f840645c69eaf8d48f6c6c2231c3e3e73bdb8b",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "placement_after": "Neet leaned forward for another look. Buddy put his chin down. If the food escaped now, it would have to pass three inspections on the way out.",
+      "exact_state": "setup: food ground, Neet leaning from command stone, Buddy still resting",
+      "status": "proposed_pending_independent_review"
+    },
+    {
+      "path": "Productions/E010-neets-gang-faces-the-night-stalkers/defense-art-v002.png",
+      "sha256": "c07b9baeb91c9f775d3421f86731a887b20c0596ffbfa8dc6e2d2bac65c87907",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "placement_after": "\u201cNo,\u201d Buddy said.",
+      "exact_state": "Chikki has joined Buddy, greyhound paused before retreat, food behind defenders",
+      "status": "proposed_pending_independent_review"
+    },
+    {
+      "path": "Productions/E010-neets-gang-faces-the-night-stalkers/illustration-v003.png",
+      "sha256": "74548827d6c16b1855bd4b39ce186902d00ac8b28894184393039dede5eb916e",
+      "dimensions": [
+        1448,
+        1086
+      ],
+      "placement_after": "Buddy flopped onto the ground, exhausted but relieved. Shadow sat beside him, dusty and breathing hard. \u201cFood\u2019s still here,\u201d he said. Buddy got up to check the stash with his nose.",
+      "exact_state": "after retreat, Buddy briefly up checking food, Neet on stone, Shadow seated; before Heather appears",
+      "status": "replacement_pending_independent_reinspection"
+    }
+  ]
+}

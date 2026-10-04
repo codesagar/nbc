@@ -1,0 +1,739 @@
+{
+  "id": "E045-the-robot-vacuum-coup",
+  "status": "reviewed_unapproved",
+  "stage": "complete_reading",
+  "next_action": "Included in expanded delivery-v001; owner adoption and publication remain separate, ungranted decisions.",
+  "source": {
+    "path": "Stories/S045-the-robot-vacuum-coup.md",
+    "sha256": "3fa0b8b5defce2aa0757d266be7f8e1e5da90e58926238971b9f6cdffa1ba2d0",
+    "passages": [],
+    "interpretation": "Opposed priorities form an accidental alliance: Neet wants robot exclusion, Buddy wants a ride/snack friend and the laundry sock. Preserved angle-matching blockade, brush theft, failed ride, 3:12 ambush, Thursday chase and treaty. Shoulder closes half-open door instead of implausible tail force; human pauses robot instead of implied automatic dog authority. Image: matching-angle blockade with Buddy following inquisitively.",
+    "editorial_sha256": "5a36ebb69a66f4a2de7118fb48cbfc468302204b8ffc7c07cb6d0ff09cfcff2a",
+    "revision_sha256": "268aa224e913c0fddd0f990e8570b456ae5d0d6974a1af0c767bfc4ba46c62e5"
+  },
+  "references": [
+    {
+      "id": "N19",
+      "path": "Characters/Neet/Photos/neet-19.jpeg",
+      "sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+      "same_exposure_group": null,
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "styling",
+          "standing_pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Primary standing body proportions, paws, hocks and stub silhouette; head is not a pure profile.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Head rotated; far limbs overlap; uncalibrated camera offers no measurements; room light subdued"
+        ],
+        "inspection_sha256": "b2c6db0a5af6a885d993cbd986cc2759b9461e693fbcabd8aa96bce1eb5ea901",
+        "source_sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N19.json"
+      },
+      "role": "Neet side body, fine legs, full trunk, near-flush nub; head turned/far legs overlap."
+    },
+    {
+      "id": "N29",
+      "path": "Characters/Neet/Photos/neet-29.jpeg",
+      "sha256": "dedcc7d8bcbc5da7e2441352200025606fc971644d0cbacd24e8465db8dcdc16",
+      "same_exposure_group": null,
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "styling",
+          "standing_pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Primary frontal standing proportions, leg slenderness, head/body scale and chest markings.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Body depth foreshortened; tail hidden; light/shadow affect colors; exact ratios unknown"
+        ],
+        "inspection_sha256": "af30873f7f392d2503a668667ed619b8d183d685403e25977ce3fe23d9359802",
+        "source_sha256": "dedcc7d8bcbc5da7e2441352200025606fc971644d0cbacd24e8465db8dcdc16",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N29.json"
+      },
+      "role": "Neet frontal standing chest and legs; foreshortened body, tail hidden."
+    },
+    {
+      "id": "B29",
+      "path": "Characters/Buddy/Photos/buddy-29.jpeg",
+      "sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+      "same_exposure_group": null,
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Best available lateral body-length, tail-length/carriage and walking-pose reference; weak fine landmarks because blurred and not neutral standing.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Motion blur and lifted legs; cannot establish neutral back slope, exact leg ratios or gait timing from still"
+        ],
+        "inspection_sha256": "c671664ca5e4e2e07bfd3049ea641c3a1645742fb8290494e67a17f7ed213ea9",
+        "source_sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B29.json"
+      },
+      "role": "Buddy lateral torso and tail, blurred stride; no neutral ratios/timing."
+    },
+    {
+      "id": "B04",
+      "path": "Characters/Buddy/Photos/buddy-4.jpg",
+      "sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+      "same_exposure_group": "B04-B24",
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "styling",
+          "standing_pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Excellent front-leg clearance, chest pattern and groomed face; useful standing stance. Same photographic exposure as B24 for evidence counting.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Tail partly cropped at left; grass hides toes; perspective foreshortens torso; B24 same exposure in separate encoding"
+        ],
+        "inspection_sha256": "dd7da906a0e61eb4cdbd84eac3c97fea3318813d5a874c4e6cd4d8d3ba890797",
+        "source_sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B04.json"
+      },
+      "role": "Buddy tidy photographed face/ears, chest and substantial legs; grass hides toes, torso foreshortened."
+    }
+  ],
+  "artwork": [
+    {
+      "path": "Productions/E045-the-robot-vacuum-coup/first-contact-art-v004.png",
+      "sha256": "6a313a3979450fcd98df58a089f7aed4ac8bd68bd02c9d5914f9c43043e0e201",
+      "bytes": 1780714,
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "generation_record": "Productions/E045-the-robot-vacuum-coup/artwork-generation-v002.json",
+      "reviewed_version": "Productions/E045-the-robot-vacuum-coup/first-contact-art-v004.png",
+      "status": "proposed_pending_independent_review",
+      "review_record": "Productions/E045-the-robot-vacuum-coup/visual-review-v002.json"
+    },
+    {
+      "path": "Productions/E045-the-robot-vacuum-coup/morning-art-v003.png",
+      "sha256": "2529ab47a035f4259f74dce4f967adff0a6242b76af55941b595f0e443fa068b",
+      "bytes": 1764234,
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "generation_record": "Productions/E045-the-robot-vacuum-coup/artwork-generation-v002.json",
+      "reviewed_version": "Productions/E045-the-robot-vacuum-coup/morning-art-v003.png",
+      "status": "proposed_pending_independent_review",
+      "review_record": "Productions/E045-the-robot-vacuum-coup/visual-review-v002.json"
+    },
+    {
+      "path": "Productions/E045-the-robot-vacuum-coup/treaty-art-v003.png",
+      "sha256": "1c7be6a29fed3bb0141004486e507385975630b3a881b3d102f67fe03da70abb",
+      "bytes": 1809032,
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "generation_record": "Productions/E045-the-robot-vacuum-coup/artwork-generation-v002.json",
+      "reviewed_version": "Productions/E045-the-robot-vacuum-coup/treaty-art-v003.png",
+      "status": "proposed_pending_independent_review",
+      "review_record": "Productions/E045-the-robot-vacuum-coup/visual-review-v002.json"
+    }
+  ],
+  "quality": {
+    "story": {
+      "status": "developed_writer_reread",
+      "evidence": [
+        "Productions/E045-the-robot-vacuum-coup/comedy-pass-v002.json"
+      ],
+      "observations": [
+        "Second comedy pass reread completely against exact prior version and original."
+      ],
+      "expanded_review": {
+        "status": "reviewed",
+        "evidence": [
+          "Productions/E045-the-robot-vacuum-coup/comedy-pass-v002.json",
+          "Productions/E045-the-robot-vacuum-coup/reading-review-v002.json"
+        ]
+      }
+    },
+    "character_model": {
+      "status": "inspected_provisional",
+      "evidence": [
+        {
+          "path": "Productions/Library-Refinement/model-standing-v002.png",
+          "sha256": "c4c6b607727759b347f93ccef664b0ac4b9a8ade512908343748fb9e2a96e9b6",
+          "bytes": 2481308,
+          "dimensions": [
+            1536,
+            1024
+          ]
+        },
+        {
+          "path": "Productions/Library-Refinement/model-rest-action-v002.png",
+          "sha256": "c990ae5c598523ff864446e32995d110e6f38298cf87eae3d12bfd9792b4eb3e",
+          "bytes": 2977997,
+          "dimensions": [
+            1536,
+            1024
+          ]
+        },
+        {
+          "path": "Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+          "sha256": "19be9a85760177405bbedd26644a7e0eb9c7945709e43825d201ff2fa91742b9",
+          "bytes": 2661722,
+          "dimensions": [
+            1536,
+            1024
+          ]
+        }
+      ]
+    },
+    "drawn_storyboard": {
+      "status": "generator_inspected",
+      "evidence": [
+        {
+          "path": "Productions/E045-the-robot-vacuum-coup/rough-v001.png",
+          "sha256": "44b751f696f3ead5cbe9b1f4fe10a0540c3fba66df62afe6d88522aeade2f4ea",
+          "bytes": 3398926,
+          "dimensions": [
+            1536,
+            1024
+          ]
+        },
+        {
+          "path": "Productions/E045-the-robot-vacuum-coup/staging-v003.png",
+          "sha256": "c8f62e7a5236d5835385b10c0fb51e89b2dcd2ad989215b2cdc77c8f165dfc3a",
+          "bytes": 3124009,
+          "dimensions": [
+            1536,
+            1024
+          ]
+        },
+        {
+          "path": "Productions/E045-the-robot-vacuum-coup/morning-staging-v004.png",
+          "sha256": "a5038d0ecf6e7da142a48db56a19e3e9f54327b0b781fb5b3e3a23a3135caf48",
+          "bytes": 3264690,
+          "dimensions": [
+            1536,
+            1024
+          ]
+        }
+      ],
+      "observations": [
+        "Original rough-v001 blockade geometry remains source for first-contact replacement; four legs each grounded, robot brush separate from nose.",
+        "Three-panel staging-v002 middle scene incorrectly left Buddy behind threshold; staging-v003 correction still left back feet inside, rejected middle panel. Bottom panel connected Buddy lean and tongue/bumper support suitable.",
+        "Standalone morning-staging-v004 redraw puts complete Buddy body on hall hardwood outside room, Neet across threshold, off robot beyond. Four owned Buddy limbs, Neet two extended forelegs and folded hinds; inspect exact construction before finish.",
+        "Body coat renderings in finished first-contact-v003 and morning/treaty-v002 remained materially textured; rejected and externally preserved. Subsequent full-body finish edits preserve pose geometry and regional Buddy facial furnishings."
+      ]
+    },
+    "panel_comparison": {
+      "status": "independently_reviewed",
+      "evidence": [
+        "Productions/E045-the-robot-vacuum-coup/visual-review-v002.json"
+      ],
+      "observations": [
+        "Every current finished image opened at full resolution against original photos; concrete findings recorded per image."
+      ]
+    },
+    "complete_reading": {
+      "status": "reviewed",
+      "story_sha256": "268aa224e913c0fddd0f990e8570b456ae5d0d6974a1af0c767bfc4ba46c62e5",
+      "evidence": [
+        "Productions/E045-the-robot-vacuum-coup/reading-review-v002.json"
+      ],
+      "inspection": {
+        "url": "http://127.0.0.1:56824/Stories/S045-the-robot-vacuum-coup.md",
+        "method": "Read complete browser-rendered text and scrolled overlapping viewport screenshots from title through all six sections, each full illustration, ending, provenance and final refinement record.",
+        "viewport": [
+          1280,
+          720
+        ],
+        "reading_size": "Default reader size, no zoom changes; body column approximately 760 px, illustrations approximately 960 x 640 px.",
+        "coverage": [
+          "A Box Full of Trouble",
+          "First Contact",
+          "The Second Patrol \u2014 Escalation",
+          "The Night Raid",
+          "The Day of the Great Chase",
+          "The Treaty of Tuesday, Finally Ratified",
+          "Provenance and editorial notes",
+          "Refinement record"
+        ],
+        "alternatives": "No meaningful alternative is present; comedy-pass-v002 also records zero."
+      },
+      "observations": [
+        "Opening establishes opposed wants immediately: Neet treats the appliance as an invader; Buddy checks both ends of the empty box for snacks. The second inspection provides a quiet physical joke before military escalation.",
+        "The repeated 30-degree mirroring and Heather being allowed through the blockade make Neet theatrical but purposeful. Sagar\u2019s invader-tour narration differentiates his dry observer voice; Heather\u2019s practical cleaner expectations remain distinct.",
+        "Buddy independently rides the machine, steals its brush, recoils from its dust collection, retrieves his sock and feels personally slighted when the robot prefers crumbs. The pause before \u201cI showed it the bedroom\u201d earns the reversal without explaining it.",
+        "Laundry confinement is causally clear: Neet diverts the robot, Buddy exits with the sock and shoulder-nudges the door, then the robot searches unsuccessfully. Morning illustration follows the explicit sock re-pickup, so the mouth-held prop is current.",
+        "The treaty follows mounting disruption and restores affectionate household cooperation. Reattached side brush answers Buddy\u2019s lobbying; the human pause earns Neet\u2019s upward glance. Buddy\u2019s final snack-heist whisper carries his original desire into the warm ending.",
+        "Historical Tuesday treaty title remains after Thursday as explicitly recorded source choice; this reading does not resolve that chronology or infer owner-approved canon."
+      ]
+    }
+  },
+  "unresolved_findings": [],
+  "current_files": {
+    "story": "Stories/S045-the-robot-vacuum-coup.md",
+    "story_sha256": "268aa224e913c0fddd0f990e8570b456ae5d0d6974a1af0c767bfc4ba46c62e5",
+    "artwork": [
+      "Productions/E045-the-robot-vacuum-coup/first-contact-art-v004.png",
+      "Productions/E045-the-robot-vacuum-coup/morning-art-v003.png",
+      "Productions/E045-the-robot-vacuum-coup/treaty-art-v003.png"
+    ],
+    "comedy_pass": "Productions/E045-the-robot-vacuum-coup/comedy-pass-v002.json",
+    "generation": "Productions/E045-the-robot-vacuum-coup/artwork-generation-v002.json"
+  },
+  "approval": {
+    "state": "unapproved",
+    "by": null,
+    "date": null,
+    "evidence": null
+  },
+  "publication": {
+    "state": "not_published",
+    "destination": null
+  },
+  "recovery": {
+    "archive": "/Users/sagar/Documents/ChatGPT/NBC_Archives/NBC-before-refinement-2026-10-03_200659.tar.gz",
+    "member": "NBC/Stories/S045-the-robot-vacuum-coup.md"
+  },
+  "editorial_review": {
+    "reviewer": "story045 fresh expanded story agent",
+    "comparison_status": "complete",
+    "complete_revised_reading": true,
+    "source_read_complete": true,
+    "alternatives": 0,
+    "record": "Productions/E045-the-robot-vacuum-coup/comedy-pass-v002.json"
+  },
+  "expanded_pass": {
+    "version": "v002",
+    "status": "complete",
+    "comedy_record": "Productions/E045-the-robot-vacuum-coup/comedy-pass-v002.json",
+    "story_sha256": "268aa224e913c0fddd0f990e8570b456ae5d0d6974a1af0c767bfc4ba46c62e5",
+    "selected_images": [
+      {
+        "path": "Productions/E045-the-robot-vacuum-coup/first-contact-art-v004.png",
+        "sha256": "6a313a3979450fcd98df58a089f7aed4ac8bd68bd02c9d5914f9c43043e0e201",
+        "bytes": 1780714,
+        "dimensions": [
+          1536,
+          1024
+        ]
+      },
+      {
+        "path": "Productions/E045-the-robot-vacuum-coup/morning-art-v003.png",
+        "sha256": "2529ab47a035f4259f74dce4f967adff0a6242b76af55941b595f0e443fa068b",
+        "bytes": 1764234,
+        "dimensions": [
+          1536,
+          1024
+        ]
+      },
+      {
+        "path": "Productions/E045-the-robot-vacuum-coup/treaty-art-v003.png",
+        "sha256": "1c7be6a29fed3bb0141004486e507385975630b3a881b3d102f67fe03da70abb",
+        "bytes": 1809032,
+        "dimensions": [
+          1536,
+          1024
+        ]
+      }
+    ],
+    "integration_note": "Independent visual and fresh full rendered reading accepted current story/images. Historical author-stage pending labels retained as stage history; this episode records current state."
+  },
+  "historical_pre_expanded_quality": {
+    "story": {
+      "status": "reviewed",
+      "evidence": [
+        "Stories/S045-the-robot-vacuum-coup.md",
+        "/Users/sagar/Documents/ChatGPT/NBC_Archives/NBC-before-refinement-2026-10-03_200659.tar.gz"
+      ],
+      "observations": [
+        "Opposed priorities form an accidental alliance: Neet wants robot exclusion, Buddy wants a ride/snack friend and the laundry sock. Preserved angle-matching blockade, brush theft, failed ride, 3:12 ambush, Thursday chase and treaty. Shoulder closes half-open door instead of implausible tail force; human pauses robot instead of implied automatic dog authority. Image: matching-angle blockade with Buddy following inquisitively.",
+        "Complete revised primary and every in-file alternative reread by editor_late; compared with complete source from verified snapshot. Distinct incidents, emotional destination, historical household/voice and known contradictions checked; local transition repetitions repaired on the second pass. This is editorial review, not owner approval or illustration clearance."
+      ]
+    },
+    "character_model": {
+      "status": "reviewed_provisional",
+      "evidence": [
+        "Productions/Library-Refinement/model-independent-review.json"
+      ],
+      "observations": [
+        "Independent reviewer opened all three current sheets at native resolution, originals and native detail crops; no material findings. Qualitative scale and grooming states remain provisional."
+      ]
+    },
+    "drawn_storyboard": {
+      "status": "reviewed",
+      "evidence": [
+        "Productions/E045-the-robot-vacuum-coup/rough-v001.png",
+        "Productions/E045-the-robot-vacuum-coup/visual-review.json"
+      ],
+      "observations": [
+        "Drawn complete hallway with ordinary round vacuum and two separate full dogs; four supported limbs each, toy-sized machine fits between.",
+        "Neet stiff blockade and Buddy forward curiosity distinct; no brush/leg fusion."
+      ]
+    },
+    "panel_comparison": {
+      "status": "independently_reviewed",
+      "evidence": [
+        "Productions/E045-the-robot-vacuum-coup/illustration-v002.png",
+        "Productions/E045-the-robot-vacuum-coup/visual-review.json"
+      ],
+      "observations": [
+        "Neet full narrow torso, fine legs and tiny nub remain close-coated; Buddy lowered head connects smoothly through neck/shoulders into full elongated torso with four grounded legs.",
+        "Body strand bands substantially reduced in v002, no skirt or plume; localized ear/muzzle furnishings remain. Robot rim/sidebrush separate from nose and paws.",
+        "Calm ordinary machine versus commander blockade and companion investigation makes source joke readable; hallway/sunroom perspective coherent."
+      ]
+    },
+    "complete_reading": {
+      "status": "reviewed",
+      "story_sha256": "7bbf3c34b8a69d47277215ae2e969aab5669bebebc4a5ad0a5cfc2c4e1e6246a",
+      "evidence": [
+        "Stories/S045-the-robot-vacuum-coup.md",
+        "http://127.0.0.1:53761/Stories/S045-the-robot-vacuum-coup.md",
+        "Productions/E045-the-robot-vacuum-coup/visual-review.json"
+      ],
+      "inspection": "Complete rendered story text and embedded screenshot at approximately960px read in successful browser calls immediately before interruption; evidence persisted on resume.",
+      "observations": [
+        "Complete rendered robot-vacuum story read through first contact, second patrol, overnight sock/door trap, chase and treaty. Image follows narrator blockade-versus-tour line before escalation, letting ordinary machine and contrasting reactions carry joke.",
+        "At approximately960px width vacuum sidebrush and both dog stances remain distinct; picture does not preempt later riding/brush theft or laundry imprisonment."
+      ]
+    }
+  },
+  "historical_pre_expanded_artwork": [
+    {
+      "path": "Productions/E045-the-robot-vacuum-coup/illustration-v002.png",
+      "sha256": "3054d8fb96d523633da8c70205af9fd848147c62964708c1bbb7c63773012139",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "reviewed_version": "Productions/E045-the-robot-vacuum-coup/illustration-v002.png",
+      "generation_record": "Productions/E045-the-robot-vacuum-coup/artwork-generation.json",
+      "review_record": "Productions/E045-the-robot-vacuum-coup/visual-review.json"
+    }
+  ],
+  "historical_pre_expanded_editorial_review": {
+    "reviewer": "editor_late",
+    "source_read_complete": true,
+    "alternatives_read_complete": true,
+    "all_collection_reading_gate": "cleared by root after S001-S070 reading",
+    "revision_note": "Opposed priorities form an accidental alliance: Neet wants robot exclusion, Buddy wants a ride/snack friend and the laundry sock. Preserved angle-matching blockade, brush theft, failed ride, 3:12 ambush, Thursday chase and treaty. Shoulder closes half-open door instead of implausible tail force; human pauses robot instead of implied automatic dog authority. Image: matching-angle blockade with Buddy following inquisitively.",
+    "comparison_status": "complete",
+    "changes": 6,
+    "complete_revised_reading": true,
+    "original_provenance_unchanged": true,
+    "alternative_sections_preserved": 0,
+    "line_comparison": {
+      "unchanged": 140,
+      "removed_or_replaced": 6,
+      "new_or_replaced": 6
+    },
+    "second_pass_seam_repairs": 0
+  },
+  "references_v002": [
+    {
+      "id": "N19",
+      "character": "Neet",
+      "path": "Characters/Neet/Photos/neet-19.jpeg",
+      "filename": "neet-19.jpeg",
+      "sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+      "archived_source_path": "03_Asset_Library/Characters/Neet/neet-19.jpeg",
+      "same_exposure_group": null,
+      "use": "Primary body-level side standing and tail nub",
+      "approval_status": "unknown",
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "styling",
+          "standing_pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Primary standing body proportions, paws, hocks and stub silhouette; head is not a pure profile.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Head rotated; far limbs overlap; uncalibrated camera offers no measurements; room light subdued"
+        ],
+        "inspection_sha256": "b2c6db0a5af6a885d993cbd986cc2759b9461e693fbcabd8aa96bce1eb5ea901",
+        "source_sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N19.json"
+      },
+      "source_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose",
+          "resting_pose",
+          "styling"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Primary standing body proportions, paws, hocks and stub silhouette; head is not a pure profile.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state."
+        ],
+        "evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md"
+      },
+      "source_observation": {
+        "date": "2026-10-03",
+        "pose_view_camera": "Standing left-facing side with head toward camera; near body-level",
+        "visible_features": "Tiny short tan rump nub; near-square qualitative standing impression; long slender legs; full ribcage/thigh; moderate ventral rise; smooth short coat",
+        "limitations": "Head rotated; far limbs overlap; uncalibrated camera offers no measurements; room light subdued",
+        "recommended_uses": [
+          "standing_pose",
+          "visible_anatomy",
+          "styling"
+        ],
+        "full_restrictions": [
+          "Primary standing body proportions, paws, hocks and stub silhouette; head is not a pure profile.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Head rotated; far limbs overlap; uncalibrated camera offers no measurements; room light subdued"
+        ]
+      },
+      "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N19.json",
+      "inspection_sha256": "b2c6db0a5af6a885d993cbd986cc2759b9461e693fbcabd8aa96bce1eb5ea901"
+    },
+    {
+      "id": "N25",
+      "character": "Neet",
+      "path": "Characters/Neet/Photos/neet-25.jpeg",
+      "filename": "neet-25.jpeg",
+      "sha256": "67530c2ebc1baa412f76a825a7bd2369cebf72a101e7f45836fefa0fcae90ca4",
+      "archived_source_path": "03_Asset_Library/Characters/Neet/neet-25.jpeg",
+      "same_exposure_group": null,
+      "use": "Sternal rest with extended fine forelegs",
+      "approval_status": "unknown",
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose",
+          "resting_pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Excellent prone posture and forward paws; useful lateral ear spread.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Hindfeet and tail concealed; plush partly covers toes; cannot supply standing leg/trunk ratios"
+        ],
+        "inspection_sha256": "0e493b84294cbe31f8e7e484b1ce100d8bd7370e2de36f46b35f73b2eab5f99e",
+        "source_sha256": "67530c2ebc1baa412f76a825a7bd2369cebf72a101e7f45836fefa0fcae90ca4",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N25.json"
+      },
+      "source_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose",
+          "resting_pose",
+          "styling"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Excellent prone posture and forward paws; useful lateral ear spread.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state."
+        ],
+        "evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md"
+      },
+      "source_observation": {
+        "date": "2026-10-03",
+        "pose_view_camera": "Sternal recline on mat; front three-quarter at raised camera",
+        "visible_features": "Extended narrow forelegs; small paws; full torso; pale chest; ears diagonally outward",
+        "limitations": "Hindfeet and tail concealed; plush partly covers toes; cannot supply standing leg/trunk ratios",
+        "recommended_uses": [
+          "resting_pose",
+          "visible_anatomy",
+          "pose"
+        ],
+        "full_restrictions": [
+          "Excellent prone posture and forward paws; useful lateral ear spread.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Hindfeet and tail concealed; plush partly covers toes; cannot supply standing leg/trunk ratios"
+        ]
+      },
+      "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N25.json",
+      "inspection_sha256": "0e493b84294cbe31f8e7e484b1ce100d8bd7370e2de36f46b35f73b2eab5f99e"
+    },
+    {
+      "id": "B04",
+      "character": "Buddy",
+      "path": "Characters/Buddy/Photos/buddy-4.jpg",
+      "filename": "buddy-4.jpg",
+      "sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+      "archived_source_path": "03_Asset_Library/Characters/Buddy/buddy-4.jpg",
+      "same_exposure_group": "B04-B24",
+      "use": "Primary frontal standing and groomed facial pattern",
+      "approval_status": "unknown",
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "styling",
+          "standing_pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Excellent front-leg clearance, chest pattern and groomed face; useful standing stance. Same photographic exposure as B24 for evidence counting.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Tail partly cropped at left; grass hides toes; perspective foreshortens torso; B24 same exposure in separate encoding"
+        ],
+        "inspection_sha256": "dd7da906a0e61eb4cdbd84eac3c97fea3318813d5a874c4e6cd4d8d3ba890797",
+        "source_sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B04.json"
+      },
+      "source_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose",
+          "resting_pose",
+          "styling"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Excellent front-leg clearance, chest pattern and groomed face; useful standing stance. Same photographic exposure as B24 for evidence counting.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state."
+        ],
+        "evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+        "same_exposure_group": "B04-B24"
+      },
+      "source_observation": {
+        "date": "2026-10-03",
+        "pose_view_camera": "Standing front three-quarter outdoors; approximately chest-level",
+        "visible_features": "Deep chest; substantial leg shafts; pale lower legs and splaying foot hair; dark torso; pale chest sides/dark throat; long pendant ear fringe; pale muzzle/brows",
+        "limitations": "Tail partly cropped at left; grass hides toes; perspective foreshortens torso; B24 same exposure in separate encoding",
+        "recommended_uses": [
+          "standing_pose",
+          "visible_anatomy",
+          "styling"
+        ],
+        "full_restrictions": [
+          "Excellent front-leg clearance, chest pattern and groomed face; useful standing stance. Same photographic exposure as B24 for evidence counting.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Tail partly cropped at left; grass hides toes; perspective foreshortens torso; B24 same exposure in separate encoding"
+        ]
+      },
+      "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B04.json",
+      "inspection_sha256": "dd7da906a0e61eb4cdbd84eac3c97fea3318813d5a874c4e6cd4d8d3ba890797"
+    },
+    {
+      "id": "B29",
+      "character": "Buddy",
+      "path": "Characters/Buddy/Photos/buddy-29.jpeg",
+      "filename": "buddy-29.jpeg",
+      "sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+      "archived_source_path": "03_Asset_Library/Characters/Buddy/buddy-29.jpeg",
+      "same_exposure_group": null,
+      "use": "Side stride, torso length, leg clearance and tail curve",
+      "approval_status": "unknown",
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Best available lateral body-length, tail-length/carriage and walking-pose reference; weak fine landmarks because blurred and not neutral standing.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Motion blur and lifted legs; cannot establish neutral back slope, exact leg ratios or gait timing from still"
+        ],
+        "inspection_sha256": "c671664ca5e4e2e07bfd3049ea641c3a1645742fb8290494e67a17f7ed213ea9",
+        "source_sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B29.json"
+      },
+      "source_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose",
+          "resting_pose",
+          "styling"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Best available lateral body-length, tail-length/carriage and walking-pose reference; weak fine landmarks because blurred and not neutral standing.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state."
+        ],
+        "evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md"
+      },
+      "source_observation": {
+        "date": "2026-10-03",
+        "pose_view_camera": "Left-facing walking side view indoors; near body-level",
+        "visible_features": "Elongated dark trunk; projecting muzzle/pendant ears; pale lower legs; dark tapering tail held low with gentle curve; underside hair fringe",
+        "limitations": "Motion blur and lifted legs; cannot establish neutral back slope, exact leg ratios or gait timing from still",
+        "recommended_uses": [
+          "pose",
+          "visible_anatomy"
+        ],
+        "full_restrictions": [
+          "Best available lateral body-length, tail-length/carriage and walking-pose reference; weak fine landmarks because blurred and not neutral standing.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Motion blur and lifted legs; cannot establish neutral back slope, exact leg ratios or gait timing from still"
+        ]
+      },
+      "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B29.json",
+      "inspection_sha256": "c671664ca5e4e2e07bfd3049ea641c3a1645742fb8290494e67a17f7ed213ea9"
+    }
+  ],
+  "delivery": {
+    "version": "delivery-v001",
+    "collection_record": "Productions/Library-Refinement/progress.json",
+    "reviewed_story_sha256": "268aa224e913c0fddd0f990e8570b456ae5d0d6974a1af0c767bfc4ba46c62e5",
+    "source_and_export_manifest": "Productions/Library-Refinement/delivery-v001/manifest.json"
+  }
+}

@@ -1,0 +1,2041 @@
+{
+  "commission_date": "2026-10-03",
+  "status": "expanded_complete_reviewed_unapproved",
+  "style": "provisional warm ink and watercolor editorial illustration",
+  "approval": "unapproved",
+  "publication": "not_published",
+  "stories": [
+    {
+      "id": "S001",
+      "path": "Stories/S001-meet-neet-and-buddy.md",
+      "episode_record": "Productions/E001-meet-neet-and-buddy/episode.json",
+      "selected_images": [
+        "Productions/E001-meet-neet-and-buddy/breakfast-art-v002.png",
+        "Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+        "Productions/E001-meet-neet-and-buddy/illustration-v002.png"
+      ],
+      "editorial_review": "reviewed",
+      "visual_review": "independently_reviewed",
+      "complete_reading": "reviewed",
+      "status": "expanded_complete",
+      "review_findings": [],
+      "review_record": "Productions/E001-meet-neet-and-buddy/visual-review-v002.json",
+      "previous_commission_status": "illustrated_reading_complete",
+      "expanded_pass": {
+        "humor_pass": "reviewed",
+        "image_plan": "three_scenes_embedded",
+        "independent_visual_review": "reviewed",
+        "complete_illustrated_reading": "reviewed",
+        "outstanding_findings": [],
+        "story_agent": "story001",
+        "editorial_record": "Productions/E001-meet-neet-and-buddy/comedy-pass-v002.json",
+        "reading_record": "Productions/E001-meet-neet-and-buddy/reading-review-v002.json"
+      },
+      "earlier_reading_owner": "editor_early",
+      "reading_owner": "fresh independent complete-reading subagent /root/reading001"
+    },
+    {
+      "id": "S002",
+      "path": "Stories/S002-the-flight-to-india.md",
+      "episode_record": "Productions/E002-the-flight-to-india/episode.json",
+      "selected_images": [
+        "Productions/E002-the-flight-to-india/packing-v002.png",
+        "Productions/E002-the-flight-to-india/illustration-v002.png",
+        "Productions/E002-the-flight-to-india/snacks-v002.png"
+      ],
+      "editorial_review": "reviewed",
+      "visual_review": "independently_reviewed",
+      "complete_reading": "reviewed",
+      "status": "expanded_complete",
+      "review_findings": [],
+      "review_record": "Productions/E002-the-flight-to-india/visual-review-v002.json",
+      "previous_commission_status": "illustrated_reading_complete",
+      "expanded_pass": {
+        "humor_pass": "reviewed",
+        "image_plan": "three_scenes_embedded",
+        "independent_visual_review": "reviewed",
+        "complete_illustrated_reading": "reviewed",
+        "outstanding_findings": [],
+        "story_agent": "story002",
+        "editorial_record": "Productions/E002-the-flight-to-india/comedy-pass-v002.json",
+        "reading_record": "Productions/E002-the-flight-to-india/reading-review-v002.json"
+      },
+      "earlier_reading_owner": "editor_early",
+      "reading_owner": "fresh complete-reading agent /root/reading002"
+    },
+    {
+      "id": "S003",
+      "path": "Stories/S003-arrival-in-india.md",
+      "episode_record": "Productions/E003-arrival-in-india/episode.json",
+      "selected_images": [
+        "Productions/E003-arrival-in-india/courtyard-art-v001.png",
+        "Productions/E003-arrival-in-india/illustration-v002.png",
+        "Productions/E003-arrival-in-india/window-art-v002.png"
+      ],
+      "editorial_review": "reviewed",
+      "visual_review": "independently_reviewed",
+      "complete_reading": "reviewed",
+      "status": "expanded_complete",
+      "review_findings": [],
+      "review_record": "Productions/E003-arrival-in-india/visual-review-v002.json",
+      "previous_commission_status": "illustrated_reading_complete",
+      "expanded_pass": {
+        "humor_pass": "reviewed",
+        "image_plan": "three_scenes_embedded",
+        "independent_visual_review": "reviewed",
+        "complete_illustrated_reading": "reviewed",
+        "outstanding_findings": [],
+        "story_agent": "story003",
+        "editorial_record": "Productions/E003-arrival-in-india/comedy-pass-v002.json",
+        "reading_record": "Productions/E003-arrival-in-india/reading-review-v002.json"
+      },
+      "earlier_reading_owner": "editor_early",
+      "reading_owner": "reading003 fresh complete illustrated reading reviewer"
+    },
+    {
+      "id": "S004",
+      "path": "Stories/S004-uttarayan-day-one.md",
+      "episode_record": "Productions/E004-uttarayan-day-one/episode.json",
+      "selected_images": [
+        "Productions/E004-uttarayan-day-one/sunbeam-art-v002.png",
+        "Productions/E004-uttarayan-day-one/illustration-v008.png",
+        "Productions/E004-uttarayan-day-one/cheer-art-v002.png"
+      ],
+      "editorial_review": "reviewed",
+      "visual_review": "independently_reviewed",
+      "complete_reading": "reviewed",
+      "status": "expanded_complete",
+      "review_findings": [],
+      "review_record": "Productions/E004-uttarayan-day-one/visual-review-v002.json",
+      "previous_commission_status": "illustrated_reading_complete",
+      "expanded_pass": {
+        "humor_pass": "reviewed",
+        "image_plan": "3_scenes_embedded",
+        "independent_visual_review": "reviewed",
+        "complete_illustrated_reading": "reviewed",
+        "outstanding_findings": [],
+        "story_agent": "story004",
+        "reading_record": "Productions/E004-uttarayan-day-one/reading-review-v002.json"
+      },
+      "earlier_reading_owner": "editor_early",
+      "reading_owner": "fresh complete-reading reviewer /root/reading004"
+    },
+    {
+      "id": "S005",
+      "path": "Stories/S005-uttarayan-night-magic.md",
+      "episode_record": "Productions/E005-uttarayan-night-magic/episode.json",
+      "selected_images": [
+        "Productions/E005-uttarayan-night-magic/illustration-v003.png",
+        "Productions/E005-uttarayan-night-magic/illustration-pakora-v003.png",
+        "Productions/E005-uttarayan-night-magic/illustration-rest-v003.png"
+      ],
+      "editorial_review": "reviewed",
+      "visual_review": "independently_reviewed",
+      "complete_reading": "reviewed",
+      "status": "expanded_complete",
+      "review_findings": [],
+      "review_record": "Productions/E005-uttarayan-night-magic/visual-review-v002.json",
+      "previous_commission_status": "illustrated_reading_complete",
+      "expanded_pass": {
+        "humor_pass": "reviewed",
+        "image_plan": "three_scenes_embedded",
+        "independent_visual_review": "reviewed",
+        "complete_illustrated_reading": "reviewed",
+        "outstanding_findings": [],
+        "story_agent": "story005",
+        "reading_record": "Productions/E005-uttarayan-night-magic/reading-review-v002.json"
+      },
+      "earlier_reading_owner": "editor_early",
+      "reading_owner": "Fresh complete-reading reviewer /root/reading005"
+    },
+    {
+      "id": "S006",
+      "path": "Stories/S006-the-bazaar-adventure.md",
+      "episode_record": "Productions/E006-the-bazaar-adventure/episode.json",
+      "selected_images": [
+        "Productions/E006-the-bazaar-adventure/spice-art-v002.png",
+        "Productions/E006-the-bazaar-adventure/illustration-v003.png",
+        "Productions/E006-the-bazaar-adventure/cow-art-v002.png"
+      ],
+      "editorial_review": "reviewed",
+      "visual_review": "independently_reviewed",
+      "complete_reading": "reviewed",
+      "status": "expanded_complete",
+      "review_findings": [],
+      "review_record": "Productions/E006-the-bazaar-adventure/visual-review-v002.json",
+      "previous_commission_status": "illustrated_reading_complete",
+      "expanded_pass": {
+        "humor_pass": "reviewed",
+        "image_plan": "three_scenes_embedded",
+        "independent_visual_review": "reviewed",
+        "complete_illustrated_reading": "reviewed",
+        "outstanding_findings": [],
+        "story_agent": "story006",
+        "reading_record": "Productions/E006-the-bazaar-adventure/reading-review-v002.json"
+      },
+      "earlier_reading_owner": "editor_early",
+      "reading_owner": "fresh complete-reading reviewer /root/reading006"
+    },
+    {
+      "id": "S007",
+      "path": "Stories/S007-the-monkey-menace.md",
+      "episode_record": "Productions/E007-the-monkey-menace/episode.json",
+      "selected_images": [
+        "Productions/E007-the-monkey-menace/arrival-art-v003.png",
+        "Productions/E007-the-monkey-menace/bark-art-v004.png",
+        "Productions/E007-the-monkey-menace/aftermath-art-v002.png"
+      ],
+      "editorial_review": "reviewed",
+      "visual_review": "independently_reviewed",
+      "complete_reading": "reviewed",
+      "status": "expanded_complete",
+      "review_findings": [],
+      "review_record": "Productions/E007-the-monkey-menace/visual-review-v002.json",
+      "previous_commission_status": "illustrated_reading_complete",
+      "expanded_pass": {
+        "humor_pass": "reviewed",
+        "image_plan": "3_scenes_embedded",
+        "independent_visual_review": "reviewed",
+        "complete_illustrated_reading": "reviewed",
+        "outstanding_findings": [],
+        "story_agent": "story007",
+        "reading_record": "Productions/E007-the-monkey-menace/reading-review-v002.json"
+      },
+      "earlier_reading_owner": "editor_early",
+      "reading_owner": "reading007 fresh independent complete-reading reviewer"
+    },
+    {
+      "id": "S008",
+      "path": "Stories/S008-garden-rebirth-with-chaos.md",
+      "episode_record": "Productions/E008-garden-rebirth-with-chaos/episode.json",
+      "selected_images": [
+        "Productions/E008-garden-rebirth-with-chaos/illustration-v002.png",
+        "Productions/E008-garden-rebirth-with-chaos/gnome-art-v004.png",
+        "Productions/E008-garden-rebirth-with-chaos/hose-art-v003.png"
+      ],
+      "editorial_review": "reviewed",
+      "visual_review": "independently_reviewed",
+      "complete_reading": "reviewed",
+      "status": "expanded_complete",
+      "review_findings": [],
+      "review_record": "Productions/E008-garden-rebirth-with-chaos/visual-review-v002.json",
+      "previous_commission_status": "illustrated_reading_complete",
+      "expanded_pass": {
+        "humor_pass": "reviewed",
+        "image_plan": "3_scenes_embedded",
+        "independent_visual_review": "reviewed",
+        "complete_illustrated_reading": "reviewed",
+        "outstanding_findings": [],
+        "story_agent": "/root/story008",
+        "reading_record": "Productions/E008-garden-rebirth-with-chaos/reading-review-v002.json"
+      },
+      "earlier_reading_owner": "editor_early",
+      "reading_owner": "fresh_reading008"
+    },
+    {
+      "id": "S009",
+      "path": "Stories/S009-neet-the-general.md",
+      "episode_record": "Productions/E009-neet-the-general/episode.json",
+      "selected_images": [
+        "Productions/E009-neet-the-general/command-art-v001.png",
+        "Productions/E009-neet-the-general/diplomacy-art-v005.png",
+        "Productions/E009-neet-the-general/rest-art-v003.png"
+      ],
+      "editorial_review": "reviewed",
+      "visual_review": "independently_reviewed",
+      "complete_reading": "reviewed",
+      "status": "expanded_complete",
+      "review_findings": [],
+      "review_record": "Productions/E009-neet-the-general/visual-review-v002.json",
+      "previous_commission_status": "illustrated_reading_complete",
+      "expanded_pass": {
+        "humor_pass": "reviewed",
+        "image_plan": "3_scenes_embedded",
+        "independent_visual_review": "reviewed",
+        "complete_illustrated_reading": "reviewed",
+        "outstanding_findings": [],
+        "story_agent": "story009",
+        "reading_record": "Productions/E009-neet-the-general/reading-review-v002.json"
+      },
+      "earlier_reading_owner": "editor_early",
+      "reading_owner": "/root/coordinate009_016/reading009; fresh complete illustrated reading reviewer"
+    },
+    {
+      "id": "S010",
+      "path": "Stories/S010-neets-gang-faces-the-night-stalkers.md",
+      "episode_record": "Productions/E010-neets-gang-faces-the-night-stalkers/episode.json",
+      "selected_images": [
+        "Productions/E010-neets-gang-faces-the-night-stalkers/inspection-art-v002.png",
+        "Productions/E010-neets-gang-faces-the-night-stalkers/defense-art-v002.png",
+        "Productions/E010-neets-gang-faces-the-night-stalkers/illustration-v003.png"
+      ],
+      "editorial_review": "reviewed",
+      "visual_review": "independently_reviewed",
+      "complete_reading": "reviewed",
+      "status": "expanded_complete",
+      "review_findings": [],
+      "review_record": "Productions/E010-neets-gang-faces-the-night-stalkers/visual-review-v002.json",
+      "previous_commission_status": "illustrated_reading_complete",
+      "expanded_pass": {
+        "humor_pass": "reviewed",
+        "image_plan": "3_scenes_embedded",
+        "independent_visual_review": "reviewed",
+        "complete_illustrated_reading": "reviewed",
+        "outstanding_findings": [],
+        "story_agent": "/root/coordinate009_016/story010",
+        "reading_record": "Productions/E010-neets-gang-faces-the-night-stalkers/reading-review-v002.json"
+      },
+      "earlier_reading_owner": "editor_early",
+      "reading_owner": "See fresh reading record"
+    },
+    {
+      "id": "S011",
+      "path": "Stories/S011-neets-gang-to-the-rescue.md",
+      "episode_record": "Productions/E011-neets-gang-to-the-rescue/episode.json",
+      "selected_images": [
+        "Productions/E011-neets-gang-to-the-rescue/bananas-art-v002.png",
+        "Productions/E011-neets-gang-to-the-rescue/comfort-art-v003.png",
+        "Productions/E011-neets-gang-to-the-rescue/illustration-v002.png"
+      ],
+      "editorial_review": "reviewed",
+      "visual_review": "independently_reviewed",
+      "complete_reading": "reviewed",
+      "status": "expanded_complete",
+      "review_findings": [],
+      "review_record": "Productions/E011-neets-gang-to-the-rescue/visual-review-v002.json",
+      "previous_commission_status": "illustrated_reading_complete",
+      "expanded_pass": {
+        "humor_pass": "reviewed",
+        "image_plan": "3_scenes_embedded",
+        "independent_visual_review": "reviewed",
+        "complete_illustrated_reading": "reviewed",
+        "outstanding_findings": [],
+        "story_agent": "/root/coordinate009_016/story011",
+        "reading_record": "Productions/E011-neets-gang-to-the-rescue/reading-review-v002.json"
+      },
+      "earlier_reading_owner": "editor_early",
+      "reading_owner": "fresh complete-reading reviewer /root/coordinate009_016/reading011"
+    },
+    {
+      "id": "S012",
+      "path": "Stories/S012-the-great-neighborhood-dog-games.md",
+      "episode_record": "Productions/E012-the-great-neighborhood-dog-games/episode.json",
+      "selected_images": [
+        "Productions/E012-the-great-neighborhood-dog-games/setup-art-v002.png",
+        "Productions/E012-the-great-neighborhood-dog-games/beam-art-v003.png",
+        "Productions/E012-the-great-neighborhood-dog-games/payoff-art-v002.png"
+      ],
+      "editorial_review": "reviewed",
+      "visual_review": "independently_reviewed",
+      "complete_reading": "reviewed",
+      "status": "expanded_complete",
+      "review_findings": [],
+      "review_record": "Productions/E012-the-great-neighborhood-dog-games/visual-review-v002.json",
+      "previous_commission_status": "illustrated_reading_complete",
+      "expanded_pass": {
+        "humor_pass": "reviewed",
+        "image_plan": "3_scenes_embedded",
+        "independent_visual_review": "reviewed",
+        "complete_illustrated_reading": "reviewed",
+        "outstanding_findings": [],
+        "story_agent": "/root/coordinate009_016/story012",
+        "reading_record": "Productions/E012-the-great-neighborhood-dog-games/reading-review-v002.json"
+      },
+      "earlier_reading_owner": "editor_early",
+      "reading_owner": "fresh complete-reading reviewer /root/coordinate009_016/reading012"
+    },
+    {
+      "id": "S013",
+      "path": "Stories/S013-lights-camera-neet.md",
+      "episode_record": "Productions/E013-lights-camera-neet/episode.json",
+      "selected_images": [
+        "Productions/E013-lights-camera-neet/setup-art-v002.png",
+        "Productions/E013-lights-camera-neet/prop-art-v004.png",
+        "Productions/E013-lights-camera-neet/chase-art-v003.png"
+      ],
+      "editorial_review": "reviewed",
+      "visual_review": "independently_reviewed",
+      "complete_reading": "reviewed",
+      "status": "expanded_complete",
+      "review_findings": [],
+      "review_record": "Productions/E013-lights-camera-neet/visual-review-v002.json",
+      "previous_commission_status": "illustrated_reading_complete",
+      "expanded_pass": {
+        "humor_pass": "reviewed",
+        "image_plan": "3_scenes_embedded",
+        "independent_visual_review": "reviewed",
+        "complete_illustrated_reading": "reviewed",
+        "outstanding_findings": [],
+        "story_agent": "/root/coordinate009_016/story013",
+        "reading_record": "Productions/E013-lights-camera-neet/reading-review-v002.json"
+      },
+      "earlier_reading_owner": "root",
+      "reading_owner": "fresh complete-reading reviewer /root/coordinate009_016/reading013"
+    },
+    {
+      "id": "S014",
+      "path": "Stories/S014-neet-and-buddys-barber-battle.md",
+      "episode_record": "Productions/E014-neet-and-buddys-barber-battle/episode.json",
+      "selected_images": [
+        "Productions/E014-neet-and-buddys-barber-battle/arrival-art-v004.png",
+        "Productions/E014-neet-and-buddys-barber-battle/illustration-v003.png",
+        "Productions/E014-neet-and-buddys-barber-battle/mirror-art-v003.png"
+      ],
+      "editorial_review": "reviewed",
+      "visual_review": "independently_reviewed",
+      "complete_reading": "reviewed",
+      "status": "expanded_complete",
+      "review_findings": [],
+      "review_record": "Productions/E014-neet-and-buddys-barber-battle/visual-review-v002.json",
+      "previous_commission_status": "illustrated_reading_complete",
+      "expanded_pass": {
+        "humor_pass": "reviewed",
+        "image_plan": "3_scenes_embedded",
+        "independent_visual_review": "reviewed",
+        "complete_illustrated_reading": "reviewed",
+        "outstanding_findings": [],
+        "story_agent": "/root/coordinate009_016/story014",
+        "reading_record": "Productions/E014-neet-and-buddys-barber-battle/reading-review-v002.json"
+      },
+      "earlier_reading_owner": "root",
+      "reading_owner": "fresh-complete-reading-S014"
+    },
+    {
+      "id": "S015",
+      "path": "Stories/S015-the-dazzling-dog-fashion-show.md",
+      "episode_record": "Productions/E015-the-dazzling-dog-fashion-show/episode.json",
+      "selected_images": [
+        "Productions/E015-the-dazzling-dog-fashion-show/preparation-art-v003.png",
+        "Productions/E015-the-dazzling-dog-fashion-show/runway-art-v003.png",
+        "Productions/E015-the-dazzling-dog-fashion-show/trophy-art-v004.png"
+      ],
+      "editorial_review": "reviewed",
+      "visual_review": "independently_reviewed",
+      "complete_reading": "reviewed",
+      "status": "expanded_complete",
+      "review_findings": [],
+      "review_record": "Productions/E015-the-dazzling-dog-fashion-show/visual-review-v002.json",
+      "previous_commission_status": "illustrated_reading_complete",
+      "expanded_pass": {
+        "humor_pass": "reviewed",
+        "image_plan": "3_scenes_embedded",
+        "independent_visual_review": "reviewed",
+        "complete_illustrated_reading": "reviewed",
+        "outstanding_findings": [],
+        "story_agent": "/root/coordinate009_016/story015",
+        "reading_record": "Productions/E015-the-dazzling-dog-fashion-show/reading-review-v002.json"
+      },
+      "earlier_reading_owner": "root",
+      "reading_owner": "fresh complete-reading reviewer /root/coordinate009_016/reading015"
+    },
+    {
+      "id": "S016",
+      "path": "Stories/S016-neet-and-buddy-learn-gujarati.md",
+      "episode_record": "Productions/E016-neet-and-buddy-learn-gujarati/episode.json",
+      "selected_images": [
+        "Productions/E016-neet-and-buddy-learn-gujarati/lesson-art-v003.png",
+        "Productions/E016-neet-and-buddy-learn-gujarati/closing-art-v002.png"
+      ],
+      "editorial_review": "reviewed",
+      "visual_review": "independently_reviewed",
+      "complete_reading": "reviewed",
+      "status": "expanded_complete",
+      "review_findings": [],
+      "review_record": "Productions/E016-neet-and-buddy-learn-gujarati/visual-review-v002.json",
+      "previous_commission_status": "illustrated_reading_complete",
+      "expanded_pass": {
+        "humor_pass": "reviewed",
+        "image_plan": "2_scenes_embedded",
+        "independent_visual_review": "reviewed",
+        "complete_illustrated_reading": "reviewed",
+        "outstanding_findings": [],
+        "story_agent": "/root/coordinate009_016/story016",
+        "reading_record": "Productions/E016-neet-and-buddy-learn-gujarati/reading-review-v002.json"
+      },
+      "earlier_reading_owner": "root",
+      "reading_owner": "See fresh reading record"
+    },
+    {
+      "id": "S017",
+      "path": "Stories/S017-bazaar-madness-a-practical-gujarati-lesson.md",
+      "episode_record": "Productions/E017-bazaar-madness-a-practical-gujarati-lesson/episode.json",
+      "selected_images": [
+        "Productions/E017-bazaar-madness-a-practical-gujarati-lesson/jalebi-art-v005.png",
+        "Productions/E017-bazaar-madness-a-practical-gujarati-lesson/price-art-v004.png",
+        "Productions/E017-bazaar-madness-a-practical-gujarati-lesson/cow-art-v003.png"
+      ],
+      "editorial_review": "reviewed",
+      "visual_review": "independently_reviewed",
+      "complete_reading": "reviewed",
+      "status": "expanded_complete",
+      "review_findings": [],
+      "review_record": "Productions/E017-bazaar-madness-a-practical-gujarati-lesson/visual-review-v002.json",
+      "previous_commission_status": "illustrated_reading_complete",
+      "expanded_pass": {
+        "humor_pass": "reviewed",
+        "image_plan": "3_scenes_embedded",
+        "independent_visual_review": "reviewed",
+        "complete_illustrated_reading": "reviewed",
+        "outstanding_findings": [],
+        "reading_record": "Productions/E017-bazaar-madness-a-practical-gujarati-lesson/reading-review-v002.json"
+      },
+      "earlier_reading_owner": "root",
+      "reading_owner": "fresh complete-reading reviewer reader017"
+    },
+    {
+      "id": "S018",
+      "path": "Stories/S018-buddys-big-elocution-debacle.md",
+      "episode_record": "Productions/E018-buddys-big-elocution-debacle/episode.json",
+      "selected_images": [
+        "Productions/E018-buddys-big-elocution-debacle/practice-art-v002.png",
+        "Productions/E018-buddys-big-elocution-debacle/illustration-v006.png",
+        "Productions/E018-buddys-big-elocution-debacle/trophy-art-v002.png"
+      ],
+      "editorial_review": "reviewed",
+      "visual_review": "independently_reviewed",
+      "complete_reading": "reviewed",
+      "status": "expanded_complete",
+      "review_findings": [],
+      "review_record": "Productions/E018-buddys-big-elocution-debacle/visual-review-v002.json",
+      "previous_commission_status": "illustrated_reading_complete",
+      "expanded_pass": {
+        "humor_pass": "reviewed",
+        "image_plan": "3_scenes_embedded",
+        "independent_visual_review": "reviewed",
+        "complete_illustrated_reading": "reviewed",
+        "outstanding_findings": [],
+        "reading_record": "Productions/E018-buddys-big-elocution-debacle/reading-review-v002.json"
+      },
+      "earlier_reading_owner": "root",
+      "reading_owner": "fresh complete reading reviewer reader018; did not write story or generate artwork"
+    },
+    {
+      "id": "S019",
+      "path": "Stories/S019-the-great-mosquito-war.md",
+      "episode_record": "Productions/E019-the-great-mosquito-war/episode.json",
+      "selected_images": [
+        "Productions/E019-the-great-mosquito-war/nose-art-v003.png",
+        "Productions/E019-the-great-mosquito-war/illustration-v002.png",
+        "Productions/E019-the-great-mosquito-war/shelter-art-v003.png"
+      ],
+      "editorial_review": "reviewed",
+      "visual_review": "independently_reviewed",
+      "complete_reading": "reviewed",
+      "status": "expanded_complete",
+      "review_findings": [],
+      "review_record": "Productions/E019-the-great-mosquito-war/visual-review-v002.json",
+      "previous_commission_status": "illustrated_reading_complete",
+      "expanded_pass": {
+        "humor_pass": "reviewed",
+        "image_plan": "3_scenes_embedded",
+        "independent_visual_review": "reviewed",
+        "complete_illustrated_reading": "reviewed",
+        "outstanding_findings": [],
+        "reading_record": "Productions/E019-the-great-mosquito-war/reading-review-v002.json"
+      },
+      "earlier_reading_owner": "root",
+      "reading_owner": "Fresh independent complete-reading reviewer reader019; no story or artwork authorship"
+    },
+    {
+      "id": "S020",
+      "path": "Stories/S020-the-great-nighttime-bark-off.md",
+      "episode_record": "Productions/E020-the-great-nighttime-bark-off/episode.json",
+      "selected_images": [
+        "Productions/E020-the-great-nighttime-bark-off/gathering-art-v002.png",
+        "Productions/E020-the-great-nighttime-bark-off/echo-art-v002.png",
+        "Productions/E020-the-great-nighttime-bark-off/illustration-v004.png"
+      ],
+      "editorial_review": "reviewed",
+      "visual_review": "independently_reviewed",
+      "complete_reading": "reviewed",
+      "status": "expanded_complete",
+      "review_findings": [],
+      "review_record": "Productions/E020-the-great-nighttime-bark-off/visual-review-v002.json",
+      "previous_commission_status": "illustrated_reading_complete",
+      "expanded_pass": {
+        "humor_pass": "reviewed",
+        "image_plan": "3_scenes_embedded",
+        "independent_visual_review": "reviewed",
+        "complete_illustrated_reading": "reviewed",
+        "outstanding_findings": [],
+        "reading_record": "Productions/E020-the-great-nighttime-bark-off/reading-review-v002.json"
+      },
+      "earlier_reading_owner": "root",
+      "reading_owner": "Fresh independent complete reader reader020; did not write story or generate images"
+    },
+    {
+      "id": "S021",
+      "path": "Stories/S021-the-bittersweet-goodbye.md",
+      "episode_record": "Productions/E021-the-bittersweet-goodbye/episode.json",
+      "selected_images": [
+        "Productions/E021-the-bittersweet-goodbye/illustration-v004.png",
+        "Productions/E021-the-bittersweet-goodbye/airport-art-v003.png",
+        "Productions/E021-the-bittersweet-goodbye/arrival-art-v004.png"
+      ],
+      "editorial_review": "reviewed",
+      "visual_review": "independently_reviewed",
+      "complete_reading": "reviewed",
+      "status": "expanded_complete",
+      "review_findings": [],
+      "review_record": "Productions/E021-the-bittersweet-goodbye/visual-review-v002.json",
+      "previous_commission_status": "illustrated_reading_complete",
+      "expanded_pass": {
+        "humor_pass": "reviewed",
+        "image_plan": "3_scenes_embedded",
+        "independent_visual_review": "reviewed",
+        "complete_illustrated_reading": "reviewed",
+        "outstanding_findings": [],
+        "reading_record": "Productions/E021-the-bittersweet-goodbye/reading-review-v002.json"
+      },
+      "earlier_reading_owner": "root",
+      "reading_owner": "reader021 fresh independent complete-rendered-reading reviewer"
+    },
+    {
+      "id": "S022",
+      "path": "Stories/S022-the-lounge-and-airport-madness.md",
+      "episode_record": "Productions/E022-the-lounge-and-airport-madness/episode.json",
+      "selected_images": [
+        "Productions/E022-the-lounge-and-airport-madness/samosa-art-v002.png",
+        "Productions/E022-the-lounge-and-airport-madness/recliner-art-v004.png",
+        "Productions/E022-the-lounge-and-airport-madness/watch-art-v002.png"
+      ],
+      "editorial_review": "reviewed",
+      "visual_review": "independently_reviewed",
+      "complete_reading": "reviewed",
+      "status": "expanded_complete",
+      "review_findings": [],
+      "review_record": "Productions/E022-the-lounge-and-airport-madness/visual-review-v002.json",
+      "previous_commission_status": "illustrated_reading_complete",
+      "expanded_pass": {
+        "humor_pass": "reviewed",
+        "image_plan": "3_scenes_embedded",
+        "independent_visual_review": "reviewed",
+        "complete_illustrated_reading": "reviewed",
+        "outstanding_findings": [],
+        "reading_record": "Productions/E022-the-lounge-and-airport-madness/reading-review-v002.json"
+      },
+      "earlier_reading_owner": "root",
+      "reading_owner": "fresh independent reader022; no prose or artwork creation or modification"
+    },
+    {
+      "id": "S023",
+      "path": "Stories/S023-the-business-class-upgrade-disaster.md",
+      "episode_record": "Productions/E023-the-business-class-upgrade-disaster/episode.json",
+      "selected_images": [
+        "Productions/E023-the-business-class-upgrade-disaster/comfort-art-v003.png",
+        "Productions/E023-the-business-class-upgrade-disaster/napkins-art-v003.png",
+        "Productions/E023-the-business-class-upgrade-disaster/floor-art-v002.png"
+      ],
+      "editorial_review": "reviewed",
+      "visual_review": "independently_reviewed",
+      "complete_reading": "reviewed",
+      "status": "expanded_complete",
+      "review_findings": [],
+      "review_record": "Productions/E023-the-business-class-upgrade-disaster/visual-review-v002.json",
+      "previous_commission_status": "illustrated_reading_complete",
+      "expanded_pass": {
+        "humor_pass": "reviewed",
+        "image_plan": "3_scenes_embedded",
+        "independent_visual_review": "reviewed",
+        "complete_illustrated_reading": "reviewed",
+        "outstanding_findings": [],
+        "reading_record": "Productions/E023-the-business-class-upgrade-disaster/reading-review-v002.json"
+      },
+      "earlier_reading_owner": "root",
+      "reading_owner": "Fresh reader023; did not write prose or generate reviewed artwork"
+    },
+    {
+      "id": "S024",
+      "path": "Stories/S024-the-istanbul-layover-debacle.md",
+      "episode_record": "Productions/E024-the-istanbul-layover-debacle/episode.json",
+      "selected_images": [
+        "Productions/E024-the-istanbul-layover-debacle/lounge-art-v003.png",
+        "Productions/E024-the-istanbul-layover-debacle/towel-art-v003.png",
+        "Productions/E024-the-istanbul-layover-debacle/olive-art-v004.png"
+      ],
+      "editorial_review": "reviewed",
+      "visual_review": "independently_reviewed",
+      "complete_reading": "reviewed",
+      "status": "expanded_complete",
+      "review_findings": [],
+      "review_record": "Productions/E024-the-istanbul-layover-debacle/visual-review-v002.json",
+      "previous_commission_status": "illustrated_reading_complete",
+      "expanded_pass": {
+        "humor_pass": "reviewed",
+        "image_plan": "3_scenes_embedded",
+        "independent_visual_review": "reviewed",
+        "complete_illustrated_reading": "reviewed",
+        "outstanding_findings": [],
+        "reading_record": "Productions/E024-the-istanbul-layover-debacle/reading-review-v002.json"
+      },
+      "earlier_reading_owner": "root",
+      "reading_owner": "fresh independent reader024; no prose or artwork generation for this story"
+    },
+    {
+      "id": "S025",
+      "path": "Stories/S025-the-return-to-the-u-s-immigration-madness.md",
+      "episode_record": "Productions/E025-the-return-to-the-u-s-immigration-madness/episode.json",
+      "selected_images": [
+        "Productions/E025-the-return-to-the-u-s-immigration-madness/checkpoint-art-v003.png",
+        "Productions/E025-the-return-to-the-u-s-immigration-madness/carousel-art-v002.png",
+        "Productions/E025-the-return-to-the-u-s-immigration-madness/detection-art-v003.png"
+      ],
+      "editorial_review": "reviewed",
+      "visual_review": "independently_reviewed",
+      "complete_reading": "reviewed",
+      "status": "expanded_complete",
+      "review_findings": [],
+      "review_record": "Productions/E025-the-return-to-the-u-s-immigration-madness/visual-review-v002.json",
+      "previous_commission_status": "illustrated_reading_complete",
+      "expanded_pass": {
+        "humor_pass": "reviewed",
+        "image_plan": "3_scenes_embedded",
+        "independent_visual_review": "reviewed",
+        "complete_illustrated_reading": "reviewed",
+        "outstanding_findings": [],
+        "reading_record": "Productions/E025-the-return-to-the-u-s-immigration-madness/reading-review-v002.json"
+      },
+      "earlier_reading_owner": "root",
+      "reading_owner": {
+        "role": "fresh_complete_reading_reviewer",
+        "agent": "reader025",
+        "generated_reviewed_images": false,
+        "edited_story": false
+      }
+    },
+    {
+      "id": "S026",
+      "path": "Stories/S026-the-homecoming-blues.md",
+      "episode_record": "Productions/E026-the-homecoming-blues/episode.json",
+      "selected_images": [
+        "Productions/E026-the-homecoming-blues/spice-art-v002.png",
+        "Productions/E026-the-homecoming-blues/dance-art-v004.png",
+        "Productions/E026-the-homecoming-blues/rain-art-v002.png"
+      ],
+      "editorial_review": "reviewed",
+      "visual_review": "independently_reviewed",
+      "complete_reading": "reviewed",
+      "status": "expanded_complete",
+      "review_findings": [],
+      "review_record": "Productions/E026-the-homecoming-blues/visual-review-v002.json",
+      "previous_commission_status": "illustrated_reading_complete",
+      "expanded_pass": {
+        "humor_pass": "reviewed",
+        "image_plan": "3_scenes_embedded",
+        "independent_visual_review": "reviewed",
+        "complete_illustrated_reading": "reviewed",
+        "outstanding_findings": [],
+        "reading_record": "Productions/E026-the-homecoming-blues/reading-review-v002.json"
+      },
+      "earlier_reading_owner": "root",
+      "reading_owner": "fresh complete-reading reviewer reader026; did not write prose or generate artwork"
+    },
+    {
+      "id": "S027",
+      "path": "Stories/S027-heathers-birthday-and-the-aquarium-chaos.md",
+      "episode_record": "Productions/E027-heathers-birthday-and-the-aquarium-chaos/episode.json",
+      "selected_images": [
+        "Productions/E027-heathers-birthday-and-the-aquarium-chaos/jellyfish-art-v002.png",
+        "Productions/E027-heathers-birthday-and-the-aquarium-chaos/shark-art-v003.png",
+        "Productions/E027-heathers-birthday-and-the-aquarium-chaos/otter-art-v002.png"
+      ],
+      "editorial_review": "reviewed",
+      "visual_review": "independently_reviewed",
+      "complete_reading": "reviewed",
+      "status": "expanded_complete",
+      "review_findings": [],
+      "review_record": "Productions/E027-heathers-birthday-and-the-aquarium-chaos/visual-review-v002.json",
+      "previous_commission_status": "illustrated_reading_complete",
+      "expanded_pass": {
+        "humor_pass": "reviewed",
+        "image_plan": "3_scenes_embedded",
+        "independent_visual_review": "reviewed",
+        "complete_illustrated_reading": "reviewed",
+        "outstanding_findings": [],
+        "reading_record": "Productions/E027-heathers-birthday-and-the-aquarium-chaos/reading-review-v002.json"
+      },
+      "earlier_reading_owner": "root",
+      "reading_owner": "Fresh complete-reading reviewer reader027; no prose or artwork generation or editing"
+    },
+    {
+      "id": "S028",
+      "path": "Stories/S028-the-birthday-get-together-and-the-sheera-cake-saga.md",
+      "episode_record": "Productions/E028-the-birthday-get-together-and-the-sheera-cake-saga/episode.json",
+      "selected_images": [
+        "Productions/E028-the-birthday-get-together-and-the-sheera-cake-saga/setup-v004.png",
+        "Productions/E028-the-birthday-get-together-and-the-sheera-cake-saga/ankle-v003.png",
+        "Productions/E028-the-birthday-get-together-and-the-sheera-cake-saga/cake-v002.png"
+      ],
+      "editorial_review": "reviewed",
+      "visual_review": "independently_reviewed",
+      "complete_reading": "reviewed",
+      "status": "expanded_complete",
+      "review_findings": [],
+      "previous_commission_status": "complete_reading_pending",
+      "expanded_pass": {
+        "humor_pass": "reviewed",
+        "image_plan": "3_scenes_embedded",
+        "independent_visual_review": "reviewed",
+        "complete_illustrated_reading": "reviewed",
+        "outstanding_findings": [],
+        "reading_record": "Productions/E028-the-birthday-get-together-and-the-sheera-cake-saga/reading-review-v002.json"
+      },
+      "review_record": "Productions/E028-the-birthday-get-together-and-the-sheera-cake-saga/visual-review-v002.json",
+      "earlier_reading_owner": "root",
+      "reading_owner": "fresh_reader028"
+    },
+    {
+      "id": "S029",
+      "path": "Stories/S029-winter-woes-and-the-battle-of-the-backyard.md",
+      "episode_record": "Productions/E029-winter-woes-and-the-battle-of-the-backyard/episode.json",
+      "selected_images": [
+        "Productions/E029-winter-woes-and-the-battle-of-the-backyard/snow-art-v003.png",
+        "Productions/E029-winter-woes-and-the-battle-of-the-backyard/circles-art-v003.png",
+        "Productions/E029-winter-woes-and-the-battle-of-the-backyard/warm-art-v004.png"
+      ],
+      "editorial_review": "reviewed",
+      "visual_review": "independently_reviewed",
+      "complete_reading": "reviewed",
+      "status": "expanded_complete",
+      "review_findings": [],
+      "previous_commission_status": "complete_reading_pending",
+      "expanded_pass": {
+        "humor_pass": "reviewed",
+        "image_plan": "3_scenes_embedded",
+        "independent_visual_review": "reviewed",
+        "complete_illustrated_reading": "reviewed",
+        "outstanding_findings": [],
+        "reading_record": "Productions/E029-winter-woes-and-the-battle-of-the-backyard/reading-review-v002.json"
+      },
+      "review_record": "Productions/E029-winter-woes-and-the-battle-of-the-backyard/visual-review-v002.json",
+      "earlier_reading_owner": "root",
+      "reading_owner": "fresh complete rendered reading reviewer; no prose or artwork edits"
+    },
+    {
+      "id": "S030",
+      "path": "Stories/S030-the-temple-visit-and-the-great-gujarati-thali-feast.md",
+      "episode_record": "Productions/E030-the-temple-visit-and-the-great-gujarati-thali-feast/episode.json",
+      "selected_images": [
+        "Productions/E030-the-temple-visit-and-the-great-gujarati-thali-feast/lion-art-v003.png",
+        "Productions/E030-the-temple-visit-and-the-great-gujarati-thali-feast/cafe-art-v003.png",
+        "Productions/E030-the-temple-visit-and-the-great-gujarati-thali-feast/snack-art-v002.png"
+      ],
+      "editorial_review": "reviewed",
+      "visual_review": "independently_reviewed",
+      "complete_reading": "reviewed",
+      "status": "expanded_complete",
+      "review_findings": [],
+      "previous_commission_status": "complete_reading_pending",
+      "expanded_pass": {
+        "humor_pass": "reviewed",
+        "image_plan": "3_scenes_embedded",
+        "independent_visual_review": "reviewed",
+        "complete_illustrated_reading": "reviewed",
+        "outstanding_findings": [],
+        "reading_record": "Productions/E030-the-temple-visit-and-the-great-gujarati-thali-feast/reading-review-v002.json"
+      },
+      "review_record": "Productions/E030-the-temple-visit-and-the-great-gujarati-thali-feast/visual-review-v002.json",
+      "earlier_reading_owner": "root",
+      "reading_owner": "fresh independent reader030"
+    },
+    {
+      "id": "S031",
+      "path": "Stories/S031-buddys-big-dental-adventure-part-1.md",
+      "episode_record": "Productions/E031-buddys-big-dental-adventure-part-1/episode.json",
+      "selected_images": [
+        "Productions/E031-buddys-big-dental-adventure-part-1/waiting-art-v003.png",
+        "Productions/E031-buddys-big-dental-adventure-part-1/handoff-art-v003.png",
+        "Productions/E031-buddys-big-dental-adventure-part-1/dream-art-v003.png"
+      ],
+      "editorial_review": "reviewed",
+      "visual_review": "independently_reviewed",
+      "complete_reading": "reviewed",
+      "status": "expanded_complete",
+      "review_findings": [],
+      "previous_commission_status": "complete_reading_pending",
+      "expanded_pass": {
+        "humor_pass": "reviewed",
+        "image_plan": "3_scenes_embedded",
+        "independent_visual_review": "reviewed",
+        "complete_illustrated_reading": "reviewed",
+        "outstanding_findings": [],
+        "reading_record": "Productions/E031-buddys-big-dental-adventure-part-1/reading-review-v002.json"
+      },
+      "review_record": "Productions/E031-buddys-big-dental-adventure-part-1/visual-review-v002.json",
+      "earlier_reading_owner": "root",
+      "reading_owner": "fresh complete-reading reviewer reader031; did not write story or generate artwork"
+    },
+    {
+      "id": "S032",
+      "path": "Stories/S032-buddys-big-dental-adventure-part-2.md",
+      "episode_record": "Productions/E032-buddys-big-dental-adventure-part-2/episode.json",
+      "selected_images": [
+        "Productions/E032-buddys-big-dental-adventure-part-2/recovery-art-v003.png",
+        "Productions/E032-buddys-big-dental-adventure-part-2/pickup-art-v003.png",
+        "Productions/E032-buddys-big-dental-adventure-part-2/bush-art-v003.png",
+        "Productions/E032-buddys-big-dental-adventure-part-2/gold-art-v006.png"
+      ],
+      "editorial_review": "reviewed",
+      "visual_review": "independently_reviewed",
+      "complete_reading": "reviewed",
+      "status": "expanded_complete",
+      "review_findings": [],
+      "previous_commission_status": "illustration_in_progress",
+      "expanded_pass": {
+        "humor_pass": "reviewed",
+        "image_plan": "4_scenes_embedded",
+        "independent_visual_review": "reviewed",
+        "complete_illustrated_reading": "reviewed",
+        "outstanding_findings": [],
+        "reading_record": "Productions/E032-buddys-big-dental-adventure-part-2/reading-review-v002.json"
+      },
+      "review_record": "Productions/E032-buddys-big-dental-adventure-part-2/visual-review-v002.json",
+      "earlier_reading_owner": "root",
+      "reading_owner": "fresh-reader-S032"
+    },
+    {
+      "id": "S033",
+      "path": "Stories/S033-buddy-and-the-golden-glory.md",
+      "episode_record": "Productions/E033-buddy-and-the-golden-glory/episode.json",
+      "selected_images": [
+        "Productions/E033-buddy-and-the-golden-glory/opening-art-v006.png",
+        "Productions/E033-buddy-and-the-golden-glory/crowd-art-v010.png",
+        "Productions/E033-buddy-and-the-golden-glory/fork-art-v010.png"
+      ],
+      "editorial_review": "reviewed",
+      "visual_review": "independently_reviewed",
+      "complete_reading": "reviewed",
+      "status": "expanded_complete",
+      "review_findings": [],
+      "previous_commission_status": "illustration_in_progress",
+      "expanded_pass": {
+        "humor_pass": "reviewed",
+        "image_plan": "3_scenes_embedded",
+        "independent_visual_review": "reviewed",
+        "complete_illustrated_reading": "reviewed",
+        "outstanding_findings": [],
+        "story_agent": "/root/coordinate009_016/coordinate017_024/coordinate025_032/coordinate033_040/story033",
+        "reading_record": "Productions/E033-buddy-and-the-golden-glory/reading-review-v002.json"
+      },
+      "review_record": "Productions/E033-buddy-and-the-golden-glory/visual-review-v002.json",
+      "earlier_reading_owner": "root",
+      "reading_owner": "fresh reader033; did not write prose or generate artwork"
+    },
+    {
+      "id": "S034",
+      "path": "Stories/S034-the-stealth-games-begin.md",
+      "episode_record": "Productions/E034-the-stealth-games-begin/episode.json",
+      "selected_images": [
+        "Productions/E034-the-stealth-games-begin/p01-bath-art-v003.png",
+        "Productions/E034-the-stealth-games-begin/p02-beanie-art-v003.png",
+        "Productions/E034-the-stealth-games-begin/p03-todd-art-v004.png",
+        "Productions/E034-the-stealth-games-begin/p04-ficus-art-v003.png",
+        "Productions/E034-the-stealth-games-begin/p05-stairs-art-v004.png",
+        "Productions/E034-the-stealth-games-begin/a01-diplomacy-art-v003.png",
+        "Productions/E034-the-stealth-games-begin/a02-leaf-art-v004.png"
+      ],
+      "editorial_review": "reviewed",
+      "visual_review": "independently_reviewed",
+      "complete_reading": "reviewed",
+      "status": "expanded_complete",
+      "review_findings": [],
+      "previous_commission_status": "illustration_in_progress",
+      "expanded_pass": {
+        "humor_pass": "reviewed",
+        "image_plan": "7_scenes_embedded",
+        "independent_visual_review": "reviewed",
+        "complete_illustrated_reading": "reviewed",
+        "outstanding_findings": [],
+        "story_agent": "/root/coordinate009_016/coordinate017_024/coordinate025_032/coordinate033_040/story034",
+        "reading_record": "Productions/E034-the-stealth-games-begin/reading-review-v002.json"
+      },
+      "review_record": "Productions/E034-the-stealth-games-begin/visual-review-v002.json",
+      "earlier_reading_owner": "root",
+      "reading_owner": "Fresh complete-reading reviewer reader034; did not write or generate this story/art"
+    },
+    {
+      "id": "S035",
+      "path": "Stories/S035-the-great-fire-noodles-chiku-shake-meltdown.md",
+      "episode_record": "Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/episode.json",
+      "selected_images": [
+        "Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/p01-chili-art-v003.png",
+        "Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/p02-dinner-art-v003.png",
+        "Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/p03-sidewalk-art-v003.png",
+        "Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/p04-pour-art-v004.png",
+        "Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/p05-bowl-art-v004.png"
+      ],
+      "editorial_review": "reviewed",
+      "visual_review": "independently_reviewed",
+      "complete_reading": "reviewed",
+      "status": "expanded_complete",
+      "review_findings": [],
+      "previous_commission_status": "complete_reading_pending",
+      "expanded_pass": {
+        "humor_pass": "reviewed",
+        "image_plan": "5_scenes_embedded",
+        "independent_visual_review": "reviewed",
+        "complete_illustrated_reading": "reviewed",
+        "outstanding_findings": [],
+        "story_agent": "/root/coordinate009_016/coordinate017_024/coordinate025_032/coordinate033_040/story035",
+        "reading_record": "Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/reading-review-v002.json"
+      },
+      "review_record": "Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/visual-review-v002.json",
+      "earlier_reading_owner": "root",
+      "reading_owner": "fresh independent reader035"
+    },
+    {
+      "id": "S036",
+      "path": "Stories/S036-the-royal-house-hunt-and-the-negotiation-of-dreams.md",
+      "episode_record": "Productions/E036-the-royal-house-hunt-and-the-negotiation-of-dreams/episode.json",
+      "selected_images": [
+        "Productions/E036-the-royal-house-hunt-and-the-negotiation-of-dreams/p01-wishlist-art-v003.png",
+        "Productions/E036-the-royal-house-hunt-and-the-negotiation-of-dreams/p02-pantry-art-v003.png",
+        "Productions/E036-the-royal-house-hunt-and-the-negotiation-of-dreams/p03-discovery-art-v004.png",
+        "Productions/E036-the-royal-house-hunt-and-the-negotiation-of-dreams/p04-moving-art-v004.png",
+        "Productions/E036-the-royal-house-hunt-and-the-negotiation-of-dreams/p05-patio-art-v003.png"
+      ],
+      "editorial_review": "reviewed",
+      "visual_review": "independently_reviewed",
+      "complete_reading": "reviewed",
+      "status": "expanded_complete",
+      "review_findings": [],
+      "review_record": "Productions/E036-the-royal-house-hunt-and-the-negotiation-of-dreams/visual-review-v002.json",
+      "previous_commission_status": "illustrated_reading_complete",
+      "expanded_pass": {
+        "humor_pass": "reviewed",
+        "image_plan": "5_scenes_embedded",
+        "independent_visual_review": "reviewed",
+        "complete_illustrated_reading": "reviewed",
+        "outstanding_findings": [],
+        "story_agent": "/root/coordinate009_016/coordinate017_024/coordinate025_032/coordinate033_040/story036",
+        "reading_record": "Productions/E036-the-royal-house-hunt-and-the-negotiation-of-dreams/reading-review-v002.json"
+      },
+      "earlier_reading_owner": "editor_early",
+      "reading_owner": "Fresh independent reader036; did not write prose, generate artwork or perform preceding visual acceptance"
+    },
+    {
+      "id": "S037",
+      "path": "Stories/S037-the-midnight-storm-and-the-royal-snack-emergency.md",
+      "episode_record": "Productions/E037-the-midnight-storm-and-the-royal-snack-emergency/episode.json",
+      "selected_images": [
+        "Productions/E037-the-midnight-storm-and-the-royal-snack-emergency/p01-bedroom-art-v001.png",
+        "Productions/E037-the-midnight-storm-and-the-royal-snack-emergency/p02-kitchen-art-v003.png",
+        "Productions/E037-the-midnight-storm-and-the-royal-snack-emergency/p03-blanket-art-v002.png",
+        "Productions/E037-the-midnight-storm-and-the-royal-snack-emergency/p04-bowl-art-v003.png",
+        "Productions/E037-the-midnight-storm-and-the-royal-snack-emergency/p05-morning-art-v003.png"
+      ],
+      "editorial_review": "reviewed",
+      "visual_review": "independently_reviewed",
+      "complete_reading": "reviewed",
+      "status": "expanded_complete",
+      "review_findings": [],
+      "review_record": "Productions/E037-the-midnight-storm-and-the-royal-snack-emergency/visual-review-v002.json",
+      "previous_commission_status": "illustrated_reading_complete",
+      "expanded_pass": {
+        "humor_pass": "reviewed",
+        "image_plan": "5_scenes_embedded",
+        "independent_visual_review": "reviewed",
+        "complete_illustrated_reading": "reviewed",
+        "outstanding_findings": [],
+        "story_agent": "/root/coordinate009_016/coordinate017_024/coordinate025_032/coordinate033_040/story037",
+        "reading_record": "Productions/E037-the-midnight-storm-and-the-royal-snack-emergency/reading-review-v002.json"
+      },
+      "earlier_reading_owner": "editor_early",
+      "reading_owner": "fresh reader037; did not write prose, generate art, or conduct the independent visual review"
+    },
+    {
+      "id": "S038",
+      "path": "Stories/S038-the-smoky-mountain-escapade.md",
+      "episode_record": "Productions/E038-the-smoky-mountain-escapade/episode.json",
+      "selected_images": [
+        "Productions/E038-the-smoky-mountain-escapade/p01-departure-art-v003.png",
+        "Productions/E038-the-smoky-mountain-escapade/p02-bridge-art-v003.png",
+        "Productions/E038-the-smoky-mountain-escapade/p03-lights-art-v003.png",
+        "Productions/E038-the-smoky-mountain-escapade/p04-bear-art-v005.png",
+        "Productions/E038-the-smoky-mountain-escapade/p05-turkeys-art-v003.png",
+        "Productions/E038-the-smoky-mountain-escapade/a01-keurig-art-v003.png",
+        "Productions/E038-the-smoky-mountain-escapade/a02-crust-art-v003.png"
+      ],
+      "editorial_review": "reviewed",
+      "visual_review": "independently_reviewed",
+      "complete_reading": "reviewed",
+      "status": "expanded_complete",
+      "review_findings": [],
+      "review_record": "Productions/E038-the-smoky-mountain-escapade/visual-review-v002.json",
+      "previous_commission_status": "illustrated_reading_complete",
+      "expanded_pass": {
+        "humor_pass": "reviewed",
+        "image_plan": "7_scenes_embedded",
+        "independent_visual_review": "reviewed",
+        "complete_illustrated_reading": "reviewed",
+        "outstanding_findings": [],
+        "story_agent": "/root/coordinate009_016/coordinate017_024/coordinate025_032/coordinate033_040/story038",
+        "reading_record": "Productions/E038-the-smoky-mountain-escapade/reading-review-v002.json"
+      },
+      "earlier_reading_owner": "editor_early",
+      "reading_owner": "fresh reader038"
+    },
+    {
+      "id": "S039",
+      "path": "Stories/S039-welcome-to-austin-the-great-inspection.md",
+      "episode_record": "Productions/E039-welcome-to-austin-the-great-inspection/episode.json",
+      "selected_images": [
+        "Productions/E039-welcome-to-austin-the-great-inspection/kitchen-art-v002.png",
+        "Productions/E039-welcome-to-austin-the-great-inspection/flowerpot-art-v002.png",
+        "Productions/E039-welcome-to-austin-the-great-inspection/fence-art-v004.png",
+        "Productions/E039-welcome-to-austin-the-great-inspection/unpacking-art-v004.png",
+        "Productions/E039-welcome-to-austin-the-great-inspection/pizza-art-v002.png"
+      ],
+      "editorial_review": "reviewed",
+      "visual_review": "independently_reviewed",
+      "complete_reading": "reviewed",
+      "status": "expanded_complete",
+      "review_findings": [],
+      "review_record": "Productions/E039-welcome-to-austin-the-great-inspection/visual-review-v002.json",
+      "previous_commission_status": "illustrated_reading_complete",
+      "expanded_pass": {
+        "humor_pass": "reviewed",
+        "image_plan": "5_scenes_embedded",
+        "independent_visual_review": "reviewed",
+        "complete_illustrated_reading": "reviewed",
+        "outstanding_findings": [],
+        "story_agent": "/root/coordinate009_016/coordinate017_024/coordinate025_032/coordinate033_040/story039",
+        "reading_record": "Productions/E039-welcome-to-austin-the-great-inspection/reading-review-v002.json"
+      },
+      "earlier_reading_owner": "editor_early",
+      "reading_owner": "fresh-reader039"
+    },
+    {
+      "id": "S040",
+      "path": "Stories/S040-the-first-neighborhood-expedition.md",
+      "episode_record": "Productions/E040-the-first-neighborhood-expedition/episode.json",
+      "selected_images": [
+        "Productions/E040-the-first-neighborhood-expedition/pumpkin-art-v004.png",
+        "Productions/E040-the-first-neighborhood-expedition/bouquet-art-v003.png",
+        "Productions/E040-the-first-neighborhood-expedition/shepherd-art-v003.png",
+        "Productions/E040-the-first-neighborhood-expedition/mailbox-art-v003.png",
+        "Productions/E040-the-first-neighborhood-expedition/home-art-v003.png"
+      ],
+      "editorial_review": "reviewed",
+      "visual_review": "independently_reviewed",
+      "complete_reading": "reviewed",
+      "status": "expanded_complete",
+      "review_findings": [],
+      "review_record": "Productions/E040-the-first-neighborhood-expedition/visual-review-v002.json",
+      "previous_commission_status": "illustrated_reading_complete",
+      "expanded_pass": {
+        "humor_pass": "reviewed",
+        "image_plan": "5_scenes_embedded",
+        "independent_visual_review": "reviewed",
+        "complete_illustrated_reading": "reviewed",
+        "outstanding_findings": [],
+        "story_agent": "/root/coordinate009_016/coordinate017_024/coordinate025_032/coordinate033_040/story040",
+        "reading_record": "Productions/E040-the-first-neighborhood-expedition/reading-review-v002.json"
+      },
+      "earlier_reading_owner": "editor_early",
+      "reading_owner": "reader040"
+    },
+    {
+      "id": "S041",
+      "path": "Stories/S041-the-epic-furniture-fiesta.md",
+      "episode_record": "Productions/E041-the-epic-furniture-fiesta/episode.json",
+      "selected_images": [
+        "Productions/E041-the-epic-furniture-fiesta/showroom-art-v006.png",
+        "Productions/E041-the-epic-furniture-fiesta/curtain-art-v004.png",
+        "Productions/E041-the-epic-furniture-fiesta/captain-art-v005.png",
+        "Productions/E041-the-epic-furniture-fiesta/desk-art-v005.png",
+        "Productions/E041-the-epic-furniture-fiesta/shrine-art-v005.png"
+      ],
+      "editorial_review": "reviewed",
+      "visual_review": "independently_reviewed",
+      "complete_reading": "reviewed",
+      "status": "expanded_complete",
+      "review_findings": [],
+      "review_record": "Productions/E041-the-epic-furniture-fiesta/visual-review-v002.json",
+      "previous_commission_status": "illustrated_reading_complete",
+      "expanded_pass": {
+        "humor_pass": "reviewed",
+        "image_plan": "5_scenes_embedded",
+        "independent_visual_review": "reviewed",
+        "complete_illustrated_reading": "reviewed",
+        "outstanding_findings": [],
+        "reading_record": "Productions/E041-the-epic-furniture-fiesta/reading-review-v002.json"
+      },
+      "earlier_reading_owner": "editor_early",
+      "reading_owner": "fresh complete-reading reader041"
+    },
+    {
+      "id": "S042",
+      "path": "Stories/S042-the-day-the-bark-stood-still.md",
+      "episode_record": "Productions/E042-the-day-the-bark-stood-still/episode.json",
+      "selected_images": [
+        "Productions/E042-the-day-the-bark-stood-still/morning-art-v004.png",
+        "Productions/E042-the-day-the-bark-stood-still/kitchen-art-v003.png",
+        "Productions/E042-the-day-the-bark-stood-still/stairs-art-v006.png"
+      ],
+      "editorial_review": "reviewed",
+      "visual_review": "independently_reviewed",
+      "complete_reading": "reviewed",
+      "status": "expanded_complete",
+      "review_findings": [],
+      "review_record": "Productions/E042-the-day-the-bark-stood-still/visual-review-v002.json",
+      "previous_commission_status": "illustrated_reading_complete",
+      "expanded_pass": {
+        "humor_pass": "reviewed",
+        "image_plan": "3_scenes_embedded",
+        "independent_visual_review": "reviewed",
+        "complete_illustrated_reading": "reviewed",
+        "outstanding_findings": [],
+        "reading_record": "Productions/E042-the-day-the-bark-stood-still/reading-review-v002.json"
+      },
+      "earlier_reading_owner": "editor_early",
+      "reading_owner": "fresh_complete_reading_reader042"
+    },
+    {
+      "id": "S043",
+      "path": "Stories/S043-the-great-laundry-day-uprising.md",
+      "episode_record": "Productions/E043-the-great-laundry-day-uprising/episode.json",
+      "selected_images": [
+        "Productions/E043-the-great-laundry-day-uprising/sock-art-v004.png",
+        "Productions/E043-the-great-laundry-day-uprising/dryer-art-v002.png",
+        "Productions/E043-the-great-laundry-day-uprising/folding-art-v002.png"
+      ],
+      "editorial_review": "reviewed",
+      "visual_review": "independently_reviewed",
+      "complete_reading": "reviewed",
+      "status": "expanded_complete",
+      "review_findings": [],
+      "review_record": "Productions/E043-the-great-laundry-day-uprising/visual-review-v002.json",
+      "previous_commission_status": "illustrated_reading_complete",
+      "expanded_pass": {
+        "humor_pass": "reviewed",
+        "image_plan": "3_scenes_embedded",
+        "independent_visual_review": "reviewed",
+        "complete_illustrated_reading": "reviewed",
+        "outstanding_findings": [],
+        "reading_record": "Productions/E043-the-great-laundry-day-uprising/reading-review-v002.json"
+      },
+      "earlier_reading_owner": "editor_early",
+      "reading_owner": "Fresh S043 complete-reading reviewer"
+    },
+    {
+      "id": "S044",
+      "path": "Stories/S044-the-vacuum-wars.md",
+      "episode_record": "Productions/E044-the-vacuum-wars/episode.json",
+      "selected_images": [
+        "Productions/E044-the-vacuum-wars/sock-retreat-art-v004.png",
+        "Productions/E044-the-vacuum-wars/illustration-v004.png",
+        "Productions/E044-the-vacuum-wars/muddy-victory-art-v004.png"
+      ],
+      "editorial_review": "reviewed",
+      "visual_review": "independently_reviewed",
+      "complete_reading": "reviewed",
+      "status": "expanded_complete",
+      "review_findings": [],
+      "review_record": "Productions/E044-the-vacuum-wars/visual-review-v002.json",
+      "previous_commission_status": "illustrated_reading_complete",
+      "expanded_pass": {
+        "humor_pass": "reviewed",
+        "image_plan": "3_scenes_embedded",
+        "independent_visual_review": "reviewed",
+        "complete_illustrated_reading": "reviewed",
+        "outstanding_findings": [],
+        "reading_record": "Productions/E044-the-vacuum-wars/reading-review-v002.json"
+      },
+      "earlier_reading_owner": "editor_early",
+      "reading_owner": "fresh complete-reading agent reader044"
+    },
+    {
+      "id": "S045",
+      "path": "Stories/S045-the-robot-vacuum-coup.md",
+      "episode_record": "Productions/E045-the-robot-vacuum-coup/episode.json",
+      "selected_images": [
+        "Productions/E045-the-robot-vacuum-coup/first-contact-art-v004.png",
+        "Productions/E045-the-robot-vacuum-coup/morning-art-v003.png",
+        "Productions/E045-the-robot-vacuum-coup/treaty-art-v003.png"
+      ],
+      "editorial_review": "reviewed",
+      "visual_review": "independently_reviewed",
+      "complete_reading": "reviewed",
+      "status": "expanded_complete",
+      "review_findings": [],
+      "review_record": "Productions/E045-the-robot-vacuum-coup/visual-review-v002.json",
+      "previous_commission_status": "illustrated_reading_complete",
+      "expanded_pass": {
+        "humor_pass": "reviewed",
+        "image_plan": "3_scenes_embedded",
+        "independent_visual_review": "reviewed",
+        "complete_illustrated_reading": "reviewed",
+        "outstanding_findings": [],
+        "reading_record": "Productions/E045-the-robot-vacuum-coup/reading-review-v002.json"
+      },
+      "earlier_reading_owner": "editor_early",
+      "reading_owner": "Fresh reader045 agent; did not write story or generate/review its art in earlier stages"
+    },
+    {
+      "id": "S046",
+      "path": "Stories/S046-the-rainbow-drill.md",
+      "episode_record": "Productions/E046-the-rainbow-drill/episode.json",
+      "selected_images": [
+        "Productions/E046-the-rainbow-drill/storm-art-v004.png",
+        "Productions/E046-the-rainbow-drill/cleaning-art-v004.png",
+        "Productions/E046-the-rainbow-drill/rainbow-art-v003.png"
+      ],
+      "editorial_review": "reviewed",
+      "visual_review": "independently_reviewed",
+      "complete_reading": "reviewed",
+      "status": "expanded_complete",
+      "review_findings": [],
+      "review_record": "Productions/E046-the-rainbow-drill/visual-review-v002.json",
+      "previous_commission_status": "illustrated_reading_complete",
+      "expanded_pass": {
+        "humor_pass": "reviewed",
+        "image_plan": "3_scenes_embedded",
+        "independent_visual_review": "reviewed",
+        "complete_illustrated_reading": "reviewed",
+        "outstanding_findings": [],
+        "reading_record": "Productions/E046-the-rainbow-drill/reading-review-v002.json"
+      },
+      "earlier_reading_owner": "editor_early",
+      "reading_owner": "fresh reader046 agent, independent of writing and image generation"
+    },
+    {
+      "id": "S047",
+      "path": "Stories/S047-the-kings-birthday.md",
+      "episode_record": "Productions/E047-the-kings-birthday/episode.json",
+      "selected_images": [
+        "Productions/E047-the-kings-birthday/dawn-art-v002.png",
+        "Productions/E047-the-kings-birthday/hats-art-v003.png",
+        "Productions/E047-the-kings-birthday/sock-art-v002.png"
+      ],
+      "editorial_review": "reviewed",
+      "visual_review": "independently_reviewed",
+      "complete_reading": "reviewed",
+      "status": "expanded_complete",
+      "review_findings": [],
+      "review_record": "Productions/E047-the-kings-birthday/visual-review-v002.json",
+      "previous_commission_status": "illustrated_reading_complete",
+      "expanded_pass": {
+        "humor_pass": "reviewed",
+        "image_plan": "3_scenes_embedded",
+        "independent_visual_review": "reviewed",
+        "complete_illustrated_reading": "reviewed",
+        "outstanding_findings": [],
+        "reading_record": "Productions/E047-the-kings-birthday/reading-review-v002.json"
+      },
+      "earlier_reading_owner": "root",
+      "reading_owner": "fresh complete-reading reviewer reader047"
+    },
+    {
+      "id": "S048",
+      "path": "Stories/S048-the-fall-of-a-quarter-star.md",
+      "episode_record": "Productions/E048-the-fall-of-a-quarter-star/episode.json",
+      "selected_images": [
+        "Productions/E048-the-fall-of-a-quarter-star/fence-art-v003.png",
+        "Productions/E048-the-fall-of-a-quarter-star/closet-art-v003.png",
+        "Productions/E048-the-fall-of-a-quarter-star/snack-art-v003.png"
+      ],
+      "editorial_review": "reviewed",
+      "visual_review": "independently_reviewed",
+      "complete_reading": "reviewed",
+      "status": "expanded_complete",
+      "review_findings": [],
+      "review_record": "Productions/E048-the-fall-of-a-quarter-star/visual-review-v002.json",
+      "previous_commission_status": "illustrated_reading_complete",
+      "expanded_pass": {
+        "humor_pass": "reviewed",
+        "image_plan": "3_scenes_embedded",
+        "independent_visual_review": "reviewed",
+        "complete_illustrated_reading": "reviewed",
+        "outstanding_findings": [],
+        "reading_record": "Productions/E048-the-fall-of-a-quarter-star/reading-review-v002.json"
+      },
+      "earlier_reading_owner": "root",
+      "reading_owner": "reader048"
+    },
+    {
+      "id": "S049",
+      "path": "Stories/S049-the-great-vet-escapade.md",
+      "episode_record": "Productions/E049-the-great-vet-escapade/episode.json",
+      "selected_images": [
+        "Productions/E049-the-great-vet-escapade/doorway-art-v005.png",
+        "Productions/E049-the-great-vet-escapade/buddy-paw-art-v002.png",
+        "Productions/E049-the-great-vet-escapade/neet-paw-art-v002.png",
+        "Productions/E049-the-great-vet-escapade/cookie-paw-art-v003.png"
+      ],
+      "editorial_review": "reviewed",
+      "visual_review": "independently_reviewed",
+      "complete_reading": "reviewed",
+      "status": "expanded_complete",
+      "review_findings": [],
+      "review_record": "Productions/E049-the-great-vet-escapade/visual-review-v002.json",
+      "previous_commission_status": "illustrated_reading_complete",
+      "expanded_pass": {
+        "humor_pass": "reviewed",
+        "image_plan": "4_scenes_embedded",
+        "independent_visual_review": "reviewed",
+        "complete_illustrated_reading": "reviewed",
+        "outstanding_findings": [],
+        "story_agent": "coordinate049_056/story049",
+        "reading_record": "Productions/E049-the-great-vet-escapade/reading-review-v002.json"
+      },
+      "earlier_reading_owner": "root",
+      "reading_owner": "reader049 fresh independent complete-reading reviewer; no prose or image generation"
+    },
+    {
+      "id": "S050",
+      "path": "Stories/S050-the-redemption-crusade-of-the-4-25-star-general.md",
+      "episode_record": "Productions/E050-the-redemption-crusade-of-the-4-25-star-general/episode.json",
+      "selected_images": [
+        "Productions/E050-the-redemption-crusade-of-the-4-25-star-general/bag-art-v004.png",
+        "Productions/E050-the-redemption-crusade-of-the-4-25-star-general/box-art-v003.png",
+        "Productions/E050-the-redemption-crusade-of-the-4-25-star-general/tree-art-v003.png",
+        "Productions/E050-the-redemption-crusade-of-the-4-25-star-general/rest-art-v003.png"
+      ],
+      "editorial_review": "reviewed",
+      "visual_review": "independently_reviewed",
+      "complete_reading": "reviewed",
+      "status": "expanded_complete",
+      "review_findings": [],
+      "review_record": "Productions/E050-the-redemption-crusade-of-the-4-25-star-general/visual-review-v002.json",
+      "previous_commission_status": "illustrated_reading_complete",
+      "expanded_pass": {
+        "humor_pass": "reviewed",
+        "image_plan": "4_scenes_embedded",
+        "independent_visual_review": "reviewed",
+        "complete_illustrated_reading": "reviewed",
+        "outstanding_findings": [],
+        "story_agent": "coordinate049_056/story050",
+        "reading_record": "Productions/E050-the-redemption-crusade-of-the-4-25-star-general/reading-review-v002.json"
+      },
+      "earlier_reading_owner": "root",
+      "reading_owner": "fresh independent reader050; did not write story or generate artwork"
+    },
+    {
+      "id": "S051",
+      "path": "Stories/S051-the-redemption-of-the-star.md",
+      "episode_record": "Productions/E051-the-redemption-of-the-star/episode.json",
+      "selected_images": [
+        "Productions/E051-the-redemption-of-the-star/alarm-art-v003.png",
+        "Productions/E051-the-redemption-of-the-star/aftermath-art-v004.png",
+        "Productions/E051-the-redemption-of-the-star/tribunal-art-v003.png"
+      ],
+      "editorial_review": "reviewed",
+      "visual_review": "independently_reviewed",
+      "complete_reading": "reviewed",
+      "status": "expanded_complete",
+      "review_findings": [],
+      "review_record": "Productions/E051-the-redemption-of-the-star/visual-review-v002.json",
+      "previous_commission_status": "illustrated_reading_complete",
+      "expanded_pass": {
+        "humor_pass": "reviewed",
+        "image_plan": "3_scenes_embedded",
+        "independent_visual_review": "reviewed",
+        "complete_illustrated_reading": "reviewed",
+        "outstanding_findings": [],
+        "story_agent": "coordinate049_056/story051",
+        "reading_record": "Productions/E051-the-redemption-of-the-star/reading-review-v002.json"
+      },
+      "earlier_reading_owner": "root",
+      "reading_owner": "fresh independent complete-reading reviewer reader051"
+    },
+    {
+      "id": "S052",
+      "path": "Stories/S052-the-arrival-of-ganesha.md",
+      "episode_record": "Productions/E052-the-arrival-of-ganesha/episode.json",
+      "selected_images": [
+        "Productions/E052-the-arrival-of-ganesha/apple-art-v002.png",
+        "Productions/E052-the-arrival-of-ganesha/choir-art-v005.png",
+        "Productions/E052-the-arrival-of-ganesha/offering-art-v003.png",
+        "Productions/E052-the-arrival-of-ganesha/evening-art-v002.png"
+      ],
+      "editorial_review": "reviewed",
+      "visual_review": "independently_reviewed",
+      "complete_reading": "reviewed",
+      "status": "expanded_complete",
+      "review_findings": [],
+      "review_record": "Productions/E052-the-arrival-of-ganesha/visual-review-v002.json",
+      "previous_commission_status": "illustrated_reading_complete",
+      "expanded_pass": {
+        "humor_pass": "reviewed",
+        "image_plan": "4_scenes_embedded",
+        "independent_visual_review": "reviewed",
+        "complete_illustrated_reading": "reviewed",
+        "outstanding_findings": [],
+        "story_agent": "coordinate049_056/story052",
+        "reading_record": "Productions/E052-the-arrival-of-ganesha/reading-review-v002.json"
+      },
+      "earlier_reading_owner": "root",
+      "reading_owner": "fresh-reader052"
+    },
+    {
+      "id": "S053",
+      "path": "Stories/S053-the-midnight-counsel-of-ganesha.md",
+      "episode_record": "Productions/E053-the-midnight-counsel-of-ganesha/episode.json",
+      "selected_images": [
+        "Productions/E053-the-midnight-counsel-of-ganesha/modaks-art-v004.png",
+        "Productions/E053-the-midnight-counsel-of-ganesha/study-art-v004.png",
+        "Productions/E053-the-midnight-counsel-of-ganesha/counsel-art-v004.png"
+      ],
+      "editorial_review": "reviewed",
+      "visual_review": "independently_reviewed",
+      "complete_reading": "reviewed",
+      "status": "expanded_complete",
+      "review_findings": [],
+      "review_record": "Productions/E053-the-midnight-counsel-of-ganesha/visual-review-v002.json",
+      "previous_commission_status": "illustrated_reading_complete",
+      "expanded_pass": {
+        "humor_pass": "reviewed",
+        "image_plan": "3_scenes_embedded",
+        "independent_visual_review": "reviewed",
+        "complete_illustrated_reading": "reviewed",
+        "outstanding_findings": [],
+        "story_agent": "coordinate049_056/story053",
+        "reading_record": "Productions/E053-the-midnight-counsel-of-ganesha/reading-review-v002.json"
+      },
+      "earlier_reading_owner": "root",
+      "reading_owner": "Fresh independent complete-reading reviewer reader053; no story or artwork authorship"
+    },
+    {
+      "id": "S054",
+      "path": "Stories/S054-the-visarjan-protocol.md",
+      "episode_record": "Productions/E054-the-visarjan-protocol/episode.json",
+      "selected_images": [
+        "Productions/E054-the-visarjan-protocol/morning-art-v003.png",
+        "Productions/E054-the-visarjan-protocol/shore-art-v004.png",
+        "Productions/E054-the-visarjan-protocol/closing-art-v005.png"
+      ],
+      "editorial_review": "reviewed",
+      "visual_review": "independently_reviewed",
+      "complete_reading": "reviewed",
+      "status": "expanded_complete",
+      "review_findings": [],
+      "review_record": "Productions/E054-the-visarjan-protocol/visual-review-v002.json",
+      "previous_commission_status": "illustrated_reading_complete",
+      "expanded_pass": {
+        "humor_pass": "reviewed",
+        "image_plan": "3_scenes_embedded",
+        "independent_visual_review": "reviewed",
+        "complete_illustrated_reading": "reviewed",
+        "outstanding_findings": [],
+        "story_agent": "coordinate049_056/story054",
+        "reading_record": "Productions/E054-the-visarjan-protocol/reading-review-v002.json"
+      },
+      "earlier_reading_owner": "root",
+      "reading_owner": "fresh independent reader054; no story writing or image generation"
+    },
+    {
+      "id": "S055",
+      "path": "Stories/S055-the-invisible-mentor.md",
+      "episode_record": "Productions/E055-the-invisible-mentor/episode.json",
+      "selected_images": [
+        "Productions/E055-the-invisible-mentor/lunch-art-v004.png",
+        "Productions/E055-the-invisible-mentor/zen-art-v005.png",
+        "Productions/E055-the-invisible-mentor/night-art-v004.png"
+      ],
+      "editorial_review": "reviewed",
+      "visual_review": "independently_reviewed",
+      "complete_reading": "reviewed",
+      "status": "expanded_complete",
+      "review_findings": [],
+      "review_record": "Productions/E055-the-invisible-mentor/visual-review-v002.json",
+      "previous_commission_status": "illustrated_reading_complete",
+      "expanded_pass": {
+        "humor_pass": "reviewed",
+        "image_plan": "3_scenes_embedded",
+        "independent_visual_review": "reviewed",
+        "complete_illustrated_reading": "reviewed",
+        "outstanding_findings": [],
+        "story_agent": "coordinate049_056/story055",
+        "reading_record": "Productions/E055-the-invisible-mentor/reading-review-v002.json"
+      },
+      "earlier_reading_owner": "root",
+      "reading_owner": "reader055 fresh independent complete-reading reviewer; no prose or artwork generated"
+    },
+    {
+      "id": "S056",
+      "path": "Stories/S056-the-day-trip-to-pedernales-falls.md",
+      "episode_record": "Productions/E056-the-day-trip-to-pedernales-falls/episode.json",
+      "selected_images": [
+        "Productions/E056-the-day-trip-to-pedernales-falls/cow-art-v005.png",
+        "Productions/E056-the-day-trip-to-pedernales-falls/stairs-art-v005.png",
+        "Productions/E056-the-day-trip-to-pedernales-falls/photo-art-v004.png",
+        "Productions/E056-the-day-trip-to-pedernales-falls/paw-art-v003.png"
+      ],
+      "editorial_review": "reviewed",
+      "visual_review": "independently_reviewed",
+      "complete_reading": "reviewed",
+      "status": "expanded_complete",
+      "review_findings": [],
+      "review_record": "Productions/E056-the-day-trip-to-pedernales-falls/visual-review-v002.json",
+      "previous_commission_status": "illustrated_reading_complete",
+      "expanded_pass": {
+        "humor_pass": "reviewed",
+        "image_plan": "4_scenes_embedded",
+        "independent_visual_review": "reviewed",
+        "complete_illustrated_reading": "reviewed",
+        "outstanding_findings": [],
+        "story_agent": "coordinate049_056/story056",
+        "reading_record": "Productions/E056-the-day-trip-to-pedernales-falls/reading-review-v002.json"
+      },
+      "earlier_reading_owner": "root",
+      "reading_owner": "fresh independent complete-reading reviewer reader056; did not write story or generate illustrations"
+    },
+    {
+      "id": "S057",
+      "path": "Stories/S057-the-tunnel-to-india-or-faith-vs-physics.md",
+      "episode_record": "Productions/E057-the-tunnel-to-india-or-faith-vs-physics/episode.json",
+      "selected_images": [
+        "Productions/E057-the-tunnel-to-india-or-faith-vs-physics/illustration-v004.png",
+        "Productions/E057-the-tunnel-to-india-or-faith-vs-physics/speech-art-v003.png",
+        "Productions/E057-the-tunnel-to-india-or-faith-vs-physics/delegation-art-v004.png"
+      ],
+      "editorial_review": "reviewed",
+      "visual_review": "independently_reviewed",
+      "complete_reading": "reviewed",
+      "status": "expanded_complete",
+      "review_findings": [],
+      "review_record": "Productions/E057-the-tunnel-to-india-or-faith-vs-physics/visual-review-v002.json",
+      "previous_commission_status": "illustrated_reading_complete",
+      "expanded_pass": {
+        "humor_pass": "reviewed",
+        "image_plan": "3_scenes_embedded",
+        "independent_visual_review": "reviewed",
+        "complete_illustrated_reading": "reviewed",
+        "outstanding_findings": [],
+        "reading_record": "Productions/E057-the-tunnel-to-india-or-faith-vs-physics/reading-review-v002.json"
+      },
+      "earlier_reading_owner": "root",
+      "reading_owner": "fresh_reader057_independent_of_story_and_art_generation"
+    },
+    {
+      "id": "S058",
+      "path": "Stories/S058-the-era-of-the-cool-ball.md",
+      "episode_record": "Productions/E058-the-era-of-the-cool-ball/episode.json",
+      "selected_images": [
+        "Productions/E058-the-era-of-the-cool-ball/discovery-coat-v004.png",
+        "Productions/E058-the-era-of-the-cool-ball/window-wrong-moon-v002.png",
+        "Productions/E058-the-era-of-the-cool-ball/buddys-turn-v003.png"
+      ],
+      "editorial_review": "reviewed",
+      "visual_review": "independently_reviewed",
+      "complete_reading": "reviewed",
+      "status": "expanded_complete",
+      "review_findings": [],
+      "review_record": "Productions/E058-the-era-of-the-cool-ball/visual-review-v002.json",
+      "previous_commission_status": "illustrated_reading_complete",
+      "expanded_pass": {
+        "humor_pass": "reviewed",
+        "image_plan": "3_scenes_embedded",
+        "independent_visual_review": "reviewed",
+        "complete_illustrated_reading": "reviewed",
+        "outstanding_findings": [],
+        "reading_record": "Productions/E058-the-era-of-the-cool-ball/reading-review-v002.json"
+      },
+      "earlier_reading_owner": "root",
+      "reading_owner": "fresh complete illustrated reading reviewer reader058; did not write story or generate artwork"
+    },
+    {
+      "id": "S059",
+      "path": "Stories/S059-the-fire-conspiracy.md",
+      "episode_record": "Productions/E059-the-fire-conspiracy/episode.json",
+      "selected_images": [
+        "Productions/E059-the-fire-conspiracy/p01-purchase-art-v003.png",
+        "Productions/E059-the-fire-conspiracy/p02-setup-art-v003.png",
+        "Productions/E059-the-fire-conspiracy/p03-boundary-art-v004.png",
+        "Productions/E059-the-fire-conspiracy/p04-neighbor-art-v003.png",
+        "Productions/E059-the-fire-conspiracy/p05-extinguishing-art-v003.png"
+      ],
+      "editorial_review": "reviewed",
+      "visual_review": "independently_reviewed",
+      "complete_reading": "reviewed",
+      "status": "expanded_complete",
+      "review_findings": [],
+      "review_record": "Productions/E059-the-fire-conspiracy/visual-review-v002.json",
+      "previous_commission_status": "illustrated_reading_complete",
+      "expanded_pass": {
+        "humor_pass": "reviewed",
+        "image_plan": "5_scenes_embedded",
+        "independent_visual_review": "reviewed",
+        "complete_illustrated_reading": "reviewed",
+        "outstanding_findings": [],
+        "reading_record": "Productions/E059-the-fire-conspiracy/reading-review-v002.json"
+      },
+      "earlier_reading_owner": "root",
+      "reading_owner": "reader059 (fresh; did not write prose or generate artwork)"
+    },
+    {
+      "id": "S060",
+      "path": "Stories/S060-the-barkgpt-protocol.md",
+      "episode_record": "Productions/E060-the-barkgpt-protocol/episode.json",
+      "selected_images": [
+        "Productions/E060-the-barkgpt-protocol/helper-introduction-v003.png",
+        "Productions/E060-the-barkgpt-protocol/storm-comfort-v004.png",
+        "Productions/E060-the-barkgpt-protocol/ball-trade-v003.png",
+        "Productions/E060-the-barkgpt-protocol/scheme-coat-v005.png",
+        "Productions/E060-the-barkgpt-protocol/photo-squeak-v003.png"
+      ],
+      "editorial_review": "reviewed",
+      "visual_review": "independently_reviewed",
+      "complete_reading": "reviewed",
+      "status": "expanded_complete",
+      "review_findings": [],
+      "previous_commission_status": "complete_reading_pending",
+      "expanded_pass": {
+        "humor_pass": "reviewed",
+        "image_plan": "5_scenes_embedded",
+        "independent_visual_review": "reviewed",
+        "complete_illustrated_reading": "reviewed",
+        "outstanding_findings": [],
+        "reading_record": "Productions/E060-the-barkgpt-protocol/reading-review-v002.json"
+      },
+      "review_record": "Productions/E060-the-barkgpt-protocol/visual-review-v002.json",
+      "earlier_reading_owner": "root",
+      "reading_owner": "fresh complete-reading reviewer reader060; did not write prose or generate artwork"
+    },
+    {
+      "id": "S061",
+      "path": "Stories/S061-the-dragon-the-satellites-and-the-spider.md",
+      "episode_record": "Productions/E061-the-dragon-the-satellites-and-the-spider/episode.json",
+      "selected_images": [
+        "Productions/E061-the-dragon-the-satellites-and-the-spider/setup-v004.png",
+        "Productions/E061-the-dragon-the-satellites-and-the-spider/fire-v005.png",
+        "Productions/E061-the-dragon-the-satellites-and-the-spider/spider-v006.png"
+      ],
+      "editorial_review": "reviewed",
+      "visual_review": "independently_reviewed",
+      "complete_reading": "reviewed",
+      "status": "expanded_complete",
+      "review_findings": [],
+      "previous_commission_status": "complete_reading_pending",
+      "expanded_pass": {
+        "humor_pass": "reviewed",
+        "image_plan": "3_scenes_embedded",
+        "independent_visual_review": "reviewed",
+        "complete_illustrated_reading": "reviewed",
+        "outstanding_findings": [],
+        "reading_record": "Productions/E061-the-dragon-the-satellites-and-the-spider/reading-review-v002.json"
+      },
+      "review_record": "Productions/E061-the-dragon-the-satellites-and-the-spider/visual-review-v002.json",
+      "earlier_reading_owner": "root",
+      "reading_owner": "fresh_reader061"
+    },
+    {
+      "id": "S062",
+      "path": "Stories/S062-tooth-rituals-leaf-wars-and-balcony-betrayals-as-told-by-neet-defender-of-the-realm-drama-enthusiast.md",
+      "episode_record": "Productions/E062-tooth-rituals-leaf-wars-and-balcony-betrayals-as-told-by-neet-defender-of-the-realm-drama-enthusiast/episode.json",
+      "selected_images": [
+        "Productions/E062-tooth-rituals-leaf-wars-and-balcony-betrayals-as-told-by-neet-defender-of-the-realm-drama-enthusiast/tooth-art-v002.png",
+        "Productions/E062-tooth-rituals-leaf-wars-and-balcony-betrayals-as-told-by-neet-defender-of-the-realm-drama-enthusiast/leaf-art-v004.png",
+        "Productions/E062-tooth-rituals-leaf-wars-and-balcony-betrayals-as-told-by-neet-defender-of-the-realm-drama-enthusiast/balcony-art-v003.png"
+      ],
+      "editorial_review": "reviewed",
+      "visual_review": "independently_reviewed",
+      "complete_reading": "reviewed",
+      "status": "expanded_complete",
+      "review_findings": [],
+      "previous_commission_status": "complete_reading_pending",
+      "expanded_pass": {
+        "humor_pass": "reviewed",
+        "image_plan": "3_scenes_embedded",
+        "independent_visual_review": "reviewed",
+        "complete_illustrated_reading": "reviewed",
+        "outstanding_findings": [],
+        "reading_record": "Productions/E062-tooth-rituals-leaf-wars-and-balcony-betrayals-as-told-by-neet-defender-of-the-realm-drama-enthusiast/reading-review-v002.json"
+      },
+      "review_record": "Productions/E062-tooth-rituals-leaf-wars-and-balcony-betrayals-as-told-by-neet-defender-of-the-realm-drama-enthusiast/visual-review-v002.json",
+      "earlier_reading_owner": "root",
+      "reading_owner": "fresh_reader062"
+    },
+    {
+      "id": "S063",
+      "path": "Stories/S063-the-field-trip-to-love-high-and-the-gospel-of-good-ass-prana.md",
+      "episode_record": "Productions/E063-the-field-trip-to-love-high-and-the-gospel-of-good-ass-prana/episode.json",
+      "selected_images": [
+        "Productions/E063-the-field-trip-to-love-high-and-the-gospel-of-good-ass-prana/morning-art-v004.png",
+        "Productions/E063-the-field-trip-to-love-high-and-the-gospel-of-good-ass-prana/fetch-art-v004.png",
+        "Productions/E063-the-field-trip-to-love-high-and-the-gospel-of-good-ass-prana/sheera-art-v004.png"
+      ],
+      "editorial_review": "reviewed",
+      "visual_review": "independently_reviewed",
+      "complete_reading": "reviewed",
+      "status": "expanded_complete",
+      "review_findings": [],
+      "previous_commission_status": "complete_reading_pending",
+      "expanded_pass": {
+        "humor_pass": "reviewed",
+        "image_plan": "3_scenes_embedded",
+        "independent_visual_review": "reviewed",
+        "complete_illustrated_reading": "reviewed",
+        "outstanding_findings": [],
+        "reading_record": "Productions/E063-the-field-trip-to-love-high-and-the-gospel-of-good-ass-prana/reading-review-v002.json"
+      },
+      "review_record": "Productions/E063-the-field-trip-to-love-high-and-the-gospel-of-good-ass-prana/visual-review-v002.json",
+      "earlier_reading_owner": "root",
+      "reading_owner": "fresh complete-reading reader063; no writing or image generation performed"
+    },
+    {
+      "id": "S064",
+      "path": "Stories/S064-the-great-paneer-balcony-scandal.md",
+      "episode_record": "Productions/E064-the-great-paneer-balcony-scandal/episode.json",
+      "selected_images": [
+        "Productions/E064-the-great-paneer-balcony-scandal/balcony-v003.png",
+        "Productions/E064-the-great-paneer-balcony-scandal/training-v003.png",
+        "Productions/E064-the-great-paneer-balcony-scandal/payoff-v003.png"
+      ],
+      "editorial_review": "reviewed",
+      "visual_review": "independently_reviewed",
+      "complete_reading": "reviewed",
+      "status": "expanded_complete",
+      "review_findings": [],
+      "previous_commission_status": "illustration_in_progress",
+      "expanded_pass": {
+        "humor_pass": "reviewed",
+        "image_plan": "3_scenes_embedded",
+        "independent_visual_review": "reviewed",
+        "complete_illustrated_reading": "reviewed",
+        "outstanding_findings": [],
+        "reading_record": "Productions/E064-the-great-paneer-balcony-scandal/reading-review-v002.json"
+      },
+      "review_record": "Productions/E064-the-great-paneer-balcony-scandal/visual-review-v002.json",
+      "earlier_reading_owner": "root",
+      "reading_owner": "reader064 fresh independent complete illustrated reader"
+    },
+    {
+      "id": "S065",
+      "path": "Stories/S065-the-winged-menace.md",
+      "episode_record": "Productions/E065-the-winged-menace/episode.json",
+      "selected_images": [
+        "Productions/E065-the-winged-menace/armrest-v005.png",
+        "Productions/E065-the-winged-menace/nap-v006.png",
+        "Productions/E065-the-winged-menace/payoff-v005.png"
+      ],
+      "editorial_review": "reviewed",
+      "visual_review": "independently_reviewed",
+      "complete_reading": "reviewed",
+      "status": "expanded_complete",
+      "review_findings": [],
+      "previous_commission_status": "illustration_in_progress",
+      "expanded_pass": {
+        "humor_pass": "reviewed",
+        "image_plan": "3_scenes_embedded",
+        "independent_visual_review": "reviewed",
+        "complete_illustrated_reading": "reviewed",
+        "outstanding_findings": [],
+        "reading_record": "Productions/E065-the-winged-menace/reading-review-v002.json"
+      },
+      "review_record": "Productions/E065-the-winged-menace/visual-review-v002.json",
+      "earlier_reading_owner": "root",
+      "reading_owner": "reader065 fresh complete-reading reviewer; did not write story or generate artwork"
+    },
+    {
+      "id": "S066",
+      "path": "Stories/S066-the-psychic-roti-and-the-ball-of-destiny.md",
+      "episode_record": "Productions/E066-the-psychic-roti-and-the-ball-of-destiny/episode.json",
+      "selected_images": [
+        "Productions/E066-the-psychic-roti-and-the-ball-of-destiny/scene01-v003.png",
+        "Productions/E066-the-psychic-roti-and-the-ball-of-destiny/scene02-v005.png",
+        "Productions/E066-the-psychic-roti-and-the-ball-of-destiny/scene03-v005.png"
+      ],
+      "editorial_review": "reviewed",
+      "visual_review": "independently_reviewed",
+      "complete_reading": "reviewed",
+      "status": "expanded_complete",
+      "review_findings": [],
+      "previous_commission_status": "illustration_in_progress",
+      "expanded_pass": {
+        "humor_pass": "reviewed",
+        "image_plan": "3_scenes_embedded",
+        "independent_visual_review": "reviewed",
+        "complete_illustrated_reading": "reviewed",
+        "outstanding_findings": [],
+        "reading_record": "Productions/E066-the-psychic-roti-and-the-ball-of-destiny/reading-review-v002.json"
+      },
+      "review_record": "Productions/E066-the-psychic-roti-and-the-ball-of-destiny/visual-review-v002.json",
+      "earlier_reading_owner": "root",
+      "reading_owner": "reader066 fresh complete-reading reviewer; no writing or generation participation"
+    },
+    {
+      "id": "S067",
+      "path": "Stories/S067-the-scandal-of-sweet-kulfi.md",
+      "episode_record": "Productions/E067-the-scandal-of-sweet-kulfi/episode.json",
+      "selected_images": [
+        "Productions/E067-the-scandal-of-sweet-kulfi/scene01-v003.png",
+        "Productions/E067-the-scandal-of-sweet-kulfi/scene02-v003.png",
+        "Productions/E067-the-scandal-of-sweet-kulfi/scene03-v003.png"
+      ],
+      "editorial_review": "reviewed",
+      "visual_review": "independently_reviewed",
+      "complete_reading": "reviewed",
+      "status": "expanded_complete",
+      "review_findings": [],
+      "previous_commission_status": "illustration_in_progress",
+      "expanded_pass": {
+        "humor_pass": "reviewed",
+        "image_plan": "3_scenes_embedded",
+        "independent_visual_review": "reviewed",
+        "complete_illustrated_reading": "reviewed",
+        "outstanding_findings": [],
+        "reading_record": "Productions/E067-the-scandal-of-sweet-kulfi/reading-review-v002.json"
+      },
+      "review_record": "Productions/E067-the-scandal-of-sweet-kulfi/visual-review-v002.json",
+      "earlier_reading_owner": "root",
+      "reading_owner": "fresh complete-reading reviewer /root/coordinate065_070/reader067"
+    },
+    {
+      "id": "S068",
+      "path": "Stories/S068-the-piedmont-park-wedding.md",
+      "episode_record": "Productions/E068-the-piedmont-park-wedding/episode.json",
+      "selected_images": [
+        "Productions/E068-the-piedmont-park-wedding/rings-art-v005.png",
+        "Productions/E068-the-piedmont-park-wedding/dance-art-v003.png",
+        "Productions/E068-the-piedmont-park-wedding/picnic-art-v004.png"
+      ],
+      "editorial_review": "reviewed",
+      "visual_review": "independently_reviewed",
+      "complete_reading": "reviewed",
+      "status": "expanded_complete",
+      "review_findings": [],
+      "previous_commission_status": "illustration_in_progress",
+      "expanded_pass": {
+        "humor_pass": "reviewed",
+        "image_plan": "3_scenes_embedded",
+        "independent_visual_review": "reviewed",
+        "complete_illustrated_reading": "reviewed",
+        "outstanding_findings": [],
+        "reading_record": "Productions/E068-the-piedmont-park-wedding/reading-review-v002.json"
+      },
+      "review_record": "Productions/E068-the-piedmont-park-wedding/visual-review-v002.json",
+      "earlier_reading_owner": "root",
+      "reading_owner": "fresh complete reader068"
+    },
+    {
+      "id": "S069",
+      "path": "Stories/S069-the-festival-of-lights.md",
+      "episode_record": "Productions/E069-the-festival-of-lights/episode.json",
+      "selected_images": [
+        "Productions/E069-the-festival-of-lights/scene01-shop-v005.png",
+        "Productions/E069-the-festival-of-lights/scene02-door-v005.png",
+        "Productions/E069-the-festival-of-lights/scene03-home-v002.png"
+      ],
+      "editorial_review": "reviewed",
+      "visual_review": "independently_reviewed",
+      "complete_reading": "reviewed",
+      "status": "expanded_complete",
+      "review_findings": [],
+      "previous_commission_status": "illustration_in_progress",
+      "expanded_pass": {
+        "humor_pass": "reviewed",
+        "image_plan": "3_scenes_embedded",
+        "independent_visual_review": "reviewed",
+        "complete_illustrated_reading": "reviewed",
+        "outstanding_findings": [],
+        "reading_record": "Productions/E069-the-festival-of-lights/reading-review-v002.json"
+      },
+      "review_record": "Productions/E069-the-festival-of-lights/visual-review-v002.json",
+      "earlier_reading_owner": "root",
+      "reading_owner": "fresh independent reader069"
+    },
+    {
+      "id": "S070",
+      "path": "Stories/S070-the-great-houston-expedition.md",
+      "episode_record": "Productions/E070-the-great-houston-expedition/episode.json",
+      "selected_images": [
+        "Productions/E070-the-great-houston-expedition/dinner-art-v002.png",
+        "Productions/E070-the-great-houston-expedition/door-art-v003.png",
+        "Productions/E070-the-great-houston-expedition/skyline-art-v003.png",
+        "Productions/E070-the-great-houston-expedition/jerky-art-v004.png",
+        "Productions/E070-the-great-houston-expedition/eggs-art-v004.png",
+        "Productions/E070-the-great-houston-expedition/park-art-v004.png"
+      ],
+      "editorial_review": "reviewed",
+      "visual_review": "independently_reviewed",
+      "complete_reading": "reviewed",
+      "status": "expanded_complete",
+      "review_findings": [],
+      "previous_commission_status": "illustration_in_progress",
+      "expanded_pass": {
+        "humor_pass": "reviewed",
+        "image_plan": "11_scenes_embedded",
+        "independent_visual_review": "reviewed",
+        "complete_illustrated_reading": "reviewed",
+        "outstanding_findings": [],
+        "reading_record": "Productions/E070-the-great-houston-expedition/reading-review-v002.json"
+      },
+      "review_record": "Productions/E070-the-great-houston-expedition/visual-review-v002.json",
+      "earlier_reading_owner": "root",
+      "reading_owner": "fresh independent reader070"
+    }
+  ],
+  "expanded_commission_date": "2026-10-03",
+  "expanded_recovery_snapshot": "/Users/sagar/Documents/ChatGPT/NBC_Archives/NBC-before-expanded-refinement-2026-10-04_035505Z.verification.json",
+  "previous_commission_evidence": {
+    "all_sources_read_before_revision": true,
+    "reading_evidence": {
+      "editor_early": "Complete S001-S035, including abridgement comparisons S021/S027 and full S034 alternative; truncated passages reread.",
+      "editor_late": "Complete S036-S070, including full S038/S070 alternatives; truncated passages reread."
+    },
+    "editorial_coverage": {
+      "primaries_reviewed": 70,
+      "meaningful_alternatives": "All complete alternatives and abridgement notes independently compared within their parent story."
+    },
+    "integration_checks": [
+      {
+        "scope": "58 episode sources present at checkpoint",
+        "result": "Original source hashes match verified recovery bytes; original provenance text preserved; alternative details-wrapper counts preserved. These are structural checks, not editorial clearance."
+      },
+      {
+        "scope": "Root complete reading of revised S001 S005 S006 S008 S010 S036",
+        "result": "Core incidents and contrasting register retained. Flagged S001 pronoun antecedent and S010 repeated time setup; editor corrected both and refreshed hashes."
+      },
+      {
+        "scope": "Original pre-reorganization archive",
+        "result": "library.py archive-check passed; 6049 manifest entries; original archive identity intact."
+      },
+      {
+        "scope": "All70 final editorial texts",
+        "result": "Pre-refinement hashes match archive; current prose hashes match agent records; entire historical provenance remains present unchanged."
+      },
+      {
+        "scope": "Isolated library utility failure fixtures",
+        "result": "6 tests passed. Utility code unchanged; this checks failure handling, not story or visual quality."
+      },
+      {
+        "scope": "Productions/E001-meet-neet-and-buddy/illustration-v002.png",
+        "sha256": "48b3e0cd536ae9759c7b6e09be78159d4fdead9b7cad96f71fb483787d769985",
+        "result": "Root opened corrected full native output. Smooth short-coat rendering restored without changing scene geometry; contextual staging and connected body construction retained."
+      },
+      {
+        "scope": "Productions/E037-the-midnight-storm-and-the-royal-snack-emergency/illustration-v002.png",
+        "sha256": "e68078a101e7626d0e22345d86d63b85a069f0eacbef09feeb67e2e4441c77df",
+        "result": "Root opened corrected full native output. Smooth short-coat rendering restored without changing scene geometry; contextual staging and connected body construction retained."
+      }
+    ],
+    "recovery_snapshot": "/Users/sagar/Documents/ChatGPT/NBC_Archives/NBC-before-refinement-2026-10-03_200659.verification.json"
+  },
+  "completed_utc": "2026-10-04T17:21:55.760400+00:00",
+  "expanded_coverage": {
+    "primary_stories": 70,
+    "unique_selected_illustrations": 241,
+    "primary_illustrations": 236,
+    "alternative_only_illustrations": 5,
+    "minimum_primary_images": 2,
+    "maximum_primary_images": 5,
+    "method": "Fresh bounded story-specific writers read current/original/meaningful-alternative and connected sources before revision, reread/compared afterward; independent native image review and separate fresh complete rendered reading for every story.",
+    "material_findings_open": 0,
+    "scope_note": "Earlier collection-wide reading evidence is preserved separately below; current per-story comedy and reading records govern this expanded commission."
+  },
+  "delivery": {
+    "version": "delivery-v001",
+    "readme": "Productions/Library-Refinement/delivery-v001/README.md",
+    "reading_shelf": "Productions/Library-Refinement/delivery-v001/edition/Stories/README.html",
+    "manifest": "Productions/Library-Refinement/delivery-v001/manifest.json",
+    "archive": "Productions/Library-Refinement/delivery-v001/nbc-illustrated-library-v001.tar.gz",
+    "archive_sha256": "e9fdd7c624a683f046c0cd7ff948cdb48c7aef3cdc4e6fc180158c7df5d3c443",
+    "archive_files_verified": 1391,
+    "frozen_accounting": "verified",
+    "export_review": "accepted_with_disclosed_recovery_dependency",
+    "export_review_record": "Productions/Library-Refinement/delivery-v001/export-review.json",
+    "recovery_navigation": "Stories/images/reading navigation self-contained; historical archives external; absolute recovery links require local disk access, not HTTP preview."
+  }
+}

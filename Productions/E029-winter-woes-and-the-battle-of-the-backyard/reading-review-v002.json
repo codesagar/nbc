@@ -1,0 +1,74 @@
+{
+  "story_id": "S029",
+  "reviewer": "fresh complete rendered reading reviewer; no prose or artwork edits",
+  "reviewed_at_utc": "2026-10-04T08:52:33.834034+00:00",
+  "status": "accepted",
+  "story": {
+    "path": "Stories/S029-winter-woes-and-the-battle-of-the-backyard.md",
+    "sha256": "3c054dfd26a11acc2ddc631331209936d0dd409d912470d5115f8a39c84b0943"
+  },
+  "images": [
+    {
+      "path": "Productions/E029-winter-woes-and-the-battle-of-the-backyard/snow-art-v003.png",
+      "sha256": "bfcc32f6d9aefd527dcca09ecadf3eff6b6e6e931580f2c69408a3c5afc1c459"
+    },
+    {
+      "path": "Productions/E029-winter-woes-and-the-battle-of-the-backyard/circles-art-v003.png",
+      "sha256": "21d51108ee5acdfaeab13bf55b342318e7f6c30f4c8367975401cd315428f021"
+    },
+    {
+      "path": "Productions/E029-winter-woes-and-the-battle-of-the-backyard/warm-art-v004.png",
+      "sha256": "185341ac02b3109a79794ba2c3feb32de77cf4980f288349c3e9497eccf1279c"
+    }
+  ],
+  "inspection_method": {
+    "url": "http://127.0.0.1:56824/Stories/S029-winter-woes-and-the-battle-of-the-backyard.md",
+    "surface": "Codex in-app browser through cua_repl",
+    "viewport": [
+      1280,
+      720
+    ],
+    "method": "Read complete rendered document through overlapping scroll screenshots from title to final provenance bullet, with accessibility text for complete wording. Inspected all three embedded illustrations in sequence at displayed 960px width, including each lower edge. Browser DOM confirmed every image complete and natural width nonzero. Read comedy-pass-v002 and independent visual-review-v002; verified live story and image hashes match visual acceptance.",
+    "image_display_dimensions": [
+      [
+        960,
+        640
+      ],
+      [
+        960,
+        640
+      ],
+      [
+        960,
+        720
+      ]
+    ],
+    "coverage": "Complete primary, ending, refinement record and provenance; no meaningful narrative alternative is present."
+  },
+  "findings": {
+    "humor_and_voices": "Neet converts a routine toilet outing into a survival mission; holding until spring and waste absorption escalate his impossible avoidance. Buddy wants his heater spot, tries leading the circles twice, stops at Same spot, then chooses the boots for shelter. Heather supplies practical pressure and the carpet-cleaner consequence. The voices remain distinct and affectionate.",
+    "cause_effect_and_pacing": "Buddy finishes first but the closed door strands him in Neet\u2019s delay. Tested snow leads to the cold-paw outburst; seventeen circles lead to sky inspection, then a single gust defeats all the preparation. Short paragraphs and separated dialogue retain timing.",
+    "payoff": "Indoor warmth resolves the shared discomfort while Neet\u2019s unfinished business remains. Buddy regains his spot and You know the route pays off his unwanted second assignment without inventing a successful toilet trip. The final exchange follows the last picture and has space to land.",
+    "image_state_and_contribution": [
+      {
+        "path": "Productions/E029-winter-woes-and-the-battle-of-the-backyard/snow-art-v003.png",
+        "observation": "Raised forepaw on snow at the bottom step follows the alternating cold-paw complaint; Buddy waits in the yard. The frame supplies the bodily imbalance behind the outburst, before the later spot and circles."
+      },
+      {
+        "path": "Productions/E029-winter-woes-and-the-battle-of-the-backyard/circles-art-v003.png",
+        "observation": "Ring of tracks and upturned Neet gaze follow the completed circles and sky inspection; Buddy is behind Heather\u2019s boots. It depicts shelter and excessive inspection before the gust, with no premature flight or completed business."
+      },
+      {
+        "path": "Productions/E029-winter-woes-and-the-battle-of-the-backyard/warm-art-v004.png",
+        "observation": "Neet peers out of the blanket while Buddy rests by the heater, after both have settled and before Neet tucks his nose and Buddy closes his eyes. Warm indoor composition contrasts the two outdoor states and supports the final refusal."
+      }
+    ],
+    "alternatives": "Both witnesses are identified as the same narrative. No separate alternative scene or incompatible artwork is embedded.",
+    "closed_findings": "Independent visual review accepts these exact three hashes with no material/open findings; rendered inspection reveals no new material contradiction or finish defect. Source weight and chronology remain explicitly unresolved rather than being silently settled.",
+    "provenance": "Refinement record is dated historical stage wording; current completion belongs in episode and review records. Approval remains unapproved and publication not_published."
+  },
+  "material_findings": [],
+  "open_findings": [],
+  "approval": "unapproved",
+  "publication": "not_published"
+}

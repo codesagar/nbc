@@ -1,0 +1,200 @@
+{
+  "episode": "E041-the-epic-furniture-fiesta",
+  "reviewer": "editor_early independent visual reviewer",
+  "independence": "Reviewer did not generate or edit these images.",
+  "date": "2026-10-03",
+  "status": "ready_for_integration",
+  "story": {
+    "path": "Stories/S041-the-epic-furniture-fiesta.md",
+    "sha256": "ffaba0b473f85ee4cfde1705df5a9efacc23a52074e0151c368d9f5226a9e966",
+    "complete_revised_text_read": true
+  },
+  "images": [
+    {
+      "path": "Productions/E041-the-epic-furniture-fiesta/rough-v001.png",
+      "sha256": "dbf0c526ae84b6a979313c9a8f1583cd87f18c88ca7687eaef5bbbdd55b23ea8",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "kind": "rough",
+      "inspection": "Opened complete actual image at native resolution using original detail; no thumbnail-only assessment.",
+      "decision": "staging_reviewed",
+      "findings": [
+        "Complete drawn sofa/showroom staging inspected. Connected dog bodies, support and foreground/background are coherent. Longer body hatching must not carry into final."
+      ]
+    },
+    {
+      "path": "Productions/E041-the-epic-furniture-fiesta/illustration-v001.png",
+      "sha256": "ab5292117a97307323fd5f31b863689294023caf1eeefcd86d09ca9a3d36a53f",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "kind": "finished",
+      "inspection": "Opened complete actual image at native resolution using original detail; no thumbnail-only assessment.",
+      "decision": "needs_rework",
+      "findings": [
+        "Neet neck/back/flank carry conspicuous curved long fur hatching, and Buddy dark back carries strand texture; selected originals show smooth very short Neet coat and close Buddy torso. Requires targeted smooth tonal body finish, preserving face/ear furnishing.",
+        "Neet full narrow torso, four legs with cushion support and near-flush nub remain distinct from Buddy elongated resting torso and connected folded haunch. Buddy two forepaws belong to shoulders and rest on cushions.",
+        "Cushion inspection beside Buddy already settled chin-down is clear observational humor, in showroom with coherent sofa plane."
+      ]
+    },
+    {
+      "path": "Productions/E041-the-epic-furniture-fiesta/illustration-v002.png",
+      "sha256": "4bdad2a656210b6d22bd7ca85d4afb9ba2bce125cbfd2cfdd527fb024a1de0a2",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "kind": "finished",
+      "inspection": "Actual candidate inspected native resolution and directly compared with actual reopened accepted E001v002/E037v002; threshold reconciled to distinguish nondirectional paint grain from longer directional fur and feathered contours.",
+      "decision": "ready_for_integration",
+      "findings": [
+        "After direct native comparison with accepted E001v002 and E037v002, remaining low-relief looped pattern is nondirectional wash/paper texture shared by scene surfaces, not a material longer-coat silhouette or strand field. The conspicuous directional body bands of v001 are reduced; smooth close-body interpretation is adequate.",
+        "Existing staging/body support and story-specific acting remain intact. Regional Buddy face/ear furnishings retained; no new geometry defect.",
+        "Buddy chin on pillow, shoulders through long resting torso, folded haunch and two forward paws are continuous; Neet four feet dent cushions with close neck outline. Material neck/back strand bands are substantially reduced."
+      ]
+    }
+  ],
+  "reference_evidence": [
+    {
+      "id": "N19",
+      "path": "Characters/Neet/Photos/neet-19.jpeg",
+      "sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+      "same_exposure_group": null,
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "styling",
+          "standing_pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Primary standing body proportions, paws, hocks and stub silhouette; head is not a pure profile.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Head rotated; far limbs overlap; uncalibrated camera offers no measurements; room light subdued"
+        ],
+        "inspection_sha256": "b2c6db0a5af6a885d993cbd986cc2759b9461e693fbcabd8aa96bce1eb5ea901",
+        "source_sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N19.json"
+      },
+      "role": "Neet side body, fine legs, full trunk, near-flush nub; head turned/far legs overlap."
+    },
+    {
+      "id": "N25",
+      "path": "Characters/Neet/Photos/neet-25.jpeg",
+      "sha256": "67530c2ebc1baa412f76a825a7bd2369cebf72a101e7f45836fefa0fcae90ca4",
+      "same_exposure_group": null,
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose",
+          "resting_pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Excellent prone posture and forward paws; useful lateral ear spread.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Hindfeet and tail concealed; plush partly covers toes; cannot supply standing leg/trunk ratios"
+        ],
+        "inspection_sha256": "0e493b84294cbe31f8e7e484b1ce100d8bd7370e2de36f46b35f73b2eab5f99e",
+        "source_sha256": "67530c2ebc1baa412f76a825a7bd2369cebf72a101e7f45836fefa0fcae90ca4",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N25.json"
+      },
+      "role": "Neet prone front paws and lateral ears; hindfeet/nub concealed, no standing ratios."
+    },
+    {
+      "id": "B29",
+      "path": "Characters/Buddy/Photos/buddy-29.jpeg",
+      "sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+      "same_exposure_group": null,
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Best available lateral body-length, tail-length/carriage and walking-pose reference; weak fine landmarks because blurred and not neutral standing.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Motion blur and lifted legs; cannot establish neutral back slope, exact leg ratios or gait timing from still"
+        ],
+        "inspection_sha256": "c671664ca5e4e2e07bfd3049ea641c3a1645742fb8290494e67a17f7ed213ea9",
+        "source_sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B29.json"
+      },
+      "role": "Buddy lateral torso and tail, blurred stride; no neutral ratios/timing."
+    },
+    {
+      "id": "B19",
+      "path": "Characters/Buddy/Photos/buddy-19.jpg",
+      "sha256": "201ec36498d5aaa85ef6e44a9176c333587d95797279a689237ccb49090ee521",
+      "same_exposure_group": null,
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "resting_pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Excellent low face, ear-root tufts, muzzle sweep and head-between-paws reference; poor global proportions.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Nearest face enlarged by perspective; rear blurred; limbs folded; no neutral head/body proportions"
+        ],
+        "inspection_sha256": "6686639617369f80387a581720cb9d28a2f0f5cf940da025eadf8b420095dfd2",
+        "source_sha256": "201ec36498d5aaa85ef6e44a9176c333587d95797279a689237ccb49090ee521",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B19.json"
+      },
+      "role": "Buddy chin-down face/ears/paws, longer furnishings; perspective enlarges head, rear blurred, no body ratios."
+    }
+  ],
+  "reference_inspection": "Opened original references and native-pixel detail crops during model review; checked same source SHA-256 and complete effective policies against this generation record. See Productions/Library-Refinement/model-independent-review.json for inspected files, native dimensions and crop evidence.",
+  "restrictions": [
+    "N35 excluded from anatomy; B08 styling only; B25 unavailable; B30 supplemental rest only. None is used in this image.",
+    "One exposure counts once; generated models support style/acting only.",
+    "No exact size, breed, motion timing, palette or human likeness is canonized."
+  ],
+  "placement": "Meanwhile, Buddy bounded enthusiastically onto a plush sectional sofa and promptly disappeared into a mountain of pillows, barking, “I’ve found paradise!”",
+  "limitations": [],
+  "complete_illustrated_reading": {
+    "status": "reviewed",
+    "story_sha256": "94dfa73dabc663b63ccc1ef3844ba74bd60474c4c31ab58ec0256829d0597390",
+    "evidence": [
+      "Stories/S041-the-epic-furniture-fiesta.md",
+      "http://127.0.0.1:53761/Stories/S041-the-epic-furniture-fiesta.md"
+    ],
+    "inspection": "Complete rendered story read; after placement correction, reread full rendered page and inspected actual image again at approximately960 px width.",
+    "observations": [
+      "Initial placement anticipated Neet joining Buddy sofa; reviewer requested move after the full response paragraph. Root moved image without prose alteration. Reopened page confirms both dogs introduced on sofa before image, then transition to bunk-bed sequence.",
+      "At reading width Buddy already settled and Neet testing support read clearly. Complete story continues through Captain, local furniture, assembly/desks, shrine/puja and the returning sofa-inspector ending; image does not confuse IKEA trial with later purchased gray sofa."
+    ]
+  },
+  "approval": "unapproved",
+  "publication": "not_published",
+  "unresolved_findings": [],
+  "placement_review_override": {
+    "after": "Sagar nodded approvingly, pretending seriousness. “Your analysis is impeccable, Inspector Neet.”",
+    "reason": "Both dogs introduced on sofa before picture; original generation placement retained as history."
+  }
+}

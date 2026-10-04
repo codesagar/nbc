@@ -1,0 +1,79 @@
+{
+  "story": "S069",
+  "status": "complete_writer_pass_pending_independent_review",
+  "sources": [
+    {
+      "path": "../NBC_Archives/refinement-work/E069-expanded/prior-working.md",
+      "sha256": "73e09851659e7e328b363098145b8719377c709d4b9b98c402f0bb05cdf23fa4"
+    },
+    {
+      "path": "../NBC_Archives/refinement-work/S069-original-recovered.md",
+      "sha256": "1d949ba90d8301f8176373db3a3c467972fec5cb705883646222aa4c20e34546"
+    }
+  ],
+  "connected_reading": "S070 primary and meaningful alternative: same shopping/travel voices, tire debate, four-member home destination. No chronology inferred.",
+  "comic_situation": "An enthusiastic artillery buyer encounters the volume of his own purchase during a festival of light.",
+  "wants": {
+    "Neet": "Control security and select impressive fireworks.",
+    "Buddy": "Get sweets, preserve couch comfort, choose quiet flowers and get safely inside."
+  },
+  "preserved": [
+    "leaf debate",
+    "all three kulfi logic",
+    "six/all candles and twenty diyas",
+    "twin marigold purchase",
+    "human synchrony",
+    "vacuum couch refuge",
+    "toran and lights",
+    "Kothi startle and respect-your-authority reversal",
+    "laughter and Small wins quiet home"
+  ],
+  "changes": [
+    [
+      "\"Your security standards are alarmingly lax.\"",
+      "\"Your security standards are alarmingly lax.\"\n\nBuddy picked up the leaf and dropped it beside the tire.\n\n\"Now it's beside the compromised tire,\" Neet said.\n\nBuddy left it there. Shopping had already taken too long."
+    ],
+    [
+      "\"That's exactly what she said.\"",
+      "\"That's exactly what she said.\"\n\nBuddy sat beside the cart in his best, most deserving posture. Heather added the last box above him.\n\nHe moved six inches to remain directly underneath it.\n\n\"I thought we couldn't have it,\" Neet said.\n\n\"I'm available if circumstances change.\""
+    ],
+    [
+      "\"Essential, ma'am. Absolutely essential.\"",
+      "\"Essential, ma'am. Absolutely essential.\"\n\nBuddy looked back toward the marigold pot. His flower purchase was considerably quieter."
+    ],
+    [
+      "\"Moral support? Enthusiastic tail wagging?\"",
+      "\"Moral support? Enthusiastic tail wagging?\"\n\nBuddy pulled the loose end of his blanket onto the couch. Neet sat on it before he could finish.\n\nBuddy pulled once more. Neet slid two inches without changing expression.\n\n\"Helping,\" Neet explained."
+    ],
+    [
+      "\"This is how we die. Killed by a flower pot. The irony is not lost on me.\"",
+      "\"This is how we die. Killed by a flower pot. The irony is not lost on me.\"\n\nHe tried the door with one paw. Closed. He tried the same door with the other paw, in case it respected seniority."
+    ],
+    [
+      "\"Barely.\"\n\n\"Was it worth it?\"",
+      "\"Barely.\"\n\nBuddy waited for the door to open before asking, \"Next year, can I choose the flower pot?\"\n\n\"Was it worth it?\""
+    ],
+    [
+      "Small wins, Neet thought, already halfway to sleep. Small wins.",
+      "Buddy glanced toward the porch, where his own flower pot had completed an entire evening without a single explosion.\n\nSmall wins, Neet thought, already halfway to sleep. Small wins."
+    ]
+  ],
+  "variant_decision": "No meaningful in-file alternative; recovered original same incidents.",
+  "ending": "Retain unhurried home ending and flowers; Buddy quietly wins his flower-pot choice.",
+  "complete_reread_comparison": {
+    "primary_read_complete": true,
+    "original_read_complete": true,
+    "prior_working_read_complete": true,
+    "lost_incidents": [],
+    "voice": "Buddy now makes vain sweet bid and fails to open door, as well as choosing marigold; he is not merely a commentator.",
+    "expansion": "Seven short physical/reaction beats; original scene order and all incidents retained.",
+    "meaning": "Historical dog store access remains narrative event, not policy claim; fear and familial warmth retained.",
+    "final_embedded_story_reread": true,
+    "illustration_states": "Shop after recommendation, marigold already cart/offscreen; door before Neet attack response; home prior to ear scratch and Buddy rising to knee.",
+    "seam_repairs": [
+      "Avoided placing the kulfi in cart twice; Sagar moves cart and Buddy follows.",
+      "Attributed Was it worth it to Neet after added Buddy line."
+    ]
+  },
+  "final_story_sha256": "f76e0ff2eefcb691cdc70a65762286b21bb29775500d19f23dd326bee9161f38"
+}

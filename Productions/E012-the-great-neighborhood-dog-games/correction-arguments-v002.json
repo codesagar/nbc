@@ -1,0 +1,24 @@
+{
+  "setup": {
+    "prompt": "Edit image1 precisely: RETAIN all composition, poses, props, gray bandanas, ground support and expressions. Replace textured coats with SMOOTH FLAT CEL COLOR SHAPES like BODY SURFACE ONLY of image2. Buddy dark torso has visible long hair lines and fuzzy raised contour: REMOVE THEM ALL. Buddy tail must become slender dark taper, no pale brush tip. Neet entire coat similarly smooth flat planes, no hair strokes. Buddy eyebrows, cream moustache/beard, hanging ears and pale feet still furnished, retain all their fine hair. No hatching or engraved lines on torsos or Neet. Use flat nontextured charcoal geometric shadow planes on Buddy and fawn planes on Neet. Do not erase regional furnishings. Original photos3-5 remain visible-region identity authority. Image2 scene/anatomy NOT reference. Don't redraw pose or environment. No white forehead blaze Neet, no thick wool, no extra animals.",
+    "referenced_image_paths": [
+      "/Users/sagar/Documents/ChatGPT/NBC/Productions/E012-the-great-neighborhood-dog-games/setup-art-v001.png",
+      "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+      "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+      "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+      "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg"
+    ],
+    "transparent_background": false
+  },
+  "payoff": {
+    "prompt": "Edit image1 precisely: RETAIN composition, poses, props, gray damp bandanas, muddy paws, ribbons, grounded support and expressions. Replace ALL textured body coats with SMOOTH FLAT CEL COLOR SHAPES like BODY SURFACE ONLY of image2. Buddy dark torso and shoulder have visible long hair lines/fuzzy contour: REMOVE THEM ALL and replace with broad flat charcoal shadow shapes. Buddy tail becomes slender dark taper, no pale brush tip. Neet entire coat similarly smooth flat tan/fawn planes without hair strokes. Buddy eyebrows, cream moustache/beard, hanging ears and pale feet still furnished, retain fine regional hair. No hatching or engraved lines on torsos or Neet. Do not erase regional furnishings. Original photos3-5 remain visible-region identity authority: B19 for face resting only not scale. Image2 scene/anatomy NOT reference. Don't redraw poses or environment. No white forehead blaze Neet, no thick wool, no extra animals. Remove distant agility hurdles/bunting from background: this is now peaceful banyan return, generic distant park greenery.",
+    "referenced_image_paths": [
+      "/Users/sagar/Documents/ChatGPT/NBC/Productions/E012-the-great-neighborhood-dog-games/payoff-art-v001.png",
+      "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+      "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+      "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+      "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-19.jpg"
+    ],
+    "transparent_background": false
+  }
+}

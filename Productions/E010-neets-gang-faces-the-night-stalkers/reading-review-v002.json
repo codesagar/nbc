@@ -1,0 +1,86 @@
+{
+  "story_id": "S010",
+  "review_version": 2,
+  "review_type": "fresh_complete_illustrated_reading",
+  "status": "accepted",
+  "reviewed_at": "2026-10-04T05:37:53.534117+00:00",
+  "story": {
+    "path": "Stories/S010-neets-gang-faces-the-night-stalkers.md",
+    "sha256": "555e767362f8414344f1bb0303f3bf48ca84a991f8b7fe6caeecfb0f043c6044"
+  },
+  "images": [
+    {
+      "path": "Productions/E010-neets-gang-faces-the-night-stalkers/inspection-art-v002.png",
+      "sha256": "0e7940ffba926c60920891ba96f840645c69eaf8d48f6c6c2231c3e3e73bdb8b"
+    },
+    {
+      "path": "Productions/E010-neets-gang-faces-the-night-stalkers/defense-art-v002.png",
+      "sha256": "c07b9baeb91c9f775d3421f86731a887b20c0596ffbfa8dc6e2d2bac65c87907"
+    },
+    {
+      "path": "Productions/E010-neets-gang-faces-the-night-stalkers/illustration-v003.png",
+      "sha256": "74548827d6c16b1855bd4b39ce186902d00ac8b28894184393039dede5eb916e"
+    }
+  ],
+  "reading_method": {
+    "url": "http://127.0.0.1:56824/Stories/S010-neets-gang-faces-the-night-stalkers.md",
+    "browser": "Codex in-app browser via cua_repl",
+    "actual_rendered_inspection": true,
+    "complete_primary_read": true,
+    "complete_provenance_read": true,
+    "viewport": [
+      1280,
+      720
+    ],
+    "body_font_size_px": 20,
+    "body_line_height_px": 34,
+    "image_display_width_px": 960,
+    "method": "Read the complete rendered page from title through both source pins, scrolling with overlapping viewport screenshots. Inspected all three embedded pictures in sequence and at the supplied reader size, including their immediately preceding and following prose. Browser accessibility text supported the reading; this was not a raw-text-only inspection.",
+    "meaningful_alternatives": "No separate meaningful alternative appears in the full working story. comedy-pass-v002.json records complete source comparison finding matching incident sequence and ending with acquisition-format differences only."
+  },
+  "observations": [
+    {
+      "category": "comedy_and_voice",
+      "observation": "Repeated supplies inspection gives Neet a specific comic obsession, with Buddy wanting rest. The opening three-inspections line sets up the final secure/still interruption. Buddy startling himself with his bark and remaining anyway makes his bravery active; his one-word No contrasts well with Neet’s speeches."
+    },
+    {
+      "category": "causality_and_pacing",
+      "observation": "Shadow warning leads to positions, mastiff attack and interception, Buddy protecting food and route home, Chikki supporting defense, then retreat after the gang reverses the attack. The branch assist gives a small comic release during the preserved real conflict. Illustrations pause at setup, food refusal and relief without interrupting attribution or revealing an outcome early."
+    },
+    {
+      "category": "emotional_payoff",
+      "observation": "Heather checks every dog rather than simply applauding combat; Buddy seeks her ankle. Neet taking the nearer edge of his stone and quietly asking about safety shifts his command routine toward affection. Buddy checks companions and Heather before food, earning the final Still callback without making the gentle ending sentimental."
+    },
+    {
+      "category": "exact_image_state",
+      "image": "Productions/E010-neets-gang-faces-the-night-stalkers/inspection-art-v002.png",
+      "observation": "Neet leans over the stone; Buddy remains chin-down on cloth; food is on the ground. This appears after the third-inspection joke and before Shadow’s alarm, matching the resting setup."
+    },
+    {
+      "category": "exact_image_state",
+      "image": "Productions/E010-neets-gang-faces-the-night-stalkers/defense-art-v002.png",
+      "observation": "Buddy and brown Chikki face the hesitant greyhound with food behind them. Placement follows Chikki’s arrival and Buddy’s No, before they force the greyhound away; both participant and action state agree."
+    },
+    {
+      "category": "exact_image_state",
+      "image": "Productions/E010-neets-gang-faces-the-night-stalkers/illustration-v003.png",
+      "observation": "Buddy is standing with nose toward the food, Shadow seated, Neet on the stone. The picture is after Buddy explicitly gets up and before he lies down again, with Heather not yet present. The pale block and round brown food pieces now preserve the supplies visible in the first two images."
+    },
+    {
+      "category": "complementary_images",
+      "observation": "The first scene contrasts overwork and rest, the second gives Buddy the decisive visual action, and the third returns to a changed emotional version of the food check with Shadow present. Different poses and grouping enrich the progression rather than repeat portraits."
+    },
+    {
+      "category": "finding_closure",
+      "observation": "visual-review-v002.json accepts all three current hashes and closes S010-V002-01. The replacement food continuity correction is visibly present in the rendered reading. No material narrative or placement findings remain."
+    }
+  ],
+  "material_findings": [],
+  "open_findings": [],
+  "visual_review": {
+    "path": "Productions/E010-neets-gang-faces-the-night-stalkers/visual-review-v002.json",
+    "sha256": "46afa80636838df1e44c05509e6867baeca68c8ac325c3f0745d689a96b15724"
+  },
+  "approval": "unapproved",
+  "publication": "not_published"
+}

@@ -1,0 +1,162 @@
+{
+  "story_id": "S070",
+  "version": 2,
+  "writer": "writer070",
+  "status": "comedy_pass_complete_artwork_pending",
+  "sources": [
+    {
+      "path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S070-expanded/original-primary.md",
+      "sha256": "317511832c5993a7ffcb4e508baf8629cd1d9d18829dfb6ad83983edc128477e",
+      "read_complete": true
+    },
+    {
+      "path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S070-expanded/original-alternative.txt",
+      "sha256": "45199674a8e2f7810069795364434f003d539aeb6bbe8105f88dcb861c421c39",
+      "read_complete": true
+    },
+    {
+      "path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S070-expanded/prior-working.md",
+      "sha256": "b0cf2bd1142eca2fbc6ecb5284ad15e459d6732b437175510e9a16370de7bd86",
+      "read_complete": true
+    }
+  ],
+  "connected_reading": {
+    "path": "Stories/S056-the-day-trip-to-pedernales-falls.md",
+    "sha256": "5a27cc72a139bc4a2bcce31e7ebb409fe90cc01e189da789cea74bf1ef3ee207",
+    "relevance": "four-member travel dynamics; no chronology imported"
+  },
+  "wants": {
+    "Neet": "claim sensory discoveries, security victories and excitement without sacrificing home",
+    "Buddy": "a peaceful seat, actual time on grass and food; attempts waiting, diplomacy and finally sets walking pace"
+  },
+  "comic_situation": "An expedition that can get to Houston but struggles to reach a patch of grass; self-appointed general repeatedly outvoted by his own appetite and need for reassurance.",
+  "preserved_primary": [
+    "three tire circuits and seat collision",
+    "vehicle colors and Buc-ee seventeen marked spots",
+    "jerky yes answer",
+    "pink lassi and alternating temple visits",
+    "door contest and wood dominance",
+    "failed park parking and skyline",
+    "wrong-way recovery with lake joke",
+    "egg philosophy and gentle taking",
+    "paneer retrospective, small park, home sensory exchange and tea ending"
+  ],
+  "preserved_alternative": [
+    "joint packing priorities",
+    "seventeen trash cans and squirrel section",
+    "temple reverence and pink fancy lassi",
+    "blanket diversion distinct from primary park promise",
+    "distinct park directions/counts",
+    "wrong-way bark-contest callback",
+    "complete Musafer departure/menu/intimacy/dessert/Existed exchange",
+    "four egg bites, happy monsters",
+    "expanded small park home reflection",
+    "Sagar-Buddy mirror exchange and couch ending"
+  ],
+  "changes": [
+    {
+      "variant": "primary",
+      "before": "\"That's your entire body weight on my paw.\"",
+      "after": "\"That's your entire body weight on my paw.\"\n\nBuddy withdrew the paw. Neet slid another inch.\n\n\"Your enthusiasm needs brakes.\""
+    },
+    {
+      "variant": "primary",
+      "before": "\"I saw it, Neet.\"",
+      "after": "\"I saw it, Neet.\"\n\nBuddy closed his eyes. If he could sleep through a vacuum cleaner, he could sleep through a traffic report.\n\n\"White van.\"\n\nApparently he could not."
+    },
+    {
+      "variant": "primary",
+      "before": "\"Yes.\"\n\nIn the back seat",
+      "after": "\"Yes.\"\n\nBuddy sat up very straight. He would demonstrate that one passenger could wait sensibly. When Sagar moved the bag from one hand to the other, Buddy\u2019s whole head followed it. Sagar tried the movement once more. Same result.\n\n\"Excellent tracking,\" Sagar said.\n\nIn the back seat"
+    },
+    {
+      "variant": "primary",
+      "before": "\"It's the PRINCIPLE.\"",
+      "after": "\"It's the PRINCIPLE.\"\n\nBuddy tried one low, conciliatory woof. The dog inside answered. Neet looked delighted.\n\n\"Reinforcements!\"\n\nBuddy shut his mouth. His peace talks had lasted one syllable."
+    },
+    {
+      "variant": "primary",
+      "before": "\"Meaningful barking?\"",
+      "after": "\"Meaningful barking?\"\n\nBuddy had stood up at the first sight of grass. By the third pass he stayed seated and watched the same empty bench go by.\n\n\"I\u2019ve chosen where to sit,\" he said. \"Apparently we\u2019re viewing it by appointment.\""
+    },
+    {
+      "variant": "primary",
+      "before": "\"I've evolved past that position.\"",
+      "after": "\"I've evolved past that position.\"\n\nBuddy looked down. Neet was still pressed firmly against his side.\n\n\"Then you can evolve back onto your own half of the seat.\"\n\n\"In a minute.\""
+    },
+    {
+      "variant": "primary",
+      "before": "It was, admittedly, exceptional. \"These are very good.\"",
+      "after": "It was, admittedly, exceptional. \"These are very good.\"\n\nHe intended to make his piece last. His mouth made a separate decision."
+    },
+    {
+      "variant": "primary",
+      "before": "Buddy, for the moment, was satisfied with grass.",
+      "after": "Buddy, for the moment, was satisfied with grass.\n\nNeet finished his report and turned to lead the way. Buddy remained over one small patch.\n\n\"We\u2019ve inspected that.\"\n\n\"You\u2019ve counted it. I haven\u2019t smelled it.\"\n\nHeather let the leash slacken. Buddy took another luxurious breath. At last, someone understood the itinerary."
+    },
+    {
+      "variant": "alternative",
+      "before": "\"Water bowl, obviously.\"",
+      "after": "\"Water bowl, obviously.\"\n\nBuddy counted the proposed order again. \"We\u2019re two dogs.\"\n\n\"Joint first.\"\n\n\"Of course.\""
+    },
+    {
+      "variant": "alternative",
+      "before": "\"They have everything else.\"",
+      "after": "\"They have everything else.\"\n\nBuddy steered toward a patch of shade. Neet returned to the last trash can. Buddy waited, one paw already pointing toward the shade, while Neet checked whether the last dog had left an address."
+    },
+    {
+      "variant": "alternative",
+      "before": "\"Just a small snack for later,\" Sagar said, but the twinkle in his eye suggested he knew exactly what he'd done to the dogs' collective peace of mind.",
+      "after": "\"Just a small snack for later,\" Sagar said.\n\nBuddy sat very straight to show that he understood waiting. His eyes followed the bag down, up, and into Sagar\u2019s other hand. Heather watched him, then moved the cooler. Buddy did not blink.\n\n\"No fooling that one,\" she said."
+    },
+    {
+      "variant": "alternative",
+      "before": "Neet glanced at the blanket, then back at the door. Buddy had already chosen the blanket.",
+      "after": "Neet glanced at the blanket, then back at the door. Buddy had already chosen the blanket. He stood close enough for his nose to touch its folded edge.\n\n\"You\u2019re abandoning the perimeter.\"\n\n\"I\u2019m securing the soft part.\""
+    },
+    {
+      "variant": "alternative",
+      "before": "\"Excessive meaningful barking?\"",
+      "after": "\"Excessive meaningful barking?\"\n\nBuddy stopped rising whenever he saw grass. On the next circuit he watched the same bench pass the window and gave it a small, disappointed nod.\n\n\"Lovely bench,\" he said. \"I feel we\u2019re getting to know it.\""
+    },
+    {
+      "variant": "alternative",
+      "before": "\"That's the worst line you've ever used.\"",
+      "after": "\"That's the worst line you've ever used.\"\n\nSagar considered the dessert. \"I had fifteen minutes at Buc-ee\u2019s to prepare.\"\n\n\"And you spent them on jerky.\"\n\n\"Time well spent.\""
+    },
+    {
+      "variant": "alternative",
+      "before": "\"Okay, these are very good.\"",
+      "after": "\"Okay, these are very good.\"\n\nBuddy tried to save a little on his tongue. It was gone before he had decided how long a little should last. He looked at Heather\u2019s hands again."
+    },
+    {
+      "variant": "alternative",
+      "before": "Heather laughed, and the sound was like music. Sagar walked beside her, their shoulders touching, and Buddy felt the rightness of it all settle into his bones.",
+      "after": "Heather laughed. Sagar walked beside her, their shoulders touching. Buddy drew Heather toward the shade and stopped over a patch of grass.\n\nNeet was ready to move on. Buddy was not.\n\n\"You\u2019ll fall behind.\"\n\n\"Then circle back. You\u2019ve had practice.\"\n\nHeather waited with him, the leash loose. For once, the expedition was running on Buddy\u2019s schedule."
+    }
+  ],
+  "ending": "Both retain warm home ending; new comedy pays off Buddy finally setting walk pace without crowding final rest.",
+  "variant_decision": "Keep all differences separately; do not insert primary traffic inventory, marked-spot count, peace woof, or paw collision into alternative. Dinner receives exclusive picture; shared pictures only depict common states.",
+  "comparison": {
+    "complete_primary_and_alternative_reread": true,
+    "originals_read_complete": true,
+    "all_original_incidents_preserved": true,
+    "prior_adaptations_preserved": "alternating occupied climate-controlled car, moving skyline view, parked hand contact; removed overt authorial relationship associations remain only historical source",
+    "diff_lines": 195,
+    "meaning_changes": "No event outcomes or chronology resolved. Added brief attempts and physical reactions, approximately 400 words across both versions.",
+    "complete_illustrated_reading": "pending independent browser reader",
+    "final_full_text_reread": true,
+    "post_revision_comparison": "Read entire final primary and entire final alternative plus complete diff against prior working and compared all preserved incidents with full recovered originals. Corrected new trash-can revisit wording to retain exactly seventeen; clarified Sagar retaining jerky bag at image anchor. No incidents removed or competing scene counts blended.",
+    "minor_seam_corrections": [
+      "Sagar repeats bag movement so image correctly shows bag still with him.",
+      "Alternative revisits last trash can rather than inventing eighteenth."
+    ]
+  },
+  "story_sha256": "a1e823075c1babcd9be9d931d1e7cf244354c3bf33663e416342fcc11d967095",
+  "approval": "unapproved",
+  "publication": "not_published",
+  "illustration_anchor_adjustments": [
+    "Split final primary egg paragraph after gentle taking and before Buddy\u2019s turn.",
+    "Added brief alternative Heather holding Buddy next piece to make shared picture state exact."
+  ]
+}

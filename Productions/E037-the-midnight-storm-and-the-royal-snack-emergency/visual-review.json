@@ -1,0 +1,199 @@
+{
+  "episode": "E037-the-midnight-storm-and-the-royal-snack-emergency",
+  "reviewer": "editor_early independent visual reviewer",
+  "independence": "Reviewer did not generate or edit these images.",
+  "date": "2026-10-03",
+  "status": "ready_for_integration",
+  "story": {
+    "path": "Stories/S037-the-midnight-storm-and-the-royal-snack-emergency.md",
+    "sha256": "24b324c4ae7b25390b02a16a978f898c6f14bc9b9967de9780b48b30e8324d41",
+    "complete_revised_text_read": true
+  },
+  "images": [
+    {
+      "path": "Productions/E037-the-midnight-storm-and-the-royal-snack-emergency/rough-v001.png",
+      "sha256": "e7ca9b6654e1e0ba079b9ed0573862214f3a17a10764a9687c6fd53280581292",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "kind": "rough",
+      "inspection": "Opened complete actual image at native resolution using original detail; no thumbnail-only assessment.",
+      "decision": "staging_reviewed",
+      "findings": [
+        "Full drawn staging supports rear in bowl and separated hand/paws; Neet four support points coherent. Rough incorrectly includes a second date bowl on tray; final removes it."
+      ]
+    },
+    {
+      "path": "Productions/E037-the-midnight-storm-and-the-royal-snack-emergency/illustration-v001.png",
+      "sha256": "a0ab28e69589d88497339578989d8dae50dd49e453ef5eef4ec36f624bdddf45",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "kind": "finished",
+      "inspection": "Opened complete actual image at native resolution using original detail; no thumbnail-only assessment.",
+      "decision": "needs_rework",
+      "findings": [
+        "Connected Buddy seated body has visible neck, full dark trunk and attached folded thigh in date bowl; bowl hides rearfeet plausibly while two front paws support on blanket. B15 short-groomed muzzle/ear state remains recognizable.",
+        "Neet has four owned planted legs, full narrow body and short nub, broad triangular ears and mild concerned gaze; no hand/paw fusion.",
+        "Single date bowl with spilled dates, upright glass on silver tray, rain window and cropped pajama-clad human match scene. Quiet confused Buddy versus inspecting Neet carries mishap without cruelty.",
+        "Required scene-fidelity correction: blanket covers most foreground but pattern is irregular chevrons/cloud bands, not the explicitly described star-pattern blanket. Change only textile pattern, preserve anatomy/props.",
+        "Shorten/suppress coarse long hatch strokes on Neet throat/neck and Buddy neck/shoulder into smooth close-coat wash; original N19/N24/B15 detail comparison shows current wiry impression. Keep regional face/ear furnishings and body geometry."
+      ]
+    },
+    {
+      "path": "Productions/E037-the-midnight-storm-and-the-royal-snack-emergency/illustration-v002.png",
+      "sha256": "e68078a101e7626d0e22345d86d63b85a069f0eacbef09feeb67e2e4441c77df",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "kind": "finished",
+      "inspection": "Opened actual full replacement at native1536x1024, compared preceding v001 and originals.",
+      "decision": "ready_for_integration",
+      "findings": [
+        "Recognizable five-point stars now cover navy blanket; source-specific textile correction is complete.",
+        "Neet neck/back and Buddy dark neck/shoulder are smoother, shorter microtexture; previous wiry long strokes reduced without changing original markings or Buddy regional face/ear hair.",
+        "Rechecked all supports: Buddy front paws outside bowl, attached folded haunch inside; bowl plausibly occludes hindfeet. Neet four feet grounded; cropped hand separate. Single bowl, scattered dates, tray/milk and rainy window retained; no new defect."
+      ]
+    }
+  ],
+  "reference_evidence": [
+    {
+      "id": "N19",
+      "path": "Characters/Neet/Photos/neet-19.jpeg",
+      "sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+      "same_exposure_group": null,
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "styling",
+          "standing_pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Primary standing body proportions, paws, hocks and stub silhouette; head is not a pure profile.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Head rotated; far limbs overlap; uncalibrated camera offers no measurements; room light subdued"
+        ],
+        "inspection_sha256": "b2c6db0a5af6a885d993cbd986cc2759b9461e693fbcabd8aa96bce1eb5ea901",
+        "source_sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N19.json"
+      },
+      "role": "Neet side body, fine legs, full trunk, near-flush nub; head turned/far legs overlap."
+    },
+    {
+      "id": "N24",
+      "path": "Characters/Neet/Photos/neet-24.jpeg",
+      "sha256": "a80dbd57f4daf8f53232a4c5e604f7e92411ed2ca15fccb8d50a5f053b0eacd6",
+      "same_exposure_group": null,
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Primary upright sitting, narrow chest, head-tilt and color-map reference.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Tail hidden; scattered stuffing does not prove this dog caused destruction; seated proportions only"
+        ],
+        "inspection_sha256": "2dc370cfcb6bf22dde3ee7f0f7b169e11501f6b97e69b65ee733fe43737a4a8b",
+        "source_sha256": "a80dbd57f4daf8f53232a4c5e604f7e92411ed2ca15fccb8d50a5f053b0eacd6",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N24.json"
+      },
+      "role": "Neet seated visible geometry only, tail hidden; no standing ratios."
+    },
+    {
+      "id": "B29",
+      "path": "Characters/Buddy/Photos/buddy-29.jpeg",
+      "sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+      "same_exposure_group": null,
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Best available lateral body-length, tail-length/carriage and walking-pose reference; weak fine landmarks because blurred and not neutral standing.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Motion blur and lifted legs; cannot establish neutral back slope, exact leg ratios or gait timing from still"
+        ],
+        "inspection_sha256": "c671664ca5e4e2e07bfd3049ea641c3a1645742fb8290494e67a17f7ed213ea9",
+        "source_sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B29.json"
+      },
+      "role": "Buddy lateral torso and tail, blurred stride; no neutral ratios/timing."
+    },
+    {
+      "id": "B15",
+      "path": "Characters/Buddy/Photos/buddy-15.jpg",
+      "sha256": "947aca933769ac618dd657fd6a8491a8c67ff6997c289d76f87ec0167b07a923",
+      "same_exposure_group": null,
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "styling"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Excellent uncostumed upright sit and folded rear-thigh shape; useful underlying facial taper.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Bed rim hides front feet; perspective compresses torso; no standing ratios"
+        ],
+        "inspection_sha256": "4aff983a24dc33e82ba89c8c2806a346fe68f7f659414aadd57e15d2ea8deaf5",
+        "source_sha256": "947aca933769ac618dd657fd6a8491a8c67ff6997c289d76f87ec0167b07a923",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B15.json"
+      },
+      "role": "Buddy seated folded haunch and close-groomed face/ear state; bed rim hides frontfeet, no standing ratios."
+    }
+  ],
+  "reference_inspection": "N19/B29 originals and native detail crops inspected during model review. Newly opened N24 and B15 originals, plus native1300px crops n24-head-chest (2900,1000,4200,2300), b15-head-chest (1650,2650,2950,3950), stored externally. Read complete effective policies; seated photo cannot establish standing ratios.",
+  "restrictions": [
+    "N35 excluded from anatomy; B08 styling only; B25 unavailable; B30 supplemental rest only. None is used in this image.",
+    "One exposure counts once; generated models support style/acting only.",
+    "No exact size, breed, motion timing, palette or human likeness is canonized."
+  ],
+  "placement": "Just as peace began to settle, the house was hit by the King of All Thunderclaps. The lights flickered. Neet’s ears shot out at impossible angles. Buddy tried to jump into Sagar’s lap but misjudged the distance, landing with his rear end squarely in the date bowl.",
+  "limitations": [
+    "Human hand/legs provisional; no face likeness claimed.",
+    "Bowl hides hindfeet; supported thigh is visible."
+  ],
+  "complete_illustrated_reading": {
+    "status": "reviewed",
+    "story_sha256": "ea0bfc351e5d425a33163e3a20ad262a7a678bf27db2aa313203db3fba353fe5",
+    "evidence": [
+      "Stories/S037-the-midnight-storm-and-the-royal-snack-emergency.md",
+      "http://127.0.0.1:53761/Stories/S037-the-midnight-storm-and-the-royal-snack-emergency.md"
+    ],
+    "inspection": "Complete rendered page text read and actual embedded image inspected at approximately 960 px reading width in independent hidden reader tab. Native image review separately recorded.",
+    "observations": [
+      "Full rendered story read through storm, blanket and snack ritual, date-bowl predicament, and settled family ending. The explicit star pattern in corrected v002 now matches the blanket setup.",
+      "Image follows the date-bowl discovery; separated milk tray and Buddy seated in dates make the joke immediately readable at approximately 960 px story width before release and calm."
+    ]
+  },
+  "approval": "unapproved",
+  "publication": "not_published",
+  "unresolved_findings": []
+}

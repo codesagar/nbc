@@ -1,0 +1,185 @@
+{
+  "episode": "E038",
+  "version": "v002",
+  "reviewer": "fresh reader038",
+  "status": "accepted",
+  "reviewed_at": "2026-10-04T11:15:12.835831+00:00",
+  "story": {
+    "path": "Stories/S038-the-smoky-mountain-escapade.md",
+    "sha256": "5066e73e36dc75b54b0ebd2bf0ec009d1c9a8239dde8fa637498fce96718fd9e"
+  },
+  "images": [
+    {
+      "path": "Productions/E038-the-smoky-mountain-escapade/p01-departure-art-v003.png",
+      "sha256": "66687160eb42fdbb0c22ccfd088723cc5c1ca36aef975e063727ce2aa498526e"
+    },
+    {
+      "path": "Productions/E038-the-smoky-mountain-escapade/p02-bridge-art-v003.png",
+      "sha256": "40cad75d382521d198fee5f4dfdf6f8f05506fc3a1c176cf5d50ca1506777506"
+    },
+    {
+      "path": "Productions/E038-the-smoky-mountain-escapade/p03-lights-art-v003.png",
+      "sha256": "7c51fd5c4f9010769f8d766d4c20f897a15a15af31e34b247319e112df1374e8"
+    },
+    {
+      "path": "Productions/E038-the-smoky-mountain-escapade/p04-bear-art-v005.png",
+      "sha256": "1cf3a68d635ce81b403d9bc8838697b6baf73d21b4d51a0daaee1c84f28ddec1"
+    },
+    {
+      "path": "Productions/E038-the-smoky-mountain-escapade/p05-turkeys-art-v003.png",
+      "sha256": "be3dc10d8582db337685d39684f9cb9e8a0b57e64384bd6f0c6e7a385979d6c7"
+    },
+    {
+      "path": "Productions/E038-the-smoky-mountain-escapade/a01-keurig-art-v003.png",
+      "sha256": "8b5ffd6f33f75b3b52aaeae08de2debb64d2657f8cbdb35ce9c3db6a174505be"
+    },
+    {
+      "path": "Productions/E038-the-smoky-mountain-escapade/a02-crust-art-v003.png",
+      "sha256": "4f749476f94dc1c9e98c494507572e86fbac25fcfadc8734ab6b43053bfc33a6"
+    }
+  ],
+  "independence": "Fresh complete-reading reviewer; did not write prose or generate artwork. Reading acceptance is separate from native visual review and owner approval.",
+  "rendered_inspection": {
+    "url": "http://127.0.0.1:56824/Stories/S038-the-smoky-mountain-escapade.md",
+    "surface": "Codex in-app browser via cua_repl",
+    "viewport": [
+      1280,
+      720
+    ],
+    "method": "Actual successive overlapping viewport screenshots at default reader size, with scroll increments 0.55-0.85 page and accessibility checks. Read from title through complete primary, explicitly expanded Read the complete alternative, then read all alternative paragraphs, both endings, provenance and refinement footer. Screenshots were viewed in tool output; not a filesystem-only or DOM-only read.",
+    "primary_complete": true,
+    "alternative_complete": true,
+    "all_seven_embeds_inspected": true,
+    "primary_coverage": [
+      "I departure",
+      "II Chondola",
+      "III Tree Bridge",
+      "IV Hellbender",
+      "V Astralumina and carried evacuation",
+      "VI pizza and departing bear",
+      "VII indifferent turkeys and camera complaint",
+      "VIII Chattanooga duck/frisbee/oak memories",
+      "IX Atlanta return and sleeping pizza-box check"
+    ],
+    "alternative_coverage": [
+      "Act I packing, Keurig, car loading and fart",
+      "Act II chairlift, search, sign, toy/gravity fears and trash-can landing",
+      "Act III child-rocked bridge, imaginary pizza, sunbeam and camera strut",
+      "Act IV lunch/coaster/brakes, mascara and lap recovery",
+      "Act V projected comet, schoolchildren, sprinting evacuation and bus",
+      "Act VI towel/front-seat arrangement, dumpster-return bear and hotel crust",
+      "Act VII horse misunderstanding, scattering turkeys and cyclist soundtrack",
+      "Act VIII bakery, grass and duck friendship memories",
+      "Act IX unnamed home and Chronicles continued ending"
+    ]
+  },
+  "creative_findings": {
+    "humor_and_timing": "Primary builds from repeated road reports to rope tasting, voluntary brake management, failed flashlight chase and disproportionate authority behind glass. The second rope square and turkey finding another seed create pauses and reversals rather than more shouting. Alternative Keurig argument, literal imagined pizza, lowered opinion of middle seat, repeated big-dog claim and bakery opening-hours line remain specific, memorable beats.",
+    "voices_and_agency": "Neet wants security and proximity to Sagar, then recovers his oversized authority. Buddy acts independently: tastes, meddles with brakes, pursues light, encourages Neet into his own imaginary-food desire, and hides then searches for crust. Heather shifts from nervous restraint to delight and nostalgia; Sagar provides calm guidance, playful narration and practical rescue. Historical royal diction remains the variant voice rather than a new canon decision.",
+    "cause_effect_and_pacing": "Both nine-stage outings progress clearly from travel through increasing heights, coaster exhilaration, storm shelter, food and wildlife to memories and home. Sparse images during coaster keep the fast vocal escalation uninterrupted. Quiet Chattanooga and return passages have room after the visual comedy.",
+    "payoffs": "Primary sleepy pizza check pays off food fixation and claimed bear defense while retaining affection. Alternative hotel recovery and bakery interest lead into its separate warm unnamed-home ending. Neither ending is crowded by a late image.",
+    "variant_integrity": "Primary rope lick/documentary, flashlight, Heather carrying dogs, bear departure, ignored turkeys, duck-pond/frisbee memories and Atlanta ending remain separate from alternative child/pizza/sunbeam, projected comet/schoolchildren, sprinting dogs, front-seat towel, dumpster return, scattering turkeys, bakery and unnamed home."
+  },
+  "image_placement_reviews": [
+    {
+      "scene": "primary departure",
+      "observation": "Rigid seated Neet versus window-licking Buddy follows the pine-cone/music interruption; picture establishes conflicting priorities without changing seating state.",
+      "status": "accepted",
+      "image": {
+        "path": "Productions/E038-the-smoky-mountain-escapade/p01-departure-art-v003.png",
+        "sha256": "66687160eb42fdbb0c22ccfd088723cc5c1ca36aef975e063727ce2aa498526e"
+      }
+    },
+    {
+      "scene": "primary bridge",
+      "observation": "Image follows Sagar documentary line and precedes Heather nearly losing footing then crossing. Neet remains crouched on planks and Buddy tastes netting; corrected four-limb construction reads at intended size.",
+      "status": "accepted",
+      "image": {
+        "path": "Productions/E038-the-smoky-mountain-escapade/p02-bridge-art-v003.png",
+        "sha256": "40cad75d382521d198fee5f4dfdf6f8f05506fc3a1c176cf5d50ca1506777506"
+      }
+    },
+    {
+      "scene": "primary lights",
+      "observation": "Tree spot and backward Buddy glance follow the flashlight climbing the trunk; Neet studies lights before thunder begins. No evacuation state is imported.",
+      "status": "accepted",
+      "image": {
+        "path": "Productions/E038-the-smoky-mountain-escapade/p03-lights-art-v003.png",
+        "sha256": "7c51fd5c4f9010769f8d766d4c20f897a15a15af31e34b247319e112df1374e8"
+      }
+    },
+    {
+      "scene": "primary bear",
+      "observation": "At post-wandered-off pizza-protection claim, bear visibly steps left with wet pavement gap from right-side trash can; Buddy sits tall and Neet barks behind closed rainy glass. Current v005 closes prior scene-state mismatch.",
+      "status": "accepted",
+      "image": {
+        "path": "Productions/E038-the-smoky-mountain-escapade/p04-bear-art-v005.png",
+        "sha256": "1cf3a68d635ce81b403d9bc8838697b6baf73d21b4d51a0daaee1c84f28ddec1"
+      }
+    },
+    {
+      "scene": "primary turkeys",
+      "observation": "Pecking birds remain indifferent after louder Neet and second seed. The composition lets their refusal to react carry the joke; no scattering outcome is imported.",
+      "status": "accepted",
+      "image": {
+        "path": "Productions/E038-the-smoky-mountain-escapade/p05-turkeys-art-v003.png",
+        "sha256": "be3dc10d8582db337685d39684f9cb9e8a0b57e64384bd6f0c6e7a385979d6c7"
+      }
+    },
+    {
+      "scene": "alternative Keurig",
+      "observation": "Packed bags, two duffels, water bottles and Buddy confronting machine precede car loading. Distinct indoor scene gives alternative its own setup rather than repeating car departure.",
+      "status": "accepted",
+      "image": {
+        "path": "Productions/E038-the-smoky-mountain-escapade/a01-keurig-art-v003.png",
+        "sha256": "8b5ffd6f33f75b3b52aaeae08de2debb64d2657f8cbdb35ce9c3db6a174505be"
+      }
+    },
+    {
+      "scene": "alternative crust",
+      "observation": "Crust is in Sagar hand while Buddy nose remains at empty towel fold, before he checks the hand and before both dogs curl up. Warm hotel scene supplies a different visual payoff from primary car/bear.",
+      "status": "accepted",
+      "image": {
+        "path": "Productions/E038-the-smoky-mountain-escapade/a02-crust-art-v003.png",
+        "sha256": "4f749476f94dc1c9e98c494507572e86fbac25fcfadc8734ab6b43053bfc33a6"
+      }
+    }
+  ],
+  "complementary_contributions": "Five primary pictures cover car contrast, physical bridge predicament, light misunderstanding, protected-pizza boast and ignored authority. Two alternative pictures add appliance confrontation and quiet food-search aftermath. Viewpoint, setting, emotional scale and action vary; images do not repeat a portrait quota.",
+  "material_findings": [],
+  "open_findings": [],
+  "findings_closure": [
+    {
+      "id": "E038-V002-01",
+      "status": "closed",
+      "evidence": "Independent visual review accepts actual whole native bear v005. Fresh rendered inspection independently confirms departure direction, separation from can and unchanged post-wandered-off anchor."
+    },
+    {
+      "topic": "bridge limb correction",
+      "status": "closed",
+      "evidence": "Independent visual review records four owned Buddy limbs; current rendered bridge shows coherent four-paw support and crouched Neet, without an extra limb."
+    }
+  ],
+  "records_consulted": [
+    {
+      "path": "Productions/E038-the-smoky-mountain-escapade/comedy-pass-v002.json",
+      "sha256": "b2aa53515b8436341790679089888810d86d57b94b7f8791141e955c63c3d534"
+    },
+    {
+      "path": "Productions/E038-the-smoky-mountain-escapade/artwork-generation-v002.json",
+      "sha256": "e2b167900af8ff80417ebe248a2878e7f1e1afc74a5009a30a7523a87d44cf2c"
+    },
+    {
+      "path": "Productions/E038-the-smoky-mountain-escapade/visual-review-v002.json",
+      "sha256": "5ee3a9504ace4e068889f7965a86545b7132ed3192d7d660bfd3a4b7dff9608e"
+    }
+  ],
+  "integration_note": "Generation record and story refinement footer retain stage-time pending language; root integration should reconcile delivery/progress metadata. This review does not modify prose or those records.",
+  "approval": {
+    "state": "unapproved"
+  },
+  "publication": {
+    "state": "not_published"
+  },
+  "style_and_human_likeness": "provisional"
+}

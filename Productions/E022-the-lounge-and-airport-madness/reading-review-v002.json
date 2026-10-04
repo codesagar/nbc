@@ -1,0 +1,77 @@
+{
+  "story_id": "S022",
+  "episode_id": "E022",
+  "status": "accepted",
+  "reviewer": "fresh independent reader022; no prose or artwork creation or modification",
+  "review_date": "2026-10-04",
+  "story": {
+    "path": "Stories/S022-the-lounge-and-airport-madness.md",
+    "sha256": "a62e7f353864191dfe29020915ef6e89e6852a59ebd74645675b067ade6bc782"
+  },
+  "images": [
+    {
+      "path": "Productions/E022-the-lounge-and-airport-madness/samosa-art-v002.png",
+      "sha256": "6fc13d976a88c4b50d2e15bfd062763c0af45bd426a97bc4b168ca78ef72810a"
+    },
+    {
+      "path": "Productions/E022-the-lounge-and-airport-madness/recliner-art-v004.png",
+      "sha256": "aa1ddee340e8f5108fbf9373c335e324f29e88f963a85e7968f61d4b2d0db2a0"
+    },
+    {
+      "path": "Productions/E022-the-lounge-and-airport-madness/watch-art-v002.png",
+      "sha256": "a8b95b745c43d2d1745997f635f89efee89d533a1e4716235fc4506af1198f1d"
+    }
+  ],
+  "rendered_inspection": {
+    "url": "http://127.0.0.1:56824/Stories/S022-the-lounge-and-airport-madness.md",
+    "method": "Cua in-app browser: complete rendered accessibility text, then sequential overlapping viewport screenshots from title through both provenance source hashes. Visually read all paragraphs and all three embedded illustrations in context. Raw Markdown was not used as a substitute.",
+    "viewport": {
+      "width": 1280,
+      "height": 720
+    },
+    "image_display_sizes": [
+      [
+        960,
+        640
+      ],
+      [
+        960,
+        720
+      ],
+      [
+        960,
+        640
+      ]
+    ],
+    "all_images_loaded": true,
+    "coverage": "Complete primary, all six narrative sections, refinement record, provenance and editorial notes. No separately presented meaningful alternative. Comedy record reports original sources are the same incidents with acquisition-format differences."
+  },
+  "observations": [
+    "Opening makes the opposing desires concrete: Neet sees unlimited food, while Buddy selects a seat facing departures and away from the buffet. Buddy acts on a personal nap plan instead of functioning only as a commentator.",
+    "Samosa sequence now has an unambiguous bites-then-freezes state. Part of me now lands before the half-step evasion; The samosa came with him is a concise physical punchline. First illustration follows that completed beat: triangular bitten food remains plainly in Neet mouth, crumbs and waiter hand make failed concealment visible. It does not reveal a later event.",
+    "Buddy accidentally activates the recliner, waits rigidly for the motor, then claims intention and protects his nap by moving his paw away. This gives him a small comic mistake and decision. Neet imitation produces the gap predicament; Buddy locates him for Heather before quietly enjoying the contrast.",
+    "Second image follows Buddy settling back and precedes Heather rescue. Buddy chin rests comfortably on the chair edge while Neet braces separate forepaws against the two chair arms, hindfeet visible below. This depicts the sustained trapped state after the described flailing rather than a later rescue. Recliner controls, footrest and airport view remain readable at 960-pixel width.",
+    "Delay supplies a causal extension of the lounge trouble and briefly appears to serve Buddy nap before Neet stands again. Define raid is brief and consistent with Neet opportunism; Heather interrupts him with familiar practical authority.",
+    "Businessman confrontation escalates from staring to an absurd watch complaint, concealment, and discovery of cufflinks on the raised cup hand. Third image is after that reveal: Neet sits tall beside the seated man, raised espresso hand exposes the cufflink and opposite wrist is covered. The object is visible at reading size and no premature removal by Heather is shown.",
+    "Three illustrations contribute different actions and compositions: food evidence beside a standing waiter; two-dog comfort/predicament contrast; a seated social challenge with specific shiny prop. They break at completed narrative beats and do not interrupt attribution or dialogue.",
+    "Final breadstick surrender lets Heather end the snack trouble gently. Buddy choosing a seat facing Neet reverses his opening choice to face departures, making the ending an earned practical adaptation. Neet retains cheerful lack of regret, Buddy dry judgment and Heather affectionate intervention.",
+    "Full rendered footer preserves manuscript Chapter 23, both original source IDs and hashes, archive recovery context and explicit lack of owner approval. Heather-only traveling household and transit chronology remain unresolved instead of being silently reconciled."
+  ],
+  "material_findings": [],
+  "open_findings": [],
+  "material_closure": {
+    "visual_review": {
+      "path": "Productions/E022-the-lounge-and-airport-madness/visual-review-v002.json",
+      "sha256": "804f6996ed438c3c2034073296a924222099a98ff860c2049abd4bc4401b0936"
+    },
+    "status": "accepted",
+    "check": "Current story and all three image hashes match the independently accepted visual record, whose per-image material findings and unresolved_findings are empty. Actual rendered images inspected here show no contradictory scene or reading-size defect. This reading does not replace the native-resolution original-photo comparison."
+  },
+  "limitations": [
+    "Visual style and human likeness remain provisional.",
+    "Historical household and chronology remain unresolved source choices.",
+    "Review acceptance does not grant owner approval or publication."
+  ],
+  "approval": "unapproved",
+  "publication": "not_published"
+}

@@ -1,0 +1,115 @@
+{
+  "story": "S009",
+  "version": "v002",
+  "author": "fresh S009-specific author/illustrator",
+  "sources": [
+    {
+      "archive": "/Users/sagar/Documents/ChatGPT/NBC_Archives/NBC-before-expanded-refinement-2026-10-04_035505Z.tar.gz",
+      "member": "NBC/Stories/S009-neet-the-general.md",
+      "sha256": "4c9877c377dd45d9e4f43ebaf82ca130f880199b2a96085a9870255d6a902350",
+      "complete_read": true
+    },
+    {
+      "archive": "/Users/sagar/Documents/ChatGPT/NBC_Archives/NBC-before-reorganization-2026-10-03_182825.tar.gz",
+      "member": "NBC/02_Story_Library/Legacy_Chapters/10-neet-the-general.md",
+      "sha256": "b2de69ccdee6f4dab70705f99a7714f56b489bea5c1a0d72c02bb43ab5eb90d4",
+      "complete_read": true
+    },
+    {
+      "archive": "/Users/sagar/Documents/ChatGPT/NBC_Archives/NBC-before-reorganization-2026-10-03_182825.tar.gz",
+      "member": "NBC/02_Story_Library/Legacy_Notes/Unassigned-Reversed-Chapter-10-Passage.md",
+      "sha256": "d75f6f02f6f102dcebb48310a16e08d904107e4b938a772ce07099d0b90aa2eb",
+      "complete_read": true
+    }
+  ],
+  "connected_readings": [
+    {
+      "path": "Stories/S010-neets-gang-faces-the-night-stalkers.md",
+      "sha256": "51088cb1dfb5fa0a157e901e6e4992cf7981e41932c10339b27e066d1259e338"
+    },
+    {
+      "path": "Stories/S011-neets-gang-to-the-rescue.md",
+      "sha256": "0b64df1b6a832b1bfec2923b501ef1c501b7afa6bbc0ddd1cfdbcb7df2689acd"
+    },
+    {
+      "path": "Stories/S012-the-great-neighborhood-dog-games.md",
+      "sha256": "6dbbed8139e54c88b75b5d989e97873654dffb9668f5991b6d1ce81773e073dc"
+    }
+  ],
+  "central_comic_situation": "An unsolicited commander organizes dogs who chiefly want shade, food and friendship.",
+  "intended_feeling": "Affectionate absurdity resolving into belonging.",
+  "wants": {
+    "Neet": "Recognition, security and a place with the local dogs; believes authority earns belonging.",
+    "Buddy": "Shade and peaceful company; tries diplomacy and fair food sharing.",
+    "collision": "Neet issues assignments that would prevent Buddy and the others from enjoying the very place he is protecting."
+  },
+  "preserved_incidents": [
+    "Heather walking the dogs in Ahmedabad",
+    "Five local dogs under banyan",
+    "Leash slips and charge",
+    "Shadow laughs and invites Neet",
+    "Buddy chooses brown-dog greeting",
+    "Tour and brick-pile speech",
+    "White-dog and brown-dog assignments",
+    "Neighborhood food and patrols",
+    "Golden retriever peaceful encounter",
+    "Neet rock command post",
+    "Shadow makes room; Buddy stick"
+  ],
+  "strong_existing_lines": [
+    "Neither needed a speech.",
+    "Only Neet could turn a casual walk into a military operation.",
+    "Inspection finished?"
+  ],
+  "actual_changes": [
+    "Buddy shade goal stated immediately.",
+    "Invader rolling over undercuts war declaration.",
+    "Neet notices shade he has declared war against.",
+    "Heather retrieves leash and measures achievement as crossing the street.",
+    "Terrier opens both eyes at food.",
+    "Buddy chooses rest and gives dusk report joke.",
+    "White dog returns from patrol because shade moved.",
+    "Buddy failed food queue gives him a comic attempt and practical correction.",
+    "Retriever friendly response outlasts Neet severity.",
+    "Everyone may rest permission arrives after everyone is resting."
+  ],
+  "ending": "Neet accepts the shared shade then gives unnecessary permission to rest. Belonging survives his self-importance.",
+  "variant_decisions": [
+    {
+      "source": "Reversed Chapter 10 passage",
+      "decision": "Read fully; reverse-order duplicate, no distinct incident or meaningful alternative to invent or separately illustrate."
+    }
+  ],
+  "complete_reread_comparison": {
+    "performed": true,
+    "method": "Read full original, complete previous working edition, connected S010-S012 and whole revised narrative in order; compare retained incident chain and ending.",
+    "lost_incidents": "None in original founding sequence. Prior refinement already replaced passive awe/final generic declaration with Buddy choices and Shadow making room; retained.",
+    "voices": "Preserved third-person and theatrical interpreted dog speech; small direct dialogue follows existing dogs-talk convention. Heather dry and practical; no Sagar inserted into historical household.",
+    "humor": "Added physical noncompliance, one Buddy mistake, a human response and final callback; retained successful understated greetings.",
+    "expansion": "Targeted brief beats only; no new subplot. Length chosen from short historical story, not padded to guideline target.",
+    "meaning": "No new rank, chronology, calibrated size, breed or visual canon asserted. Historical Chihuahua prose remains draft wording, not anatomical authority."
+  },
+  "art_plan": [
+    {
+      "scene": "command",
+      "anchor": "The lanky white dog walked to the north wall, discovered that its shade had moved, and walked back. Neet watched this first patrol return with impressive speed.",
+      "contribution": "High commander against resting listeners; first patrol already back."
+    },
+    {
+      "scene": "diplomacy",
+      "anchor": "The retriever wagged at him too. Neet held his severe expression a moment longer, in case it was still required.",
+      "contribution": "Retain nose greeting and independent severe Neet; smooth short coats."
+    },
+    {
+      "scene": "rest",
+      "anchor": "Nobody had to move.",
+      "contribution": "Empty command rock behind now-resting Neet; belonging and unnecessary permission payoff."
+    }
+  ],
+  "approval": "unapproved",
+  "publication": "not_published",
+  "independent_visual_review": "pending",
+  "fresh_complete_reading": "pending",
+  "revised_story_sha256": "b48245aa0de3afe8599b5dba82712e94bcdc0bffa958ff758684ce4129b1875a",
+  "image_correction_note": "Only image targets updated after independent coat findings; narrative prose unchanged."
+}

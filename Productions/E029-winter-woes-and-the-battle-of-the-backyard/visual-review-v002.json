@@ -1,0 +1,146 @@
+{
+  "story_id": "S029",
+  "reviewer": "independent native-resolution visual reviewer; did not generate or edit judged art",
+  "reviewed_at_utc": "2026-10-04T08:50:11.130706+00:00",
+  "status": "accepted",
+  "story": {
+    "path": "Stories/S029-winter-woes-and-the-battle-of-the-backyard.md",
+    "sha256": "3c054dfd26a11acc2ddc631331209936d0dd409d912470d5115f8a39c84b0943",
+    "complete_text_read": true,
+    "alternatives": "No distinct narrative alternative in revised story; both witnesses recorded as same narrative."
+  },
+  "inspection_method": "Opened all five selected original photographs and paired standing model; viewed each of the three proposed finished images via view_image detail=original, at its native dimensions. All judgments made from actual image pixels, not prompts. Original photographs above tool display limits were displayed resized; finished illustrations were not resized.",
+  "references_record": "Productions/E029-winter-woes-and-the-battle-of-the-backyard/references-v002.json",
+  "reference_policies_checked": "All five selected complete effective policies match Characters/reference-policy.json. N35 anatomy excluded; B08 styling only; B25 unavailable; B30 supplemental rest only; no restricted photograph used. B04/B24 treated as one exposure. Generated model and finish reference are interpretations, never anatomy authority.",
+  "opened_originals": [
+    {
+      "path": "Characters/Neet/Photos/neet-19.jpeg",
+      "sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+      "dimensions": [
+        5712,
+        4284
+      ]
+    },
+    {
+      "path": "Characters/Neet/Photos/neet-25.jpeg",
+      "sha256": "67530c2ebc1baa412f76a825a7bd2369cebf72a101e7f45836fefa0fcae90ca4",
+      "dimensions": [
+        5712,
+        4284
+      ]
+    },
+    {
+      "path": "Characters/Buddy/Photos/buddy-4.jpg",
+      "sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+      "dimensions": [
+        3073,
+        2304
+      ]
+    },
+    {
+      "path": "Characters/Buddy/Photos/buddy-19.jpg",
+      "sha256": "201ec36498d5aaa85ef6e44a9176c333587d95797279a689237ccb49090ee521",
+      "dimensions": [
+        3024,
+        4032
+      ]
+    },
+    {
+      "path": "Characters/Buddy/Photos/buddy-29.jpeg",
+      "sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+      "dimensions": [
+        5712,
+        4284
+      ]
+    }
+  ],
+  "opened_models": [
+    {
+      "path": "Productions/Library-Refinement/model-paired-standing-v001.png",
+      "sha256": "fd6dee30a27d1214f03469e1a56eadfeac89bb18261eb1a655c3f8bf7fdbd48e",
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "path": "Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+      "sha256": "19be9a85760177405bbedd26644a7e0eb9c7945709e43825d201ff2fa91742b9",
+      "dimensions": [
+        1536,
+        1024
+      ]
+    }
+  ],
+  "model_limitations": "Paired standing model has engraved coat treatment which was not accepted as finish authority. E001 image used only to compare simple body fills.",
+  "images": [
+    {
+      "image": {
+        "path": "Productions/E029-winter-woes-and-the-battle-of-the-backyard/snow-art-v003.png",
+        "sha256": "bfcc32f6d9aefd527dcca09ecadf3eff6b6e6e931580f2c69408a3c5afc1c459",
+        "dimensions": [
+          1536,
+          1024
+        ]
+      },
+      "status": "accepted",
+      "verdict": "Accepted: no material visual defect found.",
+      "findings": [
+        "Neet has a full narrow tan trunk, visible neck, projecting muzzle, broad triangular ears, fine legs and tiny nub. One foreleg bends and lifts cleanly from the shoulder; the other foreleg and both hindfeet meet the snowy step. No extra or disconnected limb.",
+        "Buddy retains a continuous moderately elongated charcoal torso, neck and chest, substantial distinct legs, grounded feet and real clearance. The tapered tail belongs to the rump; head and ear size remain credible beside the body.",
+        "Broad flat shadows and restrained low-contrast paint texture stay within close silhouettes. No material curled strands, engraved rows or enlarged shag volume on either short torso. Buddy ear, muzzle and brow furnishing is regional.",
+        "The snowy fenced backyard, porch and raised cold paw match the outdoor stand-off. Neet looks affronted while Buddy waits; restrained expression supports the joke. Perspective and snow contact are coherent, with no material finish artifact."
+      ],
+      "material_findings": [],
+      "open_findings": []
+    },
+    {
+      "image": {
+        "path": "Productions/E029-winter-woes-and-the-battle-of-the-backyard/circles-art-v003.png",
+        "sha256": "21d51108ee5acdfaeab13bf55b342318e7f6c30f4c8367975401cd315428f021",
+        "dimensions": [
+          1536,
+          1024
+        ]
+      },
+      "status": "accepted",
+      "verdict": "Accepted: no material visual defect found.",
+      "findings": [
+        "Neet has a connected full torso, fine legs with one lifted forepaw, three supporting feet, large triangular ears and a tiny nub. His lifted muzzle and gaze make the sky inspection readable; the ring of tracks conveys the excessive circling.",
+        "Buddy is coherently occluded behind Heather\u2019s boots: rear body and tapering tail emerge left, connected neck/head and foreleg emerge right at a consistent height. Hidden central trunk and far limbs are plausibly behind the boots, not replaced by human anatomy. Visible paws meet the same snow plane.",
+        "Close dark body and clean golden washes preserve regional grooming; head and ear furnishings are localized. The subtle texture does not form curls, engraved coat rows or raised shag contours.",
+        "Boots provide the specific windbreak joke and human participation without inventing facial likeness. The snowy fence and trees connect to the first scene. No premature retreat is shown; sky inspection matches this story anchor. Clean edges and readable spatial separation pass."
+      ],
+      "material_findings": [],
+      "open_findings": []
+    },
+    {
+      "image": {
+        "path": "Productions/E029-winter-woes-and-the-battle-of-the-backyard/warm-art-v004.png",
+        "sha256": "185341ac02b3109a79794ba2c3feb32de77cf4980f288349c3e9497eccf1279c",
+        "dimensions": [
+          1448,
+          1086
+        ]
+      },
+      "status": "accepted",
+      "verdict": "Accepted: no material visual defect found.",
+      "findings": [
+        "Neet\u2019s head, projecting muzzle, ears and two forward forepaws emerge coherently from the blanket; hidden trunk and rear limbs are appropriately occluded. Chin and paws have supported contact with the rug.",
+        "Buddy has a continuous recumbent torso from shoulder through rounded folded hindquarters, a connected neck, two owned forward forelegs and two folded hindfeet. The tail follows the rump along the rug. Resting foreshortening is coherent and does not imply shortened standing legs.",
+        "Both dogs have smooth short body fills with broad shadow shapes; the previous type of curled/engraved torso treatment is absent. Buddy furnishing stays concentrated on ears, muzzle and brows, with modest paw fringe. The blanket and rug texture is material texture separate from coat.",
+        "The heater, blanket cocoon and snowy window establish the indoor return and distinct comfort claims. Buddy\u2019s sideways attention and Neet\u2019s guarded peek carry the affectionate contrast. The frame can exclude Heather on the couch without contradicting her presence. The calm payoff complements both outdoor images; finish is clean."
+      ],
+      "material_findings": [],
+      "open_findings": []
+    }
+  ],
+  "material_findings": [],
+  "open_findings": [],
+  "scope_limitations": [
+    "Visual acceptance only; fresh complete illustrated reading remains a separate stage.",
+    "Style and human likeness remain provisional; no calibrated size or weight claims inferred from art."
+  ],
+  "approval": "unapproved",
+  "publication": "not_published"
+}

@@ -1,0 +1,305 @@
+{
+  "id": "E047-the-kings-birthday",
+  "status": "reviewed_unapproved",
+  "stage": "complete_reading",
+  "next_action": "Included in expanded delivery-v001; owner adoption and publication remain separate, ungranted decisions.",
+  "source": {
+    "path": "Stories/S047-the-kings-birthday.md",
+    "sha256": "198d2e2b8164b29066f50b5be70814cd2ae0580036104c9df53b34658b437ff8",
+    "passages": [],
+    "interpretation": "Birthday love defeats planned dignity. Neet wants a proper greeting; Buddy chooses a sock gift and follows it through the day. Preserved exact planning/wakeup times, hats/crowns, four ice cream flavors, screw scare, full menu and cake. Clarified humans-only shopping already implied by ice-cream wishes. Historical raisin-containing food remains source depiction, not care guidance; illustration avoids feeding. Image: dignified Neet in cone and delighted Buddy in crooked pompom hat.",
+    "editorial_sha256": "3c1fae66fcae39b705dd21b3a81dd17f63b3ff3b08465e400341ea87f618d571",
+    "revision_sha256": "bed1e2380048147f0e226e91e09820e790fdbc337bd4b9389c21225a154ac71c"
+  },
+  "references": [
+    {
+      "id": "N19",
+      "path": "Characters/Neet/Photos/neet-19.jpeg",
+      "sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+      "same_exposure_group": null,
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "styling",
+          "standing_pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Primary standing body proportions, paws, hocks and stub silhouette; head is not a pure profile.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Head rotated; far limbs overlap; uncalibrated camera offers no measurements; room light subdued"
+        ],
+        "inspection_sha256": "b2c6db0a5af6a885d993cbd986cc2759b9461e693fbcabd8aa96bce1eb5ea901",
+        "source_sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N19.json"
+      },
+      "role": "Neet side body, fine legs, full trunk, near-flush nub; head turned/far legs overlap."
+    },
+    {
+      "id": "N24",
+      "path": "Characters/Neet/Photos/neet-24.jpeg",
+      "sha256": "a80dbd57f4daf8f53232a4c5e604f7e92411ed2ca15fccb8d50a5f053b0eacd6",
+      "same_exposure_group": null,
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Primary upright sitting, narrow chest, head-tilt and color-map reference.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Tail hidden; scattered stuffing does not prove this dog caused destruction; seated proportions only"
+        ],
+        "inspection_sha256": "2dc370cfcb6bf22dde3ee7f0f7b169e11501f6b97e69b65ee733fe43737a4a8b",
+        "source_sha256": "a80dbd57f4daf8f53232a4c5e604f7e92411ed2ca15fccb8d50a5f053b0eacd6",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N24.json"
+      },
+      "role": "Neet seated visible geometry only, tail hidden; no standing ratios."
+    },
+    {
+      "id": "B29",
+      "path": "Characters/Buddy/Photos/buddy-29.jpeg",
+      "sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+      "same_exposure_group": null,
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Best available lateral body-length, tail-length/carriage and walking-pose reference; weak fine landmarks because blurred and not neutral standing.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Motion blur and lifted legs; cannot establish neutral back slope, exact leg ratios or gait timing from still"
+        ],
+        "inspection_sha256": "c671664ca5e4e2e07bfd3049ea641c3a1645742fb8290494e67a17f7ed213ea9",
+        "source_sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B29.json"
+      },
+      "role": "Buddy lateral torso and tail, blurred stride; no neutral ratios/timing."
+    },
+    {
+      "id": "B04",
+      "path": "Characters/Buddy/Photos/buddy-4.jpg",
+      "sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+      "same_exposure_group": "B04-B24",
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "styling",
+          "standing_pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Excellent front-leg clearance, chest pattern and groomed face; useful standing stance. Same photographic exposure as B24 for evidence counting.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Tail partly cropped at left; grass hides toes; perspective foreshortens torso; B24 same exposure in separate encoding"
+        ],
+        "inspection_sha256": "dd7da906a0e61eb4cdbd84eac3c97fea3318813d5a874c4e6cd4d8d3ba890797",
+        "source_sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B04.json"
+      },
+      "role": "Buddy tidy photographed face/ears, chest and substantial legs; grass hides toes, torso foreshortened."
+    }
+  ],
+  "artwork": [
+    {
+      "path": "Productions/E047-the-kings-birthday/dawn-art-v002.png",
+      "sha256": "6ad1ae5a64a5fce848cd82957416737f3dfc1919261392e4da68f2ec60a554c3",
+      "dimensions": [
+        1774,
+        887
+      ],
+      "format": "PNG",
+      "generation_record": "Productions/E047-the-kings-birthday/artwork-generation-v002.json",
+      "review_status": "pending",
+      "reviewed_version": "Productions/E047-the-kings-birthday/dawn-art-v002.png",
+      "review_record": "Productions/E047-the-kings-birthday/visual-review-v002.json"
+    },
+    {
+      "path": "Productions/E047-the-kings-birthday/hats-art-v003.png",
+      "sha256": "c337c286e487e57203a1771d1946ecaf29cb9134bdef34a7365b4080e520c49d",
+      "dimensions": [
+        1448,
+        1086
+      ],
+      "format": "PNG",
+      "generation_record": "Productions/E047-the-kings-birthday/artwork-generation-v002.json",
+      "review_status": "pending",
+      "reviewed_version": "Productions/E047-the-kings-birthday/hats-art-v003.png",
+      "review_record": "Productions/E047-the-kings-birthday/visual-review-v002.json"
+    },
+    {
+      "path": "Productions/E047-the-kings-birthday/sock-art-v002.png",
+      "sha256": "e361ab7c704451beda4f6f382e73fcd9b42ee5110f11b4b01348bf0ac9fbe179",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "format": "PNG",
+      "generation_record": "Productions/E047-the-kings-birthday/artwork-generation-v002.json",
+      "review_status": "pending",
+      "reviewed_version": "Productions/E047-the-kings-birthday/sock-art-v002.png",
+      "review_record": "Productions/E047-the-kings-birthday/visual-review-v002.json"
+    }
+  ],
+  "quality": {
+    "story": {
+      "status": "reviewed",
+      "evidence": [
+        "Stories/S047-the-kings-birthday.md",
+        "/Users/sagar/Documents/ChatGPT/NBC_Archives/NBC-before-refinement-2026-10-03_200659.tar.gz"
+      ],
+      "observations": [
+        "Birthday love defeats planned dignity. Neet wants a proper greeting; Buddy chooses a sock gift and follows it through the day. Preserved exact planning/wakeup times, hats/crowns, four ice cream flavors, screw scare, full menu and cake. Clarified humans-only shopping already implied by ice-cream wishes. Historical raisin-containing food remains source depiction, not care guidance; illustration avoids feeding. Image: dignified Neet in cone and delighted Buddy in crooked pompom hat.",
+        "Complete revised primary and every in-file alternative reread by editor_late; compared with complete source from verified snapshot. Distinct incidents, emotional destination, historical household/voice and known contradictions checked; local transition repetitions repaired on the second pass. This is editorial review, not owner approval or illustration clearance."
+      ],
+      "expanded_review": {
+        "status": "reviewed",
+        "evidence": [
+          "Productions/E047-the-kings-birthday/comedy-pass-v002.json",
+          "Productions/E047-the-kings-birthday/reading-review-v002.json"
+        ]
+      }
+    },
+    "character_model": {
+      "status": "reviewed_provisional",
+      "evidence": [
+        "Productions/Library-Refinement/model-independent-review.json"
+      ],
+      "observations": [
+        "Independent reviewer opened all three current sheets at native resolution, originals and native detail crops; no material findings. Qualitative scale and grooming states remain provisional."
+      ]
+    },
+    "drawn_storyboard": {
+      "status": "reviewed",
+      "evidence": [
+        "Productions/E047-the-kings-birthday/rough-v001.png",
+        "Productions/E047-the-kings-birthday/visual-review.json"
+      ],
+      "observations": [
+        "Both figures fully drawn; Neet connected supported sit, Buddy one forepaw raised with three true contacts. Hats separate from ears and cone sits between Neet ears."
+      ]
+    },
+    "panel_comparison": {
+      "status": "independently_reviewed",
+      "evidence": [
+        "Productions/E047-the-kings-birthday/visual-review-v002.json"
+      ],
+      "observations": [
+        "Every current finished image opened at full resolution against original photos; concrete findings recorded per image."
+      ]
+    },
+    "complete_reading": {
+      "status": "reviewed",
+      "story_sha256": "bed1e2380048147f0e226e91e09820e790fdbc337bd4b9389c21225a154ac71c",
+      "evidence": [
+        "Productions/E047-the-kings-birthday/reading-review-v002.json"
+      ],
+      "inspection": {
+        "url": "http://127.0.0.1:56824/Stories/S047-the-kings-birthday.md",
+        "method": "Opened local rendered reader in Codex in-app browser and visually inspected opening plus 18 successive overlapping scroll screenshots to the document bottom; read the full accessibility text as cross-check. Normal unchanged viewport and zoom, 1280 by 720 screenshot pixels; prose about 760 pixels wide and images about 960 pixels wide.",
+        "complete_primary_read": true,
+        "all_images_seen": true,
+        "ending_and_provenance_read": true,
+        "coverage": [
+          "Opening 11:47 plan",
+          "Early Morning Ambush",
+          "Arrival of the Hats",
+          "The Day Unfolds",
+          "Royal Preparations",
+          "The Royal Feast",
+          "The Feast",
+          "The Royal Benediction",
+          "Provenance and editorial notes",
+          "Refinement record"
+        ],
+        "layout": "Readable serif paragraphs, differentiated headings and generous image spacing. No broken images, clipping of story text, lost dialogue attribution, or prose interrupted within a speaker\u2019s statement. Large hat image exceeds one viewport but remains coherent under normal scrolling."
+      },
+      "observations": null
+    }
+  },
+  "unresolved_findings": [],
+  "current_files": {
+    "story": "Stories/S047-the-kings-birthday.md",
+    "story_sha256": "bed1e2380048147f0e226e91e09820e790fdbc337bd4b9389c21225a154ac71c",
+    "artwork": [
+      "Productions/E047-the-kings-birthday/dawn-art-v002.png",
+      "Productions/E047-the-kings-birthday/hats-art-v003.png",
+      "Productions/E047-the-kings-birthday/sock-art-v002.png"
+    ],
+    "comedy_pass": "Productions/E047-the-kings-birthday/comedy-pass-v002.json",
+    "generation": "Productions/E047-the-kings-birthday/artwork-generation-v002.json"
+  },
+  "approval": {
+    "state": "unapproved",
+    "by": null,
+    "date": null,
+    "evidence": null
+  },
+  "publication": {
+    "state": "not_published",
+    "destination": null
+  },
+  "recovery": {
+    "archive": "/Users/sagar/Documents/ChatGPT/NBC_Archives/NBC-before-refinement-2026-10-03_200659.tar.gz",
+    "member": "NBC/Stories/S047-the-kings-birthday.md"
+  },
+  "editorial_review": {
+    "reviewer": "editor_late",
+    "source_read_complete": true,
+    "alternatives_read_complete": true,
+    "all_collection_reading_gate": "cleared by root after S001-S070 reading",
+    "revision_note": "Birthday love defeats planned dignity. Neet wants a proper greeting; Buddy chooses a sock gift and follows it through the day. Preserved exact planning/wakeup times, hats/crowns, four ice cream flavors, screw scare, full menu and cake. Clarified humans-only shopping already implied by ice-cream wishes. Historical raisin-containing food remains source depiction, not care guidance; illustration avoids feeding. Image: dignified Neet in cone and delighted Buddy in crooked pompom hat.",
+    "comparison_status": "complete",
+    "changes": 7,
+    "complete_revised_reading": true,
+    "original_provenance_unchanged": true,
+    "alternative_sections_preserved": 0,
+    "line_comparison": {
+      "unchanged": 173,
+      "removed_or_replaced": 9,
+      "new_or_replaced": 9
+    },
+    "second_pass_seam_repairs": 2
+  },
+  "expanded_pass": {
+    "status": "complete",
+    "comedy_pass": "comedy-pass-v002.json",
+    "independent_visual_review": "pending",
+    "fresh_rendered_reading": "pending",
+    "selected_images": [
+      "Productions/E047-the-kings-birthday/dawn-art-v002.png",
+      "Productions/E047-the-kings-birthday/hats-art-v003.png",
+      "Productions/E047-the-kings-birthday/sock-art-v002.png"
+    ],
+    "story_sha256": "bed1e2380048147f0e226e91e09820e790fdbc337bd4b9389c21225a154ac71c",
+    "integration_note": "Independent visual and fresh full rendered reading accepted current story/images. Historical author-stage pending labels retained as stage history; this episode records current state."
+  },
+  "delivery": {
+    "version": "delivery-v001",
+    "collection_record": "Productions/Library-Refinement/progress.json",
+    "reviewed_story_sha256": "bed1e2380048147f0e226e91e09820e790fdbc337bd4b9389c21225a154ac71c",
+    "source_and_export_manifest": "Productions/Library-Refinement/delivery-v001/manifest.json"
+  }
+}

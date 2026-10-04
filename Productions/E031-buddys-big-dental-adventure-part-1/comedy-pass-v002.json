@@ -1,0 +1,141 @@
+{
+  "story_id": "S031",
+  "version": 2,
+  "status": "writer_pass_complete_independent_review_pending",
+  "sources": [
+    {
+      "path": "../NBC_Archives/refinement-work/E031-expanded/S031-buddys-big-dental-adventure-part-1.md",
+      "sha256": "94c1389ce138b0abe82b3b9103940bf694e37a5d96171cd9d0e6735cd93ed60d",
+      "read": "complete prior working text; no meaningful alternatives present"
+    },
+    {
+      "archive": "../NBC_Archives/NBC-before-reorganization-2026-10-03_182825.tar.gz",
+      "member": "NBC/02_Story_Library/Legacy_Chapters/32-buddy-s-big-dental-adventure-part-1.md",
+      "sha256": "3e9fb3651a60c3c7abf69107242470bac9ef034b73e765452d1d0655a9e16940",
+      "read": "complete original"
+    },
+    {
+      "path": "Stories/S032-buddys-big-dental-adventure-part-2.md",
+      "sha256": "749e4cce4a1fa65d6ebb85fa54509a5ad3984e6931764b81938cb36f2dcbbcbd",
+      "read": "complete connected continuation; no premature tooth reveal"
+    }
+  ],
+  "wants": {
+    "Buddy": "Get relief while keeping Heather close; avoid frightening patient stories; protect his own possessions.",
+    "Neet": "Meet fascinating patients and investigate the sock celebrity; opportunistically claim toys."
+  },
+  "comic_situation": "A worried patient tries to keep a routine visit quiet while his escort treats it as a social event. Anesthesia finally makes the sensible dog ridiculous.",
+  "preserved": [
+    "Neet intrusive gross-mouth inspection",
+    "Gappy cat",
+    "accidental sock-swallowing Dane and legend praise",
+    "Heather separation and inherited toys",
+    "reassuring hand preserved from first refinement",
+    "talking Labrador and terrier; gravy boat; cool dog; gold-tooth request"
+  ],
+  "changes": [
+    "Added Buddy stillness strategy then name-call reversal.",
+    "Cat reassurance backfires into a possible nickname.",
+    "Buddy protects Dane privacy, closing the invasive questioning with private sock.",
+    "Buddy interrupts his own panic to retain ownership of blue toy; Neet lowers paw.",
+    "Dream closing carries longing for Heather through a small practical gravy-boat pickup concern."
+  ],
+  "ending": "Preserves anesthesia cliffhanger and gold-tooth bridge to Part 2, with attachment to Heather beneath the absurdity.",
+  "variant_decisions": {
+    "meaningful_alternatives": [],
+    "decision": "No alternative in working or primary source; Part 2 is a separate continuation, not merged or illustrated here."
+  },
+  "illustration_selection": {
+    "count": 3,
+    "reason": "Short episode has three distinct environments/states: waiting-room ensemble; doorway toy-claim reversal; sedated dream. A fourth toothache portrait would repeat anxiety instead of adding a useful turn.",
+    "retained_composition": "Waiting-room successful composition retained with targeted coat-finish correction.",
+    "additions": [
+      "Buddy looks back at Neet after paw lowers, before walking onward.",
+      "Paw-wave in dream before gold-tooth proposal."
+    ]
+  },
+  "complete_comparison_reread": {
+    "performed": true,
+    "method": "Read complete original, prior working version, connected S032, and revised story; compare incident sequence and final paragraphs.",
+    "findings": [
+      "Every original incident preserved; prior humane vet reassurance retained.",
+      "No surgery outcome or gold tooth shown prematurely.",
+      "Historical Heather-centered household retained without inserting Sagar.",
+      "Buddy makes decisions rather than merely watching Neet.",
+      "Approximately 100 words added for three reversals and emotional bridge; no forced long expansion."
+    ],
+    "image_anchors_verified": [
+      "Neet gasped. \"A WHOLE SOCK?! You’re a legend!\"",
+      "Neet lowered his waving paw.",
+      "Buddy waved his paw lazily. \"Wait… am I still a dog?\""
+    ]
+  },
+  "approval": "unapproved",
+  "publication": "not_published",
+  "final_story_sha256": "cb13da014df24c8bac833c58f77d2b664fdff2257543f53be66a60eaf5af4cf5",
+  "reading_corrections": [
+    {
+      "finding": "S031-RR-001",
+      "status": "writer_correction_complete_independent_reread_pending",
+      "agent": "fresh story-specific correction031",
+      "date": "2026-10-04",
+      "source_pins": [
+        {
+          "path": "Stories/S031-buddys-big-dental-adventure-part-1.md",
+          "sha256": "782461f83cc5c7079770c869954bcbc2e9c27cec1f09021fbc429c3a280df09f",
+          "bytes": 5633
+        },
+        {
+          "path": "Productions/E031-buddys-big-dental-adventure-part-1/comedy-pass-v002.json",
+          "sha256": "5347ac55af419ff5bca619d1d761627b4fc5a605fedd94e1a26840986e70f24a",
+          "bytes": 3977
+        },
+        {
+          "path": "Productions/E031-buddys-big-dental-adventure-part-1/episode.json",
+          "sha256": "13d1467cf3e9673e4b90daf446dc8a041dc5e35fe27f897b99d18b388ba302f0",
+          "bytes": 25719
+        },
+        {
+          "path": "Stories/S032-buddys-big-dental-adventure-part-2.md",
+          "sha256": "0c7ed73dc206ba595680765656a40ffc7e714e5ede7a0560e514326ade47287c",
+          "read": "complete connected continuation"
+        },
+        {
+          "archive": "../NBC_Archives/NBC-before-reorganization-2026-10-03_182825.tar.gz",
+          "member": "NBC/02_Story_Library/Legacy_Chapters/32-buddy-s-big-dental-adventure-part-1.md",
+          "sha256": "3e9fb3651a60c3c7abf69107242470bac9ef034b73e765452d1d0655a9e16940",
+          "read": "complete original"
+        },
+        {
+          "path": "../NBC_Archives/refinement-work/E031-expanded/S031-buddys-big-dental-adventure-part-1.md",
+          "sha256": "94c1389ce138b0abe82b3b9103940bf694e37a5d96171cd9d0e6735cd93ed60d",
+          "read": "complete earlier working version"
+        },
+        {
+          "path": "Productions/E031-buddys-big-dental-adventure-part-1/reading-review-v002.json",
+          "sha256": "304c5224f56e5821eb237f340af7e229a438f4d2f34f3dc186b2d76fba3e2aed"
+        }
+      ],
+      "recovery_snapshot": "/Users/sagar/Documents/ChatGPT/NBC_Archives/S031-before-reading-correction-20261004T090942Z.tar.gz",
+      "change": {
+        "before": "Neet lowered his waving paw.",
+        "after": "Neet lowered his waving paw and sat down.",
+        "alt_text": "Buddy looks back to protect ownership of his blue toy while Neet sits with his paw lowered."
+      },
+      "placement_decision": "Keep image after blue-toy claim, where Buddy looks back and Neet lowers his paw. Moving before the original standing/waving incident would lose this specific reaction and still lack an established seated state. Add the small settling action to the existing reaction, preserving the original standing wave.",
+      "comparison_reread": {
+        "performed": true,
+        "scope": "Complete revised primary against pre-correction primary, earlier working primary, complete archived original and connected S032; no meaningful alternative present.",
+        "findings": [
+          "Only three narrative words added: and sat down.",
+          "Original standing wave, inherited-toys line and successful blue-toy reversal remain intact.",
+          "All waiting-room and dream incidents, Buddy agency, care, ending and historical household are unchanged.",
+          "Image stays before Buddy reluctant onward step; no toy object or surgery result added."
+        ]
+      },
+      "final_story_sha256": "cb13da014df24c8bac833c58f77d2b664fdff2257543f53be66a60eaf5af4cf5",
+      "approval": "unapproved",
+      "publication": "not_published"
+    }
+  ]
+}

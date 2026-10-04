@@ -1,0 +1,76 @@
+{
+  "story_id": "S064",
+  "episode": "E064-the-great-paneer-balcony-scandal",
+  "reviewer": "reader064 fresh independent complete illustrated reader",
+  "date": "2026-10-04",
+  "status": "accepted",
+  "story": {
+    "path": "Stories/S064-the-great-paneer-balcony-scandal.md",
+    "sha256": "198413a49287f88206290c5e8ad4e5fec277e7e62a56ca6e087c320fdcb191c8"
+  },
+  "images": [
+    {
+      "path": "Productions/E064-the-great-paneer-balcony-scandal/balcony-v003.png",
+      "sha256": "1f56bd1fcb0fcf92f77259b179bf1cda0f93967a42abbc73c0cdd29191a00a1a",
+      "status": "accepted"
+    },
+    {
+      "path": "Productions/E064-the-great-paneer-balcony-scandal/training-v003.png",
+      "sha256": "0967d78d35b4bbd1aded49e74719a55b0025e613e354f83b5301ed4bb60f9429",
+      "status": "accepted"
+    },
+    {
+      "path": "Productions/E064-the-great-paneer-balcony-scandal/payoff-v003.png",
+      "sha256": "58be2db01ea050c1efac20f685bd08ba3c64cbb5a84eef3e94c976a2c9c4b0ec",
+      "status": "accepted"
+    }
+  ],
+  "inspection": {
+    "method": "Native cua_repl Codex in-app browser, direct local rendered reader; sequential overlapping viewport screenshots and AX text from heading through final footer. No source-only or thumbnail substitute.",
+    "url": "http://127.0.0.1:56824/Stories/S064-the-great-paneer-balcony-scandal.md",
+    "viewport": [
+      1280,
+      720
+    ],
+    "reading_size": "Unmodified normal browser viewport; approximately 760px prose column and 960px illustrations.",
+    "coverage": "Entire primary, all three embedded images, closing paragraph, provenance and refinement footer. No separate meaningful alternative is present.",
+    "complete_primary_read": true,
+    "complete_meaningful_alternatives_read": true,
+    "all_images_inspected_in_sequence": true
+  },
+  "findings": [
+    {
+      "category": "humor_and_voices",
+      "finding": "The accepted dinner invitation nobody issued, Buddy searching beneath the cabinet he hits, synchronized six-inch moves at the glass, and the thumb-opening strategy give concrete physical jokes. Neet treats exclusion as a personal scandal; Buddy pursues food pragmatically. Sagar enjoys theatrical naming and instruction while Heather punctures his claims and records the dogs dismantling him. These remain distinct voices."
+    },
+    {
+      "category": "buddy_agency",
+      "finding": "Buddy tries visible good manners, supports a second complaint after cheese rewards the first, probes the fist opening, tries the elbow, learns by watching the reward, and over-applies the bump. His final unrewarded paw touch turns his own learning into affection."
+    },
+    {
+      "category": "causality_timing_payoff",
+      "finding": "Small balcony leads to exclusion; cheese inadvertently reinforces complaint; surviving naan motivates training; clearer demonstration yields learning. Short separate paragraphs for the open eye, competing checks, and extra bump give the jokes room. Final empty-hand contact is earned and ends after the human speech with action."
+    },
+    {
+      "category": "image_state_and_complementarity",
+      "finding": "Balcony image follows the good-manners obstruction before the rolling protest or cheese. Training image follows the double-paw/elbow mistake and precedes the successful single bump; grounded Buddy reads as a moment within repeated jumps. Final picture follows empty-hand contact, with no naan visible, and leaves sleeping Neet outside its crop. Wide separation, close physical confusion, and low quiet contact offer distinct contributions without preempting reveals."
+    },
+    {
+      "category": "rendered_readability",
+      "finding": "All pictures load cleanly; text remains readable, dialogue attribution uninterrupted, and the last picture lets the emotional action linger before clearly separated editorial notes."
+    },
+    {
+      "category": "continuity_observation",
+      "severity": "nonblocking",
+      "finding": "Blue balcony shirt becomes white indoors without prose explanation. Independently noticeable on comparison, but the scene break and later indoor action keep actor, sequence and cause/effect unambiguous; no clothing-dependent joke or event relies on it. This is a minor visual continuity inconsistency, not a material narrative failure."
+    }
+  ],
+  "closed_findings": {
+    "visual_review": "visual-review-v002.json reports accepted for all three matching image hashes and no unresolved material findings.",
+    "reader_material_findings": [],
+    "resolution": "No further prose or image revision required for complete reading acceptance."
+  },
+  "unresolved_findings": [],
+  "approval": "unapproved",
+  "publication": "not_published"
+}

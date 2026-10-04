@@ -1,0 +1,11 @@
+{
+  "prompt": "Use case: precise-object-edit identity-preserve. IMAGE1 EDIT TARGET: preserve this exact indoor scene, composition, anatomy, poses, facial expressions, blanket pattern and folds, heater/window/couch/rug. Remove the engraved curly scribble texture from both dogs. IMAGE2 BODY FINISH ONLY reference, no anatomy/scene transfer: broad smooth painted color planes like Neet and Buddy torsos in image2. Neet entire visible head, neck, forelegs smooth very short coat; preserve markings. Buddy torso, neck, upper/lower legs, tail smooth close short coat and continuous silhouette; no individual etched/curling body hairs, no fuzzy shag or feathered body fringe. Keep Buddy's real regional moustache/beard, eyebrows, hanging ear furnishing and tiny toe furnishing. Images3-5 ORIGINAL photographic authority for visible regions; no pose or scale changes. Neet connected head/two forepaws emerge from blanket-covered low body, Buddy rests with long continuous torso, distinct extended forepaws and folded hindfeet. Keep warm indoor light/cool snow outside. No new objects, no text, no background restyling. N35 excludes anatomy, B08 styling-only unused, B25 unavailable, B30 supplemental rest unused; original photos do not calibrate measurements, rest images occlude rear anatomy. Exact identity and existing composition retained, BODY COAT FINISH CORRECTION ONLY.",
+  "referenced_image_paths": [
+    "/Users/sagar/Documents/ChatGPT/NBC/Productions/E029-winter-woes-and-the-battle-of-the-backyard/illustration-v002.png",
+    "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+    "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-25.jpeg",
+    "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-19.jpg",
+    "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg"
+  ],
+  "transparent_background": false
+}

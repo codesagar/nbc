@@ -1,0 +1,114 @@
+{
+  "episode": "E065",
+  "story_id": "S065",
+  "review_version": "v002",
+  "reviewer": "reader065 fresh complete-reading reviewer; did not write story or generate artwork",
+  "reviewed_at": "2026-10-04T16:30:04.342332+00:00",
+  "status": "accepted",
+  "story": {
+    "path": "Stories/S065-the-winged-menace.md",
+    "sha256": "4cb369e25e8bd944229636e40699fe7d36d90ce389546c54a4fad5efc3b77604"
+  },
+  "rendered_inspection": {
+    "url": "http://127.0.0.1:56824/Stories/S065-the-winged-menace.md",
+    "method": "Actual Codex in-app browser full reading using 13 successive overlapping viewport screenshots from title through all prose, three illustrations and complete provenance/refinement notes. Accessibility text also read. DOM confirmed image sources, completed loads, sizes and paragraph font. Initial /story query URL returned 404; followed directory listing to rendered .md route.",
+    "viewport": [
+      1280,
+      720
+    ],
+    "body_font_size": "20px",
+    "screenshots_inspected": 13,
+    "all_images_loaded": true,
+    "complete_primary_read": true,
+    "complete_meaningful_alternatives_read": true
+  },
+  "meaningful_alternatives": {
+    "count": 0,
+    "finding": "Complete current story and recovered original contain no meaningful narrative alternative; comedy record agrees."
+  },
+  "creative_findings": {
+    "humor": "The single-fly reveal lands after three short paragraphs. Buddy So do I. You keep shouting punctures Neet fear through specific behavior. Buddy moving around one table leg only to be followed turns him into a comic participant. Heather You are chasing him now and Sagar second backsplash check extend distinct human reactions.",
+    "voices": "Neet dramatic self-protection, Buddy dry comfort-seeking generosity, Heather amused situational observations and Sagar determined practical pursuit are distinct. Buddy offers shelter twice, makes room and chooses relocation; he is not merely a commentator.",
+    "cause_and_effect": "Fly disrupts nap, Neet retreats, human chase displaces Buddy, fly lands and is stopped, then dogs settle together. The middle arrival-before-look-back sequence is coherent in actual rendering.",
+    "earned_payoff": "Bedroom/dining-room debrief lets both dogs recover dignity together. The final suspicion of the grounded magazine recalls the pursuit without reopening the threat, and shared floor rest gives warm closure.",
+    "source_comparison": "Read recovered original in full. Ottoman prince, roti reading, rent fly, couch/meerkat/hallway retreat, GPS pursuit, kitchen swat, applause, ear reassurance and Shakespeare remain. Active Buddy shelter/relocation and shared claims improve warmth over the original dismissive reaction. No source incidents materially lost.",
+    "reading_layout": "Readable 20px serif, separate dialogue paragraphs and full-width images. Each picture follows a completed action paragraph; no split attribution or spoiled later state. Three images are complementary alarm, interrupted comfort and shared relief."
+  },
+  "images": [
+    {
+      "path": "Productions/E065-the-winged-menace/armrest-v005.png",
+      "sha256": "34ba05ac4a3f040f90147d156548549d1efae5de7457a6dd331e465f8762f89b",
+      "status": "accepted",
+      "anchor": "After Neet stands on hindlegs behind the armrest; before fly approaches Sagar.",
+      "reading_observation": "Tall alarm posture contrasts with Buddy chin-down under the table. Small fly against blank wall makes disproportionate scrutiny readable. Both dogs remain in the room, before the bedroom flight; ivory sofa, green ottoman and dining furniture establish consistent surroundings.",
+      "rendered_dimensions": [
+        960,
+        720
+      ],
+      "natural_dimensions": [
+        1448,
+        1086
+      ]
+    },
+    {
+      "path": "Productions/E065-the-winged-menace/nap-v006.png",
+      "sha256": "1b7cb3eb33c07cabc4fd841db949dadcb52c1d829ee126dfa463ba404f41a0f0",
+      "status": "accepted",
+      "anchor": "After Sagar came around that side.; before Buddy looked at the empty place he had just left.",
+      "reading_observation": "Buddy faces upward toward Sagar and the still-held rolled magazine, exactly the newly interrupted rest state. Neet is absent during bedroom retreat. The following look back is not incorrectly illustrated early; the picture provides a comic pause between the arrival and Buddy reconsidering his move. Fly remains airborne.",
+      "rendered_dimensions": [
+        960,
+        640
+      ],
+      "natural_dimensions": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "path": "Productions/E065-the-winged-menace/payoff-v005.png",
+      "sha256": "b02755a0e17a875aa9f2bbab7366757c063cf32d2ccbbe5e7e4192375463535e",
+      "status": "accepted",
+      "anchor": "After Buddy settles beside Neet and magazine is put down; following the last narrative sentence.",
+      "reading_observation": "Neet lies on his side with open watchful eye toward the floor magazine; Buddy is settled beside him. Fly is absent. A wide calm pair replaces upright alarm and solitary interruption, closing the magazine callback after the shared bedroom/dining-room claims.",
+      "rendered_dimensions": [
+        960,
+        480
+      ],
+      "natural_dimensions": [
+        1774,
+        887
+      ]
+    }
+  ],
+  "visual_findings_closure": {
+    "visual_review": {
+      "path": "Productions/E065-the-winged-menace/visual-review-v002.json",
+      "sha256": "1eb6f76a599246b4c92883266c116aca474d1500bc5ad84ea76cf5814d70edc5"
+    },
+    "status": "accepted",
+    "open_findings": [],
+    "closed_ids": [
+      "S065-V2-NAP-COAT",
+      "S065-V2-PAYOFF-COAT"
+    ],
+    "verification": "Actual embedded final images match independent accepted hashes. Buddy middle torso and both dogs final short coats read as smooth broad fields at intended size. Native-detail anatomy and coat closure is documented by independent visual reviewer; this review confirms replacement embedding and reading consistency."
+  },
+  "records_read": [
+    {
+      "path": "Productions/E065-the-winged-menace/comedy-pass-v002.json",
+      "sha256": "8747714a18b81046f50f1326c26a83630d7079fb86749e6a9bf90afbcbe0cb14"
+    },
+    {
+      "path": "Productions/E065-the-winged-menace/review-repair-v003.json",
+      "sha256": "0e2437e8d0f2c37f957084d694e10843c0dd9efad96ec362011631f60c3d3e05"
+    },
+    {
+      "path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S065-original-expanded.txt",
+      "sha256": "4520615090f4daf2e19d263016e62956f55afb5f0db6fb31672e514a9c132741"
+    }
+  ],
+  "open_findings": [],
+  "approval": "unapproved",
+  "publication": "not_published"
+}

@@ -1,0 +1,628 @@
+{
+  "id": "E035-the-great-fire-noodles-chiku-shake-meltdown",
+  "status": "reviewed_unapproved",
+  "stage": "complete_reading",
+  "next_action": "Included in expanded delivery-v001; owner adoption and publication remain separate, ungranted decisions.",
+  "source": {
+    "path": "Stories/S035-the-great-fire-noodles-chiku-shake-meltdown.md",
+    "sha256": "29419b3fe79681fad61c0212e5f8402cdbc2fb90bff621d1846422ed1b5858eb",
+    "passages": [
+      "Recipe video",
+      "pepper catch",
+      "wrapper",
+      "three spoonfuls",
+      "plain dog noodles",
+      "spicy human dinner",
+      "curtain sneeze",
+      "Neet nibble",
+      "recovery walk",
+      "shack begging",
+      "home blender",
+      "four cups/bowls",
+      "messy drinking",
+      "deaf in one eye",
+      "chiku peace"
+    ],
+    "interpretation": "Retains historical household, source setting and narrative events. Existing breed, weight and tail claims are draft voice, not photo authority; chronology and canon remain unresolved. Retained every major incident and ending lines while thinning simile pileup; Buddy returns to safe plain noodles then guards purchase; added pulp purchase to bridge shack and home blender; clarified spiced nibble from plate; sleeping Tofu line intentionally retained despite paneer mismatch",
+    "recovery_archive": "/Users/sagar/Documents/ChatGPT/NBC_Archives/NBC-before-refinement-2026-10-03_200659.tar.gz",
+    "recovery_member": "NBC/Stories/S035-the-great-fire-noodles-chiku-shake-meltdown.md",
+    "revision_sha256": "3efbf14799024db4a91261f2813535bae6642943813eac4a8607b0d46060767f",
+    "editorial_sha256": "ac297d82036d403e0cd33e3fdcd23968e3e1b2426a6f9f5583d671e9c2ce31f1"
+  },
+  "references": [
+    {
+      "id": "N19",
+      "character": "Neet",
+      "path": "Characters/Neet/Photos/neet-19.jpeg",
+      "filename": "neet-19.jpeg",
+      "sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+      "archived_source_path": "03_Asset_Library/Characters/Neet/neet-19.jpeg",
+      "same_exposure_group": null,
+      "use": "Primary body-level side standing and tail nub",
+      "approval_status": "unknown",
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "styling",
+          "standing_pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Primary standing body proportions, paws, hocks and stub silhouette; head is not a pure profile.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Head rotated; far limbs overlap; uncalibrated camera offers no measurements; room light subdued"
+        ],
+        "inspection_sha256": "b2c6db0a5af6a885d993cbd986cc2759b9461e693fbcabd8aa96bce1eb5ea901",
+        "source_sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N19.json"
+      },
+      "source_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose",
+          "resting_pose",
+          "styling"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Primary standing body proportions, paws, hocks and stub silhouette; head is not a pure profile.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state."
+        ],
+        "evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md"
+      },
+      "source_observation": {
+        "date": "2026-10-03",
+        "pose_view_camera": "Standing left-facing side with head toward camera; near body-level",
+        "visible_features": "Tiny short tan rump nub; near-square qualitative standing impression; long slender legs; full ribcage/thigh; moderate ventral rise; smooth short coat",
+        "limitations": "Head rotated; far limbs overlap; uncalibrated camera offers no measurements; room light subdued",
+        "recommended_uses": [
+          "standing_pose",
+          "visible_anatomy",
+          "styling"
+        ],
+        "full_restrictions": [
+          "Primary standing body proportions, paws, hocks and stub silhouette; head is not a pure profile.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Head rotated; far limbs overlap; uncalibrated camera offers no measurements; room light subdued"
+        ]
+      },
+      "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N19.json",
+      "inspection_sha256": "b2c6db0a5af6a885d993cbd986cc2759b9461e693fbcabd8aa96bce1eb5ea901"
+    },
+    {
+      "id": "N25",
+      "character": "Neet",
+      "path": "Characters/Neet/Photos/neet-25.jpeg",
+      "filename": "neet-25.jpeg",
+      "sha256": "67530c2ebc1baa412f76a825a7bd2369cebf72a101e7f45836fefa0fcae90ca4",
+      "archived_source_path": "03_Asset_Library/Characters/Neet/neet-25.jpeg",
+      "same_exposure_group": null,
+      "use": "Sternal rest with extended fine forelegs",
+      "approval_status": "unknown",
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose",
+          "resting_pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Excellent prone posture and forward paws; useful lateral ear spread.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Hindfeet and tail concealed; plush partly covers toes; cannot supply standing leg/trunk ratios"
+        ],
+        "inspection_sha256": "0e493b84294cbe31f8e7e484b1ce100d8bd7370e2de36f46b35f73b2eab5f99e",
+        "source_sha256": "67530c2ebc1baa412f76a825a7bd2369cebf72a101e7f45836fefa0fcae90ca4",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N25.json"
+      },
+      "source_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose",
+          "resting_pose",
+          "styling"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Excellent prone posture and forward paws; useful lateral ear spread.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state."
+        ],
+        "evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md"
+      },
+      "source_observation": {
+        "date": "2026-10-03",
+        "pose_view_camera": "Sternal recline on mat; front three-quarter at raised camera",
+        "visible_features": "Extended narrow forelegs; small paws; full torso; pale chest; ears diagonally outward",
+        "limitations": "Hindfeet and tail concealed; plush partly covers toes; cannot supply standing leg/trunk ratios",
+        "recommended_uses": [
+          "resting_pose",
+          "visible_anatomy",
+          "pose"
+        ],
+        "full_restrictions": [
+          "Excellent prone posture and forward paws; useful lateral ear spread.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Hindfeet and tail concealed; plush partly covers toes; cannot supply standing leg/trunk ratios"
+        ]
+      },
+      "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N25.json",
+      "inspection_sha256": "0e493b84294cbe31f8e7e484b1ce100d8bd7370e2de36f46b35f73b2eab5f99e"
+    },
+    {
+      "id": "N29",
+      "character": "Neet",
+      "path": "Characters/Neet/Photos/neet-29.jpeg",
+      "filename": "neet-29.jpeg",
+      "sha256": "dedcc7d8bcbc5da7e2441352200025606fc971644d0cbacd24e8465db8dcdc16",
+      "archived_source_path": "03_Asset_Library/Characters/Neet/neet-29.jpeg",
+      "same_exposure_group": null,
+      "use": "Frontal standing chest and leg clearance",
+      "approval_status": "unknown",
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "styling",
+          "standing_pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Primary frontal standing proportions, leg slenderness, head/body scale and chest markings.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Body depth foreshortened; tail hidden; light/shadow affect colors; exact ratios unknown"
+        ],
+        "inspection_sha256": "af30873f7f392d2503a668667ed619b8d183d685403e25977ce3fe23d9359802",
+        "source_sha256": "dedcc7d8bcbc5da7e2441352200025606fc971644d0cbacd24e8465db8dcdc16",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N29.json"
+      },
+      "source_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose",
+          "resting_pose",
+          "styling"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Primary frontal standing proportions, leg slenderness, head/body scale and chest markings.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state."
+        ],
+        "evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md"
+      },
+      "source_observation": {
+        "date": "2026-10-03",
+        "pose_view_camera": "Frontal standing outdoors; near chest-height with slight elevation",
+        "visible_features": "Long thin foreleg columns; narrow front; small compact dark-clawed paws; large ears; pale throat and central bib; tan torso",
+        "limitations": "Body depth foreshortened; tail hidden; light/shadow affect colors; exact ratios unknown",
+        "recommended_uses": [
+          "standing_pose",
+          "visible_anatomy",
+          "styling"
+        ],
+        "full_restrictions": [
+          "Primary frontal standing proportions, leg slenderness, head/body scale and chest markings.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Body depth foreshortened; tail hidden; light/shadow affect colors; exact ratios unknown"
+        ]
+      },
+      "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N29.json",
+      "inspection_sha256": "af30873f7f392d2503a668667ed619b8d183d685403e25977ce3fe23d9359802"
+    },
+    {
+      "id": "B15",
+      "character": "Buddy",
+      "path": "Characters/Buddy/Photos/buddy-15.jpg",
+      "filename": "buddy-15.jpg",
+      "sha256": "947aca933769ac618dd657fd6a8491a8c67ff6997c289d76f87ec0167b07a923",
+      "archived_source_path": "03_Asset_Library/Characters/Buddy/buddy-15.jpg",
+      "same_exposure_group": null,
+      "use": "Uncostumed upright sitting with close-groomed face",
+      "approval_status": "unknown",
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "styling"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Excellent uncostumed upright sit and folded rear-thigh shape; useful underlying facial taper.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Bed rim hides front feet; perspective compresses torso; no standing ratios"
+        ],
+        "inspection_sha256": "4aff983a24dc33e82ba89c8c2806a346fe68f7f659414aadd57e15d2ea8deaf5",
+        "source_sha256": "947aca933769ac618dd657fd6a8491a8c67ff6997c289d76f87ec0167b07a923",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B15.json"
+      },
+      "source_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose",
+          "resting_pose",
+          "styling"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Excellent uncostumed upright sit and folded rear-thigh shape; useful underlying facial taper.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state."
+        ],
+        "evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md"
+      },
+      "source_observation": {
+        "date": "2026-10-03",
+        "pose_view_camera": "Upright seated in bed; elevated three-quarter with upward gaze",
+        "visible_features": "Compact close-groomed ear flaps; pale brows/muzzle and chest sides; dark throat; full haunch; pale hindfoot; small dark tail at haunch",
+        "limitations": "Bed rim hides front feet; perspective compresses torso; no standing ratios",
+        "recommended_uses": [
+          "sitting_pose",
+          "visible_anatomy",
+          "styling"
+        ],
+        "full_restrictions": [
+          "Excellent uncostumed upright sit and folded rear-thigh shape; useful underlying facial taper.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Bed rim hides front feet; perspective compresses torso; no standing ratios"
+        ]
+      },
+      "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B15.json",
+      "inspection_sha256": "4aff983a24dc33e82ba89c8c2806a346fe68f7f659414aadd57e15d2ea8deaf5"
+    },
+    {
+      "id": "B29",
+      "character": "Buddy",
+      "path": "Characters/Buddy/Photos/buddy-29.jpeg",
+      "filename": "buddy-29.jpeg",
+      "sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+      "archived_source_path": "03_Asset_Library/Characters/Buddy/buddy-29.jpeg",
+      "same_exposure_group": null,
+      "use": "Side stride, torso length, leg clearance and tail curve",
+      "approval_status": "unknown",
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Best available lateral body-length, tail-length/carriage and walking-pose reference; weak fine landmarks because blurred and not neutral standing.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Motion blur and lifted legs; cannot establish neutral back slope, exact leg ratios or gait timing from still"
+        ],
+        "inspection_sha256": "c671664ca5e4e2e07bfd3049ea641c3a1645742fb8290494e67a17f7ed213ea9",
+        "source_sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B29.json"
+      },
+      "source_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose",
+          "resting_pose",
+          "styling"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Best available lateral body-length, tail-length/carriage and walking-pose reference; weak fine landmarks because blurred and not neutral standing.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state."
+        ],
+        "evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md"
+      },
+      "source_observation": {
+        "date": "2026-10-03",
+        "pose_view_camera": "Left-facing walking side view indoors; near body-level",
+        "visible_features": "Elongated dark trunk; projecting muzzle/pendant ears; pale lower legs; dark tapering tail held low with gentle curve; underside hair fringe",
+        "limitations": "Motion blur and lifted legs; cannot establish neutral back slope, exact leg ratios or gait timing from still",
+        "recommended_uses": [
+          "pose",
+          "visible_anatomy"
+        ],
+        "full_restrictions": [
+          "Best available lateral body-length, tail-length/carriage and walking-pose reference; weak fine landmarks because blurred and not neutral standing.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Motion blur and lifted legs; cannot establish neutral back slope, exact leg ratios or gait timing from still"
+        ]
+      },
+      "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B29.json",
+      "inspection_sha256": "c671664ca5e4e2e07bfd3049ea641c3a1645742fb8290494e67a17f7ed213ea9"
+    }
+  ],
+  "artwork": [
+    {
+      "path": "Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/p01-chili-art-v003.png",
+      "sha256": "8bdd25a942c4ded17863912236ed818a93137a849c4b9bf76964696c009fd36c",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "variant": "primary",
+      "placement_after": "He went back for the wrapper, then resumed his retreat.",
+      "generation_record": "Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/artwork-generation-v002.json",
+      "review_record": "Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/visual-review-v002.json",
+      "status": "proposed_pending_independent_visual_review",
+      "reviewed_version": "Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/p01-chili-art-v003.png"
+    },
+    {
+      "path": "Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/p02-dinner-art-v003.png",
+      "sha256": "db3483f74c27ba90088ea994e87e45a1fa38f7a6ed616d07c80b3e05d140c011",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "variant": "primary",
+      "placement_after": "Apparently the best dish in the house needed guarding.",
+      "generation_record": "Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/artwork-generation-v002.json",
+      "review_record": "Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/visual-review-v002.json",
+      "status": "proposed_pending_independent_visual_review",
+      "reviewed_version": "Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/p02-dinner-art-v003.png"
+    },
+    {
+      "path": "Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/p03-sidewalk-art-v003.png",
+      "sha256": "b28965d75a08b73f9fa173a4fcde79da75506816c7562300436031337a34099a",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "variant": "primary",
+      "placement_after": "Neet crawled\u2014 crawled!\u2014 two inches forward, chin dragging across the pavement like a soldier in a war film.",
+      "generation_record": "Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/artwork-generation-v002.json",
+      "review_record": "Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/visual-review-v002.json",
+      "status": "proposed_pending_independent_visual_review",
+      "reviewed_version": "Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/p03-sidewalk-art-v003.png"
+    },
+    {
+      "path": "Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/p04-pour-art-v004.png",
+      "sha256": "403b8f9c7281d509b6e3de1ff9d3ab83b9e65284cf7600b3e61fad0f5afc534d",
+      "dimensions": [
+        1448,
+        1086
+      ],
+      "format": "PNG",
+      "variant": "primary",
+      "placement_after": "Neet watched the stream of shake, following the jug from cup to cup. Buddy sat very still except for his tail. This was going into four cups. He had counted.",
+      "generation_record": "Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/artwork-generation-v002.json",
+      "review_record": "Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/visual-review-v002.json",
+      "status": "proposed_pending_independent_visual_review",
+      "reviewed_version": "Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/p04-pour-art-v004.png"
+    },
+    {
+      "path": "Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/p05-bowl-art-v004.png",
+      "sha256": "11d19b0c936836aeaf4ef9b68706b917b675733e78d19e78bda89a5c249ae67a",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "variant": "primary",
+      "placement_after": "He allowed Sagar to continue assisting.",
+      "generation_record": "Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/artwork-generation-v002.json",
+      "review_record": "Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/visual-review-v002.json",
+      "status": "proposed_pending_independent_visual_review",
+      "reviewed_version": "Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/p05-bowl-art-v004.png"
+    }
+  ],
+  "quality": {
+    "story": {
+      "status": "second_pass_complete_pending_independent_reading",
+      "evidence": [
+        "Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/comedy-pass-v002.json"
+      ],
+      "observations": [
+        "Complete six-part second pass; all historical incidents retained."
+      ],
+      "expanded_review": {
+        "status": "reviewed",
+        "evidence": [
+          "Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/comedy-pass-v002.json",
+          "Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/reading-review-v002.json"
+        ]
+      }
+    },
+    "character_model": {
+      "status": "reviewed_provisional",
+      "evidence": [
+        "Productions/Library-Refinement/model-standing-v002.png",
+        "Productions/Library-Refinement/model-independent-review.json"
+      ],
+      "observations": [
+        "Fresh writer opened paired front/side/three-quarter sheet and originals N19/N25/B15/B29; models have full connected torsos, leg clearance, fine Neet legs and modest heads. Sheet coat hatching is not finish target; E001 max-art-v005 supplies body-finish only."
+      ]
+    },
+    "drawn_storyboard": {
+      "status": "construction_inspected_by_writer",
+      "evidence": [
+        "Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/staging-v003.png"
+      ],
+      "observations": [
+        "Actually drawn four-scene sheet inspected. V002 payoff bowl floated; V003 lowers bowl onto floor and connects neck bend. V003 adds seated/standing human legs to dinner and collar attachment to sidewalk leash.",
+        "Kitchen four feet on broad stool and separate Buddy retreat; dinner bodies own four feet at threshold; sidewalk full prone Neet plus supported seated Buddy; payoff continuous standing bodies and hand outside floor bowl. Finish coat correction remains separately required."
+      ]
+    },
+    "panel_comparison": {
+      "status": "independently_reviewed",
+      "evidence": [
+        "Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/visual-review-v002.json"
+      ],
+      "observations": [
+        "Every current finished image opened at full resolution against original photos; concrete findings recorded per image."
+      ]
+    },
+    "complete_reading": {
+      "status": "reviewed",
+      "story_sha256": "3efbf14799024db4a91261f2813535bae6642943813eac4a8607b0d46060767f",
+      "evidence": [
+        "Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/reading-review-v002.json"
+      ],
+      "inspection": {
+        "url": "http://127.0.0.1:56824/Stories/S035-the-great-fire-noodles-chiku-shake-meltdown.md",
+        "method": "Actual Codex in-app browser rendered reading at normal viewport; initial accessibility reading followed by 24 overlapping viewport screenshots from title to final provenance. All visible text, every illustration top-to-bottom and all transitions inspected. DOM/file reading was supplementary, not the acceptance basis.",
+        "viewport": [
+          1280,
+          720
+        ],
+        "presentation": "Approximately 760px prose column, readable serif body; illustrations approximately 960px wide. Normal scrolling, no zoom reduction.",
+        "coverage": [
+          "Title and Part I full setup",
+          "Part II complete cooking scene and chili image",
+          "Part III complete dinner and image",
+          "Part IV complete walk, bargaining and sidewalk image",
+          "Part V full pour, slurping and bowl sequence, both images",
+          "Part VI full aftermath and final measuring-spoon sentence",
+          "Refinement record, provenance and final archive SHA-256 line"
+        ],
+        "alternatives": "No meaningful alternative appears in the complete rendered story; comedy record explicitly records none mapped.",
+        "visual_result": "All five images loaded; no broken media, unreadable prose, interrupted attribution or layout collision. Images span viewport heights but remain comfortably readable through overlapping scrolling."
+      },
+      "observations": {
+        "comedy_and_timing": "Skipped measurement makes the last spoon callback earned. Short paragraphs delay the first-bite explosion. Buddy rescues the wrapper despite retreat, protects the plain noodles, holds his yawn for an audience and checks a second paw for shake; these are independent choices with specific physical consequences. The images pause on changes of state without preempting the next reversal.",
+        "voices": "Neet treats supervision, bargaining and assistance as matters of authority. Buddy follows edible quantity and opportunity. Sagar supplies misplaced confidence, then practical help; Heather moves from skeptical memory to distress and affectionate exasperation. Their lines remain distinguishable without repeating catchphrases.",
+        "cause_effect": "Cooking confidence produces excessive chili, failed dinner motivates walk, shop triggers staged begging, purchased pulp explicitly bridges to home blender, bowl chasing leads to helpful bracing. Four cups then separate bowls is a clear serving transition.",
+        "payoff": "Cooling shake gives all four relief. Historical sleep dialogue remains, including documented tofu/paneer mismatch, followed by a quiet concrete measuring-spoon callback. No sixth image crowds the ending.",
+        "complementarity": "Five scenes vary action and location: elevated supervision/retreat, doorway guarding, pavement performance, counter anticipation and floor assistance. Repeated kitchen setting now changes stakes rather than repeating portraits.",
+        "resolved_findings": "Current images visibly have smooth torso planes; sidewalk leashes meet collars and payoff bowl rests on floor beside wall. Buddy facial furnishings remain localized. The independently accepted native visual-review hashes match every embedded final and current story hash; no open material finding remains in that record."
+      }
+    }
+  },
+  "unresolved_findings": [],
+  "current_files": {
+    "story": "Stories/S035-the-great-fire-noodles-chiku-shake-meltdown.md",
+    "story_sha256": "3efbf14799024db4a91261f2813535bae6642943813eac4a8607b0d46060767f",
+    "comedy_pass": "Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/comedy-pass-v002.json",
+    "generation_record": "Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/artwork-generation-v002.json",
+    "drawn_storyboard": "Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/staging-v003.png",
+    "proposed_artwork": [
+      "Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/p01-chili-art-v003.png",
+      "Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/p02-dinner-art-v003.png",
+      "Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/p03-sidewalk-art-v003.png",
+      "Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/p04-pour-art-v004.png",
+      "Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/p05-bowl-art-v004.png"
+    ]
+  },
+  "approval": {
+    "state": "unapproved",
+    "by": null,
+    "date": null,
+    "evidence": null
+  },
+  "publication": {
+    "state": "not_published",
+    "destination": null
+  },
+  "historical_stages": [
+    {
+      "edition": "before_expanded_v002",
+      "quality": {
+        "story": {
+          "status": "second_pass_complete_pending_independent_reading",
+          "evidence": [
+            "Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/comedy-pass-v002.json"
+          ],
+          "observations": [
+            "Complete six-part second pass; all historical incidents retained."
+          ]
+        },
+        "character_model": {
+          "status": "reviewed_provisional",
+          "evidence": [
+            "Productions/Library-Refinement/model-independent-review.json"
+          ],
+          "observations": [
+            "Independent reviewer opened all three current sheets at native resolution, originals and native detail crops; no material findings. Qualitative scale and grooming states remain provisional."
+          ]
+        },
+        "drawn_storyboard": {
+          "status": "reviewed",
+          "evidence": [
+            "Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/staging-v001.png",
+            "Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/visual-review.json"
+          ],
+          "observations": [
+            "Exactly four separated cups, two small/two large; single hand holds jug, stream lands in small cup, blender separate. Neet four standing supports and Buddy connected seated chest/forepaws/haunches read at slightly elevated angle.",
+            "B15 tidy grooming retains Buddy hanging ears/pale moustache. Finish requires near-flush Neet nub instead of rosette, close neck contour and Buddy leg/tail fringe; faces/ears remain regional."
+          ]
+        },
+        "panel_comparison": {
+          "status": "pending",
+          "evidence": [],
+          "observations": []
+        },
+        "complete_reading": {
+          "status": "pending",
+          "evidence": [],
+          "observations": []
+        }
+      },
+      "artwork": [
+        {
+          "path": "Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/illustration-v002.png",
+          "sha256": "810686cec3bcfea39432ec77c6981d48bc0b5a5bbbeb10de667d052f31378baf",
+          "dimensions": [
+            1448,
+            1086
+          ],
+          "format": "PNG",
+          "reviewed_version": "Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/illustration-v002.png",
+          "generation_record": "Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/artwork-generation.json",
+          "review_record": "Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/visual-review.json",
+          "variant": "primary",
+          "placement_after": "Neet watched the stream of shake, following the jug from cup to cup. Buddy sat very still except for his tail. This was going into four cups. He had counted."
+        }
+      ],
+      "status": "in_progress"
+    }
+  ],
+  "expanded_pass": {
+    "status": "complete",
+    "humor_pass": "reviewed",
+    "independent_visual_review": "reviewed",
+    "complete_illustrated_reading": "reviewed",
+    "integration_note": "Current expanded reviews complete; historical author/generation pending labels describe artifact proposal stage. Current reviewed state is episode quality and master, without altering reviewed story bytes.",
+    "visual_review_record": "Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/visual-review-v002.json",
+    "reading_review_record": "Productions/E035-the-great-fire-noodles-chiku-shake-meltdown/reading-review-v002.json"
+  },
+  "delivery": {
+    "version": "delivery-v001",
+    "collection_record": "Productions/Library-Refinement/progress.json",
+    "reviewed_story_sha256": "3efbf14799024db4a91261f2813535bae6642943813eac4a8607b0d46060767f",
+    "source_and_export_manifest": "Productions/Library-Refinement/delivery-v001/manifest.json"
+  }
+}

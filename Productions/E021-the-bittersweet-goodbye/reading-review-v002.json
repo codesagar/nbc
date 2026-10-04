@@ -1,0 +1,104 @@
+{
+  "story_id": "S021",
+  "episode": "E021-the-bittersweet-goodbye",
+  "reviewer": "reader021 fresh independent complete-rendered-reading reviewer",
+  "reviewed_at": "2026-10-04T07:40:14.062521+00:00",
+  "status": "accepted",
+  "independence": "Did not write prose or generate images; owns only this reading review.",
+  "story": {
+    "path": "Stories/S021-the-bittersweet-goodbye.md",
+    "sha256": "de413bf7787dc6fa4627c80f8377f4af306cb5aa3f1b3bd41a5e7c935edaf8c2"
+  },
+  "images": [
+    {
+      "path": "Productions/E021-the-bittersweet-goodbye/illustration-v004.png",
+      "sha256": "8c392cc8efe7262126ab083ac7bbfd7e47b9262403f7cb67a2769d5de3e9295e"
+    },
+    {
+      "path": "Productions/E021-the-bittersweet-goodbye/airport-art-v003.png",
+      "sha256": "2052fb90b50b15b60109ac47c843af3fc3dc8b68041810e1934eb6b2bdb8a43a"
+    },
+    {
+      "path": "Productions/E021-the-bittersweet-goodbye/arrival-art-v004.png",
+      "sha256": "c9efd5b262bb14f99ea3f4ee77c542bcb75c8a7130d52e773ad83309c164cb5b"
+    }
+  ],
+  "rendered_evidence": {
+    "url": "http://127.0.0.1:56824/Stories/S021-the-bittersweet-goodbye.md",
+    "browser": "Codex in-app browser via cua_repl; temporary tab 1",
+    "viewport": {
+      "width": 1280,
+      "height": 720
+    },
+    "image_display_width": 960,
+    "method": "Read the entire rendered primary in overlapping viewport screenshots from title through all provenance pins; all three embedded images visually inspected in context. Browser accessibility text corroborated full section coverage. Then reread complete shared rendered body text with precisely The Lounge Misadventures omitted, preserving Airport Chaos directly into Touchdown, following the page alternative instruction. No raw-Markdown-only clearance.",
+    "screenshots": "17 successive viewport screenshots emitted in this reviewer tool trace; no separate screenshot files saved.",
+    "coverage": [
+      "opening and emotional-support-snacks exchange",
+      "complete packing inventory and bowl-blocking exchange",
+      "full packing picture and Heather poster joke",
+      "entire neighborhood farewell including silence",
+      "house departure and complete security setup",
+      "airport replacement and India-left-us line",
+      "complete primary-only lounge dal incident and blanket rescue",
+      "Touchdown and masala reveal",
+      "arrival replacement and bowl temptation",
+      "full warm ending",
+      "meaningful abridgement note",
+      "both refinement entries and complete provenance/chronology note"
+    ],
+    "loaded_images": 3
+  },
+  "findings": {
+    "humor_and_voices": "Neet wants to carry India home through absurd possessions and snacks; Buddy wants his irreplaceable bowl and blanket intact. The moving-bowl/Yes exchange gives Buddy an active understated joke. Heather’s poster reply follows the prop falling instead of generic scolding. Neet’s grandiosity and Buddy’s dry practicality remain distinct.",
+    "emotional_space": "Chirag’s until-next-time and Neet’s silence have room before the airport reset; no picture or added punchline breaks that goodbye. The final parallel keepsakes earns warmth without a speech.",
+    "cause_effect": "The packing shell becomes the security dust. Buddy’s protective bowl choice continues through repeated checks and, in the primary, an actual rescue from dal. The empty bowl then motivates his own temptation after the secret masala reveal.",
+    "payoff": "Buddy briefly considers undoing his own preservation rule. Heather’s Not in there follows the picture and lands cleanly; his look-away response and the two possessions carried home close both comic and emotional arcs.",
+    "complementarity": "Packing is an object-rich domestic standoff, airport is a wide public accident with simultaneous human and dog reactions, arrival is a quiet curbside temptation. Three states advance setup, complication and payoff rather than repeating portraits.",
+    "variant": "The complete omit-lounge reading is coherent: the sneeze conclusion leads into the long flight without a dangling dal reference. All three images belong to shared scenes; no primary-only lounge image intrudes. Removing the rescue reduces one Buddy action but retains bowl-blocking, airport protection and final temptation.",
+    "presentation": "Readable text and intact image anchors at 1280x720. Large images provide deliberate pauses without splitting dialogue attribution. All images loaded. Provenance remained readable through the final reader-49 pin."
+  },
+  "image_state_findings": [
+    {
+      "path": "Productions/E021-the-bittersweet-goodbye/illustration-v004.png",
+      "finding": "Before Heather lifts the tote: cricket poster remains rolled in tote, intact puri on napkin, four mango pits and sunglasses present; Buddy’s paw and bowl on the separate blanket visualize his blocking mission."
+    },
+    {
+      "path": "Productions/E021-the-bittersweet-goodbye/airport-art-v003.png",
+      "finding": "After puri crumbles and Heather catches napkin: open tote, dust and sneezing officer above; Buddy beside Heather’s ankle and protected blue bundle below. The image precedes Buddy’s India-left-us line without revealing an unearned event."
+    },
+    {
+      "path": "Productions/E021-the-bittersweet-goodbye/arrival-art-v004.png",
+      "finding": "After packet sniff and bowl-directed gaze, before Heather’s prohibition: sealed packet rests nearby, bowl stays empty, Buddy looks down, Neet remains seated and Heather/luggage anchor arrivals. Nothing is poured and the departure toward home has not begun."
+    }
+  ],
+  "closed_findings": [
+    {
+      "id": "S021-V2-01",
+      "evidence": {
+        "path": "Productions/E021-the-bittersweet-goodbye/airport-art-v003.png",
+        "sha256": "2052fb90b50b15b60109ac47c843af3fc3dc8b68041810e1934eb6b2bdb8a43a"
+      },
+      "finding": "Corrected airport replacement is the embedded version. At reading size Buddy torso and back read as restrained smooth short coat, with regional face/ear furnishing; no raised all-over shag. Hash matches independent accepted native review."
+    },
+    {
+      "id": "S021-V2-02",
+      "evidence": {
+        "path": "Productions/E021-the-bittersweet-goodbye/arrival-art-v004.png",
+        "sha256": "c9efd5b262bb14f99ea3f4ee77c542bcb75c8a7130d52e773ad83309c164cb5b"
+      },
+      "finding": "Corrected arrival replacement is embedded. Smooth long torso and close nape/withers preserve the lowered-head bowl pose without rough body fur volume. Hash matches independent accepted native review."
+    }
+  ],
+  "material_findings": [],
+  "open_findings": [],
+  "scope_limitations": [
+    "This is reading-size and narrative clearance; independent native image/photo comparison remains documented separately in visual-review-v002.json.",
+    "Historical Heather-only household, original tail language and the return-home-before-later-transit chronology contradiction remain preserved source choices.",
+    "Review acceptance is not owner approval or publication; style and human likeness remain provisional."
+  ],
+  "approval": "unapproved",
+  "publication": "not_published",
+  "style": "provisional",
+  "human_likeness": "provisional"
+}

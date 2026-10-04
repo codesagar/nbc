@@ -1,0 +1,74 @@
+{
+  "story": {
+    "path": "Stories/S027-heathers-birthday-and-the-aquarium-chaos.md",
+    "sha256": "a4f5836ead946e4c9050f39d79f11d55033b96e9398333f47f48b48beabad4c0"
+  },
+  "status": "accepted",
+  "reviewer": "Fresh complete-reading reviewer reader027; no prose or artwork generation or editing",
+  "reviewed_on": "2026-10-04",
+  "story_reviewed": {
+    "path": "Stories/S027-heathers-birthday-and-the-aquarium-chaos.md",
+    "sha256": "a4f5836ead946e4c9050f39d79f11d55033b96e9398333f47f48b48beabad4c0"
+  },
+  "images": [
+    {
+      "path": "Productions/E027-heathers-birthday-and-the-aquarium-chaos/jellyfish-art-v002.png",
+      "sha256": "caa440793975c024c5838aad74ee1d4603c396b3b94eb83c19ec22ddaf8e4aa8"
+    },
+    {
+      "path": "Productions/E027-heathers-birthday-and-the-aquarium-chaos/shark-art-v003.png",
+      "sha256": "b1705e27e296446b0f6d937d74f27c009fa0a3b36dadc32bd242b6079590f929"
+    },
+    {
+      "path": "Productions/E027-heathers-birthday-and-the-aquarium-chaos/otter-art-v002.png",
+      "sha256": "dd256e456e2028a2cd2f3efe4de680a369b9b9d43ccbf22bbc1b89d5c395a848"
+    }
+  ],
+  "rendered_inspection": {
+    "url": "http://127.0.0.1:56824/Stories/S027-heathers-birthday-and-the-aquarium-chaos.md",
+    "method": "Cua in-app browser, full accessibility text followed by 18 overlapping viewport screenshots from title through final provenance bullet; every prose paragraph, all three complete illustrations and meaningful alternative rules inspected at reading size.",
+    "viewport": [
+      1280,
+      720
+    ],
+    "image_rendered_width": 960,
+    "loaded_images": 3,
+    "repeated_embeds": 0,
+    "coverage": [
+      "Opening competing birthday plans",
+      "Grand Arrival",
+      "Meeting the Residents, jellyfish art, shark art and penguins",
+      "Touch Tank Fiasco in full",
+      "Otter Incident in full and otter art",
+      "Birthday Dinner Surprise and final toast/callback",
+      "Meaningful alternative in full",
+      "Refinement record and all three provenance source entries"
+    ]
+  },
+  "findings": {
+    "humor_and_voices": "Neet turns a birthday outing into his own spectacular mission; the underwater-dog-park claim, pre-empting Buddy\u2019s list of past scenes, mutual penguin rejection and fish connections deliver specific character comedy. Buddy has quiet fascination, protects Heather\u2019s turn and then falls into his own otter chase; Heather actively catches that contradiction. Voices remain distinct and affectionate.",
+    "cause_effect_and_pacing": "Tank reach produces splash, rescue and Buddy\u2019s decision to guard Heather\u2019s turn. Otter fish provocation follows Neet claiming kinship with otters; the slow sliding fish pause precedes retaliation and removal. Quiet jellyfish interval and warm dinner balance the loud physical incidents.",
+    "ending_continuity": "The actual ending remains dinner at a seafood restaurant followed by Heather\u2019s glass and the dogs\u2019 water-bowl toast. Buddy explicitly says Next year before proposing his surprise party. Neet\u2019s With a pool is a callback to this aquarium disaster, and no party is actually held or imported from S028.",
+    "image_placement": [
+      "Jellyfish image follows Heather\u2019s quiet minute beside Buddy and precedes Neet\u2019s It\u2019s got you doing it now; Buddy\u2019s raised chin and Neet\u2019s side-eye support that state.",
+      "Shark image follows Buddy staying still to shelter Neet and precedes Neet\u2019s movie/glass protest. Crouching Neet and stationary Buddy beneath the shark match the current action.",
+      "Otter image follows thrown fish and You\u2019ve been challenged, before the narrated slow slide. Fish against the far side of glass, Buddy\u2019s amused face and Neet\u2019s stiff attention make the physical gag legible."
+    ],
+    "enrichment": "Three distinct contributions: shared wonder and suspicion, protective courage beside alarm, then fish-provoked rivalry. Aquarium setting repeats appropriately; compositions and dramatic functions do not repeat the same reaction.",
+    "variant": "The alternative is an explicit abridgement route, not a separately repeated full transcript. Read all shared prose with the stated bridge and omissions. It removes penguins, toddler dogfish remark and the entire otter scene plus otter illustration, keeps jellyfish/shark shared art, and retains seafood dinner, toast and future-party callback. No incompatible primary-only event is assigned to the alternative.",
+    "visual_closure": "Read accepted visual-review-v002.json and checked current image hashes against its pins. All three current images match accepted versions. Rendered views show smooth body coats, connected supported dog poses and clear glass separation; no material reader-visible defect reopens that review."
+  },
+  "visual_review": {
+    "path": "Productions/E027-heathers-birthday-and-the-aquarium-chaos/visual-review-v002.json",
+    "sha256": "4992c6eef825bcfc37c657fb9b86c19f92a42570966994c29f55553203092309"
+  },
+  "non_blocking_notes": [
+    "The dated refinement-history paragraph says independent review remains pending; this records the writing-stage state. Current accepted review records should control final integration status."
+  ],
+  "material_findings": [],
+  "open_findings": [],
+  "approval": "unapproved",
+  "publication": "not_published",
+  "story_id": "S027",
+  "schema_integration_note": "Coordinator normalized story pin from story_reviewed; review findings unchanged."
+}

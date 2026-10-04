@@ -1,0 +1,184 @@
+{
+  "episode": "E036-the-royal-house-hunt-and-the-negotiation-of-dreams",
+  "reviewer": "editor_early independent visual reviewer",
+  "independence": "Reviewer did not generate or edit these images.",
+  "date": "2026-10-03",
+  "status": "ready_for_integration",
+  "story": {
+    "path": "Stories/S036-the-royal-house-hunt-and-the-negotiation-of-dreams.md",
+    "sha256": "41e232a341e61bd3324810f147bf58bd6b400e3f708aeb7bc9b2fcbadc4ef100",
+    "complete_revised_text_read": true
+  },
+  "images": [
+    {
+      "path": "Productions/E036-the-royal-house-hunt-and-the-negotiation-of-dreams/rough-v001.png",
+      "sha256": "e6132d204ee7e6df2c496561988227ca568155177f89a0765730cfd489fe636c",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "kind": "rough",
+      "inspection": "Opened complete actual image at native resolution using original detail; no thumbnail-only assessment.",
+      "decision": "staging_reviewed",
+      "findings": [
+        "Complete continuous room staging opened, not prose plan. Separate sunbeam/closet positions and floor support readable; both dogs have visible connected torso/haunch and owned paws. Adequate negative space between dogs."
+      ]
+    },
+    {
+      "path": "Productions/E036-the-royal-house-hunt-and-the-negotiation-of-dreams/illustration-v001.png",
+      "sha256": "2258565676d27257f6a4444bd82d3b47fe56669f9c44a7d54cbf3d084075bc31",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "kind": "finished",
+      "inspection": "Opened complete actual image at native resolution using original detail; no thumbnail-only assessment.",
+      "decision": "ready_for_integration",
+      "findings": [
+        "Identity: Neet has broad cupped upright ears, modest projecting muzzle, fine forelegs and real tan trunk, with short nub visible at rump; Buddy has B19-style pale irregular muzzle/brows and pendant ear fringe over close charcoal body.",
+        "Anatomy: both complete bodies remain separately connected. Neet forepaws extend from shoulders and folded rear legs meet the haunch on rug. Buddy head between forepaws joins shoulders and elongated back, then folded hindquarter supported on closet floor; no detached belly or shared limb.",
+        "Scene fidelity: sunroom and separate open cool closet with low vent depict the actual discovery paragraph. No invented human likeness; furnishing is background rather than new plot incident.",
+        "Comedy: satisfied squinting Neet owns the broad sunlight while quiet Buddy chooses shade and a closable door; contrast in wants reads without a caption.",
+        "Continuity/finish: matches provisional models in geometry and regional coat treatment; warm-left/cool-right lighting differentiates locations. No stray limbs or contamination found.",
+        "Placement: after Buddy chooses closet is the payoff of competing house requirements and precedes moving-day resolution; suitable supplement to text."
+      ]
+    }
+  ],
+  "reference_evidence": [
+    {
+      "id": "N19",
+      "path": "Characters/Neet/Photos/neet-19.jpeg",
+      "sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+      "same_exposure_group": null,
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "styling",
+          "standing_pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Primary standing body proportions, paws, hocks and stub silhouette; head is not a pure profile.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Head rotated; far limbs overlap; uncalibrated camera offers no measurements; room light subdued"
+        ],
+        "inspection_sha256": "b2c6db0a5af6a885d993cbd986cc2759b9461e693fbcabd8aa96bce1eb5ea901",
+        "source_sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N19.json"
+      }
+    },
+    {
+      "id": "N25",
+      "path": "Characters/Neet/Photos/neet-25.jpeg",
+      "sha256": "67530c2ebc1baa412f76a825a7bd2369cebf72a101e7f45836fefa0fcae90ca4",
+      "same_exposure_group": null,
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose",
+          "resting_pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Excellent prone posture and forward paws; useful lateral ear spread.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Hindfeet and tail concealed; plush partly covers toes; cannot supply standing leg/trunk ratios"
+        ],
+        "inspection_sha256": "0e493b84294cbe31f8e7e484b1ce100d8bd7370e2de36f46b35f73b2eab5f99e",
+        "source_sha256": "67530c2ebc1baa412f76a825a7bd2369cebf72a101e7f45836fefa0fcae90ca4",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N25.json"
+      }
+    },
+    {
+      "id": "B29",
+      "path": "Characters/Buddy/Photos/buddy-29.jpeg",
+      "sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+      "same_exposure_group": null,
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Best available lateral body-length, tail-length/carriage and walking-pose reference; weak fine landmarks because blurred and not neutral standing.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Motion blur and lifted legs; cannot establish neutral back slope, exact leg ratios or gait timing from still"
+        ],
+        "inspection_sha256": "c671664ca5e4e2e07bfd3049ea641c3a1645742fb8290494e67a17f7ed213ea9",
+        "source_sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B29.json"
+      }
+    },
+    {
+      "id": "B19",
+      "path": "Characters/Buddy/Photos/buddy-19.jpg",
+      "sha256": "201ec36498d5aaa85ef6e44a9176c333587d95797279a689237ccb49090ee521",
+      "same_exposure_group": null,
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "resting_pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Excellent low face, ear-root tufts, muzzle sweep and head-between-paws reference; poor global proportions.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Nearest face enlarged by perspective; rear blurred; limbs folded; no neutral head/body proportions"
+        ],
+        "inspection_sha256": "6686639617369f80387a581720cb9d28a2f0f5cf940da025eadf8b420095dfd2",
+        "source_sha256": "201ec36498d5aaa85ef6e44a9176c333587d95797279a689237ccb49090ee521",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B19.json"
+      }
+    }
+  ],
+  "reference_inspection": "Opened original references and native-pixel detail crops during model review; checked same source SHA-256 and complete effective policies against this generation record. See Productions/Library-Refinement/model-independent-review.json for inspected files, native dimensions and crop evidence.",
+  "restrictions": [
+    "N35 excluded from anatomy; B08 styling only; B25 unavailable; B30 supplemental rest only. None is used in this image.",
+    "One exposure counts once; generated models support style/acting only.",
+    "No exact size, breed, motion timing, palette or human likeness is canonized."
+  ],
+  "placement": "Buddy explored every corner until he found a cool, quiet closet near the kitchen vent. “This’ll do. Put my name on the door.”",
+  "limitations": [
+    "Large foreground remains despite requested crop; dogs occupy enough area to read at roughly800-1000px story width, but facial nuance reduces on narrow mobile displays. This is a layout limitation, not material anatomy failure.",
+    "Exact relative dog scale and house architecture are provisional."
+  ],
+  "complete_illustrated_reading": {
+    "status": "reviewed",
+    "story_sha256": "7d47811a8dc2d7ea70170eb560b077cd3eaae7473fbee8fc3ee2ddd94f79b770",
+    "evidence": [
+      "Stories/S036-the-royal-house-hunt-and-the-negotiation-of-dreams.md",
+      "http://127.0.0.1:53761/Stories/S036-the-royal-house-hunt-and-the-negotiation-of-dreams.md"
+    ],
+    "inspection": "Read complete rendered page accessibility text in sequence from opening through epilogue and provenance; inspected image in local reader screenshot at approximately960px width.",
+    "observations": [
+      "Sunbeam in opening motivates Neet sunroom choice; Buddy closed-door request pays off in pictured open closet.",
+      "Illustration appears immediately after closet discovery and before moving day, without interrupting dialogue or introducing a new participant.",
+      "Both faces and chosen environments remain legible at actual reader width; large foreground does not obscure comic contrast.",
+      "Closing shared patio scene preserves warmth while Buddy retains his chosen solitude option; image does not imply separation is permanent.",
+      "No text/image contradiction or unreadable placement found."
+    ]
+  },
+  "approval": "unapproved",
+  "publication": "not_published"
+}

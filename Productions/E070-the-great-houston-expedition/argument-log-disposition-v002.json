@@ -1,0 +1,8 @@
+{
+  "scope": "Pure metadata designation; original arguments unchanged; no story/art/visual/reading records touched.",
+  "prior_log": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S070-expanded/generation-arguments-v002-before-metadata-designation.json",
+  "prior_log_sha256": "4fc1e423831b8f9273a2ef681263b05ba8eb101cd629c054e0d4dfbade6d2c1c",
+  "designation": "First three entries exactly executed copies. Eggs, park and dinner entries were preflight plans superseded by appended finish instruction immediately before builtin calls.",
+  "actual_call_record": "artwork-generation-v002.json generations eggs-art-v002,park-art-v002,dinner-art-v002; same full arguments in initial-generations-v002.json",
+  "verification": "Compared prompt prefix and exact remaining fields against actual records; all17 consolidated execution records already pin input/output bytes."
+}

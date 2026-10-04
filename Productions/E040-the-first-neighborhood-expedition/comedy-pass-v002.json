@@ -1,0 +1,98 @@
+{
+  "story": "S040",
+  "version": "v002",
+  "source_reads": [
+    {
+      "path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/E040-expanded/story-before-v002.md",
+      "sha256": "13acd0408950e90340c307390e228dbbdc8db9875a73f0742c6988e344cca716",
+      "complete": true
+    },
+    {
+      "archive": "/Users/sagar/Documents/ChatGPT/NBC_Archives/NBC-before-reorganization-2026-10-03_182825.tar.gz",
+      "member": "NBC/02_Story_Library/ElevenLabs_Imports/reader-20-the-first-neighborhood-expedition.txt",
+      "sha256": "38f204314614f0a8cd4bd493b807590061a629badc6ca626c617ede181a03ab5",
+      "complete": true
+    }
+  ],
+  "connected_complete_reads": [
+    "Stories/S039-welcome-to-austin-the-great-inspection.md",
+    "Stories/S041-the-epic-furniture-fiesta.md"
+  ],
+  "comic_situation": "First neighborhood walk becomes an official inspection for Neet, a food survey for Buddy and a romantic discovery for the humans.",
+  "intended_feeling": "Affectionate happy discovery with disproportionate canine drama.",
+  "wants": {
+    "Neet": "Establish rank and secure new territory without losing face.",
+    "Buddy": "Discover promising smells and food, then get away from a larger dog.",
+    "collision": "Official route and barking duel delay Buddy food survey; harmless decorations unsettle both."
+  },
+  "preserved": [
+    "Seven-act Austin twilight walk",
+    "Pumpkin unauthorized smile and suspicious gnome",
+    "Five named flower types and romantic gift exchange",
+    "Andromeda/Europa/Ganymede/Orion names",
+    "German shepherd street-rat insult, 4.75 rank, bark duel, Sagar stand-down",
+    "Bravest coward and strategic withdrawal",
+    "Johnson chicken/cat mailbox",
+    "Bouquet in water, lawn roll, fewer duels, home/pizza and pumpkin callback"
+  ],
+  "actual_changes": [
+    "Leash fitting delay caused by Buddy checking whether departure happened",
+    "Fourth direction reversal",
+    "Pumpkin sidestep and Heather suppressed laugh",
+    "Buddy checks immobile gnome stayed put",
+    "Bouquet rising above nose, open-mouth looking and Sagar closing that end",
+    "Signpost as previously visited galaxy",
+    "Buddy physically proposes retreat",
+    "Neet requests unsolicited review of his withdrawal; Buddy literal distance reply",
+    "Buddy defends chicken-scented mailbox then carries last sniff home",
+    "Explicit rise after lawn roll for flower second opinion"
+  ],
+  "alternatives": {
+    "count": 0,
+    "decision": "No meaningful in-file or mapped competing text alternative; HTML/raw export are capture forms of same Chapter 13."
+  },
+  "reread_comparison": {
+    "complete_primary_reread": true,
+    "original_complete_read": true,
+    "previous_working_complete_read": true,
+    "meaning": "Central incidents, rank, household, positive home ending and source seasonal/celestial assertions retained. No historical claims resolved.",
+    "voice": "Neet theatrical authority, Buddy independent appetite and retreat, Sagar practical calm, Heather affectionate amusement remain distinct.",
+    "restraint": "Added short physical beats and delayed callbacks, no new subplot. Reduced opening narrator royal metaphor; source romantic dialogue retained.",
+    "seam_corrections": [
+      "Pumpkin sidestep rather than impossible smile rotating around pumpkin",
+      "Buddy explicitly gets up after lawn roll before flower callback"
+    ],
+    "complete_after_embedding_reread": true
+  },
+  "illustration_plan": [
+    {
+      "id": "pumpkin",
+      "state": "Both dogs inspecting decorations before Sagar pulls Buddy away",
+      "decision": "Retain existing worthwhile composition, correct materially engraved body coat"
+    },
+    {
+      "id": "bouquet",
+      "state": "Buddy looks at raised flowers mouth open before Sagar guides chin down"
+    },
+    {
+      "id": "shepherd",
+      "state": "Buddy takes helpful homeward step before Neet resumes bark challenge"
+    },
+    {
+      "id": "mailbox",
+      "state": "Buddy plants feet after good intel, before Heather moves him along"
+    },
+    {
+      "id": "home",
+      "state": "Buddy has risen from lawn; Heather shifts vase away before pizza line and final pumpkin callback"
+    }
+  ],
+  "review_status": "Pending independent native visual and fresh full rendered reading",
+  "approval": {
+    "state": "unapproved"
+  },
+  "publication": {
+    "state": "not_published"
+  },
+  "story_sha256": "39cef96d67f5bfcadbee44eabbe8b594fc8d3262a81d4a4187dc19a5ca8c0e96"
+}

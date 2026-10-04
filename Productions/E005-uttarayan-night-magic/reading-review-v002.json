@@ -1,0 +1,97 @@
+{
+  "story_id": "S005",
+  "episode_id": "E005",
+  "version": 2,
+  "reviewer": "Fresh complete-reading reviewer /root/reading005",
+  "reviewed_at_utc": "2026-10-04T04:40:43.975764+00:00",
+  "independent_of_writing_and_generation": true,
+  "status": "accepted",
+  "decision": "accept",
+  "story": {
+    "path": "Stories/S005-uttarayan-night-magic.md",
+    "sha256": "0052f55f294e37ecc82498bef0de2717a62c45b61ce5e95055a869f9c8a6bbe6"
+  },
+  "images": [
+    {
+      "path": "Productions/E005-uttarayan-night-magic/illustration-v003.png",
+      "sha256": "a87c17530da8bc0c79849c52cf61ed0ac07439ee0a40572e655a22a328b88b17",
+      "decision": "accept",
+      "rendered_dimensions_css_pixels": "960x720",
+      "contribution": "Sky watching",
+      "finding": "After Buddy admits the rocket is pretty, before Meera brings food. The actual image shows Heather’s hand on the blanket, Buddy sheltered below it and Neet standing alert beneath lit kites; no premature food. The upward gazes establish their different ways of watching."
+    },
+    {
+      "path": "Productions/E005-uttarayan-night-magic/illustration-pakora-v003.png",
+      "sha256": "c8bb264853a16491d5e03b249b9dbe5b0eb43364468a11cf0e87533675308219",
+      "decision": "accept",
+      "rendered_dimensions_css_pixels": "960x720",
+      "contribution": "Pakora reversal",
+      "finding": "After Buddy swallows and says You found it; before Heather brushes the crumb away. Buddy’s mouth is closed, golden crumb visibly remains at beard, and Neet looks back down at him. Tray and chutney now appear. The picture pays off the distraction rather than spoiling it."
+    },
+    {
+      "path": "Productions/E005-uttarayan-night-magic/illustration-rest-v003.png",
+      "sha256": "f1b93c711e550d87a6fe4ac0476545e7ec8ff70f80e4f8281f286f9e3c830b13",
+      "decision": "accept",
+      "rendered_dimensions_css_pixels": "960x640",
+      "contribution": "Shared rest",
+      "finding": "After the lanterns vanish and Neet closes his eyes, before the final sky sentence. Both dogs visibly rest with eyes shut on the same blanket; sky contains stars and no airborne lanterns or fireworks. The stationary terrace lamp does not contradict the extinguished aerial spectacle. This supplies a distinct quiet release."
+    }
+  ],
+  "records_read": [
+    {
+      "path": "Productions/E005-uttarayan-night-magic/comedy-pass-v002.json",
+      "sha256": "ff4232b96d53f2f782ad7d9bd615d275fb60ab8b4152bde66403c503e6923321"
+    },
+    {
+      "path": "Productions/E005-uttarayan-night-magic/visual-review-v002.json",
+      "sha256": "11fad7d788d83acc4fe33b2616f4923f1adc34bc17030d7bdc8e02febd147ff4"
+    }
+  ],
+  "scope": "Complete revised primary, full refinement/provenance appendix, meaningful-alternative assessment, and every embedded image. This reviewer edited only reading-review-v002.json.",
+  "rendered_inspection": {
+    "url": "http://127.0.0.1:56824/Stories/S005-uttarayan-night-magic.md",
+    "tool": "cua_repl Codex in-app browser",
+    "viewport_css_pixels": [
+      1280,
+      720
+    ],
+    "method": "Read the entire page in sequence using 11 overlapping viewport screenshots at normal reading size, from title through source hash. Inspected actual rendered image pixels including lower portions revealed by the next viewport. Read complete accessibility text as corroboration, not a substitute for images. DOM inspection confirmed all three images complete with native sizes 1448x1086, 1448x1086 and 1536x1024; each displayed at 960 CSS pixels wide.",
+    "screenshot_evidence": "Actual screenshots are present in this reviewer tool trajectory; no separate screenshot files were created because ownership is limited to this JSON record.",
+    "sequence": [
+      "Opening blanket mistake and tukkal explanation",
+      "Organized fireflies, tracking duty and fireworks",
+      "Sky picture upper portion and preceding state",
+      "Sky picture lower portion and food arrival",
+      "Meera interruption and complete pakora diversion",
+      "Pakora picture and visible crumb",
+      "Picture lower portion and Heather clearing crumb",
+      "Dreams/high-flyer reply, sensible intervals, final fireworks and eyes closing",
+      "Closing picture at star-only state",
+      "Picture lower portion and standalone final sentence",
+      "Full refinement record",
+      "Provenance and original source hash"
+    ]
+  },
+  "findings": {
+    "humor": "Buddy’s self-pinned blanket gives him a mistake before his successful kite distraction; the sequence avoids making him merely Neet’s commentator. Neet’s literal duty to follow the kite supplies setup for the snack trick and final relinquishing of sky supervision. Meera waits out an actual firework before amending quiet, with Heather almost spilling chai as a distinct human response. Sensible intervals is a snack callback, not an unrelated closing gag.",
+    "voices": "Neet’s excitement and literal importance remain distinct from Buddy’s concise practical misdirection. Heather recognizes the crumb through action rather than an explanatory account of dog speech. Meera has an affectionate self-correction. Historical Heather/Meera household is retained; no Sagar insertion.",
+    "causality_timing": "Neet sees Buddy’s remaining food, Buddy diverts his gaze, eats, swallows, then answers; the image arrives only after the payoff. Heather’s high-flyer answer still directly follows Neet’s aspiration. No dialogue attribution is separated by an illustration. The three pictures punctuate sky, snack and rest rather than crowding individual exchanges.",
+    "heart_and_ending": "Buddy shares the blanket he carefully arranged; Neet stops tracking lights and accepts rest. The star-only closing picture earns the quiet final sentence, which remains alone after the picture without a new joke. The blanket opening therefore pays off emotionally as well as comically.",
+    "complementarity": "First picture establishes upward attention and comfort; second redirects attention to a small incriminating crumb; third lowers both dogs fully into sleep. The first two share terrace/chair/blanket geography but depict different gaze targets and narrative outcomes, so the repetition supports continuity.",
+    "preservation": "Read the complete mapped legacy-ch05 original from the verified pre-reorganization archive. Tukkal explanation, neighboring fireworks and Buddy’s mixed response, Meera’s pakoras/chutney, Heather’s tiny offering, tired-kite/dreams/high-flyer exchange, final red/gold burst and best-day whisper remain. Generalized original belonging-to-stars ending has the documented earlier concrete replacement; expanded pass preserves the same emotional destination.",
+    "closed_findings": "All three actual embedded paths and SHA-256 values match independent visual-review-v002 acceptance. At rendered size the body coats read smooth, crumb state is correct, and closing sky/eyes are correct. No material visual-review findings remain in that record. No new reading defect found."
+  },
+  "meaningful_alternatives": {
+    "count": 0,
+    "assessment": "Comedy-pass-v002 records no meaningful alternative after current/pre-refinement/original comparison. Current complete story and mapped legacy original contain one primary, with no competing version section requiring a separate illustrated reading."
+  },
+  "material_findings": [],
+  "required_corrections": [],
+  "limitations": [
+    "This is complete-reading acceptance, not owner approval or canon adoption. Independent native-resolution photographic visual inspection remains in visual-review-v002.",
+    "Refinement appendix describes the earlier pending-review state; it is historical progress prose, not evidence of present acceptance. Root owns current episode/master integration."
+  ],
+  "next_action": "Root may integrate complete-reading acceptance for these exact hashes. Any prose or selected-image change requires affected review to be refreshed.",
+  "approval": "unapproved",
+  "publication": "not_published"
+}

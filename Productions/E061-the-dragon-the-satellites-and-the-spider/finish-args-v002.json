@@ -1,0 +1,45 @@
+[
+  {
+    "key": "setup",
+    "args": {
+      "prompt": "Use case: illustration-story. Finished warm watercolor storybook landscape 1536x1024. Original photos control anatomy. Neet small tan, full narrow torso, fine long legs, large broad triangular ears, projecting modest muzzle, tiny near-flush nub. Buddy moderately elongated full charcoal torso, substantial legs with clearance, pale muzzle/brows and tan legs, hanging ears, slender dark tail. CRITICAL coats: entirely SMOOTH broad transparent watercolor washes on both dogs bodies and legs. NO curly strokes, NO engraved lines, NO fur hatching, NO shag contours. Furnished strands only Buddy muzzle, brows, ears and paws. No letters, captions, bubbles or borders. Human likeness provisional. Draw ONLY the top scene of image5 storyboard as a full single illustration. Home rug morning. Neet sitting tall beside remote and chew bone with scattered tennis balls; looking with offended seriousness at Buddy. Buddy comfortably reclining in sunny patch with one tennis ball tucked between forepaws beneath chest, quietly satisfied after removing Houston from Neet imaginary map. Connected supported folded hindlegs, continuous torso, two owned forward forelegs. Relaxed mischievous eyes. Image6 original supplies resting face only; image3 controls long torso. No real radar screens. Preserve simple ordinary home and actual toy props.",
+      "referenced_image_paths": [
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-29.jpeg",
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-15.jpg",
+        "/Users/sagar/Documents/ChatGPT/NBC/Productions/E061-the-dragon-the-satellites-and-the-spider/staging-v002.png",
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-19.jpg"
+      ],
+      "transparent_background": false
+    }
+  },
+  {
+    "key": "fire",
+    "args": {
+      "prompt": "Use case: illustration-story. Finished warm watercolor storybook landscape 1536x1024. Original photos control anatomy. Neet small tan, full narrow torso, fine long legs, large broad triangular ears, projecting modest muzzle, tiny near-flush nub. Buddy moderately elongated full charcoal torso, substantial legs with clearance, pale muzzle/brows and tan legs, hanging ears, slender dark tail. CRITICAL coats: entirely SMOOTH broad transparent watercolor washes on both dogs bodies and legs. NO curly strokes, NO engraved lines, NO fur hatching, NO shag contours. Furnished strands only Buddy muzzle, brows, ears and paws. No letters, captions, bubbles or borders. Human likeness provisional. Draw ONLY middle scene of image5 storyboard as full single image. Temple dining hall floor, steel cups and long dosa on table in background. Neet left facing left emits a small literal ORANGE CARTOON FLAME from his visibly slightly OPEN MOUTH (not nose). His ears high and eyes startled. Buddy right standing with all four owned grounded legs, mouth slightly open in fascinated astonishment looking toward Neet. This is BEFORE Buddy approaches or tail singe; intact tail. Tiny green chutney in shallow steel cup beside Neet; no invented dog bowls or fantastical anatomy. Flame points into empty space and burns nothing. No smoke yet. Clear visible necks, full trunks and leg clearance. Warm comedy, not injury. No dragons, wings or scales.",
+      "referenced_image_paths": [
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-29.jpeg",
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-15.jpg",
+        "/Users/sagar/Documents/ChatGPT/NBC/Productions/E061-the-dragon-the-satellites-and-the-spider/staging-v002.png"
+      ],
+      "transparent_background": false
+    }
+  },
+  {
+    "key": "spider",
+    "args": {
+      "prompt": "Use case: precise-object-edit. Edit image1 preserving its successful hallway composition, exact six-legged black plush spider, both dogs poses, limb ownership, faces, room, perspective and watercolor style. Correct ONLY body COAT rendering of both dogs: replace all curly engraved or hatched marks on tan Neet torso/neck/legs and charcoal Buddy torso/neck/legs with smooth broad restrained watercolor color washes and clean close silhouettes. Original photos images2-5 are anatomy authority. Keep Buddy furnished muzzle/brows/ears and modest paw fringe; leave spider toy fuzzy. Neet tiny nub and fine legs; Buddy slender tail. No new texture outside edited region; do not add strands back. Final image is same complete composition, no text.",
+      "referenced_image_paths": [
+        "/Users/sagar/Documents/ChatGPT/NBC/Productions/E061-the-dragon-the-satellites-and-the-spider/illustration-v002.png",
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-29.jpeg",
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-15.jpg"
+      ],
+      "transparent_background": false
+    }
+  }
+]

@@ -1,0 +1,87 @@
+{
+  "story_id": "S030",
+  "pass": "second_comedy_v002",
+  "sources": [
+    {
+      "path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S030-expanded/31-the-temple-visit-and-the-great-gujarati-thali-feast.md",
+      "sha256": "0a1d99bf805c7bf7756b2b26244f2a1623308ee8b42c0a23263e51810c95d304",
+      "read_in_full": true
+    },
+    {
+      "path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S030-expanded/before.md",
+      "sha256": "83cb413a3ed4eb9d5290c7e80703bbc53573ecfdd1a7e2a79dcb60d23823b857",
+      "read_in_full": true
+    },
+    {
+      "path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S030-expanded/reader-38-the-temple-visit-and-the-great-gujarati-thali-feast.txt",
+      "sha256": "ff80c883aa952c590d2a88c1cb9c482c1df6b3a05e20a114aa7ceca2ef7de15b",
+      "read_in_full": true
+    }
+  ],
+  "connected_reads": [
+    {
+      "path": "Stories/S029-winter-woes-and-the-battle-of-the-backyard.md",
+      "sha256_at_read": "3c054dfd26a11acc2ddc631331209936d0dd409d912470d5115f8a39c84b0943"
+    },
+    {
+      "path": "Stories/S031-buddys-big-dental-adventure-part-1.md",
+      "sha256_at_read": "94c1389ce138b0abe82b3b9103940bf694e37a5d96171cd9d0e6735cd93ed60d"
+    }
+  ],
+  "central_comic_situation": "Temple grandeur meets Neet appetite; Buddy tries to secure seconds through exemplary behavior.",
+  "intended_feeling": "Affectionate, amused family outing",
+  "wants": {
+    "Neet": "Reach and enjoy all the food; interpret magnificence as personal opportunity",
+    "Buddy": "Earn seconds through patience and return home with his rightful snacks",
+    "Heather": "Enjoy the carvings and caf\u00e9 while containing the dogs"
+  },
+  "preserved_incidents": [
+    "Marble lions and peacock remarks",
+    "Main idol stumble and underdressed joke",
+    "Every original thali dish and takeaway snack",
+    "Dal nose aamras fur chaas",
+    "Dhokla and samosa spice crisis",
+    "Buddy stops jalebi attempt",
+    "Fafda reward",
+    "Ride home return question"
+  ],
+  "actual_changes": [
+    "Silent second lion reaction",
+    "Buddy consciously plans seconds and repeatedly checks roti while pretending not to",
+    "Buddy dignity immediately gives way to eating seconds before Neet finishes being cleaned",
+    "Reach moved to low stool beside counter to clarify plausible physical staging",
+    "Neet one-paw-at-time innocence",
+    "Buddy tempted by guarded jalebi",
+    "Symbolic protection callback gives Buddy final action and line"
+  ],
+  "variant_assessment": {
+    "legacy_ch31": "complete read",
+    "reader38": "complete read; same incidents and lines, formatting/wrapper and missing dash only",
+    "decision": "No meaningful alternate narrative, no duplicate illustration"
+  },
+  "illustration_plan": {
+    "count": 3,
+    "reason": "Three distinct scene reversals in compact roughly 950 word story; fourth ride image would crowd short earned dialogue callback",
+    "scenes": [
+      "Temple lion alarm",
+      "Food-wearing Neet and restrained Buddy",
+      "Buddy blocks jalebi reach"
+    ]
+  },
+  "reread_comparison": {
+    "status": "writer_complete_text_reread_done",
+    "method": "Read entire revised story, compare full before.md plus both complete original witnesses. Final rendered reading independent and pending.",
+    "findings": [
+      "Every named thali dish and takeaway snack remains in original sequence.",
+      "Historical Heather-only household preserved; neighboring dental story not used to invent dietary cause.",
+      "Corrected swallowed versus finished roti to ensure later protected remnant exists.",
+      "Added physical support for paw incident without changing stopped theft outcome.",
+      "Original dialogue including underdressed, becoming one with thali, spicy, legally and ascended retained.",
+      "Comic additions develop Buddy appetite without turning him into Neet; quiet ride preserves positive ending."
+    ],
+    "story_sha256": "c62967b152009c40867d16c65158abeaaa5207a3697b099de91c4de3d5ac1a7b",
+    "final_placement_check": "3 images follow exact spoken reaction, messy-food state before wiping, and paw block before release; closing callback uninterrupted."
+  },
+  "approval": "unapproved",
+  "ending": "Buddy becomes the real snack guardian after the carved lions introduced symbolic protection; Neet accepts boundary and family goes home warm and fed."
+}

@@ -1,0 +1,120 @@
+[
+  {
+    "id": "storyboard-v002",
+    "arguments": {
+      "prompt": "Use case: illustration-story. Draw a clean monochrome pencil storyboard with TWO wide panels, no lettering. Original photographs are sole anatomical references, images 1-2 Neet tan fine-legged dog tiny nub broad triangular ears; 3-4 Buddy moderately elongated charcoal dog substantial legs pale muzzle and feet pendant ears. Panel1 kitchen at midday: Buddy stands four grounded paws below the chopping counter looking up at Heather's cropped hand holding one piece of okra just caught; Neet stands at kitchen doorway to left, amused. Counter is above Buddy, not intersecting him; human hand connected to cropped forearm at top edge. Panel2 late afternoon Austin stone stairs winding through greenery: Buddy stands on all four paws at broad lower landing nose toward one fallen leaf. Neet stands supported on upper landing, looking back down at Buddy waiting. Both entire dogs visible in each panel with continuous torso/neck, anatomical limb roots, floor clearances, truthful perspective, no extra limbs. Draw construction lightly enough to inspect bodies and support. Do not add humans in stair panel; scene is dog-focused crop. No long fur on either torso, only Buddy brows muzzle ears regional furnishing. N35 excludes anatomy, B08 styling only unused, B25 unavailable, B30 supplemental rest unused. One exposure counts once. No text.",
+      "referenced_image_paths": [
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-29.jpeg",
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg"
+      ],
+      "transparent_background": false
+    },
+    "output_hint": "Generated images are saved to /Users/sagar/.codex/generated_images/01a106ae-28b6-7823-abb8-5c08fed53cca as /Users/sagar/.codex/generated_images/01a106ae-28b6-7823-abb8-5c08fed53cca/exec-8e756b54-1528-4c40-843e-e1d804d72248.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "model": "unknown",
+    "seed": "unknown"
+  },
+  {
+    "id": "morning-art-v003",
+    "arguments": {
+      "prompt": "Use case: precise-object-edit. Image1 target, retain entire composition, all characters, all paws and anatomy, breakfast, acorn, fence and barking. Required finish correction only: REMOVE ALL engraved curling swirling noodle-like markings inside Neet fawn torso/neck/haunch and Buddy dark torso/neck/haunch. Replace with smooth broad painted color planes with gentle simple volume shading, as BODY FINISH ONLY in image6; no fur hatching or curl texture inside their short coats, no shagged contours. Preserve fine legs, Neet full narrow torso/nub/large triangular ears, Buddy elongated full torso/substantial legs/neck, facial regional furnishing. Image2-5 original photos sole anatomy authority. Image6 body color-plane finish only, do NOT import its dogs/characters/scene or anatomy. Keep image1 scene exactly, including two neighbor dogs behind fence. No letters. N35 anatomy excluded; B08 styling-only unused; B25 unavailable; B30 supplemental rest unused; same exposure once. No measurements inferred.",
+      "referenced_image_paths": [
+        "/Users/sagar/Documents/ChatGPT/NBC/Productions/E042-the-day-the-bark-stood-still/illustration-v002.png",
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+        "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png"
+      ],
+      "transparent_background": false
+    },
+    "output_hint": "Generated images are saved to /Users/sagar/.codex/generated_images/01a106ae-28b6-7823-abb8-5c08fed53cca as /Users/sagar/.codex/generated_images/01a106ae-28b6-7823-abb8-5c08fed53cca/exec-c0e5cee2-3ae9-4f95-a8f5-24c125d72ba1.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "model": "unknown",
+    "seed": "unknown"
+  },
+  {
+    "id": "morning-art-v004",
+    "arguments": {
+      "prompt": "Use case: precise-object-edit. REPAINT the dogs in image1: remove the visibly curly engraved squiggle pattern from BOTH torsos completely. The current attempt failed because it left the curly strokes visible. Fawn Neet and dark Buddy must have FLAT CEL-SHADED BODY COLOR, clean solid broad shapes, no texture whatsoever within their body and neck. Image5 demonstrates flat body color finish ONLY. Images2-4 sole anatomy authority. Preserve all body geometry, poses, paws, heads, environment, acorn and other animals exactly. Completely paint over interior fur patterns on Neet neck back sides rump belly upper legs with solid flat fawn planes; Buddy neck back sides rump belly upper legs solid flat charcoal planes. Preserve only Buddy face/ear/paw regional furnishings. No photoreal fur, no watercolor texture inside coats, no grain, curls, wiggles or engraving. It should be visibly simpler and smoother than current output. Original photos Neet19 Buddy29 Buddy4 govern identity. No anatomy from style image5. No new animals or objects. Restriction N35 anatomy excluded, B08 styling only unused, B25 unavailable, B30 supplemental rest unused. No text.",
+      "referenced_image_paths": [
+        "/Users/sagar/Documents/ChatGPT/NBC/Productions/E042-the-day-the-bark-stood-still/morning-art-v003.png",
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+        "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png"
+      ],
+      "transparent_background": false
+    },
+    "output_hint": "Generated images are saved to /Users/sagar/.codex/generated_images/01a106ae-28b6-7823-abb8-5c08fed53cca as /Users/sagar/.codex/generated_images/01a106ae-28b6-7823-abb8-5c08fed53cca/exec-3a0e4899-5765-40b0-b6c6-c8a35ac3db32.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "model": "unknown",
+    "seed": "unknown"
+  },
+  {
+    "id": "kitchen-art-v001",
+    "arguments": {
+      "prompt": "Use case: sketch-to-render. Create ONE full-width finished illustration, no panels or lettering. Image1 drawn storyboard controls staging only. Images2-4 original photos (Neet side, Buddy side and front) are sole likeness/anatomy authority; image5 supplies BODY FINISH ONLY smooth broad painted planes. Elegant warm storybook watercolor surroundings with restrained clean ink. Dogs coats MUST be smooth filled color planes without curled/engraved hair marks, without torso fur strokes and without shagged outlines. Neet fine long legs full narrow tan torso visible neck big triangular ears projecting cream muzzle irregular bib tiny near-flush nub. Buddy moderately elongated continuous charcoal torso visible neck substantial legs pale lower legs true clearance; furnishing only brows muzzle ears and paws. No enlarged puppy heads; maintain grounded owned limbs. N35 excludes anatomy, B08 styling only unused, B25 unavailable, B30 supplemental rest unused, one exposure once, no measured proportions. Render ONLY TOP storyboard scene, expanded into single landscape composition. Austin home kitchen midday, Buddy below chopping counter staring disappointed at Heather's hand which has just CAUGHT a small cut piece of okra and is withdrawing it up toward cutting board, not feeding him. Cropped hand/forearm connected naturally at frame right, no visible full humans. Neet at doorway to left watching, entire dog including all four paws inside frame. Window daylight, warm wooden floor, quiet affectionate comedy. Keep chopping counter above dog and all paws grounded. Not whole long okra pod in hand; small cut piece. No stair scene.",
+      "referenced_image_paths": [
+        "/Users/sagar/Documents/ChatGPT/NBC/Productions/E042-the-day-the-bark-stood-still/storyboard-v002.png",
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+        "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png"
+      ],
+      "transparent_background": false
+    },
+    "output_hint": "Generated images are saved to /Users/sagar/.codex/generated_images/01a106ae-28b6-7823-abb8-5c08fed53cca as /Users/sagar/.codex/generated_images/01a106ae-28b6-7823-abb8-5c08fed53cca/exec-a870de1f-436e-4fd9-aeea-0585e1ebc89d.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "model": "unknown",
+    "seed": "unknown"
+  },
+  {
+    "id": "stairs-art-v001",
+    "arguments": {
+      "prompt": "undefinedRender ONLY BOTTOM storyboard scene expanded to one landscape image. Stone stairway winding uphill through Austin greenery late afternoon warm golden light before sunset. Buddy in full side/three-quarter view stands on broad lower landing, four paws grounded, nose pointed down toward one fallen leaf, taking a conspicuously long investigation break. Neet waits on upper landing looking back down toward Buddy. Neet also all four paws supported on one wide landing, whole torso unbroken and visible. The humorous distance and patient waiting read clearly. No humans within this dog-focused crop, no kitchen, no city panorama yet, no accessories, no lettering. Keep Buddy face furnishings but smooth charcoal torso and smooth belly silhouette; retain torso depth and length.",
+      "referenced_image_paths": [
+        "/Users/sagar/Documents/ChatGPT/NBC/Productions/E042-the-day-the-bark-stood-still/storyboard-v002.png",
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+        "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png"
+      ],
+      "transparent_background": false
+    },
+    "output_hint": "Generated images are saved to /Users/sagar/.codex/generated_images/01a106ae-28b6-7823-abb8-5c08fed53cca as /Users/sagar/.codex/generated_images/01a106ae-28b6-7823-abb8-5c08fed53cca/exec-a6307d15-5117-4a91-9776-c28a31f4141f.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "model": "unknown",
+    "seed": "unknown"
+  },
+  {
+    "id": "kitchen-art-v002",
+    "arguments": {
+      "prompt": "Use case: precise-object-edit. Image1 kitchen edit target. KEEP geometry and scene exactly, REPAINT BOTH DOGS with the smooth flat cel-shaded body finish shown in image2 (BODY FINISH ONLY, not its anatomy/characters). Current body coat is materially wrong: Buddy looks shaggy. Erase every fur stroke and pointy tuft from Buddy neck, chest, back, rump, belly and leg shafts and tail. Replace with smooth continuous contours enclosing solid charcoal/cream broad color planes; no body texture whatsoever. Furnishing ONLY Buddy brows muzzle ears and feet. Neet also solid smooth fawn body/neck, tiny nub, no fur texture. Retain their full connected bodies, neck, paws and clearances. Images3-5 original photos only anatomical authority; Neet19 Buddy29 Buddy4. Keep all original poses and kitchen action, caught small okra in Heather hand, Neet doorway. No extra limbs, no added objects, no text. N35 excludes anatomy; B08 styling unused; B25 unavailable; B30 rest unused; one exposure once. Smooth FLAT BODY COLOR with simple shading, NO TEXTURE.",
+      "referenced_image_paths": [
+        "/Users/sagar/Documents/ChatGPT/NBC/Productions/E042-the-day-the-bark-stood-still/kitchen-art-v001.png",
+        "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg"
+      ],
+      "transparent_background": false
+    },
+    "output_hint": "Generated images are saved to /Users/sagar/.codex/generated_images/01a106ae-28b6-7823-abb8-5c08fed53cca as /Users/sagar/.codex/generated_images/01a106ae-28b6-7823-abb8-5c08fed53cca/exec-35b5c17d-ac24-45fc-938e-ee297a669258.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "model": "unknown",
+    "seed": "unknown"
+  },
+  {
+    "id": "stairs-art-v002",
+    "arguments": {
+      "prompt": "Use case: precise-object-edit. Image1 stair edit target. KEEP geometry, dogs, leaf and stairs exactly, REPAINT BOTH DOGS with the smooth flat cel-shaded body finish shown in image2 (BODY FINISH ONLY, not its anatomy/characters). Current body coat is materially wrong: Buddy looks shaggy. Erase every fur stroke and pointy tuft from Buddy neck, chest, back, rump, belly and leg shafts and tail. Replace with smooth continuous contours enclosing solid charcoal/cream broad color planes; no body texture whatsoever. Furnishing ONLY Buddy brows muzzle ears and feet. Neet also solid smooth fawn body/neck, tiny nub, no fur texture. Retain their full connected bodies, neck, paws and clearances. Images3-5 original photos only anatomical authority; Neet19 Buddy29 Buddy4. Keep all original poses and stair action, Buddy leaf inspection and Neet waiting on upper landing. No extra limbs, no added objects, no text. N35 excludes anatomy; B08 styling unused; B25 unavailable; B30 rest unused; one exposure once. Smooth FLAT BODY COLOR with simple shading, NO TEXTURE.",
+      "referenced_image_paths": [
+        "/Users/sagar/Documents/ChatGPT/NBC/Productions/E042-the-day-the-bark-stood-still/stairs-art-v001.png",
+        "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg"
+      ],
+      "transparent_background": false
+    },
+    "output_hint": "Generated images are saved to /Users/sagar/.codex/generated_images/01a106ae-28b6-7823-abb8-5c08fed53cca as /Users/sagar/.codex/generated_images/01a106ae-28b6-7823-abb8-5c08fed53cca/exec-cc7fcc45-9670-4996-a701-41b5dcf7e802.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "model": "unknown",
+    "seed": "unknown"
+  }
+]

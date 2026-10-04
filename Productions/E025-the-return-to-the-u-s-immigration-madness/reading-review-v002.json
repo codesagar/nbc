@@ -1,0 +1,67 @@
+{
+  "story_id": "S025",
+  "status": "accepted",
+  "reviewer": {
+    "role": "fresh_complete_reading_reviewer",
+    "agent": "reader025",
+    "generated_reviewed_images": false,
+    "edited_story": false
+  },
+  "reviewed_at_utc": "2026-10-04T08:21:04.515144+00:00",
+  "story": {
+    "path": "Stories/S025-the-return-to-the-u-s-immigration-madness.md",
+    "sha256": "18a10d4626016457c5551125f88e1dd7073bed28a4c5c6b42f907fa66f97bc2a"
+  },
+  "images": [
+    {
+      "path": "Productions/E025-the-return-to-the-u-s-immigration-madness/checkpoint-art-v003.png",
+      "sha256": "30acf900207b89db22eeaed6a941ffd4d4a56daec0c391767b82d630abafec6c"
+    },
+    {
+      "path": "Productions/E025-the-return-to-the-u-s-immigration-madness/carousel-art-v002.png",
+      "sha256": "bff7c35764cdea896cbe3596c709ccf5cfb849373cbab7b1e0405886c4841e17"
+    },
+    {
+      "path": "Productions/E025-the-return-to-the-u-s-immigration-madness/detection-art-v003.png",
+      "sha256": "9d4a9a133890926d9af689fdffe8538f985eac888ddfdac344d363ffa0e42772"
+    }
+  ],
+  "method": {
+    "url": "http://127.0.0.1:56824/Stories/S025-the-return-to-the-u-s-immigration-madness.md",
+    "surface": "Codex in-app browser via cua",
+    "viewport": [
+      1280,
+      720
+    ],
+    "inspection": "Read full accessibility text, then traversed entire rendered document in overlapping 0.65–0.8-page scrolls with screenshots from title through final provenance bullet. Inspected all three embedded images at intended reading size with adjacent text; no raw-Markdown-only acceptance.",
+    "scope": "Complete primary, refinement record and all provenance. No meaningful alternate text present; comedy-pass explains the three source encodings differ only in formatting/equivalent prose."
+  },
+  "reviewed_records": [
+    {
+      "path": "Productions/E025-the-return-to-the-u-s-immigration-madness/comedy-pass-v002.json",
+      "sha256": "a252bc540c0f81e5f40ef650305ee6f73ca7c52ccc0ce724a0144b63d650f666"
+    },
+    {
+      "path": "Productions/E025-the-return-to-the-u-s-immigration-madness/visual-review-v002.json",
+      "sha256": "e236e4078e65f2a2356036c58a16f50e87c78131c1c1180f7408c36923a8d5a7"
+    }
+  ],
+  "concrete_findings": [
+    "The opening nap-in-one-country desire gives Buddy an immediate independent objective. Neet copying his good behavior but advancing half a paw turns even obedience into competition without delaying the checkpoint scene.",
+    "Define food followed later by Define illegal works as an escalating evasion callback. Heather has active panic, collar control and breakfast exasperation; Buddy advances from commentary to pickup positioning and finally blocking the carousel return.",
+    "The first picture falls after concealment and rigid innocence, before Buddy whispers The olives. Bag behind forelegs and straight-faced dogs add a visual pause without exposing or consuming the stash.",
+    "Carousel picture follows planted paws and Buddy barking at the pickup gap. Neet remains supported on the moving belt and Buddy on the floor; no jump-off or detector reveal is prematurely shown. A cropped reaching hand suggests impending collection; the following Heather action remains comprehensible. Blue luggage is another case rather than a claim to be the named passing red one.",
+    "The third picture follows Buddy stopping one step away and the beagle continuing to sniff. The bag remains closed; the image does not show consumption before the one-by-one whole-olive payoff. Its low wide three-dog composition adds a discovery reversal distinct from the checkpoint and carousel.",
+    "All three pictures render clearly, with readable expressions and coherent smooth-coat appearance at reading size. Image spacing preserves dialogue attribution. The quiet audience while Neet eats builds the pause; You have been collected earns Buddy’s objective before the preserved totally worth it closing. No later picture crowds that ending.",
+    "Refinement and provenance are visually separated after the ending, retain historical source pins and explicitly preserve unapproved status. The absurd regulatory resolution remains identified as fiction."
+  ],
+  "finding_closure": {
+    "visual_review_status": "accepted",
+    "visual_review_open_findings": [],
+    "assessment": "Current three image hashes exactly match the independently accepted visual review. No material text-image or rendered-reading defect reopens those findings. Minor blue-case observation is non-material for a multi-bag carousel."
+  },
+  "material_findings": [],
+  "open_findings": [],
+  "approval": "unapproved",
+  "publication": "not_published"
+}

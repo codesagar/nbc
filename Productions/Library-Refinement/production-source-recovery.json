@@ -1,0 +1,24 @@
+{
+  "snapshot_manifest": "/Users/sagar/Documents/ChatGPT/NBC_Archives/NBC-expanded-navigation-preservation-2026-10-04_154549Z/manifest.json",
+  "records": [
+    {
+      "original_path": "Productions/E012-the-great-neighborhood-dog-games/script-v002.md",
+      "sha256": "17724424a56a534b82a6379780f3c1b52549423329d8e54815f540d5a919e766",
+      "archived_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/NBC-expanded-navigation-preservation-2026-10-04_154549Z/preserved/Productions/E012-the-great-neighborhood-dog-games/script-v002.md",
+      "archive": "/Users/sagar/Documents/ChatGPT/NBC_Archives/NBC-expanded-navigation-preservation-2026-10-04_154549Z/sources.tar.gz",
+      "archive_member": "NBC/Productions/E012-the-great-neighborhood-dog-games/script-v002.md",
+      "reason": "Unreferenced byte-identical duplicate draft carried Story-relative links into episode folder; preserved externally without editing its bytes.",
+      "identical_current_story": "Stories/S012-the-great-neighborhood-dog-games.md"
+    },
+    {
+      "original_path": "Productions/E052-the-arrival-of-ganesha/previous-working-v002.md",
+      "sha256": "9388cbe4f52337434ac1589cac211f6b52bb3a566d82a625f5b0e6e610b3d43d",
+      "archived_path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/NBC-expanded-navigation-preservation-2026-10-04_154549Z/preserved/Productions/E052-the-arrival-of-ganesha/previous-working-v002.md",
+      "archive": "/Users/sagar/Documents/ChatGPT/NBC_Archives/NBC-expanded-navigation-preservation-2026-10-04_154549Z/sources.tar.gz",
+      "archive_member": "NBC/Productions/E052-the-arrival-of-ganesha/previous-working-v002.md",
+      "reason": "Unreferenced byte-identical duplicate draft carried Story-relative links into episode folder; preserved externally without editing its bytes.",
+      "identical_preexpanded_source": "/Users/sagar/Documents/ChatGPT/NBC_Archives/NBC-before-expanded-refinement-2026-10-04_035505Z.tar.gz#NBC/Stories/S052-the-arrival-of-ganesha.md"
+    }
+  ],
+  "reviewed_story_bytes_changed": false
+}

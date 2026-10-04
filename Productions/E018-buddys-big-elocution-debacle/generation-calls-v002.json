@@ -1,0 +1,86 @@
+[
+  {
+    "key": "stage",
+    "tool": "image_gen.imagegen",
+    "arguments": {
+      "prompt": "Use case: illustration-story. Draw a genuine pencil construction storyboard, two stacked wide panels, no lettering. Photos 1-2 Neet anatomy authority, photos 3-4 Buddy anatomy authority. Panel A indoor practice: Buddy stands full side three-quarter on four substantial supported legs, continuous moderately elongated dark torso, neck, pale brows and furnished muzzle/ear flaps; a sheet of paper on floor between him and Neet who sits erect with both fine forelegs grounded, big triangular ears, full narrow tan torso and tiny nub hidden. Buddy has just turned the paper blank-side toward Neet, now both paws grounded. Neet tries comically hard to remain silent. Only two dogs, simple room/laundry background. Panel B afterward backstage in a leafy Gujarati park near a low wooden stage with red yellow blue triangular bunting: both dogs sit companionably beside folded speech and small golden paw-shaped trophy on ground, Buddy pleased, Neet mouth closed. Three-quarter view shows coherent chest/haunch support and owned compact paws. Draw anatomy construction with visible connected ribcage/pelvis/spine and limb roots. Do not draw human hands or extra legs. No speech bubbles. Neet smooth short coat, Buddy close torso with regionally furnished muzzle brows ears paws. No costumes. Stage is background, not underneath dogs.",
+      "referenced_image_paths": [
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-19.jpeg",
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-5.jpeg",
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg"
+      ],
+      "transparent_background": false
+    },
+    "output_hint": "Generated images are saved to /Users/sagar/.codex/generated_images/01a1059d-a652-7180-8253-a225d8a7657c as /Users/sagar/.codex/generated_images/01a1059d-a652-7180-8253-a225d8a7657c/exec-344fe1a9-2cff-4120-bf2a-e412853665ca.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "model": "unknown",
+    "seed": "unknown"
+  },
+  {
+    "key": "practice",
+    "tool": "image_gen.imagegen",
+    "arguments": {
+      "prompt": "Use case: illustration-story. Create ONE finished wide watercolor story illustration from TOP PANEL ONLY of input 1 construction storyboard: indoor speech practice, Buddy on LEFT stands all four substantial paws on tile, continuous moderately elongated charcoal body, neck and real belly clearance; Neet RIGHT sits erect trying comically hard to keep mouth shut, fine long forelegs, full narrow torso, broad triangular ears and no visible long tail. Blank paper between them on floor, Buddy has just turned it to make Neet a silent audience. Quiet warm domestic room, laundry in background. No extra dog or human. Do not copy anatomical construction lines. Input 1 staging only, input 2 Neet sit original, input 3 Buddy front original, input 4 Buddy side original; originals control identity. Final input is BODY PAINT FINISH ONLY, no anatomy scene or props may transfer. Smooth restrained pigment washes and close clean body contours, no curls/engraved swirling fur/no long raised torso coat. Buddy must keep authentic furnished pale muzzle/beard, pale brows, hanging ear fringe and lightly furnished paws from originals. Tail modest slim taper, no plume. Natural compact toes, no hands. Landscape, no text, no borders, no trophy at this stage.",
+      "referenced_image_paths": [
+        "/Users/sagar/Documents/ChatGPT/NBC/Productions/E018-buddys-big-elocution-debacle/expanded-staging-v002.png",
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-5.jpeg",
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg",
+        "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png"
+      ],
+      "transparent_background": false
+    },
+    "output_hint": "Generated images are saved to /Users/sagar/.codex/generated_images/01a1059d-a652-7180-8253-a225d8a7657c as /Users/sagar/.codex/generated_images/01a1059d-a652-7180-8253-a225d8a7657c/exec-6327bfed-95e5-479b-a561-c3387d45a03a.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "model": "unknown",
+    "seed": "unknown"
+  },
+  {
+    "key": "practicefix",
+    "tool": "image_gen.imagegen",
+    "arguments": {
+      "prompt": "Edit image 1 with a strictly necessary BODY COAT correction. Preserve every pose, body proportions, supported paw, setting, paper, faces, composition and gentle expression. Replace the raised feathery long fur texture on BOTH dogs' torsos/necks/haunches/leg shafts with smooth flat restrained watercolor pigment fields and clean close silhouettes. Input 2 is BODY FINISH ONLY example: use its smoothness, never its anatomy, scene or characters. Neet is smooth fine short-coated tan all over, no shoulder fringe, no chest spikes. Buddy's torso is close clipped charcoal, no shaggy underside or spiky dorsal contour. KEEP Buddy's regional pale muzzle/beard/brows and hanging ear fringe and paw furnishings exactly. No removing his beard or ear furnishings. Do not flatten photo-established proportions or shorten legs. No grain that resembles curls, engraved hair or raised strands. Keep backdrop watercolor texture. Remove three drawn mouth motion ticks by Neet, whose mouth is closed.",
+      "referenced_image_paths": [
+        "/Users/sagar/.codex/generated_images/01a1059d-a652-7180-8253-a225d8a7657c/exec-6327bfed-95e5-479b-a561-c3387d45a03a.png",
+        "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png"
+      ],
+      "transparent_background": false
+    },
+    "output_hint": "Generated images are saved to /Users/sagar/.codex/generated_images/01a1059d-a652-7180-8253-a225d8a7657c as /Users/sagar/.codex/generated_images/01a1059d-a652-7180-8253-a225d8a7657c/exec-579b9395-d070-4fae-9e09-87fd484382ca.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "model": "unknown",
+    "seed": "unknown"
+  },
+  {
+    "key": "trophy",
+    "tool": "image_gen.imagegen",
+    "arguments": {
+      "prompt": "Use case illustration-story. ONE finished landscape storybook watercolor image from BOTTOM PANEL of input 1 construction staging. Both dogs sitting on grass behind a low park platform with red yellow blue triangular bunting, no crowd needed. Buddy left pleased next to folded speech lying on grass and small golden paw-shaped trophy. Neet on right sits tall mouth CLOSED, companionable silent reaction. Clearly connected haunch-supported sits, two straight forelegs for each, compact owned paws, no hands. Input1 staging only (REMOVE skeleton/construction lines); input2 Neet seated original anatomy, input3 Buddy seated original for head chest posture but paws hidden there, input4 Buddy frontal standing for substantial leg and paw construction; input5 BODY FINISH ONLY. Photos control identity, style image does not. Neet short smooth fawn, cream throat and muzzle, huge broad-root triangular ears, fine legs full narrow torso tiny nub invisible. Buddy close charcoal torso moderately elongated connected neck, pale brows, pale projecting furnished muzzle/beard, natural hanging furnished ears and light feet, modest tail. Use visibly SMOOTH broad flat paint fields on torso/neck/haunch and clean short-coat outlines as in input5. NO long raised fur strokes or curls anywhere on torso or Neet. KEEP Buddy regional facial and ear furnishings. No costumes. No text/borders. Warm affectionate quiet payoff. Trophy and speech visibly separate from paws.",
+      "referenced_image_paths": [
+        "/Users/sagar/Documents/ChatGPT/NBC/Productions/E018-buddys-big-elocution-debacle/expanded-staging-v002.png",
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Neet/Photos/neet-5.jpeg",
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-6.jpg",
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-4.jpg",
+        "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png"
+      ],
+      "transparent_background": false
+    },
+    "output_hint": "Generated images are saved to /Users/sagar/.codex/generated_images/01a1059d-a652-7180-8253-a225d8a7657c as /Users/sagar/.codex/generated_images/01a1059d-a652-7180-8253-a225d8a7657c/exec-0543714d-cd3c-46d2-880b-b703ce9ba0f6.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "model": "unknown",
+    "seed": "unknown"
+  },
+  {
+    "key": "trophyfix",
+    "tool": "image_gen.imagegen",
+    "arguments": {
+      "prompt": "Precise finish correction to input1. Keep layout, anatomy, ears, expressions, seated supported limbs, separate trophy/paper and park intact. Neet tan dog needs visibly smooth broad pigment fields with fine short-coat clean contour: remove all engraved/swirl fur marks and feathered neck or bib fringes. Buddy dark dog needs smooth close clipped torso/neck/haunch surfaces: remove long strand texture and spiky body outlines. Input2 illustrates desired BODY PAINT SMOOTHNESS ONLY, don't copy anatomy/scene/poses. Keep Buddy's proper regional muzzle/beard, brows and hanging ears distinctly furnished. Reduce Buddy's visible tail fluff to slim modest dark taper using input3 original tail, not large plume. Background paper grain can remain. No generic puppy enlargement, no loss of neck or leg length. No new objects.",
+      "referenced_image_paths": [
+        "/Users/sagar/.codex/generated_images/01a1059d-a652-7180-8253-a225d8a7657c/exec-0543714d-cd3c-46d2-880b-b703ce9ba0f6.png",
+        "/Users/sagar/Documents/ChatGPT/NBC/Productions/E001-meet-neet-and-buddy/max-art-v005.png",
+        "/Users/sagar/Documents/ChatGPT/NBC/Characters/Buddy/Photos/buddy-29.jpeg"
+      ],
+      "transparent_background": false
+    },
+    "output_hint": "Generated images are saved to /Users/sagar/.codex/generated_images/01a1059d-a652-7180-8253-a225d8a7657c as /Users/sagar/.codex/generated_images/01a1059d-a652-7180-8253-a225d8a7657c/exec-5949ddd3-1011-4853-9a50-3a0102594524.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "model": "unknown",
+    "seed": "unknown"
+  }
+]

@@ -1,0 +1,107 @@
+{
+  "story_id": "S033",
+  "review_type": "fresh_complete_rendered_reading",
+  "version": 2,
+  "reviewed_at": "2026-10-04T10:18:43.152626+00:00",
+  "reviewer": "fresh reader033; did not write prose or generate artwork",
+  "status": "accepted",
+  "story": {
+    "path": "Stories/S033-buddy-and-the-golden-glory.md",
+    "sha256": "54b215acfa6bef07fdf0d3769b7fceca022ccf6b3f0058f893869b8243aed4f1"
+  },
+  "images": [
+    {
+      "path": "Productions/E033-buddy-and-the-golden-glory/opening-art-v006.png",
+      "sha256": "7157e77c36139880529dd95b12249f30f343dbaefefdd387e40344dc2690e42c"
+    },
+    {
+      "path": "Productions/E033-buddy-and-the-golden-glory/crowd-art-v010.png",
+      "sha256": "6779302972ed3e6bd5bf063e55b819e1cef21179a5f414504f0083440252eae2"
+    },
+    {
+      "path": "Productions/E033-buddy-and-the-golden-glory/fork-art-v010.png",
+      "sha256": "a381d75ff0355e8e20de5dcf3754ec661f6a43cac97424d3fbf74ffcc5cc808b"
+    }
+  ],
+  "records_consulted": [
+    {
+      "path": "Productions/E033-buddy-and-the-golden-glory/comedy-pass-v002.json",
+      "sha256": "a6fc2f956f11f1282928d27120b9084d0cbb7ac09ff07e28413e9d60ce9a1d05"
+    },
+    {
+      "path": "Productions/E033-buddy-and-the-golden-glory/artwork-generation-v003.json",
+      "sha256": "3d83d12031274583c234d9750b433749414413bdd613e36c5d84d796ec90e78f"
+    },
+    {
+      "path": "Productions/E033-buddy-and-the-golden-glory/visual-review-v002.json",
+      "sha256": "e73161d65d488557077d22aee982ab9de0f083ab6be9aec915e252b5306df9c5"
+    }
+  ],
+  "rendered_inspection": {
+    "url": "http://127.0.0.1:56824/Stories/S033-buddy-and-the-golden-glory.md",
+    "method": "Actual browser/cua screenshots in successive overlapping scroll views; full accessibility text used alongside visual reading, not as its substitute.",
+    "viewport": [
+      1280,
+      720
+    ],
+    "body_font_px": 20,
+    "rendered_image_width_px": 960,
+    "rendered_image_heights_px": [
+      640,
+      720,
+      640
+    ],
+    "document_height_px": 7003,
+    "all_images_loaded": true,
+    "coverage": "Entire primary read paragraph by paragraph from title through ending, refinement record, provenance and both historical source pins. All three complete pictures inspected across overlapping views. No separate meaningful alternative is present: provenance states the second manuscript occurrence repeats the body exactly.",
+    "sequence": [
+      "Title and opening five paragraphs",
+      "Complete opening image",
+      "Crowd introduction, pirate/snack-bowl exchange",
+      "Pug demonstration, bulldog displacement, held-pose anchor",
+      "Complete five-dog crowd image",
+      "All Walk of Shame paragraphs and title stumble",
+      "Tito introduction and delayed appointment realization",
+      "Busy/free reversal, tooth demand, Heather refusal, cape demand",
+      "Waiting-at-fork text and complete fork image",
+      "Shady route exchange and uninterrupted three-part final payoff",
+      "Complete refinement record and provenance to final duplicate-source hash"
+    ]
+  },
+  "observations": {
+    "humor_and_timing": [
+      "Neet prepares an argument while Buddy merely angles his head into sunlight; the picture follows the completed verbal gag, giving the sidelong glare time to land.",
+      "The pug waiting for a chewing noise and Buddy maintaining a smile create a specific stalled demonstration. The bulldog requesting better light turns Neet from critic into obstacle.",
+      "Sir Buddy briefly forgetting to walk punctures his own vanity, preventing him from becoming a flawless foil.",
+      "Neet mistakes Tito for a fellow professional before understanding the introduction request; the short busy/free exchange sharply overturns his attempt to control Buddy.",
+      "The final shady-route choice recalls repeated sunlight staging; Buddy’s Of course acknowledges the petty strategy without explaining the joke."
+    ],
+    "voices_and_agency": "Neet is theatrical, jealous and active; Buddy deliberately enjoys attention, accepts Tito and chooses to wait for his brother. Heather is amused but firm about unnecessary surgery. The historical Heather-led outing is preserved; no extra human is introduced.",
+    "cause_effect_and_payoff": "Gold-tooth attention causes Neet’s mounting loss of status, failed appointment control and upgrade demand. Buddy waiting at the fork restores affection before Neet chooses shade. The final unbearable refrain belongs to Neet’s exaggerated perspective and follows a concrete affectionate action rather than cruelty.",
+    "placement_and_complementarity": [
+      {
+        "image": "opening-art-v006.png",
+        "finding": "After the prepared-argument paragraph; Buddy is sunward and smiling with one small gold tooth while Neet looks unimpressed. Correct initial state before crowd arrives."
+      },
+      {
+        "image": "crowd-art-v010.png",
+        "finding": "After Buddy holds his pose and before walking on. Bulldog, pug and retriever turn inward while Neet stands outside the group; selective framing of one retriever does not imply the whole pack is absent. Changes scale and social geometry rather than repeating the opening portrait."
+      },
+      {
+        "image": "fork-art-v010.png",
+        "finding": "After Buddy waits and before Neet chooses the shady path. Backward gaze and two visible branches depict the unchosen route state. Closed mouth appropriately conceals the tooth during the quiet pause; no disclosure is required by the prose. Wider rear view supplies warmth and space before the ending."
+      }
+    ],
+    "material_closure": "Current embedded image filenames and SHA-256 values match independent accepted replacements. Reading-size opening/crowd show a single readable gold tooth rather than broad gold mouth blocks; the minute opposite warm crowd mark does not read as another tooth. Fork mouth is fully closed and Neet’s rump has a near-flush nub rather than the rejected peg. Smooth body fields, regional furnishings and grounded poses remain readable. No new material contradiction emerged in the full sequence.",
+    "layout": "Comfortable serif prose with clear paragraph pauses. Images appear between completed beats, never splitting attribution. All loaded cleanly; ending text remains uninterrupted after the fork image. Provenance remains separate and legible."
+  },
+  "material_findings": [],
+  "open_findings": [],
+  "approval": {
+    "state": "unapproved"
+  },
+  "publication": {
+    "state": "not_published"
+  },
+  "limitations": "This complete-reading acceptance is separate from owner approval and relies on the independent visual review for native-resolution photographic comparison. It does not establish canon or publication authority."
+}

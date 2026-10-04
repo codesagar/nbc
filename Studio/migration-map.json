@@ -1,0 +1,1580 @@
+{
+  "date": "2026-10-03",
+  "recovery_archive": "/Users/sagar/Documents/ChatGPT/NBC_Archives/NBC-before-reorganization-2026-10-03_182825.tar.gz",
+  "full_disposition_ledger": "/Users/sagar/Documents/ChatGPT/NBC_Archives/NBC-before-reorganization-2026-10-03_182825.migration.json",
+  "full_disposition_ledger_sha256": "1c5d5f9d1cd1a52e59c5d0641777f398ab7dc393cc0da2be886bd423d396e1ff",
+  "default_disposition": "Every old file absent from retained_sources is archive-only; the external ledger lists all 5126 exact source file identities.",
+  "story_count": 70,
+  "retained_photos": 29,
+  "retained_generated_rasters": 2,
+  "editorial_choices": [
+    "Independent source numbering replaced by stable editorial S shelf IDs; chronology and approval stay unresolved.",
+    "Explicitly joined Visarjan/Invisible Mentor split; reversed Chapter 10 and duplicate Chapter 34 provenance reunited without repeating prose.",
+    "Formatting variants consolidated; abridgement differences kept in notes; meaningful Smoky Mountain, one-dog apartment and Houston alternatives retained in-file.",
+    "Reading wrappers removed; Neat normalized to Neet; original first-person voices and conflicting anatomy/behavior retained as drafts.",
+    "29 original photographs selected by usefulness; exposure encodings consolidated; complete policy ceilings retained.",
+    "Only two synthetic acting studies retained; game/pet runtimes, code, failed and superseded exports and inspection caches archive-only.",
+    "All previous Studio reports/catalogs/tools/dashboards retired; empty candidates/releases omitted; failed Night Shift condensed to diagnostic warning."
+  ],
+  "unresolved": [
+    "Manuscript Chapter 7 absent; source numbering independent from shelf IDs.",
+    "Farewell ends return before later travel chapters.",
+    "Alternative one-dog draft changes pronouns and notice status.",
+    "Rank math conflicts: quarter-star demotion versus 4.75 to 4.25.",
+    "India wedding recollection and Piedmont wedding relationship unknown.",
+    "First-person diary and historical physical/personality contradictions remain.",
+    "Selection is editorial, approval unknown."
+  ],
+  "retained_sources": {
+    "02_Story_Library/Legacy_Chapters/01-meet-neet-and-buddy.md": {
+      "destinations": [
+        "Stories/S001-meet-neet-and-buddy.md"
+      ],
+      "decision": "Working primary or in-file variant."
+    },
+    "02_Story_Library/Legacy_Chapters/02-the-flight-to-india.md": {
+      "destinations": [
+        "Stories/S002-the-flight-to-india.md"
+      ],
+      "decision": "Working primary or in-file variant."
+    },
+    "02_Story_Library/Legacy_Chapters/03-arrival-in-india.md": {
+      "destinations": [
+        "Stories/S003-arrival-in-india.md"
+      ],
+      "decision": "Working primary or in-file variant."
+    },
+    "02_Story_Library/Legacy_Chapters/04-uttarayan-day-one.md": {
+      "destinations": [
+        "Stories/S004-uttarayan-day-one.md"
+      ],
+      "decision": "Working primary or in-file variant."
+    },
+    "02_Story_Library/Legacy_Chapters/05-uttarayan-night-magic.md": {
+      "destinations": [
+        "Stories/S005-uttarayan-night-magic.md"
+      ],
+      "decision": "Working primary or in-file variant."
+    },
+    "02_Story_Library/Legacy_Chapters/06-the-bazaar-adventure.md": {
+      "destinations": [
+        "Stories/S006-the-bazaar-adventure.md"
+      ],
+      "decision": "Working primary or in-file variant."
+    },
+    "02_Story_Library/Legacy_Chapters/08-the-monkey-menace.md": {
+      "destinations": [
+        "Stories/S007-the-monkey-menace.md"
+      ],
+      "decision": "Working primary or in-file variant."
+    },
+    "02_Story_Library/Legacy_Chapters/09-garden-rebirth-with-chaos.md": {
+      "destinations": [
+        "Stories/S008-garden-rebirth-with-chaos.md"
+      ],
+      "decision": "Working primary or in-file variant."
+    },
+    "02_Story_Library/Legacy_Chapters/10-neet-the-general.md": {
+      "destinations": [
+        "Stories/S009-neet-the-general.md"
+      ],
+      "decision": "Working primary or in-file variant."
+    },
+    "02_Story_Library/Legacy_Notes/Unassigned-Reversed-Chapter-10-Passage.md": {
+      "destinations": [
+        "Stories/S009-neet-the-general.md"
+      ],
+      "decision": "Reunited provenance; every reversed paragraph already represented in primary, no duplicate prose."
+    },
+    "02_Story_Library/Legacy_Chapters/11-neet-s-gang-faces-the-night-stalkers.md": {
+      "destinations": [
+        "Stories/S010-neets-gang-faces-the-night-stalkers.md"
+      ],
+      "decision": "Working primary or in-file variant."
+    },
+    "90_Archive/2026-10-03-elevenlabs-recovery/Raw_Exports/reader-55.txt": {
+      "destinations": [
+        "Stories/S010-neets-gang-faces-the-night-stalkers.md"
+      ],
+      "decision": "Working primary or in-file variant."
+    },
+    "02_Story_Library/Legacy_Chapters/12-neet-s-gang-to-the-rescue.md": {
+      "destinations": [
+        "Stories/S011-neets-gang-to-the-rescue.md"
+      ],
+      "decision": "Working primary or in-file variant."
+    },
+    "90_Archive/2026-10-03-elevenlabs-recovery/Raw_Exports/reader-54.txt": {
+      "destinations": [
+        "Stories/S011-neets-gang-to-the-rescue.md"
+      ],
+      "decision": "Working primary or in-file variant."
+    },
+    "02_Story_Library/Legacy_Chapters/13-the-great-neighborhood-dog-games.md": {
+      "destinations": [
+        "Stories/S012-the-great-neighborhood-dog-games.md"
+      ],
+      "decision": "Working primary or in-file variant."
+    },
+    "90_Archive/2026-10-03-elevenlabs-recovery/Raw_Exports/reader-53.txt": {
+      "destinations": [
+        "Stories/S012-the-great-neighborhood-dog-games.md"
+      ],
+      "decision": "Working primary or in-file variant."
+    },
+    "02_Story_Library/Legacy_Chapters/14-lights-camera-neet.md": {
+      "destinations": [
+        "Stories/S013-lights-camera-neet.md"
+      ],
+      "decision": "Working primary or in-file variant."
+    },
+    "90_Archive/2026-10-03-elevenlabs-recovery/Raw_Exports/reader-52.txt": {
+      "destinations": [
+        "Stories/S013-lights-camera-neet.md"
+      ],
+      "decision": "Working primary or in-file variant."
+    },
+    "02_Story_Library/Legacy_Chapters/15-neet-and-buddy-s-barber-battle.md": {
+      "destinations": [
+        "Stories/S014-neet-and-buddys-barber-battle.md"
+      ],
+      "decision": "Working primary or in-file variant."
+    },
+    "02_Story_Library/Legacy_Chapters/16-the-dazzling-dog-fashion-show.md": {
+      "destinations": [
+        "Stories/S015-the-dazzling-dog-fashion-show.md"
+      ],
+      "decision": "Working primary or in-file variant."
+    },
+    "02_Story_Library/Legacy_Chapters/17-neet-and-buddy-learn-gujarati.md": {
+      "destinations": [
+        "Stories/S016-neet-and-buddy-learn-gujarati.md"
+      ],
+      "decision": "Working primary or in-file variant."
+    },
+    "02_Story_Library/Legacy_Chapters/18-bazaar-madness-a-practical-gujarati-lesson.md": {
+      "destinations": [
+        "Stories/S017-bazaar-madness-a-practical-gujarati-lesson.md"
+      ],
+      "decision": "Working primary or in-file variant."
+    },
+    "02_Story_Library/Legacy_Chapters/19-buddy-s-big-elocution-debacle.md": {
+      "destinations": [
+        "Stories/S018-buddys-big-elocution-debacle.md"
+      ],
+      "decision": "Working primary or in-file variant."
+    },
+    "02_Story_Library/Legacy_Chapters/20-the-great-mosquito-war.md": {
+      "destinations": [
+        "Stories/S019-the-great-mosquito-war.md"
+      ],
+      "decision": "Working primary or in-file variant."
+    },
+    "90_Archive/2026-10-03-elevenlabs-recovery/Raw_Exports/reader-51.txt": {
+      "destinations": [
+        "Stories/S019-the-great-mosquito-war.md"
+      ],
+      "decision": "Working primary or in-file variant."
+    },
+    "02_Story_Library/Legacy_Chapters/21-the-great-nighttime-bark-off.md": {
+      "destinations": [
+        "Stories/S020-the-great-nighttime-bark-off.md"
+      ],
+      "decision": "Working primary or in-file variant."
+    },
+    "90_Archive/2026-10-03-elevenlabs-recovery/Raw_Exports/reader-50.txt": {
+      "destinations": [
+        "Stories/S020-the-great-nighttime-bark-off.md"
+      ],
+      "decision": "Working primary or in-file variant."
+    },
+    "02_Story_Library/Legacy_Chapters/22-the-bittersweet-goodbye.md": {
+      "destinations": [
+        "Stories/S021-the-bittersweet-goodbye.md"
+      ],
+      "decision": "Working primary or in-file variant."
+    },
+    "02_Story_Library/ElevenLabs_Imports/reader-48-the-bittersweet-goodbye.txt": {
+      "destinations": [
+        "Stories/S021-the-bittersweet-goodbye.md"
+      ],
+      "decision": "Working primary or in-file variant."
+    },
+    "90_Archive/2026-10-03-elevenlabs-recovery/Raw_Exports/reader-49.txt": {
+      "destinations": [
+        "Stories/S021-the-bittersweet-goodbye.md"
+      ],
+      "decision": "Working primary or in-file variant."
+    },
+    "02_Story_Library/Legacy_Chapters/23-the-lounge-and-airport-madness.md": {
+      "destinations": [
+        "Stories/S022-the-lounge-and-airport-madness.md"
+      ],
+      "decision": "Working primary or in-file variant."
+    },
+    "90_Archive/2026-10-03-elevenlabs-recovery/Raw_Exports/reader-47.txt": {
+      "destinations": [
+        "Stories/S022-the-lounge-and-airport-madness.md"
+      ],
+      "decision": "Working primary or in-file variant."
+    },
+    "02_Story_Library/Legacy_Chapters/24-the-business-class-upgrade-disaster.md": {
+      "destinations": [
+        "Stories/S023-the-business-class-upgrade-disaster.md"
+      ],
+      "decision": "Working primary or in-file variant."
+    },
+    "90_Archive/2026-10-03-elevenlabs-recovery/Raw_Exports/reader-46.txt": {
+      "destinations": [
+        "Stories/S023-the-business-class-upgrade-disaster.md"
+      ],
+      "decision": "Working primary or in-file variant."
+    },
+    "02_Story_Library/Legacy_Chapters/25-the-istanbul-layover-debacle.md": {
+      "destinations": [
+        "Stories/S024-the-istanbul-layover-debacle.md"
+      ],
+      "decision": "Working primary or in-file variant."
+    },
+    "02_Story_Library/Legacy_Chapters/26-the-return-to-the-u-s-immigration-madness.md": {
+      "destinations": [
+        "Stories/S025-the-return-to-the-u-s-immigration-madness.md"
+      ],
+      "decision": "Working primary or in-file variant."
+    },
+    "90_Archive/2026-10-03-elevenlabs-recovery/Raw_Exports/reader-44.txt": {
+      "destinations": [
+        "Stories/S025-the-return-to-the-u-s-immigration-madness.md"
+      ],
+      "decision": "Working primary or in-file variant."
+    },
+    "90_Archive/2026-10-03-elevenlabs-recovery/Raw_Exports/reader-45.txt": {
+      "destinations": [
+        "Stories/S025-the-return-to-the-u-s-immigration-madness.md"
+      ],
+      "decision": "Working primary or in-file variant."
+    },
+    "02_Story_Library/Legacy_Chapters/27-the-homecoming-blues.md": {
+      "destinations": [
+        "Stories/S026-the-homecoming-blues.md"
+      ],
+      "decision": "Working primary or in-file variant."
+    },
+    "90_Archive/2026-10-03-elevenlabs-recovery/Raw_Exports/reader-43.txt": {
+      "destinations": [
+        "Stories/S026-the-homecoming-blues.md"
+      ],
+      "decision": "Working primary or in-file variant."
+    },
+    "02_Story_Library/Legacy_Chapters/28-heather-s-birthday-and-the-aquarium-chaos.md": {
+      "destinations": [
+        "Stories/S027-heathers-birthday-and-the-aquarium-chaos.md"
+      ],
+      "decision": "Working primary or in-file variant."
+    },
+    "02_Story_Library/ElevenLabs_Imports/reader-42-heathers-birthday-and-the-aquarium-chaos.txt": {
+      "destinations": [
+        "Stories/S027-heathers-birthday-and-the-aquarium-chaos.md"
+      ],
+      "decision": "Working primary or in-file variant."
+    },
+    "90_Archive/2026-10-03-elevenlabs-recovery/Raw_Exports/reader-41.txt": {
+      "destinations": [
+        "Stories/S027-heathers-birthday-and-the-aquarium-chaos.md"
+      ],
+      "decision": "Working primary or in-file variant."
+    },
+    "02_Story_Library/Legacy_Chapters/29-the-birthday-get-together-and-the-sheera-cake-saga.md": {
+      "destinations": [
+        "Stories/S028-the-birthday-get-together-and-the-sheera-cake-saga.md"
+      ],
+      "decision": "Working primary or in-file variant."
+    },
+    "90_Archive/2026-10-03-elevenlabs-recovery/Raw_Exports/reader-40.txt": {
+      "destinations": [
+        "Stories/S028-the-birthday-get-together-and-the-sheera-cake-saga.md"
+      ],
+      "decision": "Working primary or in-file variant."
+    },
+    "02_Story_Library/Legacy_Chapters/30-winter-woes-and-the-battle-of-the-backyard.md": {
+      "destinations": [
+        "Stories/S029-winter-woes-and-the-battle-of-the-backyard.md"
+      ],
+      "decision": "Working primary or in-file variant."
+    },
+    "02_Story_Library/ElevenLabs_Imports/reader-39-winter-woes-and-the-battle-of-the-backyard.txt": {
+      "destinations": [
+        "Stories/S029-winter-woes-and-the-battle-of-the-backyard.md"
+      ],
+      "decision": "Working primary or in-file variant."
+    },
+    "02_Story_Library/Legacy_Chapters/31-the-temple-visit-and-the-great-gujarati-thali-feast.md": {
+      "destinations": [
+        "Stories/S030-the-temple-visit-and-the-great-gujarati-thali-feast.md"
+      ],
+      "decision": "Working primary or in-file variant."
+    },
+    "02_Story_Library/ElevenLabs_Imports/reader-38-the-temple-visit-and-the-great-gujarati-thali-feast.txt": {
+      "destinations": [
+        "Stories/S030-the-temple-visit-and-the-great-gujarati-thali-feast.md"
+      ],
+      "decision": "Working primary or in-file variant."
+    },
+    "02_Story_Library/Legacy_Chapters/32-buddy-s-big-dental-adventure-part-1.md": {
+      "destinations": [
+        "Stories/S031-buddys-big-dental-adventure-part-1.md"
+      ],
+      "decision": "Working primary or in-file variant."
+    },
+    "02_Story_Library/Legacy_Chapters/33-buddy-s-big-dental-adventure-part-2.md": {
+      "destinations": [
+        "Stories/S032-buddys-big-dental-adventure-part-2.md"
+      ],
+      "decision": "Working primary or in-file variant."
+    },
+    "02_Story_Library/Legacy_Chapters/34-buddy-and-the-golden-glory.md": {
+      "destinations": [
+        "Stories/S033-buddy-and-the-golden-glory.md"
+      ],
+      "decision": "Working primary or in-file variant."
+    },
+    "02_Story_Library/Legacy_Notes/Chapter-34-Duplicate-Occurrence.md": {
+      "destinations": [
+        "Stories/S033-buddy-and-the-golden-glory.md"
+      ],
+      "decision": "Exact repeated manuscript body retained once."
+    },
+    "02_Story_Library/ElevenLabs_Imports/reader-27-the-stealth-games-begin.txt": {
+      "destinations": [
+        "Stories/S034-the-stealth-games-begin.md"
+      ],
+      "decision": "Working primary or in-file variant."
+    },
+    "02_Story_Library/ElevenLabs_Imports/reader-28-the-stealthy-shower-and-the-one-dog-dilemma.txt": {
+      "destinations": [
+        "Stories/S034-the-stealth-games-begin.md"
+      ],
+      "decision": "Working primary or in-file variant."
+    },
+    "90_Archive/2026-10-03-elevenlabs-recovery/Raw_Exports/reader-29.txt": {
+      "destinations": [
+        "Stories/S034-the-stealth-games-begin.md"
+      ],
+      "decision": "Working primary or in-file variant."
+    },
+    "02_Story_Library/ElevenLabs_Imports/reader-26-the-great-fire-noodles-chiku-shake-meltdown-extended-unhinged-edition.txt": {
+      "destinations": [
+        "Stories/S035-the-great-fire-noodles-chiku-shake-meltdown.md"
+      ],
+      "decision": "Working primary or in-file variant."
+    },
+    "02_Story_Library/ElevenLabs_Imports/reader-25-the-royal-house-hunt-and-the-negotiation-of-dreams.txt": {
+      "destinations": [
+        "Stories/S036-the-royal-house-hunt-and-the-negotiation-of-dreams.md"
+      ],
+      "decision": "Working primary or in-file variant."
+    },
+    "02_Story_Library/ElevenLabs_Imports/reader-24-the-midnight-storm-and-the-royal-snack-emergency.txt": {
+      "destinations": [
+        "Stories/S037-the-midnight-storm-and-the-royal-snack-emergency.md"
+      ],
+      "decision": "Working primary or in-file variant."
+    },
+    "02_Story_Library/ElevenLabs_Imports/reader-22-act-i-setting-out-the-regal-road-trip-begins.txt": {
+      "destinations": [
+        "Stories/S038-the-smoky-mountain-escapade.md"
+      ],
+      "decision": "Working primary or in-file variant."
+    },
+    "02_Story_Library/ElevenLabs_Imports/reader-23-the-smoky-mountain-escapade.txt": {
+      "destinations": [
+        "Stories/S038-the-smoky-mountain-escapade.md"
+      ],
+      "decision": "Working primary or in-file variant."
+    },
+    "02_Story_Library/ElevenLabs_Imports/reader-21-welcome-to-austinthe-great-inspection.txt": {
+      "destinations": [
+        "Stories/S039-welcome-to-austin-the-great-inspection.md"
+      ],
+      "decision": "Working primary or in-file variant."
+    },
+    "02_Story_Library/ElevenLabs_Imports/reader-20-the-first-neighborhood-expedition.txt": {
+      "destinations": [
+        "Stories/S040-the-first-neighborhood-expedition.md"
+      ],
+      "decision": "Working primary or in-file variant."
+    },
+    "02_Story_Library/ElevenLabs_Imports/reader-19-the-epic-furniture-fiesta.txt": {
+      "destinations": [
+        "Stories/S041-the-epic-furniture-fiesta.md"
+      ],
+      "decision": "Working primary or in-file variant."
+    },
+    "02_Story_Library/ElevenLabs_Imports/reader-01-the-day-the-bark-stood-still.txt": {
+      "destinations": [
+        "Stories/S042-the-day-the-bark-stood-still.md"
+      ],
+      "decision": "Working primary or in-file variant."
+    },
+    "02_Story_Library/ElevenLabs_Imports/reader-06-the-great-laundry-day-uprising-directors-cut.txt": {
+      "destinations": [
+        "Stories/S043-the-great-laundry-day-uprising.md"
+      ],
+      "decision": "Working primary or in-file variant."
+    },
+    "02_Story_Library/ElevenLabs_Imports/reader-03-the-vacuum-wars.txt": {
+      "destinations": [
+        "Stories/S044-the-vacuum-wars.md"
+      ],
+      "decision": "Working primary or in-file variant."
+    },
+    "02_Story_Library/ElevenLabs_Imports/reader-18-the-robot-vacuum-coup.txt": {
+      "destinations": [
+        "Stories/S045-the-robot-vacuum-coup.md"
+      ],
+      "decision": "Working primary or in-file variant."
+    },
+    "02_Story_Library/ElevenLabs_Imports/reader-15-the-rainbow-drill-extended-cut.txt": {
+      "destinations": [
+        "Stories/S046-the-rainbow-drill.md"
+      ],
+      "decision": "Working primary or in-file variant."
+    },
+    "02_Story_Library/ElevenLabs_Imports/reader-14-the-kings-birthday.txt": {
+      "destinations": [
+        "Stories/S047-the-kings-birthday.md"
+      ],
+      "decision": "Working primary or in-file variant."
+    },
+    "02_Story_Library/ElevenLabs_Imports/reader-17-the-fall-of-a-quarter-star.txt": {
+      "destinations": [
+        "Stories/S048-the-fall-of-a-quarter-star.md"
+      ],
+      "decision": "Working primary or in-file variant."
+    },
+    "02_Story_Library/ElevenLabs_Imports/reader-13-the-great-vet-escapade.txt": {
+      "destinations": [
+        "Stories/S049-the-great-vet-escapade.md"
+      ],
+      "decision": "Working primary or in-file variant."
+    },
+    "02_Story_Library/ElevenLabs_Imports/reader-16-the-redemption-crusade-of-the-4-25-star-general.txt": {
+      "destinations": [
+        "Stories/S050-the-redemption-crusade-of-the-4-25-star-general.md"
+      ],
+      "decision": "Working primary or in-file variant."
+    },
+    "02_Story_Library/ElevenLabs_Imports/reader-05-the-redemption-of-the-star.txt": {
+      "destinations": [
+        "Stories/S051-the-redemption-of-the-star.md"
+      ],
+      "decision": "Working primary or in-file variant."
+    },
+    "02_Story_Library/ElevenLabs_Imports/reader-12-the-arrival-of-ganesha.txt": {
+      "destinations": [
+        "Stories/S052-the-arrival-of-ganesha.md"
+      ],
+      "decision": "Working primary or in-file variant."
+    },
+    "02_Story_Library/ElevenLabs_Imports/reader-04-the-midnight-counsel-of-ganesha.txt": {
+      "destinations": [
+        "Stories/S053-the-midnight-counsel-of-ganesha.md"
+      ],
+      "decision": "Working primary or in-file variant."
+    },
+    "02_Story_Library/ElevenLabs_Imports/reader-11-the-visarjan-protocol.txt": {
+      "destinations": [
+        "Stories/S054-the-visarjan-protocol.md",
+        "Stories/S055-the-invisible-mentor.md"
+      ],
+      "decision": "Working primary or in-file variant."
+    },
+    "02_Story_Library/ElevenLabs_Imports/reader-02-the-day-trip-to-pedernales-falls-directors-cut.txt": {
+      "destinations": [
+        "Stories/S056-the-day-trip-to-pedernales-falls.md"
+      ],
+      "decision": "Working primary or in-file variant."
+    },
+    "02_Story_Library/ElevenLabs_Imports/reader-00-the-tunnel-to-india-or-faith-vs-physics.txt": {
+      "destinations": [
+        "Stories/S057-the-tunnel-to-india-or-faith-vs-physics.md"
+      ],
+      "decision": "Working primary or in-file variant."
+    },
+    "02_Story_Library/ElevenLabs_Imports/reader-10-the-era-of-the-cool-ball.txt": {
+      "destinations": [
+        "Stories/S058-the-era-of-the-cool-ball.md"
+      ],
+      "decision": "Working primary or in-file variant."
+    },
+    "02_Story_Library/ElevenLabs_Imports/reader-09-the-fire-conspiracy.txt": {
+      "destinations": [
+        "Stories/S059-the-fire-conspiracy.md"
+      ],
+      "decision": "Working primary or in-file variant."
+    },
+    "02_Story_Library/ElevenLabs_Imports/reader-08-the-barkgpt-protocol.txt": {
+      "destinations": [
+        "Stories/S060-the-barkgpt-protocol.md"
+      ],
+      "decision": "Working primary or in-file variant."
+    },
+    "02_Story_Library/ElevenLabs_Imports/reader-07-the-dragon-the-satellites-and-the-spider.txt": {
+      "destinations": [
+        "Stories/S061-the-dragon-the-satellites-and-the-spider.md"
+      ],
+      "decision": "Working primary or in-file variant."
+    },
+    "02_Story_Library/ElevenLabs_Imports/reader-31-tooth-rituals-leaf-wars-and-balcony-betrayals-as-told-by-neet-defender-of-the-realm-drama-enthu.txt": {
+      "destinations": [
+        "Stories/S062-tooth-rituals-leaf-wars-and-balcony-betrayals-as-told-by-neet-defender-of-the-realm-drama-enthusiast.md"
+      ],
+      "decision": "Working primary or in-file variant."
+    },
+    "02_Story_Library/ElevenLabs_Imports/reader-30-the-field-trip-to-love-high-and-the-gospel-of-good-ass-prana.txt": {
+      "destinations": [
+        "Stories/S063-the-field-trip-to-love-high-and-the-gospel-of-good-ass-prana.md"
+      ],
+      "decision": "Working primary or in-file variant."
+    },
+    "02_Story_Library/ElevenLabs_Imports/reader-32-the-great-paneer-balcony-scandal.txt": {
+      "destinations": [
+        "Stories/S064-the-great-paneer-balcony-scandal.md"
+      ],
+      "decision": "Working primary or in-file variant."
+    },
+    "02_Story_Library/ElevenLabs_Imports/reader-33-the-winged-menace.txt": {
+      "destinations": [
+        "Stories/S065-the-winged-menace.md"
+      ],
+      "decision": "Working primary or in-file variant."
+    },
+    "02_Story_Library/ElevenLabs_Imports/reader-34-the-psychic-roti-and-the-ball-of-destiny.txt": {
+      "destinations": [
+        "Stories/S066-the-psychic-roti-and-the-ball-of-destiny.md"
+      ],
+      "decision": "Working primary or in-file variant."
+    },
+    "02_Story_Library/ElevenLabs_Imports/reader-35-the-scandal-of-sweet-kulfi.txt": {
+      "destinations": [
+        "Stories/S067-the-scandal-of-sweet-kulfi.md"
+      ],
+      "decision": "Working primary or in-file variant."
+    },
+    "02_Story_Library/ElevenLabs_Imports/reader-36-untitled-piedmont-park-wedding-story.txt": {
+      "destinations": [
+        "Stories/S068-the-piedmont-park-wedding.md"
+      ],
+      "decision": "Working primary or in-file variant."
+    },
+    "02_Story_Library/Standalone_Stories/the-festival-of-lights.md": {
+      "destinations": [
+        "Stories/S069-the-festival-of-lights.md"
+      ],
+      "decision": "Working primary or in-file variant."
+    },
+    "90_Archive/2026-10-03-elevenlabs-recovery/Raw_Exports/studio-GGHfzyD7WAjcmlgPvwg1.txt": {
+      "destinations": [
+        "Stories/S069-the-festival-of-lights.md"
+      ],
+      "decision": "Working primary or in-file variant."
+    },
+    "02_Story_Library/Standalone_Stories/the-great-houston-expedition.md": {
+      "destinations": [
+        "Stories/S070-the-great-houston-expedition.md"
+      ],
+      "decision": "Working primary or in-file variant."
+    },
+    "02_Story_Library/ElevenLabs_Imports/studio-swNU206vGuD93cA8xUIE-the-great-houston-expedition.txt": {
+      "destinations": [
+        "Stories/S070-the-great-houston-expedition.md"
+      ],
+      "decision": "Working primary or in-file variant."
+    },
+    "02_Story_Library/ElevenLabs_Imports/reader-48-the-bittersweet-goodbye.html": {
+      "destinations": [
+        "Stories/S021-the-bittersweet-goodbye.md"
+      ],
+      "decision": "HTML acquisition wrapper; narrative taken from its verified text capture."
+    },
+    "90_Archive/2026-10-03-elevenlabs-recovery/Raw_Exports/reader-48.txt": {
+      "destinations": [
+        "Stories/S021-the-bittersweet-goodbye.md"
+      ],
+      "decision": "Exact capture bytes represented by working selection or in-file alternative."
+    },
+    "02_Story_Library/ElevenLabs_Imports/reader-42-heathers-birthday-and-the-aquarium-chaos.html": {
+      "destinations": [
+        "Stories/S027-heathers-birthday-and-the-aquarium-chaos.md"
+      ],
+      "decision": "HTML acquisition wrapper; narrative taken from its verified text capture."
+    },
+    "90_Archive/2026-10-03-elevenlabs-recovery/Raw_Exports/reader-42.txt": {
+      "destinations": [
+        "Stories/S027-heathers-birthday-and-the-aquarium-chaos.md"
+      ],
+      "decision": "Exact capture bytes represented by working selection or in-file alternative."
+    },
+    "02_Story_Library/ElevenLabs_Imports/reader-39-winter-woes-and-the-battle-of-the-backyard.html": {
+      "destinations": [
+        "Stories/S029-winter-woes-and-the-battle-of-the-backyard.md"
+      ],
+      "decision": "HTML acquisition wrapper; narrative taken from its verified text capture."
+    },
+    "90_Archive/2026-10-03-elevenlabs-recovery/Raw_Exports/reader-39.txt": {
+      "destinations": [
+        "Stories/S029-winter-woes-and-the-battle-of-the-backyard.md"
+      ],
+      "decision": "Exact capture bytes represented by working selection or in-file alternative."
+    },
+    "02_Story_Library/ElevenLabs_Imports/reader-38-the-temple-visit-and-the-great-gujarati-thali-feast.html": {
+      "destinations": [
+        "Stories/S030-the-temple-visit-and-the-great-gujarati-thali-feast.md"
+      ],
+      "decision": "HTML acquisition wrapper; narrative taken from its verified text capture."
+    },
+    "90_Archive/2026-10-03-elevenlabs-recovery/Raw_Exports/reader-38.txt": {
+      "destinations": [
+        "Stories/S030-the-temple-visit-and-the-great-gujarati-thali-feast.md"
+      ],
+      "decision": "Exact capture bytes represented by working selection or in-file alternative."
+    },
+    "02_Story_Library/ElevenLabs_Imports/reader-27-the-stealth-games-begin.html": {
+      "destinations": [
+        "Stories/S034-the-stealth-games-begin.md"
+      ],
+      "decision": "HTML acquisition wrapper; narrative taken from its verified text capture."
+    },
+    "90_Archive/2026-10-03-elevenlabs-recovery/Raw_Exports/reader-27.txt": {
+      "destinations": [
+        "Stories/S034-the-stealth-games-begin.md"
+      ],
+      "decision": "Exact capture bytes represented by working selection or in-file alternative."
+    },
+    "02_Story_Library/ElevenLabs_Imports/reader-28-the-stealthy-shower-and-the-one-dog-dilemma.html": {
+      "destinations": [
+        "Stories/S034-the-stealth-games-begin.md"
+      ],
+      "decision": "HTML acquisition wrapper; narrative taken from its verified text capture."
+    },
+    "90_Archive/2026-10-03-elevenlabs-recovery/Raw_Exports/reader-28.txt": {
+      "destinations": [
+        "Stories/S034-the-stealth-games-begin.md"
+      ],
+      "decision": "Exact capture bytes represented by working selection or in-file alternative."
+    },
+    "02_Story_Library/ElevenLabs_Imports/reader-26-the-great-fire-noodles-chiku-shake-meltdown-extended-unhinged-edition.html": {
+      "destinations": [
+        "Stories/S035-the-great-fire-noodles-chiku-shake-meltdown.md"
+      ],
+      "decision": "HTML acquisition wrapper; narrative taken from its verified text capture."
+    },
+    "90_Archive/2026-10-03-elevenlabs-recovery/Raw_Exports/reader-26.txt": {
+      "destinations": [
+        "Stories/S035-the-great-fire-noodles-chiku-shake-meltdown.md"
+      ],
+      "decision": "Exact capture bytes represented by working selection or in-file alternative."
+    },
+    "02_Story_Library/ElevenLabs_Imports/reader-25-the-royal-house-hunt-and-the-negotiation-of-dreams.html": {
+      "destinations": [
+        "Stories/S036-the-royal-house-hunt-and-the-negotiation-of-dreams.md"
+      ],
+      "decision": "HTML acquisition wrapper; narrative taken from its verified text capture."
+    },
+    "90_Archive/2026-10-03-elevenlabs-recovery/Raw_Exports/reader-25.txt": {
+      "destinations": [
+        "Stories/S036-the-royal-house-hunt-and-the-negotiation-of-dreams.md"
+      ],
+      "decision": "Exact capture bytes represented by working selection or in-file alternative."
+    },
+    "02_Story_Library/ElevenLabs_Imports/reader-24-the-midnight-storm-and-the-royal-snack-emergency.html": {
+      "destinations": [
+        "Stories/S037-the-midnight-storm-and-the-royal-snack-emergency.md"
+      ],
+      "decision": "HTML acquisition wrapper; narrative taken from its verified text capture."
+    },
+    "90_Archive/2026-10-03-elevenlabs-recovery/Raw_Exports/reader-24.txt": {
+      "destinations": [
+        "Stories/S037-the-midnight-storm-and-the-royal-snack-emergency.md"
+      ],
+      "decision": "Exact capture bytes represented by working selection or in-file alternative."
+    },
+    "02_Story_Library/ElevenLabs_Imports/reader-22-act-i-setting-out-the-regal-road-trip-begins.html": {
+      "destinations": [
+        "Stories/S038-the-smoky-mountain-escapade.md"
+      ],
+      "decision": "HTML acquisition wrapper; narrative taken from its verified text capture."
+    },
+    "90_Archive/2026-10-03-elevenlabs-recovery/Raw_Exports/reader-22.txt": {
+      "destinations": [
+        "Stories/S038-the-smoky-mountain-escapade.md"
+      ],
+      "decision": "Exact capture bytes represented by working selection or in-file alternative."
+    },
+    "02_Story_Library/ElevenLabs_Imports/reader-23-the-smoky-mountain-escapade.html": {
+      "destinations": [
+        "Stories/S038-the-smoky-mountain-escapade.md"
+      ],
+      "decision": "HTML acquisition wrapper; narrative taken from its verified text capture."
+    },
+    "90_Archive/2026-10-03-elevenlabs-recovery/Raw_Exports/reader-23.txt": {
+      "destinations": [
+        "Stories/S038-the-smoky-mountain-escapade.md"
+      ],
+      "decision": "Exact capture bytes represented by working selection or in-file alternative."
+    },
+    "02_Story_Library/ElevenLabs_Imports/reader-21-welcome-to-austinthe-great-inspection.html": {
+      "destinations": [
+        "Stories/S039-welcome-to-austin-the-great-inspection.md"
+      ],
+      "decision": "HTML acquisition wrapper; narrative taken from its verified text capture."
+    },
+    "90_Archive/2026-10-03-elevenlabs-recovery/Raw_Exports/reader-21.txt": {
+      "destinations": [
+        "Stories/S039-welcome-to-austin-the-great-inspection.md"
+      ],
+      "decision": "Exact capture bytes represented by working selection or in-file alternative."
+    },
+    "02_Story_Library/ElevenLabs_Imports/reader-20-the-first-neighborhood-expedition.html": {
+      "destinations": [
+        "Stories/S040-the-first-neighborhood-expedition.md"
+      ],
+      "decision": "HTML acquisition wrapper; narrative taken from its verified text capture."
+    },
+    "90_Archive/2026-10-03-elevenlabs-recovery/Raw_Exports/reader-20.txt": {
+      "destinations": [
+        "Stories/S040-the-first-neighborhood-expedition.md"
+      ],
+      "decision": "Exact capture bytes represented by working selection or in-file alternative."
+    },
+    "02_Story_Library/ElevenLabs_Imports/reader-19-the-epic-furniture-fiesta.html": {
+      "destinations": [
+        "Stories/S041-the-epic-furniture-fiesta.md"
+      ],
+      "decision": "HTML acquisition wrapper; narrative taken from its verified text capture."
+    },
+    "90_Archive/2026-10-03-elevenlabs-recovery/Raw_Exports/reader-19.txt": {
+      "destinations": [
+        "Stories/S041-the-epic-furniture-fiesta.md"
+      ],
+      "decision": "Exact capture bytes represented by working selection or in-file alternative."
+    },
+    "02_Story_Library/ElevenLabs_Imports/reader-01-the-day-the-bark-stood-still.html": {
+      "destinations": [
+        "Stories/S042-the-day-the-bark-stood-still.md"
+      ],
+      "decision": "HTML acquisition wrapper; narrative taken from its verified text capture."
+    },
+    "90_Archive/2026-10-03-elevenlabs-recovery/Raw_Exports/reader-01.txt": {
+      "destinations": [
+        "Stories/S042-the-day-the-bark-stood-still.md"
+      ],
+      "decision": "Exact capture bytes represented by working selection or in-file alternative."
+    },
+    "02_Story_Library/ElevenLabs_Imports/reader-06-the-great-laundry-day-uprising-directors-cut.html": {
+      "destinations": [
+        "Stories/S043-the-great-laundry-day-uprising.md"
+      ],
+      "decision": "HTML acquisition wrapper; narrative taken from its verified text capture."
+    },
+    "90_Archive/2026-10-03-elevenlabs-recovery/Raw_Exports/reader-06.txt": {
+      "destinations": [
+        "Stories/S043-the-great-laundry-day-uprising.md"
+      ],
+      "decision": "Exact capture bytes represented by working selection or in-file alternative."
+    },
+    "02_Story_Library/ElevenLabs_Imports/reader-03-the-vacuum-wars.html": {
+      "destinations": [
+        "Stories/S044-the-vacuum-wars.md"
+      ],
+      "decision": "HTML acquisition wrapper; narrative taken from its verified text capture."
+    },
+    "90_Archive/2026-10-03-elevenlabs-recovery/Raw_Exports/reader-03.txt": {
+      "destinations": [
+        "Stories/S044-the-vacuum-wars.md"
+      ],
+      "decision": "Exact capture bytes represented by working selection or in-file alternative."
+    },
+    "02_Story_Library/ElevenLabs_Imports/reader-18-the-robot-vacuum-coup.html": {
+      "destinations": [
+        "Stories/S045-the-robot-vacuum-coup.md"
+      ],
+      "decision": "HTML acquisition wrapper; narrative taken from its verified text capture."
+    },
+    "90_Archive/2026-10-03-elevenlabs-recovery/Raw_Exports/reader-18.txt": {
+      "destinations": [
+        "Stories/S045-the-robot-vacuum-coup.md"
+      ],
+      "decision": "Exact capture bytes represented by working selection or in-file alternative."
+    },
+    "02_Story_Library/ElevenLabs_Imports/reader-15-the-rainbow-drill-extended-cut.html": {
+      "destinations": [
+        "Stories/S046-the-rainbow-drill.md"
+      ],
+      "decision": "HTML acquisition wrapper; narrative taken from its verified text capture."
+    },
+    "90_Archive/2026-10-03-elevenlabs-recovery/Raw_Exports/reader-15.txt": {
+      "destinations": [
+        "Stories/S046-the-rainbow-drill.md"
+      ],
+      "decision": "Exact capture bytes represented by working selection or in-file alternative."
+    },
+    "02_Story_Library/ElevenLabs_Imports/reader-14-the-kings-birthday.html": {
+      "destinations": [
+        "Stories/S047-the-kings-birthday.md"
+      ],
+      "decision": "HTML acquisition wrapper; narrative taken from its verified text capture."
+    },
+    "90_Archive/2026-10-03-elevenlabs-recovery/Raw_Exports/reader-14.txt": {
+      "destinations": [
+        "Stories/S047-the-kings-birthday.md"
+      ],
+      "decision": "Exact capture bytes represented by working selection or in-file alternative."
+    },
+    "02_Story_Library/ElevenLabs_Imports/reader-17-the-fall-of-a-quarter-star.html": {
+      "destinations": [
+        "Stories/S048-the-fall-of-a-quarter-star.md"
+      ],
+      "decision": "HTML acquisition wrapper; narrative taken from its verified text capture."
+    },
+    "90_Archive/2026-10-03-elevenlabs-recovery/Raw_Exports/reader-17.txt": {
+      "destinations": [
+        "Stories/S048-the-fall-of-a-quarter-star.md"
+      ],
+      "decision": "Exact capture bytes represented by working selection or in-file alternative."
+    },
+    "02_Story_Library/ElevenLabs_Imports/reader-13-the-great-vet-escapade.html": {
+      "destinations": [
+        "Stories/S049-the-great-vet-escapade.md"
+      ],
+      "decision": "HTML acquisition wrapper; narrative taken from its verified text capture."
+    },
+    "90_Archive/2026-10-03-elevenlabs-recovery/Raw_Exports/reader-13.txt": {
+      "destinations": [
+        "Stories/S049-the-great-vet-escapade.md"
+      ],
+      "decision": "Exact capture bytes represented by working selection or in-file alternative."
+    },
+    "02_Story_Library/ElevenLabs_Imports/reader-16-the-redemption-crusade-of-the-4-25-star-general.html": {
+      "destinations": [
+        "Stories/S050-the-redemption-crusade-of-the-4-25-star-general.md"
+      ],
+      "decision": "HTML acquisition wrapper; narrative taken from its verified text capture."
+    },
+    "90_Archive/2026-10-03-elevenlabs-recovery/Raw_Exports/reader-16.txt": {
+      "destinations": [
+        "Stories/S050-the-redemption-crusade-of-the-4-25-star-general.md"
+      ],
+      "decision": "Exact capture bytes represented by working selection or in-file alternative."
+    },
+    "02_Story_Library/ElevenLabs_Imports/reader-05-the-redemption-of-the-star.html": {
+      "destinations": [
+        "Stories/S051-the-redemption-of-the-star.md"
+      ],
+      "decision": "HTML acquisition wrapper; narrative taken from its verified text capture."
+    },
+    "90_Archive/2026-10-03-elevenlabs-recovery/Raw_Exports/reader-05.txt": {
+      "destinations": [
+        "Stories/S051-the-redemption-of-the-star.md"
+      ],
+      "decision": "Exact capture bytes represented by working selection or in-file alternative."
+    },
+    "02_Story_Library/ElevenLabs_Imports/reader-12-the-arrival-of-ganesha.html": {
+      "destinations": [
+        "Stories/S052-the-arrival-of-ganesha.md"
+      ],
+      "decision": "HTML acquisition wrapper; narrative taken from its verified text capture."
+    },
+    "90_Archive/2026-10-03-elevenlabs-recovery/Raw_Exports/reader-12.txt": {
+      "destinations": [
+        "Stories/S052-the-arrival-of-ganesha.md"
+      ],
+      "decision": "Exact capture bytes represented by working selection or in-file alternative."
+    },
+    "02_Story_Library/ElevenLabs_Imports/reader-04-the-midnight-counsel-of-ganesha.html": {
+      "destinations": [
+        "Stories/S053-the-midnight-counsel-of-ganesha.md"
+      ],
+      "decision": "HTML acquisition wrapper; narrative taken from its verified text capture."
+    },
+    "90_Archive/2026-10-03-elevenlabs-recovery/Raw_Exports/reader-04.txt": {
+      "destinations": [
+        "Stories/S053-the-midnight-counsel-of-ganesha.md"
+      ],
+      "decision": "Exact capture bytes represented by working selection or in-file alternative."
+    },
+    "02_Story_Library/ElevenLabs_Imports/reader-11-the-visarjan-protocol.html": {
+      "destinations": [
+        "Stories/S054-the-visarjan-protocol.md",
+        "Stories/S055-the-invisible-mentor.md"
+      ],
+      "decision": "HTML acquisition wrapper; narrative taken from its verified text capture."
+    },
+    "90_Archive/2026-10-03-elevenlabs-recovery/Raw_Exports/reader-11.txt": {
+      "destinations": [
+        "Stories/S054-the-visarjan-protocol.md",
+        "Stories/S055-the-invisible-mentor.md"
+      ],
+      "decision": "Exact capture bytes represented by working selection or in-file alternative."
+    },
+    "02_Story_Library/ElevenLabs_Imports/reader-02-the-day-trip-to-pedernales-falls-directors-cut.html": {
+      "destinations": [
+        "Stories/S056-the-day-trip-to-pedernales-falls.md"
+      ],
+      "decision": "HTML acquisition wrapper; narrative taken from its verified text capture."
+    },
+    "90_Archive/2026-10-03-elevenlabs-recovery/Raw_Exports/reader-02.txt": {
+      "destinations": [
+        "Stories/S056-the-day-trip-to-pedernales-falls.md"
+      ],
+      "decision": "Exact capture bytes represented by working selection or in-file alternative."
+    },
+    "02_Story_Library/ElevenLabs_Imports/reader-00-the-tunnel-to-india-or-faith-vs-physics.html": {
+      "destinations": [
+        "Stories/S057-the-tunnel-to-india-or-faith-vs-physics.md"
+      ],
+      "decision": "HTML acquisition wrapper; narrative taken from its verified text capture."
+    },
+    "90_Archive/2026-10-03-elevenlabs-recovery/Raw_Exports/reader-00.txt": {
+      "destinations": [
+        "Stories/S057-the-tunnel-to-india-or-faith-vs-physics.md"
+      ],
+      "decision": "Exact capture bytes represented by working selection or in-file alternative."
+    },
+    "02_Story_Library/ElevenLabs_Imports/reader-10-the-era-of-the-cool-ball.html": {
+      "destinations": [
+        "Stories/S058-the-era-of-the-cool-ball.md"
+      ],
+      "decision": "HTML acquisition wrapper; narrative taken from its verified text capture."
+    },
+    "90_Archive/2026-10-03-elevenlabs-recovery/Raw_Exports/reader-10.txt": {
+      "destinations": [
+        "Stories/S058-the-era-of-the-cool-ball.md"
+      ],
+      "decision": "Exact capture bytes represented by working selection or in-file alternative."
+    },
+    "02_Story_Library/ElevenLabs_Imports/reader-09-the-fire-conspiracy.html": {
+      "destinations": [
+        "Stories/S059-the-fire-conspiracy.md"
+      ],
+      "decision": "HTML acquisition wrapper; narrative taken from its verified text capture."
+    },
+    "90_Archive/2026-10-03-elevenlabs-recovery/Raw_Exports/reader-09.txt": {
+      "destinations": [
+        "Stories/S059-the-fire-conspiracy.md"
+      ],
+      "decision": "Exact capture bytes represented by working selection or in-file alternative."
+    },
+    "02_Story_Library/ElevenLabs_Imports/reader-08-the-barkgpt-protocol.html": {
+      "destinations": [
+        "Stories/S060-the-barkgpt-protocol.md"
+      ],
+      "decision": "HTML acquisition wrapper; narrative taken from its verified text capture."
+    },
+    "90_Archive/2026-10-03-elevenlabs-recovery/Raw_Exports/reader-08.txt": {
+      "destinations": [
+        "Stories/S060-the-barkgpt-protocol.md"
+      ],
+      "decision": "Exact capture bytes represented by working selection or in-file alternative."
+    },
+    "02_Story_Library/ElevenLabs_Imports/reader-07-the-dragon-the-satellites-and-the-spider.html": {
+      "destinations": [
+        "Stories/S061-the-dragon-the-satellites-and-the-spider.md"
+      ],
+      "decision": "HTML acquisition wrapper; narrative taken from its verified text capture."
+    },
+    "90_Archive/2026-10-03-elevenlabs-recovery/Raw_Exports/reader-07.txt": {
+      "destinations": [
+        "Stories/S061-the-dragon-the-satellites-and-the-spider.md"
+      ],
+      "decision": "Exact capture bytes represented by working selection or in-file alternative."
+    },
+    "02_Story_Library/ElevenLabs_Imports/reader-31-tooth-rituals-leaf-wars-and-balcony-betrayals-as-told-by-neet-defender-of-the-realm-drama-enthu.html": {
+      "destinations": [
+        "Stories/S062-tooth-rituals-leaf-wars-and-balcony-betrayals-as-told-by-neet-defender-of-the-realm-drama-enthusiast.md"
+      ],
+      "decision": "HTML acquisition wrapper; narrative taken from its verified text capture."
+    },
+    "90_Archive/2026-10-03-elevenlabs-recovery/Raw_Exports/reader-31.txt": {
+      "destinations": [
+        "Stories/S062-tooth-rituals-leaf-wars-and-balcony-betrayals-as-told-by-neet-defender-of-the-realm-drama-enthusiast.md"
+      ],
+      "decision": "Exact capture bytes represented by working selection or in-file alternative."
+    },
+    "02_Story_Library/ElevenLabs_Imports/reader-30-the-field-trip-to-love-high-and-the-gospel-of-good-ass-prana.html": {
+      "destinations": [
+        "Stories/S063-the-field-trip-to-love-high-and-the-gospel-of-good-ass-prana.md"
+      ],
+      "decision": "HTML acquisition wrapper; narrative taken from its verified text capture."
+    },
+    "90_Archive/2026-10-03-elevenlabs-recovery/Raw_Exports/reader-30.txt": {
+      "destinations": [
+        "Stories/S063-the-field-trip-to-love-high-and-the-gospel-of-good-ass-prana.md"
+      ],
+      "decision": "Exact capture bytes represented by working selection or in-file alternative."
+    },
+    "02_Story_Library/ElevenLabs_Imports/reader-32-the-great-paneer-balcony-scandal.html": {
+      "destinations": [
+        "Stories/S064-the-great-paneer-balcony-scandal.md"
+      ],
+      "decision": "HTML acquisition wrapper; narrative taken from its verified text capture."
+    },
+    "90_Archive/2026-10-03-elevenlabs-recovery/Raw_Exports/reader-32.txt": {
+      "destinations": [
+        "Stories/S064-the-great-paneer-balcony-scandal.md"
+      ],
+      "decision": "Exact capture bytes represented by working selection or in-file alternative."
+    },
+    "02_Story_Library/ElevenLabs_Imports/reader-33-the-winged-menace.html": {
+      "destinations": [
+        "Stories/S065-the-winged-menace.md"
+      ],
+      "decision": "HTML acquisition wrapper; narrative taken from its verified text capture."
+    },
+    "90_Archive/2026-10-03-elevenlabs-recovery/Raw_Exports/reader-33.txt": {
+      "destinations": [
+        "Stories/S065-the-winged-menace.md"
+      ],
+      "decision": "Exact capture bytes represented by working selection or in-file alternative."
+    },
+    "02_Story_Library/ElevenLabs_Imports/reader-34-the-psychic-roti-and-the-ball-of-destiny.html": {
+      "destinations": [
+        "Stories/S066-the-psychic-roti-and-the-ball-of-destiny.md"
+      ],
+      "decision": "HTML acquisition wrapper; narrative taken from its verified text capture."
+    },
+    "90_Archive/2026-10-03-elevenlabs-recovery/Raw_Exports/reader-34.txt": {
+      "destinations": [
+        "Stories/S066-the-psychic-roti-and-the-ball-of-destiny.md"
+      ],
+      "decision": "Exact capture bytes represented by working selection or in-file alternative."
+    },
+    "02_Story_Library/ElevenLabs_Imports/reader-35-the-scandal-of-sweet-kulfi.html": {
+      "destinations": [
+        "Stories/S067-the-scandal-of-sweet-kulfi.md"
+      ],
+      "decision": "HTML acquisition wrapper; narrative taken from its verified text capture."
+    },
+    "90_Archive/2026-10-03-elevenlabs-recovery/Raw_Exports/reader-35.txt": {
+      "destinations": [
+        "Stories/S067-the-scandal-of-sweet-kulfi.md"
+      ],
+      "decision": "Exact capture bytes represented by working selection or in-file alternative."
+    },
+    "02_Story_Library/ElevenLabs_Imports/reader-36-untitled-piedmont-park-wedding-story.html": {
+      "destinations": [
+        "Stories/S068-the-piedmont-park-wedding.md"
+      ],
+      "decision": "HTML acquisition wrapper; narrative taken from its verified text capture."
+    },
+    "90_Archive/2026-10-03-elevenlabs-recovery/Raw_Exports/reader-36.txt": {
+      "destinations": [
+        "Stories/S068-the-piedmont-park-wedding.md"
+      ],
+      "decision": "Exact capture bytes represented by working selection or in-file alternative."
+    },
+    "02_Story_Library/ElevenLabs_Imports/studio-swNU206vGuD93cA8xUIE-the-great-houston-expedition.html": {
+      "destinations": [
+        "Stories/S070-the-great-houston-expedition.md"
+      ],
+      "decision": "HTML acquisition wrapper; narrative taken from its verified text capture."
+    },
+    "90_Archive/2026-10-03-elevenlabs-recovery/Raw_Exports/studio-swNU206vGuD93cA8xUIE.txt": {
+      "destinations": [
+        "Stories/S070-the-great-houston-expedition.md"
+      ],
+      "decision": "Exact capture bytes represented by working selection or in-file alternative."
+    },
+    "02_Story_Library/Manuscripts/Neet & Buddy Chronicles.docx": {
+      "destinations": [
+        "Stories/S001-meet-neet-and-buddy.md",
+        "Stories/S002-the-flight-to-india.md",
+        "Stories/S003-arrival-in-india.md",
+        "Stories/S004-uttarayan-day-one.md",
+        "Stories/S005-uttarayan-night-magic.md",
+        "Stories/S006-the-bazaar-adventure.md",
+        "Stories/S007-the-monkey-menace.md",
+        "Stories/S008-garden-rebirth-with-chaos.md",
+        "Stories/S009-neet-the-general.md",
+        "Stories/S010-neets-gang-faces-the-night-stalkers.md",
+        "Stories/S011-neets-gang-to-the-rescue.md",
+        "Stories/S012-the-great-neighborhood-dog-games.md",
+        "Stories/S013-lights-camera-neet.md",
+        "Stories/S014-neet-and-buddys-barber-battle.md",
+        "Stories/S015-the-dazzling-dog-fashion-show.md",
+        "Stories/S016-neet-and-buddy-learn-gujarati.md",
+        "Stories/S017-bazaar-madness-a-practical-gujarati-lesson.md",
+        "Stories/S018-buddys-big-elocution-debacle.md",
+        "Stories/S019-the-great-mosquito-war.md",
+        "Stories/S020-the-great-nighttime-bark-off.md",
+        "Stories/S021-the-bittersweet-goodbye.md",
+        "Stories/S022-the-lounge-and-airport-madness.md",
+        "Stories/S023-the-business-class-upgrade-disaster.md",
+        "Stories/S024-the-istanbul-layover-debacle.md",
+        "Stories/S025-the-return-to-the-u-s-immigration-madness.md",
+        "Stories/S026-the-homecoming-blues.md",
+        "Stories/S027-heathers-birthday-and-the-aquarium-chaos.md",
+        "Stories/S028-the-birthday-get-together-and-the-sheera-cake-saga.md",
+        "Stories/S029-winter-woes-and-the-battle-of-the-backyard.md",
+        "Stories/S030-the-temple-visit-and-the-great-gujarati-thali-feast.md",
+        "Stories/S031-buddys-big-dental-adventure-part-1.md",
+        "Stories/S032-buddys-big-dental-adventure-part-2.md",
+        "Stories/S033-buddy-and-the-golden-glory.md"
+      ],
+      "decision": "Split manuscript into 33 chapter units; repeated Chapter 34 retained once; reversed Chapter 10 provenance reunited; character/summary sections archived as historical source."
+    },
+    "02_Story_Library/Manuscripts/Full-Compilation-Text.md": {
+      "destinations": [
+        "Stories/S001-meet-neet-and-buddy.md",
+        "Stories/S002-the-flight-to-india.md",
+        "Stories/S003-arrival-in-india.md",
+        "Stories/S004-uttarayan-day-one.md",
+        "Stories/S005-uttarayan-night-magic.md",
+        "Stories/S006-the-bazaar-adventure.md",
+        "Stories/S007-the-monkey-menace.md",
+        "Stories/S008-garden-rebirth-with-chaos.md",
+        "Stories/S009-neet-the-general.md",
+        "Stories/S010-neets-gang-faces-the-night-stalkers.md",
+        "Stories/S011-neets-gang-to-the-rescue.md",
+        "Stories/S012-the-great-neighborhood-dog-games.md",
+        "Stories/S013-lights-camera-neet.md",
+        "Stories/S014-neet-and-buddys-barber-battle.md",
+        "Stories/S015-the-dazzling-dog-fashion-show.md",
+        "Stories/S016-neet-and-buddy-learn-gujarati.md",
+        "Stories/S017-bazaar-madness-a-practical-gujarati-lesson.md",
+        "Stories/S018-buddys-big-elocution-debacle.md",
+        "Stories/S019-the-great-mosquito-war.md",
+        "Stories/S020-the-great-nighttime-bark-off.md",
+        "Stories/S021-the-bittersweet-goodbye.md",
+        "Stories/S022-the-lounge-and-airport-madness.md",
+        "Stories/S023-the-business-class-upgrade-disaster.md",
+        "Stories/S024-the-istanbul-layover-debacle.md",
+        "Stories/S025-the-return-to-the-u-s-immigration-madness.md",
+        "Stories/S026-the-homecoming-blues.md",
+        "Stories/S027-heathers-birthday-and-the-aquarium-chaos.md",
+        "Stories/S028-the-birthday-get-together-and-the-sheera-cake-saga.md",
+        "Stories/S029-winter-woes-and-the-battle-of-the-backyard.md",
+        "Stories/S030-the-temple-visit-and-the-great-gujarati-thali-feast.md",
+        "Stories/S031-buddys-big-dental-adventure-part-1.md",
+        "Stories/S032-buddys-big-dental-adventure-part-2.md",
+        "Stories/S033-buddy-and-the-golden-glory.md"
+      ],
+      "decision": "Split manuscript into 33 chapter units; repeated Chapter 34 retained once; reversed Chapter 10 provenance reunited; character/summary sections archived as historical source."
+    },
+    "90_Archive/2026-10-03-intake/Neet & Buddy Chronicles.docx": {
+      "destinations": [
+        "Stories/S001-meet-neet-and-buddy.md",
+        "Stories/S002-the-flight-to-india.md",
+        "Stories/S003-arrival-in-india.md",
+        "Stories/S004-uttarayan-day-one.md",
+        "Stories/S005-uttarayan-night-magic.md",
+        "Stories/S006-the-bazaar-adventure.md",
+        "Stories/S007-the-monkey-menace.md",
+        "Stories/S008-garden-rebirth-with-chaos.md",
+        "Stories/S009-neet-the-general.md",
+        "Stories/S010-neets-gang-faces-the-night-stalkers.md",
+        "Stories/S011-neets-gang-to-the-rescue.md",
+        "Stories/S012-the-great-neighborhood-dog-games.md",
+        "Stories/S013-lights-camera-neet.md",
+        "Stories/S014-neet-and-buddys-barber-battle.md",
+        "Stories/S015-the-dazzling-dog-fashion-show.md",
+        "Stories/S016-neet-and-buddy-learn-gujarati.md",
+        "Stories/S017-bazaar-madness-a-practical-gujarati-lesson.md",
+        "Stories/S018-buddys-big-elocution-debacle.md",
+        "Stories/S019-the-great-mosquito-war.md",
+        "Stories/S020-the-great-nighttime-bark-off.md",
+        "Stories/S021-the-bittersweet-goodbye.md",
+        "Stories/S022-the-lounge-and-airport-madness.md",
+        "Stories/S023-the-business-class-upgrade-disaster.md",
+        "Stories/S024-the-istanbul-layover-debacle.md",
+        "Stories/S025-the-return-to-the-u-s-immigration-madness.md",
+        "Stories/S026-the-homecoming-blues.md",
+        "Stories/S027-heathers-birthday-and-the-aquarium-chaos.md",
+        "Stories/S028-the-birthday-get-together-and-the-sheera-cake-saga.md",
+        "Stories/S029-winter-woes-and-the-battle-of-the-backyard.md",
+        "Stories/S030-the-temple-visit-and-the-great-gujarati-thali-feast.md",
+        "Stories/S031-buddys-big-dental-adventure-part-1.md",
+        "Stories/S032-buddys-big-dental-adventure-part-2.md",
+        "Stories/S033-buddy-and-the-golden-glory.md"
+      ],
+      "decision": "Split manuscript into 33 chapter units; repeated Chapter 34 retained once; reversed Chapter 10 provenance reunited; character/summary sections archived as historical source."
+    },
+    "90_Archive/2026-10-03-intake/Chapter - The Festival of Lights.md": {
+      "destinations": [
+        "Stories/S069-the-festival-of-lights.md"
+      ],
+      "decision": "Exact intake duplicate of working source."
+    },
+    "90_Archive/2026-10-03-intake/Chapter - The Great Houston Expedition.md": {
+      "destinations": [
+        "Stories/S070-the-great-houston-expedition.md"
+      ],
+      "decision": "Exact intake duplicate of working source."
+    },
+    "02_Story_Library/.DS_Store": {
+      "destinations": [],
+      "decision": "Archive-only historical navigation, wrapper metadata, summary/character source or inspection debris; no unique narrative removed."
+    },
+    "02_Story_Library/README.md": {
+      "destinations": [],
+      "decision": "Archive-only historical navigation, wrapper metadata, summary/character source or inspection debris; no unique narrative removed."
+    },
+    "02_Story_Library/Story-Catalog.md": {
+      "destinations": [],
+      "decision": "Archive-only historical navigation, wrapper metadata, summary/character source or inspection debris; no unique narrative removed."
+    },
+    "02_Story_Library/ElevenLabs_Imports/dashboard-variants.png": {
+      "destinations": [],
+      "decision": "Archive-only historical navigation, wrapper metadata, summary/character source or inspection debris; no unique narrative removed."
+    },
+    "02_Story_Library/ElevenLabs_Imports/README.md": {
+      "destinations": [],
+      "decision": "Archive-only historical navigation, wrapper metadata, summary/character source or inspection debris; no unique narrative removed."
+    },
+    "02_Story_Library/ElevenLabs_Imports/Reconciliation.md": {
+      "destinations": [],
+      "decision": "Archive-only historical navigation, wrapper metadata, summary/character source or inspection debris; no unique narrative removed."
+    },
+    "02_Story_Library/ElevenLabs_Imports/Verification.json": {
+      "destinations": [],
+      "decision": "Archive-only historical navigation, wrapper metadata, summary/character source or inspection debris; no unique narrative removed."
+    },
+    "02_Story_Library/Legacy_Notes/Manuscript-Character-Descriptions.md": {
+      "destinations": [],
+      "decision": "Archive-only historical navigation, wrapper metadata, summary/character source or inspection debris; no unique narrative removed."
+    },
+    "02_Story_Library/Legacy_Notes/Summary.md": {
+      "destinations": [],
+      "decision": "Archive-only historical navigation, wrapper metadata, summary/character source or inspection debris; no unique narrative removed."
+    },
+    "03_Asset_Library/Animation/Buddy/hatch-buddy/comfort-and-motion/final/generation-prompts.md": {
+      "destinations": [
+        "Assets/Pose-Studies/source-prompts.md"
+      ],
+      "decision": "Consolidated verbatim final acting paragraphs; full chronological prompt compilation and dependencies archived"
+    },
+    "03_Asset_Library/Animation/Buddy/hatch-buddy/comfort-and-motion/final/spritesheet-extended.png": {
+      "destinations": [
+        "Assets/Pose-Studies/buddy-poses.png"
+      ],
+      "decision": "NBC storyboard acting study: chin-down reaction, ball anticipation, paw offer and gray-bed yawn; generated interpretation with magenta fringe, no final cutout clearance"
+    },
+    "03_Asset_Library/Animation/Neet/desktop-personality/final/spritesheet-extended.webp": {
+      "destinations": [
+        "Assets/Pose-Studies/neet-poses.webp"
+      ],
+      "decision": "NBC storyboard acting study: curl, stretch, toy attention, upright sit and listening tilt; generated interpretation with edge defects, no final cutout clearance"
+    },
+    "03_Asset_Library/Animation/Neet/desktop-personality/prompts/rows/idle.md": {
+      "destinations": [
+        "Assets/Pose-Studies/source-prompts.md"
+      ],
+      "decision": "Consolidated verbatim action paragraph; full prompt, identity boilerplate and generation history archived"
+    },
+    "03_Asset_Library/Animation/Neet/desktop-personality/prompts/rows/running.md": {
+      "destinations": [
+        "Assets/Pose-Studies/source-prompts.md"
+      ],
+      "decision": "Consolidated verbatim action paragraph; full prompt, identity boilerplate and generation history archived"
+    },
+    "03_Asset_Library/Animation/Neet/desktop-personality/prompts/rows/waiting.md": {
+      "destinations": [
+        "Assets/Pose-Studies/source-prompts.md"
+      ],
+      "decision": "Consolidated verbatim action paragraph; full prompt, identity boilerplate and generation history archived"
+    },
+    "03_Asset_Library/Animation/Neet/desktop-personality/prompts/rows/waving.md": {
+      "destinations": [
+        "Assets/Pose-Studies/source-prompts.md"
+      ],
+      "decision": "Consolidated verbatim action paragraph; full prompt, identity boilerplate and generation history archived"
+    },
+    "03_Asset_Library/Characters/Buddy/Buddy \u2014 Personality and Animation Reference.md": {
+      "destinations": [
+        "Characters/Buddy/README.md"
+      ],
+      "decision": "Duplicated personality reference condensed with separate narrative/source role"
+    },
+    "03_Asset_Library/Characters/Buddy/buddy-10.jpg": {
+      "destinations": [
+        "Characters/Buddy/Photos/buddy-10.jpg"
+      ],
+      "decision": "Standing head-and-upper-body lean and close-groomed face"
+    },
+    "03_Asset_Library/Characters/Buddy/buddy-11.jpg": {
+      "destinations": [
+        "Characters/Buddy/Photos/buddy-11.jpg"
+      ],
+      "decision": "Standing leg clearance, short-groomed ears and projecting muzzle"
+    },
+    "03_Asset_Library/Characters/Buddy/buddy-12.jpg": {
+      "destinations": [
+        "Characters/Buddy/Photos/buddy-12.jpg"
+      ],
+      "decision": "Ball interception airborne pose"
+    },
+    "03_Asset_Library/Characters/Buddy/buddy-15.jpg": {
+      "destinations": [
+        "Characters/Buddy/Photos/buddy-15.jpg"
+      ],
+      "decision": "Uncostumed upright sitting with close-groomed face"
+    },
+    "03_Asset_Library/Characters/Buddy/buddy-19.jpg": {
+      "destinations": [
+        "Characters/Buddy/Photos/buddy-19.jpg"
+      ],
+      "decision": "Chin-down resting with messy facial furnishings"
+    },
+    "03_Asset_Library/Characters/Buddy/buddy-20.jpg": {
+      "destinations": [
+        "Characters/Buddy/Photos/buddy-20.jpg"
+      ],
+      "decision": "True compact curl in bed"
+    },
+    "03_Asset_Library/Characters/Buddy/buddy-23.jpeg": {
+      "destinations": [
+        "Characters/Buddy/Photos/buddy-23.jpeg"
+      ],
+      "decision": "Complementary turned-head standing view"
+    },
+    "03_Asset_Library/Characters/Buddy/buddy-26.jpeg": {
+      "destinations": [
+        "Characters/Buddy/Photos/buddy-26.jpeg"
+      ],
+      "decision": "Messier head, muzzle projection and hanging fringe"
+    },
+    "03_Asset_Library/Characters/Buddy/buddy-28.jpeg": {
+      "destinations": [
+        "Characters/Buddy/Photos/buddy-28.jpeg"
+      ],
+      "decision": "Dorsal torso elongation and regional scruff"
+    },
+    "03_Asset_Library/Characters/Buddy/buddy-29.jpeg": {
+      "destinations": [
+        "Characters/Buddy/Photos/buddy-29.jpeg"
+      ],
+      "decision": "Side stride, torso length, leg clearance and tail curve"
+    },
+    "03_Asset_Library/Characters/Buddy/buddy-3.jpg": {
+      "destinations": [
+        "Characters/Buddy/Photos/buddy-3.jpg"
+      ],
+      "decision": "Natural yawn and toy contact"
+    },
+    "03_Asset_Library/Characters/Buddy/buddy-30.jpeg": {
+      "destinations": [
+        "Characters/Buddy/Photos/buddy-30.jpeg"
+      ],
+      "decision": "Supplemental chin-down rest and gray-bed silhouette only"
+    },
+    "03_Asset_Library/Characters/Buddy/buddy-4.jpg": {
+      "destinations": [
+        "Characters/Buddy/Photos/buddy-4.jpg"
+      ],
+      "decision": "Primary frontal standing and groomed facial pattern"
+    },
+    "03_Asset_Library/Characters/Buddy/buddy-5.jpg": {
+      "destinations": [
+        "Characters/Buddy/Photos/buddy-5.jpg"
+      ],
+      "decision": "Belly-up pose with curled forelegs"
+    },
+    "03_Asset_Library/Characters/Buddy/buddy-6.jpg": {
+      "destinations": [
+        "Characters/Buddy/Photos/buddy-6.jpg"
+      ],
+      "decision": "Upright sitting with retained beard and costume styling"
+    },
+    "03_Asset_Library/Characters/Buddy/visual-catalog/BUDDY_MASTER_VISUAL_SPECIFICATION.md": {
+      "destinations": [
+        "Characters/Buddy/README.md"
+      ],
+      "decision": "Physical identity, grooming distinctions and useful poses condensed; original detailed wording preserved in archive"
+    },
+    "03_Asset_Library/Characters/Neet/Neet \u2014 Personality and Animation Reference.md": {
+      "destinations": [
+        "Characters/Neet/README.md"
+      ],
+      "decision": "Duplicated personality reference condensed with separate narrative/source role"
+    },
+    "03_Asset_Library/Characters/Neet/neet-13.jpeg": {
+      "destinations": [
+        "Characters/Neet/Photos/neet-13.jpeg"
+      ],
+      "decision": "Wide yawn in whole reclining body"
+    },
+    "03_Asset_Library/Characters/Neet/neet-16.jpeg": {
+      "destinations": [
+        "Characters/Neet/Photos/neet-16.jpeg"
+      ],
+      "decision": "Frontal facial and broad-rooted ear identity"
+    },
+    "03_Asset_Library/Characters/Neet/neet-19.jpeg": {
+      "destinations": [
+        "Characters/Neet/Photos/neet-19.jpeg"
+      ],
+      "decision": "Primary body-level side standing and tail nub"
+    },
+    "03_Asset_Library/Characters/Neet/neet-22.jpeg": {
+      "destinations": [
+        "Characters/Neet/Photos/neet-22.jpeg"
+      ],
+      "decision": "Resting toy contact with paws/muzzle"
+    },
+    "03_Asset_Library/Characters/Neet/neet-24.jpeg": {
+      "destinations": [
+        "Characters/Neet/Photos/neet-24.jpeg"
+      ],
+      "decision": "Upright sit and subtle head tilt"
+    },
+    "03_Asset_Library/Characters/Neet/neet-25.jpeg": {
+      "destinations": [
+        "Characters/Neet/Photos/neet-25.jpeg"
+      ],
+      "decision": "Sternal rest with extended fine forelegs"
+    },
+    "03_Asset_Library/Characters/Neet/neet-27.jpeg": {
+      "destinations": [
+        "Characters/Neet/Photos/neet-27.jpeg"
+      ],
+      "decision": "Complementary outdoor side/rear-quarter standing"
+    },
+    "03_Asset_Library/Characters/Neet/neet-29.jpeg": {
+      "destinations": [
+        "Characters/Neet/Photos/neet-29.jpeg"
+      ],
+      "decision": "Frontal standing chest and leg clearance"
+    },
+    "03_Asset_Library/Characters/Neet/neet-30.jpeg": {
+      "destinations": [
+        "Characters/Neet/Photos/neet-30.jpeg"
+      ],
+      "decision": "Resting ball hold and muzzle contact"
+    },
+    "03_Asset_Library/Characters/Neet/neet-33.jpeg": {
+      "destinations": [
+        "Characters/Neet/Photos/neet-33.jpeg"
+      ],
+      "decision": "Unobstructed compact sleeping curl"
+    },
+    "03_Asset_Library/Characters/Neet/neet-36.jpeg": {
+      "destinations": [
+        "Characters/Neet/Photos/neet-36.jpeg"
+      ],
+      "decision": "Full-body belly-up pose"
+    },
+    "03_Asset_Library/Characters/Neet/neet-39.jpeg": {
+      "destinations": [
+        "Characters/Neet/Photos/neet-39.jpeg"
+      ],
+      "decision": "Chest-down rump-up stretch and tail nub"
+    },
+    "03_Asset_Library/Characters/Neet/neet-40.jpeg": {
+      "destinations": [
+        "Characters/Neet/Photos/neet-40.jpeg"
+      ],
+      "decision": "Supported crossed-paw recline"
+    },
+    "03_Asset_Library/Characters/Neet/neet-5.jpeg": {
+      "destinations": [
+        "Characters/Neet/Photos/neet-5.jpeg"
+      ],
+      "decision": "Unclothed upright sitting anatomy"
+    },
+    "03_Asset_Library/Characters/Neet/visual-catalog/NEET MASTER VISUAL SPECIFICATION.md": {
+      "destinations": [
+        "Characters/Neet/README.md"
+      ],
+      "decision": "Physical identity and useful poses condensed; original detailed wording preserved in archive"
+    },
+    "01_Story_Bible/Characters/Neet/Personality-and-Animation-Reference.md": {
+      "destinations": [
+        "Characters/Neet/README.md"
+      ],
+      "decision": "Concise personality and mannerisms retained alongside photo-based anatomy; desktop context stated; full source preserved externally"
+    },
+    "01_Story_Bible/Characters/Buddy/Personality-and-Animation-Reference.md": {
+      "destinations": [
+        "Characters/Buddy/README.md"
+      ],
+      "decision": "Concise personality and mannerisms retained alongside photo-based anatomy; desktop context stated; full source preserved externally"
+    },
+    "00_Studio/Catalog/reference-index.json": {
+      "destinations": [
+        "Characters/reference-policy.json"
+      ],
+      "decision": "Selected 29 originals with complete policies/ceilings/observations, five restriction/duplicate records, renamed active paths and archive provenance; unselected current-view observations recoverable in archive"
+    },
+    "README.md": {
+      "destinations": [
+        "README.md"
+      ],
+      "decision": "Condensed or rewritten current guidance; exact source preserved in archive."
+    },
+    "AGENTS.md": {
+      "destinations": [
+        "AGENTS.md"
+      ],
+      "decision": "Condensed or rewritten current guidance; exact source preserved in archive."
+    },
+    "01_Story_Bible/Characters.md": {
+      "destinations": [
+        "Studio/Writing.md",
+        "Studio/Open-Questions.md"
+      ],
+      "decision": "Condensed or rewritten current guidance; exact source preserved in archive."
+    },
+    "01_Story_Bible/Writing-Guidelines.md": {
+      "destinations": [
+        "Studio/Writing.md"
+      ],
+      "decision": "Condensed or rewritten current guidance; exact source preserved in archive."
+    },
+    "01_Story_Bible/Canon-and-Open-Questions.md": {
+      "destinations": [
+        "Studio/Open-Questions.md"
+      ],
+      "decision": "Condensed or rewritten current guidance; exact source preserved in archive."
+    },
+    "01_Story_Bible/Series-Overview.md": {
+      "destinations": [
+        "Studio/Writing.md"
+      ],
+      "decision": "Condensed or rewritten current guidance; exact source preserved in archive."
+    },
+    "00_Studio/Production-Workflow.md": {
+      "destinations": [
+        "Studio/Production.md",
+        "Studio/episode-template.json"
+      ],
+      "decision": "Condensed or rewritten current guidance; exact source preserved in archive."
+    },
+    "04_Productions/NBC-X001-night-shift/06_Review/quality-correction-v001.md": {
+      "destinations": [
+        "Productions/README.md"
+      ],
+      "decision": "Condensed or rewritten current guidance; exact source preserved in archive."
+    }
+  },
+  "revision_snapshots": [
+    {
+      "purpose": "Pre-refinement full current collection; all 70 working stories and alternatives before authorized editorial and illustration work.",
+      "date": "2026-10-03",
+      "archive": "/Users/sagar/Documents/ChatGPT/NBC_Archives/NBC-before-refinement-2026-10-03_200659.tar.gz",
+      "manifest": "/Users/sagar/Documents/ChatGPT/NBC_Archives/NBC-before-refinement-2026-10-03_200659.manifest.json",
+      "verification": "/Users/sagar/Documents/ChatGPT/NBC_Archives/NBC-before-refinement-2026-10-03_200659.verification.json",
+      "archive_sha256": "b4094b2f96b14bdb1e6b9595042c0bd9a0a06a3d39ef66ec818fff483298828f",
+      "verified_files": 123
+    },
+    {
+      "purpose": "Full current edition before expanded second comedy pass and multiple-illustration commission; all prior evidence preserved.",
+      "date": "2026-10-03",
+      "filename_timezone": "UTC",
+      "archive": "/Users/sagar/Documents/ChatGPT/NBC_Archives/NBC-before-expanded-refinement-2026-10-04_035505Z.tar.gz",
+      "manifest": "/Users/sagar/Documents/ChatGPT/NBC_Archives/NBC-before-expanded-refinement-2026-10-04_035505Z.manifest.json",
+      "verification": "/Users/sagar/Documents/ChatGPT/NBC_Archives/NBC-before-expanded-refinement-2026-10-04_035505Z.verification.json",
+      "archive_sha256": "79318ed33135dae5da755cf94214dcde974c3a494e39c217d16cf0ff626c5358",
+      "verified_files": 509
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "episode": "E042-the-day-the-bark-stood-still",
+  "reviewer": "editor_early independent visual reviewer",
+  "independence": "Reviewer did not generate or edit these images.",
+  "date": "2026-10-03",
+  "status": "ready_for_integration",
+  "story": {
+    "path": "Stories/S042-the-day-the-bark-stood-still.md",
+    "sha256": "125096d12bca33ad1dd1524200bcb9e0861f60a072b8a29d8a0ba51f9c7fbd13",
+    "complete_revised_text_read": true
+  },
+  "images": [
+    {
+      "path": "Productions/E042-the-day-the-bark-stood-still/rough-v001.png",
+      "sha256": "26c26d180572cfae1ddce2ba89ed693c014ad33df0e4e5d3bfb457f645a16832",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "kind": "rough",
+      "inspection": "Opened complete actual image at native resolution using original detail; no thumbnail-only assessment.",
+      "decision": "staging_reviewed",
+      "findings": [
+        "Complete drawn yard/fence/patio staging inspected. Both dogs connected and supported; gesture contrast clear. Body hatching must be smoothed in finish."
+      ]
+    },
+    {
+      "path": "Productions/E042-the-day-the-bark-stood-still/illustration-v001.png",
+      "sha256": "d92312252cbff76638282182d02ddcb15886ea749b10d29ddece6abe8e1ecff4",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "kind": "finished",
+      "inspection": "Opened complete actual image at native resolution using original detail; no thumbnail-only assessment.",
+      "decision": "needs_rework",
+      "findings": [
+        "Neet shoulder/back retains long wavy fur strokes and Buddy neck/back has swept furry bands. Needs smooth tonal wash with fine non-directional grain matching close coats, preserving Buddy face/ear furnishing.",
+        "Neet acorn sniff has four attached fine legs, supported paws, full narrow body and tiny nub; Buddy elongated body and substantial legs ground his counter-bark. No fused or duplicated limbs.",
+        "Both retrievers have neck/chest tops above fence and are coherent background opponents. Acorn is under nose, not eaten; coffee/smoothie/toast and patio stage agree with complete story. Calm foreground refusal against noisy Buddy reversal reads clearly."
+      ]
+    },
+    {
+      "path": "Productions/E042-the-day-the-bark-stood-still/illustration-v002.png",
+      "sha256": "9f1bc4d3fef0f89a0257b4c3d457b594cd2131c83b97782e9d53e66341a9e558",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "kind": "finished",
+      "inspection": "Actual candidate inspected native resolution and directly compared with actual reopened accepted E001v002/E037v002; threshold reconciled to distinguish nondirectional paint grain from longer directional fur and feathered contours.",
+      "decision": "ready_for_integration",
+      "findings": [
+        "After direct native comparison with accepted E001v002 and E037v002, remaining low-relief looped pattern is nondirectional wash/paper texture shared by scene surfaces, not a material longer-coat silhouette or strand field. The conspicuous directional body bands of v001 are reduced; smooth close-body interpretation is adequate.",
+        "Existing staging/body support and story-specific acting remain intact. Regional Buddy face/ear furnishings retained; no new geometry defect.",
+        "Buddy neck bands now read broad tonal form with close contour rather than long swept hairs; Neet lowered neck and acorn stance retain smooth outline, full trunk and four supports. Calm versus barking reversal remains visible."
+      ]
+    }
+  ],
+  "reference_evidence": [
+    {
+      "id": "N19",
+      "path": "Characters/Neet/Photos/neet-19.jpeg",
+      "sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+      "same_exposure_group": null,
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "styling",
+          "standing_pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Primary standing body proportions, paws, hocks and stub silhouette; head is not a pure profile.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Head rotated; far limbs overlap; uncalibrated camera offers no measurements; room light subdued"
+        ],
+        "inspection_sha256": "b2c6db0a5af6a885d993cbd986cc2759b9461e693fbcabd8aa96bce1eb5ea901",
+        "source_sha256": "29aa7ac22c1e8c390e63a35fcacea8573d87d64216ff35e0b2fd3743ffd6d6d9",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N19.json"
+      },
+      "role": "Neet side body, fine legs, full trunk, near-flush nub; head turned/far legs overlap."
+    },
+    {
+      "id": "N29",
+      "path": "Characters/Neet/Photos/neet-29.jpeg",
+      "sha256": "dedcc7d8bcbc5da7e2441352200025606fc971644d0cbacd24e8465db8dcdc16",
+      "same_exposure_group": null,
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "styling",
+          "standing_pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Primary frontal standing proportions, leg slenderness, head/body scale and chest markings.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Body depth foreshortened; tail hidden; light/shadow affect colors; exact ratios unknown"
+        ],
+        "inspection_sha256": "af30873f7f392d2503a668667ed619b8d183d685403e25977ce3fe23d9359802",
+        "source_sha256": "dedcc7d8bcbc5da7e2441352200025606fc971644d0cbacd24e8465db8dcdc16",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Neet/visual-catalog/PER-IMAGE-CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/N29.json"
+      },
+      "role": "Neet frontal standing chest and legs; foreshortened body, tail hidden."
+    },
+    {
+      "id": "B29",
+      "path": "Characters/Buddy/Photos/buddy-29.jpeg",
+      "sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+      "same_exposure_group": null,
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Best available lateral body-length, tail-length/carriage and walking-pose reference; weak fine landmarks because blurred and not neutral standing.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Motion blur and lifted legs; cannot establish neutral back slope, exact leg ratios or gait timing from still"
+        ],
+        "inspection_sha256": "c671664ca5e4e2e07bfd3049ea641c3a1645742fb8290494e67a17f7ed213ea9",
+        "source_sha256": "c31d18ab3aefe91a7e51516cde23ca6262ceec8a0789baee1d315b0ae9c9156d",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B29.json"
+      },
+      "role": "Buddy lateral torso and tail, blurred stride; no neutral ratios/timing."
+    },
+    {
+      "id": "B04",
+      "path": "Characters/Buddy/Photos/buddy-4.jpg",
+      "sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+      "same_exposure_group": "B04-B24",
+      "effective_use_policy": {
+        "allowed_uses": [
+          "visible_anatomy",
+          "styling",
+          "standing_pose"
+        ],
+        "provenance": "cataloged_photo",
+        "limitations": [
+          "Excellent front-leg clearance, chest pattern and groomed face; useful standing stance. Same photographic exposure as B24 for evidence counting.",
+          "Only visible regions; a still photograph establishes no motion timing, exact dimensions or psychological state.",
+          "Photograph supports only visible regions; occluded anatomy must come from another suitable original.",
+          "No calibrated measurement, exact breed ancestry, weight, color palette, movement timing or psychological state is established.",
+          "Identity is visual correspondence to supplied named photo collection; acquisition/editing provenance and owner approval are not independently proved.",
+          "Tail partly cropped at left; grass hides toes; perspective foreshortens torso; B24 same exposure in separate encoding"
+        ],
+        "inspection_sha256": "dd7da906a0e61eb4cdbd84eac3c97fea3318813d5a874c4e6cd4d8d3ba890797",
+        "source_sha256": "64d2ce7e38b00e9da6b7a589d8136b71578de0d9e97abd8aa4a8522476dfe969",
+        "scope": "Derived current selection suitability; historical permission and provenance ceilings remain in force.",
+        "archived_evidence_path": "03_Asset_Library/Characters/Buddy/visual-catalog/PER_IMAGE_CATALOG.md",
+        "archived_inspection_record": "00_Studio/Audit-2026-10-03/photos/individual/B04.json"
+      },
+      "role": "Buddy tidy photographed face/ears, chest and substantial legs; grass hides toes, torso foreshortened."
+    }
+  ],
+  "reference_inspection": "Opened original references and native-pixel detail crops during model review; checked same source SHA-256 and complete effective policies against this generation record. See Productions/Library-Refinement/model-independent-review.json for inspected files, native dimensions and crop evidence.",
+  "restrictions": [
+    "N35 excluded from anatomy; B08 styling only; B25 unavailable; B30 supplemental rest only. None is used in this image.",
+    "One exposure counts once; generated models support style/acting only.",
+    "No exact size, breed, motion timing, palette or human likeness is canonized."
+  ],
+  "placement": "Buddy’s eyes widened. “Wait— are we… not barking?” The Bark Sisters were still howling like sirens. He glanced at the quiet Neet, then at the fence. Someone had to answer. “Nope. Sorry. I’m going in.” And off he went, barking his best counter-attack.",
+  "limitations": [],
+  "complete_illustrated_reading": {
+    "status": "reviewed",
+    "story_sha256": "336efb9ac5b00069a1bdd3ef1855c3f9aebd7af6bb744132ffb60c43249bed62",
+    "evidence": [
+      "Stories/S042-the-day-the-bark-stood-still.md",
+      "http://127.0.0.1:53761/Stories/S042-the-day-the-bark-stood-still.md"
+    ],
+    "inspection": "Read complete rendered story text and inspected actual embedded image at approximately960 px width in independent reader tab.",
+    "observations": [
+      "Complete rendered story read from Center Mode training through acorn/barking reversal, meal/nap, sunset stairs, pav bhaji and final quiet response. Image follows Buddy counter-attack and precedes Neet low supportive woof.",
+      "At approximately 960 px width acorn and separated attentions remain readable; quiet Neet foreground and Buddy answering neighbors carry the specific reversal, echoed by closing refusal to answer another bark."
+    ]
+  },
+  "approval": "unapproved",
+  "publication": "not_published",
+  "unresolved_findings": []
+}

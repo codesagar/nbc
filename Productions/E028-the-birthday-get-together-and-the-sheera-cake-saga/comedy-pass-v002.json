@@ -1,0 +1,102 @@
+{
+  "story": "S028",
+  "date": "2026-10-04",
+  "status": "second_pass_complete_pending_independent_reading",
+  "sources": [
+    {
+      "member": "02_Story_Library/Legacy_Chapters/29-the-birthday-get-together-and-the-sheera-cake-saga.md",
+      "sha256": "4baf1da22488f93c215d4c71b8fa8b95047f223b8d39b457d5e02e7a50cd4634",
+      "read": "complete"
+    },
+    {
+      "member": "90_Archive/2026-10-03-elevenlabs-recovery/Raw_Exports/reader-40.txt",
+      "sha256": "8a74b696ee78cf2973e24562c6e1c3e027033a32873d91e6122298f166875043",
+      "read": "complete"
+    }
+  ],
+  "previous_working": {
+    "path": "/Users/sagar/Documents/ChatGPT/NBC_Archives/refinement-work/S028-before-expanded.md",
+    "sha256": "810120708cd03009e4a8676bc0a33becc50a9f7321cb3682eb88c1c6543d90b5",
+    "read": "complete"
+  },
+  "connected_reads": [
+    {
+      "path": "Stories/S027-heathers-birthday-and-the-aquarium-chaos.md",
+      "sha256": "a4f5836ead946e4c9050f39d79f11d55033b96e9398333f47f48b48beabad4c0",
+      "read": "complete"
+    },
+    {
+      "path": "Stories/S029-winter-woes-and-the-battle-of-the-backyard.md",
+      "sha256": "09f281f6ad9577df6b743a309a7a48c616e0d3a06a84630a32fb43c930cb418c",
+      "read": "complete"
+    }
+  ],
+  "current_story_sha256": "9b7c53b899e8990fb3336be4ccb07f28b3ee8e61455c705e804ecd84366d9d69",
+  "central_comic_situation": "Two conflicting methods of winning nervous guests converge at the sheera cake; the trustworthy dog steals quietly.",
+  "intended_feeling": "Affectionate social chaos followed by acceptance.",
+  "wants": {
+    "Neet": "Be adored immediately and reach dessert; misunderstands fear as enthusiastic reception.",
+    "Buddy": "Secure a willing ear-scratcher by restraint; cake temptation makes him compromise his hard-won reputation."
+  },
+  "preserved": [
+    "Aquarium same-day callback and historical Heather household",
+    "Quarantine protest and Shakespeare line",
+    "Charm/whining/heist three-step plan",
+    "Priya ankle lick and friendship/bonding misread",
+    "Arjun semolina-ghee-cardamom cake",
+    "Chair-to-table Neet theft and quiet Buddy theft",
+    "Oh my DOG; Arjun respect; regret nothing; divine; happy birthday to me",
+    "Cake relocated to counter and warm acceptance"
+  ],
+  "changes": [
+    "Buddy seeks his own introduction, keeps distance to earn willing affection.",
+    "Neet decides to improve on sitting; Priya pulls both feet onto couch, mistaken as invitation.",
+    "Buddy nose leaves conversation before rest of him; a silent beat separates earned trust from quiet theft.",
+    "Specified chair hindpaw/table forepaw route clarifies original quiet theft.",
+    "New friend sees crumb, resumes ear scratch; step three/step one callback resolves different priorities."
+  ],
+  "alternatives": {
+    "legacy_ch29": "Full complete primary witness read.",
+    "reader40": "Full source independently read; same incidents, dialogue and ending. Formatting/capture differences do not warrant separate variant or duplicate illustration.",
+    "distinct_narrative_alternatives": 0
+  },
+  "complete_reread_comparison": {
+    "completed": true,
+    "method": "Full current primary reread after embeds, against complete pre-expanded working text and both original witnesses.",
+    "findings": [
+      "All distinctive incidents retained in original order; no Sagar inserted into historical Heather setting.",
+      "Previous humane guest-room doorway change retained instead of original scruff dragging; prior ambiguous regret nothing attribution remains Neet.",
+      "Added roughly 150 words supports Buddy causal choices and ending; removed redundant generic no-chill sentence after concrete decision.",
+      "No losses to main jokes; image anchors precede pickup and cake relocation; each image contributes new state.",
+      "Writer reread is not fresh rendered-reading clearance."
+    ]
+  },
+  "illustration_plan": [
+    {
+      "file": "setup-v004.png",
+      "after": "Neet threw himself on the floor. \"I refuse to be silenced!\"",
+      "contribution": "Physical protest versus calm waiting."
+    },
+    {
+      "file": "ankle-v003.png",
+      "after": "Priya lifted both feet onto the couch. Neet took this as room being made for him.",
+      "contribution": "Defensive human retreat and oblivious canine pride before pickup."
+    },
+    {
+      "file": "cake-v002.png",
+      "after": "He did it quietly, as though volume were the objection.",
+      "contribution": "Both thefts with visibly different methods; later counter move not shown."
+    }
+  ],
+  "image_count_rationale": "Three distinct brief-story beats cover setup, social reversal, dessert climax; no repetitive fourth image interrupts the short ear-scratch ending.",
+  "approval": "unapproved",
+  "publication": "not_published",
+  "visual_correction_history": [
+    {
+      "finding": "S028-V002-01",
+      "previous_story_sha256": "ce7f0782d15a409fcd0e12c7dcdd838f29cdc8f321e58741455522346e9e4dd3",
+      "change": "Only embedded setup image path changed to v004; narrative prose unchanged.",
+      "status": "pending_independent_reinspection"
+    }
+  ]
+}
