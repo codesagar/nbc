@@ -2,7 +2,7 @@
   "id": "E002-the-flight-to-india",
   "status": "reviewed_unapproved",
   "stage": "complete_reading",
-  "next_action": "Included in expanded delivery-v001; owner adoption and publication remain separate, ungranted decisions.",
+  "next_action": "Published reader and source repository verified; future revisions follow the documented edit, rebuild, review and publish workflow.",
   "source": {
     "path": "Stories/S002-the-flight-to-india.md",
     "sha256": "8ff31ff8ade5a103d5423b446c79a806e7128a76b9099b1baecb5584ba988dea",
@@ -517,8 +517,10 @@
     "evidence": null
   },
   "publication": {
-    "state": "not_published",
-    "destination": null
+    "state": "published",
+    "destination": "https://codesagar.github.io/nbc/stories/S002-the-flight-to-india.html",
+    "date": "2026-10-04",
+    "evidence": "Studio/Publication.json"
   },
   "expanded_pass": {
     "record": "Productions/E002-the-flight-to-india/comedy-pass-v002.json",

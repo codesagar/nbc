@@ -2,7 +2,7 @@
   "id": "E024-the-istanbul-layover-debacle",
   "status": "reviewed_unapproved",
   "stage": "complete_reading",
-  "next_action": "Included in expanded delivery-v001; owner adoption and publication remain separate, ungranted decisions.",
+  "next_action": "Published reader and source repository verified; future revisions follow the documented edit, rebuild, review and publish workflow.",
   "source": {
     "path": "Stories/S024-the-istanbul-layover-debacle.md",
     "sha256": "3dcccf8e752fc6bc65f9f44d41b5b997f416eaaebfc1c2da078aaba8ad65acdc",
@@ -509,8 +509,10 @@
     "evidence": null
   },
   "publication": {
-    "state": "not_published",
-    "destination": null
+    "state": "published",
+    "destination": "https://codesagar.github.io/nbc/stories/S024-the-istanbul-layover-debacle.html",
+    "date": "2026-10-04",
+    "evidence": "Studio/Publication.json"
   },
   "expanded_pass": {
     "status": "complete"

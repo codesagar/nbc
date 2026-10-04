@@ -2,7 +2,7 @@
   "id": "E010-neets-gang-faces-the-night-stalkers",
   "status": "reviewed_unapproved",
   "stage": "complete_reading",
-  "next_action": "Included in expanded delivery-v001; owner adoption and publication remain separate, ungranted decisions.",
+  "next_action": "Published reader and source repository verified; future revisions follow the documented edit, rebuild, review and publish workflow.",
   "source": {
     "path": "Stories/S010-neets-gang-faces-the-night-stalkers.md",
     "sha256": "eff33c741a38092132cc23ed02382d8527b576cf9e7764a7c0f8e975c3362a79",
@@ -479,8 +479,10 @@
     "evidence": null
   },
   "publication": {
-    "state": "not_published",
-    "destination": null
+    "state": "published",
+    "destination": "https://codesagar.github.io/nbc/stories/S010-neets-gang-faces-the-night-stalkers.html",
+    "date": "2026-10-04",
+    "evidence": "Studio/Publication.json"
   },
   "expanded_pass": {
     "version": 2,

@@ -2,7 +2,7 @@
   "id": "E030-the-temple-visit-and-the-great-gujarati-thali-feast",
   "status": "reviewed_unapproved",
   "stage": "complete_reading",
-  "next_action": "Included in expanded delivery-v001; owner adoption and publication remain separate, ungranted decisions.",
+  "next_action": "Published reader and source repository verified; future revisions follow the documented edit, rebuild, review and publish workflow.",
   "source": {
     "path": "Stories/S030-the-temple-visit-and-the-great-gujarati-thali-feast.md",
     "sha256": "a363cca7a93db85dd820b93f8d069f1550ff2a45a6b9cb055669960760a1dc78",
@@ -589,8 +589,10 @@
     "evidence": null
   },
   "publication": {
-    "state": "not_published",
-    "destination": null
+    "state": "published",
+    "destination": "https://codesagar.github.io/nbc/stories/S030-the-temple-visit-and-the-great-gujarati-thali-feast.html",
+    "date": "2026-10-04",
+    "evidence": "Studio/Publication.json"
   },
   "historical_expanded_stage_evidence": [
     {

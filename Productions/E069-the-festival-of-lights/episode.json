@@ -2,7 +2,7 @@
   "id": "E069-the-festival-of-lights",
   "status": "reviewed_unapproved",
   "stage": "complete_reading",
-  "next_action": "Included in expanded delivery-v001; owner adoption and publication remain separate, ungranted decisions.",
+  "next_action": "Published reader and source repository verified; future revisions follow the documented edit, rebuild, review and publish workflow.",
   "source": {
     "path": "Stories/S069-the-festival-of-lights.md",
     "sha256": "ccb9990ee624cf427ee4d89c1b3d18c4f7c5cb2db9c9ee16c5b4aea07d958352",
@@ -402,8 +402,10 @@
     "evidence": null
   },
   "publication": {
-    "state": "not_published",
-    "destination": null
+    "state": "published",
+    "destination": "https://codesagar.github.io/nbc/stories/S069-the-festival-of-lights.html",
+    "date": "2026-10-04",
+    "evidence": "Studio/Publication.json"
   },
   "recovery": {
     "archive": "/Users/sagar/Documents/ChatGPT/NBC_Archives/NBC-before-refinement-2026-10-03_200659.tar.gz",

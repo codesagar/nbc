@@ -2,7 +2,7 @@
   "id": "E011-neets-gang-to-the-rescue",
   "status": "reviewed_unapproved",
   "stage": "complete_reading",
-  "next_action": "Included in expanded delivery-v001; owner adoption and publication remain separate, ungranted decisions.",
+  "next_action": "Published reader and source repository verified; future revisions follow the documented edit, rebuild, review and publish workflow.",
   "source": {
     "path": "Stories/S011-neets-gang-to-the-rescue.md",
     "sha256": "67831909b2d400d15d34e4009840e3b4628af77be6b13c68020575b99c2d3cc9",
@@ -483,8 +483,10 @@
     "evidence": null
   },
   "publication": {
-    "state": "not_published",
-    "destination": null
+    "state": "published",
+    "destination": "https://codesagar.github.io/nbc/stories/S011-neets-gang-to-the-rescue.html",
+    "date": "2026-10-04",
+    "evidence": "Studio/Publication.json"
   },
   "expanded_pass": {
     "status": "complete"

@@ -2,7 +2,7 @@
   "id": "E026-the-homecoming-blues",
   "status": "reviewed_unapproved",
   "stage": "complete_reading",
-  "next_action": "Included in expanded delivery-v001; owner adoption and publication remain separate, ungranted decisions.",
+  "next_action": "Published reader and source repository verified; future revisions follow the documented edit, rebuild, review and publish workflow.",
   "source": {
     "path": "Stories/S026-the-homecoming-blues.md",
     "sha256": "bdb39b612ba59323a5144b95f02d975ffced3c402d5c5ca2c8ad29e764018c38",
@@ -350,8 +350,10 @@
     "evidence": null
   },
   "publication": {
-    "state": "not_published",
-    "destination": null
+    "state": "published",
+    "destination": "https://codesagar.github.io/nbc/stories/S026-the-homecoming-blues.html",
+    "date": "2026-10-04",
+    "evidence": "Studio/Publication.json"
   },
   "expanded_pass": {
     "comedy_record": "Productions/E026-the-homecoming-blues/comedy-pass-v002.json",

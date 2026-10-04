@@ -2,7 +2,7 @@
   "id": "E064-the-great-paneer-balcony-scandal",
   "status": "reviewed_unapproved",
   "stage": "complete_reading",
-  "next_action": "Included in expanded delivery-v001; owner adoption and publication remain separate, ungranted decisions.",
+  "next_action": "Published reader and source repository verified; future revisions follow the documented edit, rebuild, review and publish workflow.",
   "source": {
     "path": "Stories/S064-the-great-paneer-balcony-scandal.md",
     "sha256": "198413a49287f88206290c5e8ad4e5fec277e7e62a56ca6e087c320fdcb191c8",
@@ -488,8 +488,10 @@
     "evidence": null
   },
   "publication": {
-    "state": "not_published",
-    "destination": null
+    "state": "published",
+    "destination": "https://codesagar.github.io/nbc/stories/S064-the-great-paneer-balcony-scandal.html",
+    "date": "2026-10-04",
+    "evidence": "Studio/Publication.json"
   },
   "recovery": {
     "archive": "/Users/sagar/Documents/ChatGPT/NBC_Archives/NBC-before-refinement-2026-10-03_200659.tar.gz",

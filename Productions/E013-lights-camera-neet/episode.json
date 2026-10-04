@@ -2,7 +2,7 @@
   "id": "E013-lights-camera-neet",
   "status": "reviewed_unapproved",
   "stage": "complete_reading",
-  "next_action": "Included in expanded delivery-v001; owner adoption and publication remain separate, ungranted decisions.",
+  "next_action": "Published reader and source repository verified; future revisions follow the documented edit, rebuild, review and publish workflow.",
   "source": {
     "path": "Stories/S013-lights-camera-neet.md",
     "sha256": "3971caf205a1b2f84ddac61a7e7511d364a5a807e8d7312669344f278b5e519a",
@@ -434,8 +434,10 @@
     "evidence": null
   },
   "publication": {
-    "state": "not_published",
-    "destination": null
+    "state": "published",
+    "destination": "https://codesagar.github.io/nbc/stories/S013-lights-camera-neet.html",
+    "date": "2026-10-04",
+    "evidence": "Studio/Publication.json"
   },
   "integration_editorial_repairs": [
     {

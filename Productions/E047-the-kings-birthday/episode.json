@@ -2,7 +2,7 @@
   "id": "E047-the-kings-birthday",
   "status": "reviewed_unapproved",
   "stage": "complete_reading",
-  "next_action": "Included in expanded delivery-v001; owner adoption and publication remain separate, ungranted decisions.",
+  "next_action": "Published reader and source repository verified; future revisions follow the documented edit, rebuild, review and publish workflow.",
   "source": {
     "path": "Stories/S047-the-kings-birthday.md",
     "sha256": "198d2e2b8164b29066f50b5be70814cd2ae0580036104c9df53b34658b437ff8",
@@ -258,8 +258,10 @@
     "evidence": null
   },
   "publication": {
-    "state": "not_published",
-    "destination": null
+    "state": "published",
+    "destination": "https://codesagar.github.io/nbc/stories/S047-the-kings-birthday.html",
+    "date": "2026-10-04",
+    "evidence": "Studio/Publication.json"
   },
   "recovery": {
     "archive": "/Users/sagar/Documents/ChatGPT/NBC_Archives/NBC-before-refinement-2026-10-03_200659.tar.gz",

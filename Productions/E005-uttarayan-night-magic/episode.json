@@ -2,7 +2,7 @@
   "id": "E005-uttarayan-night-magic",
   "status": "reviewed_unapproved",
   "stage": "complete_reading",
-  "next_action": "Included in expanded delivery-v001; owner adoption and publication remain separate, ungranted decisions.",
+  "next_action": "Published reader and source repository verified; future revisions follow the documented edit, rebuild, review and publish workflow.",
   "source": {
     "path": "Stories/S005-uttarayan-night-magic.md",
     "sha256": "ec73f35b1522f9aad0d43004b3b02e76bfae1793ec6f02dbd1fa02a63d047ef0",
@@ -499,8 +499,10 @@
     "evidence": null
   },
   "publication": {
-    "state": "not_published",
-    "destination": null
+    "state": "published",
+    "destination": "https://codesagar.github.io/nbc/stories/S005-uttarayan-night-magic.html",
+    "date": "2026-10-04",
+    "evidence": "Studio/Publication.json"
   },
   "expanded_pass": {
     "version": 2,

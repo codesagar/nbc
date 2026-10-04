@@ -2,7 +2,7 @@
   "id": "E023-the-business-class-upgrade-disaster",
   "status": "reviewed_unapproved",
   "stage": "complete_reading",
-  "next_action": "Included in expanded delivery-v001; owner adoption and publication remain separate, ungranted decisions.",
+  "next_action": "Published reader and source repository verified; future revisions follow the documented edit, rebuild, review and publish workflow.",
   "source": {
     "path": "Stories/S023-the-business-class-upgrade-disaster.md",
     "sha256": "2c91b62345d78312e0b1b6016439ecf9b77a7943c64edd063921e671fadded00",
@@ -459,8 +459,10 @@
     "evidence": null
   },
   "publication": {
-    "state": "not_published",
-    "destination": null
+    "state": "published",
+    "destination": "https://codesagar.github.io/nbc/stories/S023-the-business-class-upgrade-disaster.html",
+    "date": "2026-10-04",
+    "evidence": "Studio/Publication.json"
   },
   "expanded_pass": {
     "status": "complete"

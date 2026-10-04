@@ -2,7 +2,7 @@
   "id": "E018-buddys-big-elocution-debacle",
   "status": "reviewed_unapproved",
   "stage": "complete_reading",
-  "next_action": "Included in expanded delivery-v001; owner adoption and publication remain separate, ungranted decisions.",
+  "next_action": "Published reader and source repository verified; future revisions follow the documented edit, rebuild, review and publish workflow.",
   "source": {
     "path": "Stories/S018-buddys-big-elocution-debacle.md",
     "sha256": "b61a241040bc610e848d0b9c541ab788de72c3449cc2d0b1d0f3b2d02bea1def",
@@ -510,8 +510,10 @@
     "evidence": null
   },
   "publication": {
-    "state": "not_published",
-    "destination": null
+    "state": "published",
+    "destination": "https://codesagar.github.io/nbc/stories/S018-buddys-big-elocution-debacle.html",
+    "date": "2026-10-04",
+    "evidence": "Studio/Publication.json"
   },
   "expanded_pass": {
     "status": "complete"

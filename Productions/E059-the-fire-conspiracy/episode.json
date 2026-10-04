@@ -2,7 +2,7 @@
   "id": "E059-the-fire-conspiracy",
   "status": "reviewed_unapproved",
   "stage": "complete_reading",
-  "next_action": "Included in expanded delivery-v001; owner adoption and publication remain separate, ungranted decisions.",
+  "next_action": "Published reader and source repository verified; future revisions follow the documented edit, rebuild, review and publish workflow.",
   "source": {
     "path": "Stories/S059-the-fire-conspiracy.md",
     "sha256": "97f57f5e9efd0d2d4500f435a4a5c6a300b9240dba23873ae5fc37321ec34e9d",
@@ -460,8 +460,10 @@
     "evidence": null
   },
   "publication": {
-    "state": "not_published",
-    "destination": null
+    "state": "published",
+    "destination": "https://codesagar.github.io/nbc/stories/S059-the-fire-conspiracy.html",
+    "date": "2026-10-04",
+    "evidence": "Studio/Publication.json"
   },
   "recovery": {
     "archive": "/Users/sagar/Documents/ChatGPT/NBC_Archives/NBC-before-refinement-2026-10-03_200659.tar.gz",

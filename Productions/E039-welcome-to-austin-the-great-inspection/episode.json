@@ -2,7 +2,7 @@
   "id": "E039-welcome-to-austin-the-great-inspection",
   "status": "reviewed_unapproved",
   "stage": "complete_reading",
-  "next_action": "Included in expanded delivery-v001; owner adoption and publication remain separate, ungranted decisions.",
+  "next_action": "Published reader and source repository verified; future revisions follow the documented edit, rebuild, review and publish workflow.",
   "source": {
     "path": "Stories/S039-welcome-to-austin-the-great-inspection.md",
     "sha256": "e376117dc13b2c3b09a190e8c53421c706d09769501b4009dd0af995c3448f78",
@@ -440,8 +440,10 @@
     "evidence": null
   },
   "publication": {
-    "state": "not_published",
-    "destination": null
+    "state": "published",
+    "destination": "https://codesagar.github.io/nbc/stories/S039-welcome-to-austin-the-great-inspection.html",
+    "date": "2026-10-04",
+    "evidence": "Studio/Publication.json"
   },
   "recovery": {
     "archive": "/Users/sagar/Documents/ChatGPT/NBC_Archives/NBC-before-refinement-2026-10-03_200659.tar.gz",

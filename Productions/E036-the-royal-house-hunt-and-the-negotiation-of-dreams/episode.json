@@ -2,7 +2,7 @@
   "id": "E036-the-royal-house-hunt-and-the-negotiation-of-dreams",
   "status": "reviewed_unapproved",
   "stage": "complete_reading",
-  "next_action": "Included in expanded delivery-v001; owner adoption and publication remain separate, ungranted decisions.",
+  "next_action": "Published reader and source repository verified; future revisions follow the documented edit, rebuild, review and publish workflow.",
   "source": {
     "path": "Stories/S036-the-royal-house-hunt-and-the-negotiation-of-dreams.md",
     "sha256": "372bd70e78a553d24a247b72c0394396f23de691fbea8af8bec28850306aaf52",
@@ -495,8 +495,10 @@
     "evidence": null
   },
   "publication": {
-    "state": "not_published",
-    "destination": null
+    "state": "published",
+    "destination": "https://codesagar.github.io/nbc/stories/S036-the-royal-house-hunt-and-the-negotiation-of-dreams.html",
+    "date": "2026-10-04",
+    "evidence": "Studio/Publication.json"
   },
   "recovery": {
     "archive": "/Users/sagar/Documents/ChatGPT/NBC_Archives/NBC-before-refinement-2026-10-03_200659.tar.gz",

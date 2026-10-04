@@ -2,7 +2,7 @@
   "id": "E003-arrival-in-india",
   "status": "reviewed_unapproved",
   "stage": "complete_reading",
-  "next_action": "Included in expanded delivery-v001; owner adoption and publication remain separate, ungranted decisions.",
+  "next_action": "Published reader and source repository verified; future revisions follow the documented edit, rebuild, review and publish workflow.",
   "source": {
     "path": "Stories/S003-arrival-in-india.md",
     "sha256": "dc1b4ba2a42c5c0464381ae93fa63bf68fc66642ab4ef61f5ad47c3508ef7be7",
@@ -444,8 +444,10 @@
     "evidence": null
   },
   "publication": {
-    "state": "not_published",
-    "destination": null
+    "state": "published",
+    "destination": "https://codesagar.github.io/nbc/stories/S003-arrival-in-india.html",
+    "date": "2026-10-04",
+    "evidence": "Studio/Publication.json"
   },
   "expanded_comedy_pass": "Productions/E003-arrival-in-india/comedy-pass-v002.json",
   "expanded_artwork_record": "Productions/E003-arrival-in-india/artwork-additions-v002.json",

@@ -2,7 +2,7 @@
   "id": "E034-the-stealth-games-begin",
   "status": "reviewed_unapproved",
   "stage": "complete_reading",
-  "next_action": "Included in expanded delivery-v001; owner adoption and publication remain separate, ungranted decisions.",
+  "next_action": "Published reader and source repository verified; future revisions follow the documented edit, rebuild, review and publish workflow.",
   "source": {
     "path": "Stories/S034-the-stealth-games-begin.md",
     "sha256": "f913e5a788fa3135770893b6a1f6f66d044bfeb2b944c28ae19dbd570e65ce59",
@@ -671,8 +671,11 @@
     "evidence": null
   },
   "publication": {
-    "state": "not_published",
-    "destination": null
+    "state": "published",
+    "destination": "https://codesagar.github.io/nbc/stories/S034-the-stealth-games-begin.html",
+    "date": "2026-10-04",
+    "evidence": "Studio/Publication.json",
+    "alternative_destination": "https://codesagar.github.io/nbc/stories/S034-the-stealth-games-begin-alternative.html"
   },
   "required_artwork_variants": [
     "primary",

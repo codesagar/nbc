@@ -2,7 +2,7 @@
   "id": "E022-the-lounge-and-airport-madness",
   "status": "reviewed_unapproved",
   "stage": "complete_reading",
-  "next_action": "Included in expanded delivery-v001; owner adoption and publication remain separate, ungranted decisions.",
+  "next_action": "Published reader and source repository verified; future revisions follow the documented edit, rebuild, review and publish workflow.",
   "source": {
     "path": "Stories/S022-the-lounge-and-airport-madness.md",
     "sha256": "ce781519bf0d14423cc7896a5317a6b92fe852ddb920e06d841aac4c5908e9f3",
@@ -526,8 +526,10 @@
     "evidence": null
   },
   "publication": {
-    "state": "not_published",
-    "destination": null
+    "state": "published",
+    "destination": "https://codesagar.github.io/nbc/stories/S022-the-lounge-and-airport-madness.html",
+    "date": "2026-10-04",
+    "evidence": "Studio/Publication.json"
   },
   "expanded_pass": {
     "status": "complete"

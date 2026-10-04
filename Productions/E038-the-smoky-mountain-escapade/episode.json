@@ -2,7 +2,7 @@
   "id": "E038-the-smoky-mountain-escapade",
   "status": "reviewed_unapproved",
   "stage": "complete_reading",
-  "next_action": "Included in expanded delivery-v001; owner adoption and publication remain separate, ungranted decisions.",
+  "next_action": "Published reader and source repository verified; future revisions follow the documented edit, rebuild, review and publish workflow.",
   "source": {
     "path": "Stories/S038-the-smoky-mountain-escapade.md",
     "sha256": "5066e73e36dc75b54b0ebd2bf0ec009d1c9a8239dde8fa637498fce96718fd9e",
@@ -648,8 +648,11 @@
     "evidence": null
   },
   "publication": {
-    "state": "not_published",
-    "destination": null
+    "state": "published",
+    "destination": "https://codesagar.github.io/nbc/stories/S038-the-smoky-mountain-escapade.html",
+    "date": "2026-10-04",
+    "evidence": "Studio/Publication.json",
+    "alternative_destination": "https://codesagar.github.io/nbc/stories/S038-the-smoky-mountain-escapade-alternative.html"
   },
   "recovery": {
     "archive": "/Users/sagar/Documents/ChatGPT/NBC_Archives/NBC-before-refinement-2026-10-03_200659.tar.gz",

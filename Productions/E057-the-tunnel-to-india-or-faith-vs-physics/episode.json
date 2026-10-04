@@ -2,7 +2,7 @@
   "id": "E057-the-tunnel-to-india-or-faith-vs-physics",
   "status": "reviewed_unapproved",
   "stage": "complete_reading",
-  "next_action": "Included in expanded delivery-v001; owner adoption and publication remain separate, ungranted decisions.",
+  "next_action": "Published reader and source repository verified; future revisions follow the documented edit, rebuild, review and publish workflow.",
   "source": {
     "path": "Stories/S057-the-tunnel-to-india-or-faith-vs-physics.md",
     "sha256": "c2056b688f4b53c76ef590a15eee482bc2ea10cf0dce038e433d1b75e3d7969b",
@@ -501,8 +501,10 @@
     "evidence": null
   },
   "publication": {
-    "state": "not_published",
-    "destination": null
+    "state": "published",
+    "destination": "https://codesagar.github.io/nbc/stories/S057-the-tunnel-to-india-or-faith-vs-physics.html",
+    "date": "2026-10-04",
+    "evidence": "Studio/Publication.json"
   },
   "recovery": {
     "archive": "/Users/sagar/Documents/ChatGPT/NBC_Archives/NBC-before-refinement-2026-10-03_200659.tar.gz",

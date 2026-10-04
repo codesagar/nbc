@@ -2,7 +2,7 @@
   "id": "E061-the-dragon-the-satellites-and-the-spider",
   "status": "reviewed_unapproved",
   "stage": "complete_reading",
-  "next_action": "Included in expanded delivery-v001; owner adoption and publication remain separate, ungranted decisions.",
+  "next_action": "Published reader and source repository verified; future revisions follow the documented edit, rebuild, review and publish workflow.",
   "source": {
     "path": "Stories/S061-the-dragon-the-satellites-and-the-spider.md",
     "sha256": "e3c168192042e9e05d0b4183cef5b1b78fcbaf1be0de22d387f30202e8f69f69",
@@ -503,8 +503,10 @@
     "evidence": null
   },
   "publication": {
-    "state": "not_published",
-    "destination": null
+    "state": "published",
+    "destination": "https://codesagar.github.io/nbc/stories/S061-the-dragon-the-satellites-and-the-spider.html",
+    "date": "2026-10-04",
+    "evidence": "Studio/Publication.json"
   },
   "recovery": {
     "archive": "/Users/sagar/Documents/ChatGPT/NBC_Archives/NBC-before-refinement-2026-10-03_200659.tar.gz",

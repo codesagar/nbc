@@ -2,7 +2,7 @@
   "id": "E017-bazaar-madness-a-practical-gujarati-lesson",
   "status": "reviewed_unapproved",
   "stage": "complete_reading",
-  "next_action": "Included in expanded delivery-v001; owner adoption and publication remain separate, ungranted decisions.",
+  "next_action": "Published reader and source repository verified; future revisions follow the documented edit, rebuild, review and publish workflow.",
   "source": {
     "path": "Stories/S017-bazaar-madness-a-practical-gujarati-lesson.md",
     "sha256": "5209f8321a98990d1e375ca70d3f2750e6c4ed42cc2754c8dcd3fe19669439db",
@@ -479,8 +479,10 @@
     "evidence": null
   },
   "publication": {
-    "state": "not_published",
-    "destination": null
+    "state": "published",
+    "destination": "https://codesagar.github.io/nbc/stories/S017-bazaar-madness-a-practical-gujarati-lesson.html",
+    "date": "2026-10-04",
+    "evidence": "Studio/Publication.json"
   },
   "expanded_pass": {
     "status": "complete"

@@ -2,7 +2,7 @@
   "id": "E029-winter-woes-and-the-battle-of-the-backyard",
   "status": "reviewed_unapproved",
   "stage": "complete_reading",
-  "next_action": "Included in expanded delivery-v001; owner adoption and publication remain separate, ungranted decisions.",
+  "next_action": "Published reader and source repository verified; future revisions follow the documented edit, rebuild, review and publish workflow.",
   "source": {
     "path": "Stories/S029-winter-woes-and-the-battle-of-the-backyard.md",
     "sha256": "1f7f0bff49ea30a849aac4b3c53f405696ecfdd9583ae07d0a3719aae8c292d0",
@@ -287,8 +287,10 @@
     "evidence": null
   },
   "publication": {
-    "state": "not_published",
-    "destination": null
+    "state": "published",
+    "destination": "https://codesagar.github.io/nbc/stories/S029-winter-woes-and-the-battle-of-the-backyard.html",
+    "date": "2026-10-04",
+    "evidence": "Studio/Publication.json"
   },
   "expanded_comedy_pass": "Productions/E029-winter-woes-and-the-battle-of-the-backyard/comedy-pass-v002.json",
   "expanded_pass": {

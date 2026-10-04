@@ -2,7 +2,7 @@
   "id": "E008-garden-rebirth-with-chaos",
   "status": "reviewed_unapproved",
   "stage": "complete_reading",
-  "next_action": "Included in expanded delivery-v001; owner adoption and publication remain separate, ungranted decisions.",
+  "next_action": "Published reader and source repository verified; future revisions follow the documented edit, rebuild, review and publish workflow.",
   "source": {
     "path": "Stories/S008-garden-rebirth-with-chaos.md",
     "sha256": "70d370737985b8fd348b55c7e171cedc94a4fdfa8f1af975b96f7972eb66245e",
@@ -440,8 +440,10 @@
     "evidence": null
   },
   "publication": {
-    "state": "not_published",
-    "destination": null
+    "state": "published",
+    "destination": "https://codesagar.github.io/nbc/stories/S008-garden-rebirth-with-chaos.html",
+    "date": "2026-10-04",
+    "evidence": "Studio/Publication.json"
   },
   "history_before_expanded_pass": {
     "status": "reviewed_unapproved",

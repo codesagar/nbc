@@ -2,7 +2,7 @@
   "id": "E025-the-return-to-the-u-s-immigration-madness",
   "status": "reviewed_unapproved",
   "stage": "complete_reading",
-  "next_action": "Included in expanded delivery-v001; owner adoption and publication remain separate, ungranted decisions.",
+  "next_action": "Published reader and source repository verified; future revisions follow the documented edit, rebuild, review and publish workflow.",
   "source": {
     "path": "Stories/S025-the-return-to-the-u-s-immigration-madness.md",
     "sha256": "ce4509a42f6a88acda419a1d7660c5ccf70b201f89a098fde0dda37c8f80fc47",
@@ -429,8 +429,10 @@
     "evidence": null
   },
   "publication": {
-    "state": "not_published",
-    "destination": null
+    "state": "published",
+    "destination": "https://codesagar.github.io/nbc/stories/S025-the-return-to-the-u-s-immigration-madness.html",
+    "date": "2026-10-04",
+    "evidence": "Studio/Publication.json"
   },
   "expanded_v002": {
     "comedy_record": "comedy-pass-v002.json",

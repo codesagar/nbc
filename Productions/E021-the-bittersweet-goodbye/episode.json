@@ -2,7 +2,7 @@
   "id": "E021-the-bittersweet-goodbye",
   "status": "reviewed_unapproved",
   "stage": "complete_reading",
-  "next_action": "Included in expanded delivery-v001; owner adoption and publication remain separate, ungranted decisions.",
+  "next_action": "Published reader and source repository verified; future revisions follow the documented edit, rebuild, review and publish workflow.",
   "source": {
     "path": "Stories/S021-the-bittersweet-goodbye.md",
     "sha256": "1782efc338df2c825598c1a0ffc0fcd8bc133dd82acf185e36e719c011bb912e",
@@ -348,8 +348,10 @@
     "evidence": null
   },
   "publication": {
-    "state": "not_published",
-    "destination": null
+    "state": "published",
+    "destination": "https://codesagar.github.io/nbc/stories/S021-the-bittersweet-goodbye.html",
+    "date": "2026-10-04",
+    "evidence": "Studio/Publication.json"
   },
   "expanded_pass": {
     "status": "complete"

@@ -2,7 +2,7 @@
   "id": "E007-the-monkey-menace",
   "status": "reviewed_unapproved",
   "stage": "complete_reading",
-  "next_action": "Included in expanded delivery-v001; owner adoption and publication remain separate, ungranted decisions.",
+  "next_action": "Published reader and source repository verified; future revisions follow the documented edit, rebuild, review and publish workflow.",
   "source": {
     "path": "Stories/S007-the-monkey-menace.md",
     "sha256": "14f75b4ba9929873a99b3b45d8cfaeb56b4a1099ec341f6926615c9277cd194f",
@@ -422,8 +422,10 @@
     "evidence": null
   },
   "publication": {
-    "state": "not_published",
-    "destination": null
+    "state": "published",
+    "destination": "https://codesagar.github.io/nbc/stories/S007-the-monkey-menace.html",
+    "date": "2026-10-04",
+    "evidence": "Studio/Publication.json"
   },
   "expanded_pass": {
     "comedy_record": "Productions/E007-the-monkey-menace/comedy-pass-v002.json",

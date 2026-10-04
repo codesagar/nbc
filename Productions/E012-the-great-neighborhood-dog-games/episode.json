@@ -2,7 +2,7 @@
   "id": "E012-the-great-neighborhood-dog-games",
   "status": "reviewed_unapproved",
   "stage": "complete_reading",
-  "next_action": "Included in expanded delivery-v001; owner adoption and publication remain separate, ungranted decisions.",
+  "next_action": "Published reader and source repository verified; future revisions follow the documented edit, rebuild, review and publish workflow.",
   "source": {
     "path": "Stories/S012-the-great-neighborhood-dog-games.md",
     "sha256": "c2ef205c9284eff03ab911e49e5fba11ccdd28c0eb5dbc0cf9d290a68a973c4b",
@@ -514,8 +514,10 @@
     "evidence": null
   },
   "publication": {
-    "state": "not_published",
-    "destination": null
+    "state": "published",
+    "destination": "https://codesagar.github.io/nbc/stories/S012-the-great-neighborhood-dog-games.html",
+    "date": "2026-10-04",
+    "evidence": "Studio/Publication.json"
   },
   "historical_artwork_v001": [
     {

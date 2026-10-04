@@ -2,7 +2,7 @@
   "id": "E001-meet-neet-and-buddy",
   "status": "reviewed_unapproved",
   "stage": "complete_reading",
-  "next_action": "Included in expanded delivery-v001; owner adoption and publication remain separate, ungranted decisions.",
+  "next_action": "Published reader and source repository verified; future revisions follow the documented edit, rebuild, review and publish workflow.",
   "source": {
     "path": "Stories/S001-meet-neet-and-buddy.md",
     "sha256": "a2f21aa67d249dccb2213d76eb3ea4217c1c5559262ff2affcd9fce15f4049b7",
@@ -448,8 +448,10 @@
     "evidence": null
   },
   "publication": {
-    "state": "not_published",
-    "destination": null
+    "state": "published",
+    "destination": "https://codesagar.github.io/nbc/stories/S001-meet-neet-and-buddy.html",
+    "date": "2026-10-04",
+    "evidence": "Studio/Publication.json"
   },
   "expanded_pass": {
     "record": "Productions/E001-meet-neet-and-buddy/comedy-pass-v002.json",

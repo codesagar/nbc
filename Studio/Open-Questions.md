@@ -12,6 +12,6 @@ Original eligible photographs establish visible anatomy and pose within their li
 | Story numbering | Manuscript and recovered chapter numbers are independent. Manuscript 7 is absent; 34 repeats; 22 concludes the return before 23–26 recount transit. Trailing reverse Chapter 10 prose does not create a new chapter. The story list explains editorial organization. |
 | Photo restrictions | N35 excludes anatomy; B08 styling only; B25 unavailable; B30 supplemental rest. One exposure counts once regardless of encoding. See the character guides and policy record. |
 | Visual canon | No owner-adopted comic style or human model sheets. Generated sheets are provisional, not 3D models. |
-| Approval and publication | No new creative approval or publication is established by this reorganization. |
+| Approval and publication | GitHub Pages publication and a public source repository were explicitly authorized on October 4, 2026; see [the verified publication record](Publication.json). Creative canon/style adoption remains a separate question. |
 
 Settle only episode-affecting questions in its brief; record any later owner decision with date, scope and exact evidence. See [Stories](../Stories/README.md) for working texts and meaningful alternatives, and [Recovery](Recovery.md) for original sources and prior production evidence.

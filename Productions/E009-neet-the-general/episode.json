@@ -2,7 +2,7 @@
   "id": "E009-neet-the-general",
   "status": "reviewed_unapproved",
   "stage": "complete_reading",
-  "next_action": "Included in expanded delivery-v001; owner adoption and publication remain separate, ungranted decisions.",
+  "next_action": "Published reader and source repository verified; future revisions follow the documented edit, rebuild, review and publish workflow.",
   "source": {
     "path": "Stories/S009-neet-the-general.md",
     "sha256": "d2fe58b9b1a2c375ada64c469e5886ec192591dc4e1284fe91dd29e6adbac43d",
@@ -558,8 +558,10 @@
     "evidence": null
   },
   "publication": {
-    "state": "not_published",
-    "destination": null
+    "state": "published",
+    "destination": "https://codesagar.github.io/nbc/stories/S009-neet-the-general.html",
+    "date": "2026-10-04",
+    "evidence": "Studio/Publication.json"
   },
   "expanded_pass": {
     "version": "v002",

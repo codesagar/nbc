@@ -2,7 +2,7 @@
   "id": "E056-the-day-trip-to-pedernales-falls",
   "status": "reviewed_unapproved",
   "stage": "complete_reading",
-  "next_action": "Included in expanded delivery-v001; owner adoption and publication remain separate, ungranted decisions.",
+  "next_action": "Published reader and source repository verified; future revisions follow the documented edit, rebuild, review and publish workflow.",
   "source": {
     "path": "Stories/S056-the-day-trip-to-pedernales-falls.md",
     "sha256": "1a3d2c61fa54722273b580416478b49b7e23730785648ebcbf7fc3e9df7cb2de",
@@ -539,8 +539,10 @@
     "evidence": null
   },
   "publication": {
-    "state": "not_published",
-    "destination": null
+    "state": "published",
+    "destination": "https://codesagar.github.io/nbc/stories/S056-the-day-trip-to-pedernales-falls.html",
+    "date": "2026-10-04",
+    "evidence": "Studio/Publication.json"
   },
   "recovery": {
     "archive": "/Users/sagar/Documents/ChatGPT/NBC_Archives/NBC-before-refinement-2026-10-03_200659.tar.gz",

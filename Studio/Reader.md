@@ -1,5 +1,7 @@
 # Read, share, and edit Neet & Buddy
 
+**[Read online](https://codesagar.github.io/nbc/)** · [Public source repository](https://github.com/codesagar/nbc) · [Offline reader and frozen edition downloads](https://github.com/codesagar/nbc/releases/tag/archival-edition-v001)
+
 ## Just read
 
 Double-click `index.html` at the top of the project, or open [Reader/index.html](../Reader/index.html) in any modern browser. No Markdown app, Python, account, server, or internet connection is needed. The complete `Reader` folder must stay together. Search, story groups, previous/next links, adjustable text, night mode and optional alternate tellings are included. Read marks and the last reading position are saved only in that browser when local storage is available; reading and navigation work without it or without JavaScript.
@@ -50,7 +52,7 @@ The prepared workflow publishes only `Reader/`. The Markdown, original photos, p
 3. Open **Actions → Publish reader → Run workflow**. The workflow rebuilds the reader from the current source, checks its links and uploads just that folder.
 4. When deployment completes, GitHub displays the website URL. Run the workflow again whenever you want to publish updated stories.
 
-Nothing is published merely by editing or rebuilding locally. This workflow is deliberately run by hand. No remote repository was created or connected as part of the reader cleanup, and publication status remains `not_published`.
+The site is live at `https://codesagar.github.io/nbc/` as of October 4, 2026. The entire source repository is public with the owner’s explicit authorization. Nothing new is published merely by editing or rebuilding locally: push the updated source and reader to `main`, then run **Actions → Publish reader → Run workflow** to update the website. See [Publication.json](Publication.json) for the verified deployment and release records.
 
 GitHub instructions: [configure a Pages publishing source](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site), [official Pages deployment action](https://github.com/actions/deploy-pages).
 

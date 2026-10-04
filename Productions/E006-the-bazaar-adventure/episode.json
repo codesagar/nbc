@@ -2,7 +2,7 @@
   "id": "E006-the-bazaar-adventure",
   "status": "reviewed_unapproved",
   "stage": "complete_reading",
-  "next_action": "Included in expanded delivery-v001; owner adoption and publication remain separate, ungranted decisions.",
+  "next_action": "Published reader and source repository verified; future revisions follow the documented edit, rebuild, review and publish workflow.",
   "source": {
     "path": "Stories/S006-the-bazaar-adventure.md",
     "sha256": "4c8e141632a4b0e64cb280eafa78a9d3de6edf0affc9d71352bbccc4830459d1",
@@ -455,8 +455,10 @@
     "evidence": null
   },
   "publication": {
-    "state": "not_published",
-    "destination": null
+    "state": "published",
+    "destination": "https://codesagar.github.io/nbc/stories/S006-the-bazaar-adventure.html",
+    "date": "2026-10-04",
+    "evidence": "Studio/Publication.json"
   },
   "expanded_pass": {
     "version": 2,

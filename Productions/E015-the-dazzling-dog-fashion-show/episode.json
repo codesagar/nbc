@@ -2,7 +2,7 @@
   "id": "E015-the-dazzling-dog-fashion-show",
   "status": "reviewed_unapproved",
   "stage": "complete_reading",
-  "next_action": "Included in expanded delivery-v001; owner adoption and publication remain separate, ungranted decisions.",
+  "next_action": "Published reader and source repository verified; future revisions follow the documented edit, rebuild, review and publish workflow.",
   "source": {
     "path": "Stories/S015-the-dazzling-dog-fashion-show.md",
     "sha256": "597a3e1e1b0b2a73dc5a2efc171470d10e9eaea0a1611954c265336b294aa5f9",
@@ -469,8 +469,10 @@
     "evidence": null
   },
   "publication": {
-    "state": "not_published",
-    "destination": null
+    "state": "published",
+    "destination": "https://codesagar.github.io/nbc/stories/S015-the-dazzling-dog-fashion-show.html",
+    "date": "2026-10-04",
+    "evidence": "Studio/Publication.json"
   },
   "expanded_pass": {
     "status": "complete"

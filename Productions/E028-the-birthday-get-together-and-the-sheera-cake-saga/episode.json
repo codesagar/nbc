@@ -2,7 +2,7 @@
   "id": "E028-the-birthday-get-together-and-the-sheera-cake-saga",
   "status": "reviewed_unapproved",
   "stage": "complete_reading",
-  "next_action": "Included in expanded delivery-v001; owner adoption and publication remain separate, ungranted decisions.",
+  "next_action": "Published reader and source repository verified; future revisions follow the documented edit, rebuild, review and publish workflow.",
   "source": {
     "path": "Stories/S028-the-birthday-get-together-and-the-sheera-cake-saga.md",
     "sha256": "351e435b609baab089d179453b8c3d96c8a70c76adaa8aeda01459aa20437b73",
@@ -506,8 +506,10 @@
     "evidence": null
   },
   "publication": {
-    "state": "not_published",
-    "destination": null
+    "state": "published",
+    "destination": "https://codesagar.github.io/nbc/stories/S028-the-birthday-get-together-and-the-sheera-cake-saga.html",
+    "date": "2026-10-04",
+    "evidence": "Studio/Publication.json"
   },
   "expanded_pass": {
     "comedy_record": "Productions/E028-the-birthday-get-together-and-the-sheera-cake-saga/comedy-pass-v002.json",

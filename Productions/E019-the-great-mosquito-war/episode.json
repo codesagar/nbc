@@ -2,7 +2,7 @@
   "id": "E019-the-great-mosquito-war",
   "status": "reviewed_unapproved",
   "stage": "complete_reading",
-  "next_action": "Included in expanded delivery-v001; owner adoption and publication remain separate, ungranted decisions.",
+  "next_action": "Published reader and source repository verified; future revisions follow the documented edit, rebuild, review and publish workflow.",
   "source": {
     "path": "Stories/S019-the-great-mosquito-war.md",
     "sha256": "741ee24f213310248abee2e577a95c193e29110b40844734bbfef7a7d4f15a69",
@@ -451,8 +451,10 @@
     "evidence": null
   },
   "publication": {
-    "state": "not_published",
-    "destination": null
+    "state": "published",
+    "destination": "https://codesagar.github.io/nbc/stories/S019-the-great-mosquito-war.html",
+    "date": "2026-10-04",
+    "evidence": "Studio/Publication.json"
   },
   "expanded_pass": {
     "status": "complete"

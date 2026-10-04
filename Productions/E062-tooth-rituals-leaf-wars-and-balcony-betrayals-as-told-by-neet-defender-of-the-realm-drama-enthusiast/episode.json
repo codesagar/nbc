@@ -2,7 +2,7 @@
   "id": "E062-tooth-rituals-leaf-wars-and-balcony-betrayals-as-told-by-neet-defender-of-the-realm-drama-enthusiast",
   "status": "reviewed_unapproved",
   "stage": "complete_reading",
-  "next_action": "Included in expanded delivery-v001; owner adoption and publication remain separate, ungranted decisions.",
+  "next_action": "Published reader and source repository verified; future revisions follow the documented edit, rebuild, review and publish workflow.",
   "source": {
     "path": "Stories/S062-tooth-rituals-leaf-wars-and-balcony-betrayals-as-told-by-neet-defender-of-the-realm-drama-enthusiast.md",
     "sha256": "820d077e2cf855de8bdb957287f62fd43d2e82a2b083eba4d310676aee4bd6f7",
@@ -626,8 +626,10 @@
     "evidence": null
   },
   "publication": {
-    "state": "not_published",
-    "destination": null
+    "state": "published",
+    "destination": "https://codesagar.github.io/nbc/stories/S062-tooth-rituals-leaf-wars-and-balcony-betrayals-as-told-by-neet-defender-of-the-realm-drama-enthusiast.html",
+    "date": "2026-10-04",
+    "evidence": "Studio/Publication.json"
   },
   "recovery": {
     "archive": "/Users/sagar/Documents/ChatGPT/NBC_Archives/NBC-before-refinement-2026-10-03_200659.tar.gz",

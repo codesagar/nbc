@@ -3,7 +3,7 @@
   "status": "expanded_complete_reviewed_unapproved",
   "style": "provisional warm ink and watercolor editorial illustration",
   "approval": "unapproved",
-  "publication": "not_published",
+  "publication": "published",
   "stories": [
     {
       "id": "S001",
@@ -2037,5 +2037,6 @@
     "export_review": "accepted_with_disclosed_recovery_dependency",
     "export_review_record": "Productions/Library-Refinement/delivery-v001/export-review.json",
     "recovery_navigation": "Stories/images/reading navigation self-contained; historical archives external; absolute recovery links require local disk access, not HTTP preview."
-  }
+  },
+  "publication_record": "Studio/Publication.json"
 }

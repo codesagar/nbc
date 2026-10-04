@@ -2,7 +2,7 @@
   "id": "E053-the-midnight-counsel-of-ganesha",
   "status": "reviewed_unapproved",
   "stage": "complete_reading",
-  "next_action": "Included in expanded delivery-v001; owner adoption and publication remain separate, ungranted decisions.",
+  "next_action": "Published reader and source repository verified; future revisions follow the documented edit, rebuild, review and publish workflow.",
   "source": {
     "path": "Stories/S053-the-midnight-counsel-of-ganesha.md",
     "sha256": "68dce1eaba50c9373ae59174210fb7bb4d77453cc905279fca82ee4b3f958e86",
@@ -253,8 +253,10 @@
     "evidence": null
   },
   "publication": {
-    "state": "not_published",
-    "evidence": null
+    "state": "published",
+    "destination": "https://codesagar.github.io/nbc/stories/S053-the-midnight-counsel-of-ganesha.html",
+    "date": "2026-10-04",
+    "evidence": "Studio/Publication.json"
   },
   "recovery": {
     "archive": "/Users/sagar/Documents/ChatGPT/NBC_Archives/NBC-before-refinement-2026-10-03_200659.tar.gz",

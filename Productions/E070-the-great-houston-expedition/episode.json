@@ -2,7 +2,7 @@
   "id": "E070-the-great-houston-expedition",
   "status": "reviewed_unapproved",
   "stage": "complete_reading",
-  "next_action": "Included in expanded delivery-v001; owner adoption and publication remain separate, ungranted decisions.",
+  "next_action": "Published reader and source repository verified; future revisions follow the documented edit, rebuild, review and publish workflow.",
   "source": {
     "path": "Stories/S070-the-great-houston-expedition.md",
     "sha256": "2924f7cd2fbe8e662d98fd6b02b8e781c12aa4324b99615135bf787578cf487c",
@@ -575,8 +575,11 @@
     "evidence": null
   },
   "publication": {
-    "state": "not_published",
-    "destination": null
+    "state": "published",
+    "destination": "https://codesagar.github.io/nbc/stories/S070-the-great-houston-expedition.html",
+    "date": "2026-10-04",
+    "evidence": "Studio/Publication.json",
+    "alternative_destination": "https://codesagar.github.io/nbc/stories/S070-the-great-houston-expedition-alternative.html"
   },
   "recovery": {
     "archive": "/Users/sagar/Documents/ChatGPT/NBC_Archives/NBC-before-refinement-2026-10-03_200659.tar.gz",

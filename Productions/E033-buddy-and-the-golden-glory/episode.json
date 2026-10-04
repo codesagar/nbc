@@ -2,7 +2,7 @@
   "id": "E033-buddy-and-the-golden-glory",
   "status": "reviewed_unapproved",
   "stage": "complete_reading",
-  "next_action": "Included in expanded delivery-v001; owner adoption and publication remain separate, ungranted decisions.",
+  "next_action": "Published reader and source repository verified; future revisions follow the documented edit, rebuild, review and publish workflow.",
   "source": {
     "path": "Stories/S033-buddy-and-the-golden-glory.md",
     "sha256": "133702b5b5fd76f6cab235859c0002ac1503d377728a14ef3789da4139565aa0",
@@ -460,8 +460,10 @@
     "evidence": null
   },
   "publication": {
-    "state": "not_published",
-    "destination": null
+    "state": "published",
+    "destination": "https://codesagar.github.io/nbc/stories/S033-buddy-and-the-golden-glory.html",
+    "date": "2026-10-04",
+    "evidence": "Studio/Publication.json"
   },
   "expanded_pass": {
     "status": "complete",

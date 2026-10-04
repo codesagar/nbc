@@ -2,7 +2,7 @@
   "id": "E004-uttarayan-day-one",
   "status": "reviewed_unapproved",
   "stage": "complete_reading",
-  "next_action": "Included in expanded delivery-v001; owner adoption and publication remain separate, ungranted decisions.",
+  "next_action": "Published reader and source repository verified; future revisions follow the documented edit, rebuild, review and publish workflow.",
   "source": {
     "path": "Stories/S004-uttarayan-day-one.md",
     "sha256": "8410dffbecbe133ab7c878790c4dae93a1da74aebc5663e9c17c592d25bc596f",
@@ -425,8 +425,10 @@
     "evidence": null
   },
   "publication": {
-    "state": "not_published",
-    "destination": null
+    "state": "published",
+    "destination": "https://codesagar.github.io/nbc/stories/S004-uttarayan-day-one.html",
+    "date": "2026-10-04",
+    "evidence": "Studio/Publication.json"
   },
   "expanded_pass": {
     "version": "v002",
