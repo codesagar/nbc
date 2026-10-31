@@ -1,5 +1,7 @@
 # Neet & Buddy Chronicles
 
+**October 31, 2026 reader update:** [Read online](https://codesagar.github.io/nbc/) — 52 revised primary stories and all three complete alternatives are published, with 1,939 distinct illustrations across the reader. The other18 primary stories retain their previous versions while production continues. Every one of the3,956 deployed files was verified against the reviewed snapshot. This main-branch release updates the reader; expanded editable Markdown and production masters remain on the local production branch. Use **Publish reviewed reader snapshot** to deploy this checked snapshot. See [publication details](Studio/Publication.json).
+
 **[Read online](https://codesagar.github.io/nbc/)** · **[Open the offline reader](Reader/index.html)** — 70 stories, 241 illustrations, and three optional alternate tellings. Open it in a browser, or share the whole `Reader` folder. No installation is needed to read.
 
 For editing, sharing a ZIP, or publishing on GitHub Pages, start with **[the reader guide](Studio/Reader.md)**.

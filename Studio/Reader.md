@@ -59,3 +59,7 @@ GitHub instructions: [configure a Pages publishing source](https://docs.github.c
 ## Earlier delivery and recovery
 
 The local frozen delivery at `Productions/Library-Refinement/delivery-v001/` remains unchanged as a reviewed source/export snapshot. It intentionally contains production history and is no longer the everyday reading entry point. [Recovery](Recovery.md) describes the separate original archives. A Git clone can edit and build current stories without those external archives; retrieving historical originals requires the preserved archive set.
+
+## October31 reviewed partial expansion
+
+The website now contains52 revised primary stories and all3 complete alternatives, with1,939 distinct illustrations;18 primary stories retain previous versions. Use the **Publish reviewed reader snapshot** workflow for this exact checked snapshot. Its manifest, deployment commit and full staticHTTPS verification are recorded in Publication.json and Studio/Publications. Main retains historical editable story sources; the expanded editable sources and full production masters remain in the local production branch. Running the older rebuild workflow against main reconstructs those historical sources. No browser/device or final-collection completion claim is made.
