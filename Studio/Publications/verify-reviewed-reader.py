@@ -1,7 +1,7 @@
 from pathlib import Path, PurePosixPath
 import hashlib,json
 root=Path("Reader")
-release=json.loads(Path("Studio/Publications/reviewed-reader-52-2026-10-31.json").read_text())
+release=json.loads(Path("Studio/Publications/reviewed-reader-53-2026-10-31.json").read_text())
 marker=(root/".generated-reader.json").read_bytes()
 assert hashlib.sha256(marker).hexdigest()==release["marker_sha256"]
 files=json.loads(marker)["files"]
@@ -17,4 +17,4 @@ for name,digest in files.items():
  total+=len(body)
 assert len(actual)==release["reader_files"] and total==release["reader_bytes"]
 assert len(list((root/"stories").glob("*.html")))==73
-print("PASS: exact reviewed snapshot:",len(actual),"files,",total,"bytes; 52 revised primaries + 3 alternatives; 18 prior versions")
+print("PASS: exact reviewed snapshot:",len(actual),"files,",total,"bytes; 53 revised primaries + 3 alternatives; 17 prior versions")
