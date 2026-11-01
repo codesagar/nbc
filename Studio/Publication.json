@@ -1,62 +1,55 @@
 {
   "state": "published_partial_dense_edition",
-  "verified_at_utc": "2026-10-31T18:31:24.735762+00:00",
+  "verified_at_utc": "2026-11-01T00:20:35.167584+00:00",
   "repository": "https://github.com/codesagar/nbc",
   "repository_visibility": "public",
   "site": "https://codesagar.github.io/nbc/",
   "https_enforced": true,
-  "deployed_commit": "23c3b0d69bbb612c36f2ec059e4a1ff7e0aacebd",
-  "deployment_run": "https://github.com/codesagar/nbc/actions/runs/41229428407",
+  "deployed_commit": "dafd1f4678efe1326dee55bf00df094b6c08c076",
+  "deployment_run": "https://github.com/codesagar/nbc/actions/runs/41255887332",
   "deployment_result": "success",
-  "scope": "Reader-only partial Dense-Edition: 52 revised primary stories and all three complete alternative tellings; other18 primaries keep prior versions. Local production branch and unfinished work preserved. Historical authoring sources on main unchanged.",
+  "scope": "Reader-only reviewed partial Dense-Edition:53 accepted revised primary stories and all3 complete alternatives; remaining17 primaries retain previous versions. Unfinished production sources and recurring local placeholder files are excluded; historical main authoring sources retained.",
   "authorization": {
     "request": "If you are confident on the status of the finished stories, let go ahead with the publications.",
     "date": "2026-10-31",
-    "scope": "This reviewed52-primary/3-complete-ALT reader snapshot",
+    "scope": "Publish independently accepted finished-story snapshots from this Dense-Edition commission; current exact53+3 snapshot. No owner canon/style adoption or all70 completion implied.",
     "creative_canon_or_style_adoption": false
   },
   "coverage": {
     "primary_stories": 70,
-    "revised_primary_stories": 52,
-    "previous_version_primary_stories": 18,
+    "revised_primary_stories": 53,
+    "previous_version_primary_stories": 17,
     "complete_alternate_tellings": 3,
-    "unique_illustrations": 1939,
-    "image_placements": 1945
+    "unique_illustrations": 1972,
+    "image_placements": 1978
   },
   "verification": {
-    "status": "PASS",
-    "verified_at_utc": "2026-10-31T18:31:24.735762+00:00",
-    "deployed_commit": "23c3b0d69bbb612c36f2ec059e4a1ff7e0aacebd",
-    "deployment_run": "https://github.com/codesagar/nbc/actions/runs/41229428407",
-    "live_files_checked": 3956,
-    "live_files_matching_sha256": 3956,
-    "live_bytes_matching": 745612189,
+    "status": "PASS_ALL4022_LIVE_WHOLE_BODIES",
+    "verified_at_utc": "2026-11-01T00:20:35.167584+00:00",
+    "deployed_commit": "dafd1f4678efe1326dee55bf00df094b6c08c076",
+    "deployment_run": "https://github.com/codesagar/nbc/actions/runs/41255887332",
+    "live_files_checked": 4022,
+    "live_files_matching_sha256": 4022,
+    "live_bytes_matching": 759182606,
     "failed_files": [],
-    "http_attempts": 3957,
-    "transient_errors_preserved_and_resolved": [
-      {
-        "path": "images/109928ad027cc3f417a0.webp",
-        "statuses": [
-          503,
-          200
-        ]
-      }
-    ],
-    "marker_sha256": "5d2b44d59e7702617dbff44bd45bcf60c5db6f61fcc31a8bbe55d26ec6df3ecf",
-    "complete_http_report": "/Users/sagar/.codex/nbc-recovery-archives/CLI-publication052-independent-reader-gate-20261031-v001/http-deployed-23c3b0d-v001.json.gz",
-    "complete_http_report_encoded_sha256": "42776858fda56ffa2c33f3bddb798d166e9fc34735f2c5558c9b38da31d6fc4d",
-    "complete_http_report_decoded_sha256": "eaacd9cc59214b665f462c50dc4a17d76f68ed465d6904ac49a04fdb2c74b04e",
-    "Root_one_whole_decompression": true,
-    "browser": "Not performed; existing browser denials respected. Static HTTPS byte verification only.",
-    "coverage": {
-      "primary_stories": 70,
-      "revised_primary_stories": 52,
-      "previous_version_primary_stories": 18,
-      "complete_alternate_tellings": 3,
-      "unique_illustrations": 1939,
-      "image_placements": 1945
+    "http_attempts": 4022,
+    "transient_errors_preserved_and_resolved": [],
+    "marker_sha256": "35596cb2b6937e95f53aeebc480a039e322c89fcc3dc63a94c3ddcc96d7b83a4",
+    "complete_http_report": "/Users/sagar/.codex/nbc-recovery-archives/CLI-publication053-live-HTTP-independent-20261101-v001/http53-all4022.json.gz",
+    "complete_http_report_encoded_sha256": "03c26ff74d9357b14dfe9856d2162b9e233cc8f9cc6db09362bd84f4b1401130",
+    "complete_http_report_decoded_sha256": "0e43b9382520c48b4b29adae03a9049e05da9dd5b4bd86b1bed712462ef5b3dc",
+    "independent_whole_object_readback_equal": true,
+    "Root_encoded_authority_fullread_verified": true,
+    "Root_logical_decompression_performed": false,
+    "independent_HTTP_verdict": {
+      "path": "/Users/sagar/.codex/nbc-recovery-archives/CLI-publication053-live-HTTP-independent-20261101-v001/HTTP53-independent-full-readback-verdict.json",
+      "bytes": 1592,
+      "sha256": "29d841d8eadbbf597fe756d7a80fe4ce6ab649fc8204640b10d2b4f840638b80"
     },
-    "final_collection_delivery": false
+    "browser": "No browser/device/EPUBengine/press claim; prior browser denials binding.",
+    "coverage": "53 accepted primary revisions+17 preserved prior versions+3 complete alternatives",
+    "final_collection_delivery": false,
+    "local_folder_scope": "Frozen manifest/Git artifact only. Local Reader currently has3600 unmanifested SF_DATALESS placeholders, zero reported blocks; preserved/unhydrated/excluded. Cause UNKNOWN; cleanup issue OPEN."
   },
   "previous_publications": [
     {
@@ -125,6 +118,68 @@
         ]
       },
       "creative_approval": "Publication was explicitly authorized. No separate change to provisional visual canon or historical review judgments is inferred."
+    },
+    {
+      "state": "published_partial_dense_edition",
+      "verified_at_utc": "2026-10-31T18:31:24.735762+00:00",
+      "repository": "https://github.com/codesagar/nbc",
+      "repository_visibility": "public",
+      "site": "https://codesagar.github.io/nbc/",
+      "https_enforced": true,
+      "deployed_commit": "23c3b0d69bbb612c36f2ec059e4a1ff7e0aacebd",
+      "deployment_run": "https://github.com/codesagar/nbc/actions/runs/41229428407",
+      "deployment_result": "success",
+      "scope": "Reader-only partial Dense-Edition: 52 revised primary stories and all three complete alternative tellings; other18 primaries keep prior versions. Local production branch and unfinished work preserved. Historical authoring sources on main unchanged.",
+      "authorization": {
+        "request": "If you are confident on the status of the finished stories, let go ahead with the publications.",
+        "date": "2026-10-31",
+        "scope": "This reviewed52-primary/3-complete-ALT reader snapshot",
+        "creative_canon_or_style_adoption": false
+      },
+      "coverage": {
+        "primary_stories": 70,
+        "revised_primary_stories": 52,
+        "previous_version_primary_stories": 18,
+        "complete_alternate_tellings": 3,
+        "unique_illustrations": 1939,
+        "image_placements": 1945
+      },
+      "verification": {
+        "status": "PASS",
+        "verified_at_utc": "2026-10-31T18:31:24.735762+00:00",
+        "deployed_commit": "23c3b0d69bbb612c36f2ec059e4a1ff7e0aacebd",
+        "deployment_run": "https://github.com/codesagar/nbc/actions/runs/41229428407",
+        "live_files_checked": 3956,
+        "live_files_matching_sha256": 3956,
+        "live_bytes_matching": 745612189,
+        "failed_files": [],
+        "http_attempts": 3957,
+        "transient_errors_preserved_and_resolved": [
+          {
+            "path": "images/109928ad027cc3f417a0.webp",
+            "statuses": [
+              503,
+              200
+            ]
+          }
+        ],
+        "marker_sha256": "5d2b44d59e7702617dbff44bd45bcf60c5db6f61fcc31a8bbe55d26ec6df3ecf",
+        "complete_http_report": "/Users/sagar/.codex/nbc-recovery-archives/CLI-publication052-independent-reader-gate-20261031-v001/http-deployed-23c3b0d-v001.json.gz",
+        "complete_http_report_encoded_sha256": "42776858fda56ffa2c33f3bddb798d166e9fc34735f2c5558c9b38da31d6fc4d",
+        "complete_http_report_decoded_sha256": "eaacd9cc59214b665f462c50dc4a17d76f68ed465d6904ac49a04fdb2c74b04e",
+        "Root_one_whole_decompression": true,
+        "browser": "Not performed; existing browser denials respected. Static HTTPS byte verification only.",
+        "coverage": {
+          "primary_stories": 70,
+          "revised_primary_stories": 52,
+          "previous_version_primary_stories": 18,
+          "complete_alternate_tellings": 3,
+          "unique_illustrations": 1939,
+          "image_placements": 1945
+        },
+        "final_collection_delivery": false
+      },
+      "creative_approval": "Owner authorized publication. Independent stage acceptances stand; owner canon/style adoption and final collection completion are not inferred."
     }
   ],
   "creative_approval": "Owner authorized publication. Independent stage acceptances stand; owner canon/style adoption and final collection completion are not inferred."

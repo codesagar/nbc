@@ -1,0 +1,27 @@
+{
+  "status": "PASS_ALL4022_LIVE_FILES",
+  "verified_at_utc": "2026-11-01T00:20:35.167584+00:00",
+  "commit": "dafd1f4678efe1326dee55bf00df094b6c08c076",
+  "workflow_run": "https://github.com/codesagar/nbc/actions/runs/41255887332",
+  "files": 4022,
+  "matching_full_body_sha256": 4022,
+  "bytes": 759182606,
+  "attempts": 4022,
+  "retries": 0,
+  "failed_paths": [],
+  "unique_illustrations": 1972,
+  "image_placements": 1978,
+  "coverage": "53 accepted revised primaries+17 preserved prior-version primaries+3 complete alternatives",
+  "marker_sha256": "35596cb2b6937e95f53aeebc480a039e322c89fcc3dc63a94c3ddcc96d7b83a4",
+  "encoded_HTTP_authority": {
+    "bytes": 352546,
+    "sha256": "03c26ff74d9357b14dfe9856d2162b9e233cc8f9cc6db09362bd84f4b1401130"
+  },
+  "decoded_HTTP_authority": {
+    "bytes": 3210741,
+    "sha256": "0e43b9382520c48b4b29adae03a9049e05da9dd5b4bd86b1bed712462ef5b3dc"
+  },
+  "full_HTTP_authority_location": "Preserved in owner recovery evidence; exact whole-body digest identities above.",
+  "local_file_extras": "Unselected local placeholder files excluded from this exact frozen artifact; no clean-local-folder claim.",
+  "browser_device_or_final_collection_complete": false
+}
